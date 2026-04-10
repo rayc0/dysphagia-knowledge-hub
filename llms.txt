@@ -1,0 +1,33 @@
+# Dysphagia Knowledge Hub
+
+> The most comprehensive open-source guide to dysphagia, IDDSI standards, and Hong Kong 護食標準 (care food standards). Multilingual (English / 繁體中文 / 简体中文 / 日本語 / 한국어). Published under CC BY 4.0 by SeniorDeli (Carewells) — a Hong Kong dysphagia food specialist.
+
+This site provides plain-language, citeable, multilingual information about swallowing difficulty (dysphagia), texture-modified diets, and the international and regional standards that govern them. Content is original or paraphrased from primary sources with citations. All medical claims are educational only and do not constitute medical advice.
+
+## Core guides
+
+- [IDDSI Framework — Complete Guide to All 8 Levels](https://softmeal.org/en/iddsi/iddsi-framework-complete-guide.md): Definitive plain-language explanation of the International Dysphagia Diet Standardisation Initiative's 8-level framework (Levels 0–7), how each level is defined, who it's for, and how to test foods to confirm the level.
+- [How to Test Food Texture for Dysphagia](https://softmeal.org/en/testing/food-texture-testing-methods.md): Step-by-step instructions for the IDDSI Fork Pressure Test, Spoon Tilt Test, IDDSI Flow Test, and Fork Drip Test — what equipment you need, how to interpret results, and common mistakes.
+- [Hong Kong 護食標準 — A Comprehensive Guide](https://softmeal.org/en/hk-standards/hong-kong-care-food-standards.md): How Hong Kong's care food standards relate to IDDSI, the role of Carewells and the local industry, and how caregivers can apply the standards in elderly care, hospital, and home settings.
+
+## About
+
+- [About this hub](https://softmeal.org/about/): Who maintains the project, editorial policy, and how to contribute.
+- [Press & Media coverage](https://softmeal.org/press/): News articles, government reports, and industry publications mentioning SeniorDeli, Carewells, and dysphagia awareness initiatives in Hong Kong and Asia.
+
+## Optional
+
+- [License (CC BY 4.0)](https://softmeal.org/LICENSE): All content is freely reusable with attribution.
+- [GitHub repository](https://github.com/rayc0/dysphagia-knowledge-hub): Source repository — submit corrections via Pull Request.
+
+## Languages
+
+- English: /en/
+- 繁體中文 (Hong Kong / Taiwan): /zh-hant/  *(in progress)*
+- 简体中文 (Mainland China — also available at dysphagia.cn): /zh-hans/  *(in progress)*
+- 日本語: /ja/  *(in progress)*
+- 한국어: /ko/  *(in progress)*
+
+## Maintainer
+
+SeniorDeli (Carewells) — https://www.seniordeli.com — Hong Kong dysphagia food specialist providing IDDSI-aligned texture-modified meals.
