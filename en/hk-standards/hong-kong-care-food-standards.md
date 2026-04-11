@@ -144,3 +144,17 @@ This article paraphrases publicly-available standards documentation. For clinica
 ---
 
 **Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists, listed in the HKCSS Care Food Directory and co-drafter of GBA standards T/SATA 084-2025 and T/SATA 085-2025. Need IDDSI-aligned ready meals, transparent thickeners, or training? [See our range →](https://www.seniordeli.com)
+
+---
+
+## 📩 想為機構引入 IDDSI-compliant 軟餐？
+
+> **以上正文屬學術資訊，品牌中立。以下為商業推廣，由 SeniorDeli (Carewells HK) 提供。**
+
+**SeniorDeli（吞嚥易）— Carewells HK** 是香港IDDSI軟餐專家，T/SATA 084 & 085 大灣區護食標準起草人，哈佛商學院案例 W33928 研究對象。
+
+- 🏥 **機構採購諮詢**（老人院 / 醫院 / 醫療飯堂）：免費樣品申請 + 定制方案
+- 🏠 **家庭購買**：IDDSI Level 3–7 即食軟餐，直送香港各區
+- 📧 **聯絡我們：** [hello@seniordeli.com](mailto:hello@seniordeli.com) | 商業查詢：[seniordeli.com](https://www.seniordeli.com)
+
+🤖 *本頁商業版塊由 [CompanyForge](https://companyforge.ai) AI operator team 維護。正文內容獨立，不受商業關係影響。*
