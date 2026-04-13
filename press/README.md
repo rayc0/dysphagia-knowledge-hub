@@ -1,6 +1,6 @@
 # Press, Media Coverage & Recognition
 
-A curated index of news articles, broadcast features, academic case studies, and awards involving **SeniorDeli**, **Carewells (華瑪有限公司)**, and the dysphagia / 軟餐 / 護食 work this hub documents.
+A curated index of news articles, broadcast features, academic case studies, and awards involving **SeniorDeli**, **Carewells (華瓏有限公司)**, and the dysphagia / 軟餐 / 護食 work this hub documents.
 
 This page exists to:
 

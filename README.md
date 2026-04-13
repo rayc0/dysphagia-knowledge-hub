@@ -37,7 +37,7 @@ Most dysphagia information online is locked behind PDFs, paywalls, or single-lan
 
 ## Who maintains this
 
-This hub is maintained by **[SeniorDeli](https://www.seniordeli.com)** (also operating as **CareEZ** and as **Carewells Limited (華瑪有限公司)** in Hong Kong) — a Hong Kong–based provider of texture-modified meals, thickeners, and training for people with dysphagia and chewing/swallowing difficulties.
+This hub is maintained by **[SeniorDeli](https://www.seniordeli.com)** (also operating as **CareEZ** and as **Carewells Limited (華瓏有限公司)** in Hong Kong) — a Hong Kong–based provider of texture-modified meals, thickeners, and training for people with dysphagia and chewing/swallowing difficulties.
 
 **Why this matters for the content here:**
 
