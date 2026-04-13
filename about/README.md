@@ -2,7 +2,7 @@
 
 ## SeniorDeli (Carewells / CareEZ)
 
-This Dysphagia Knowledge Hub is maintained by **SeniorDeli (吞嚥易)**, also operating as **CareEZ** and as **Carewells Limited (華瑪有限公司)** in Hong Kong — a dysphagia food specialist founded in 2019, with sales beginning December 2020 after a year of in-house R&D.
+This Dysphagia Knowledge Hub is maintained by **SeniorDeli (吞嚥易)**, also operating as **CareEZ** and as **Carewells Limited (華瓏有限公司)** in Hong Kong — a dysphagia food specialist founded in 2019, with sales beginning December 2020 after a year of in-house R&D.
 
 - 🌐 Commercial site: [seniordeli.com](https://www.seniordeli.com)
 - 🍱 Hong Kong brands: SeniorDeli / 吞嚥易 / CareEZ / Carewells
@@ -45,7 +45,7 @@ This hub publishes information on standards (IDDSI, HK 護食標準, NHS, AHA, J
 
 - **編輯防火牆**：所有文章正文**完全品牌中立** — 引用 IDDSI、WHO、NHS、衞生署等一手資料，不為任何單一品牌站台。
 - **商業版塊**：每篇文章末端設有「Layer B」CTA 卡片，明確標示為商業推廣，與正文嚴格分隔。
-- **運營商**：SeniorDeli（吞嚥易）/ Carewells Limited（華瑪有限公司），香港吞嚥障礙護食專家，T/SATA 084 & 085 標準起草人，哈佛商學院案例 W33928 研究對象。
+- **運營商**：SeniorDeli（吞嚥易）/ Carewells Limited（華瓏有限公司），香港吞嚥障礙護食專家，T/SATA 084 & 085 標準起草人，哈佛商學院案例 W33928 研究對象。
 - **License**：全部正文內容採用 [CC BY 4.0](../LICENSE)，任何人（包括競爭對手）可自由轉載、翻譯、鏡像，轉載請註明來源 softmeal.org。
 - **接受 PR**：包括競爭品牌的修正 — 只要提升準確度。[GitHub Issues](https://github.com/rayc0/dysphagia-knowledge-hub/issues) 歡迎所有人。
 - **商業查詢**：[hello@seniordeli.com](mailto:hello@seniordeli.com) | [seniordeli.com](https://www.seniordeli.com)
