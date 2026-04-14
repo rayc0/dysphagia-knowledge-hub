@@ -42,6 +42,7 @@ This hub is maintained by **[SeniorDeli](https://www.seniordeli.com)** (also ope
 **Why this matters for the content here:**
 
 - SeniorDeli's team includes the **official 起草人 (co-drafters)** of two regional care food standards: **T/SATA 084-2025** (Care Food / 適老照護食) and **T/SATA 085-2025** (General Elderly-Friendly Food). These standards were jointly proposed by the **Hong Kong Manufacturers' Association (HKMA)** and the **Hong Kong Council of Social Service (HKCSS)** and are now used across Hong Kong, Macau, and the Greater Bay Area.
+- Carewells Limited is also a **Participating Drafting Unit (參編單位)** of **[T/SATA 094-2025](./en/hk-standards/tsata-094-2025-dysphagia-food.md)** — *General Requirements of Dysphagia Food (Care for Elderly)* — the first Greater Bay Area group standard written specifically for **dysphagia food**, issued 25 September 2025 by the **Greater Bay Area Standardization Research Centre (粵港澳大灣區標準化研究中心)**.
 - SeniorDeli is listed in the **HKCSS Care Food Directory** in Section B (thickeners) and Section E (training services).
 - SeniorDeli is featured in the **Harvard Business Publishing / Ivey case study** *"Senior Deli: Pioneer in an Emergent Care Food Ecosystem"* (case W33928), used in MBA and entrepreneurship programmes.
 - Co-founder **Abellona U** holds a PhD in clinical medicine research from **Imperial College London**.
