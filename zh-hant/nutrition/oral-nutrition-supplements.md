@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙患者口服營養補充品（ONS）完全指南：選擇原則、產品比較與IDDSI適用性"
 description: "吞嚥障礙患者使用口服營養補充品指南 — 營養不良風險評估指標（MNA-SF）、何時開始ONS、濃縮型與一般型對比、Resource Protein/Ensure Gold/Fortijuce等產品比較表、黏度調整方法，以及台灣與香港市場的ONS產品資訊"
-author: "CompanyForge AI"
+author: "SeniorDeli (Carewells) editorial team"
 language: "zh-hant"
 category: "nutrition"
 last_updated: "2026-04-18"
@@ -10,6 +10,8 @@ canonical: "https://softmeal.org/zh-hant/nutrition/oral-nutrition-supplements"
 ---
 
 # 吞嚥障礙患者的口服營養補充品（ONS）完全指南
+
+> **TL;DR：** 吞嚥障礙患者中高達40–60%存在營養不良風險，口服營養補充品（ONS）是第一線介入工具。選擇時需考量：原始黏度是否符合患者IDDSI等級、是否需增稠、及濃縮型vs普通型。作為**加餐**使用（正餐後1–2小時）效果優於隨正餐服用。
 
 **口服營養補充品（Oral Nutritional Supplements，ONS）** 是吞嚥障礙患者管理營養不良風險的第一線工具。本文涵蓋：何時需要ONS、產品類型選擇、IDDSI黏度適用性、主要市售產品比較，以及台灣與香港的購買管道。
 
@@ -131,3 +133,20 @@ ONS作為加餐（between-meal supplement）效果優於隨正餐服用——加
 對吞嚥障礙患者而言，ONS是預防及治療營養不良的重要工具，但**選擇正確產品並確保適當黏度**是安全使用的前提。建議由言語治療師確認吞嚥安全等級、營養師評估熱量及蛋白質需求後，共同制定個人化ONS計劃。
 
 > **相關資源：** [增稠劑完全指南](./thickener-guide.md) | [蛋白質攝取優化](./protein-optimization.md) | [水分管理](./hydration-management.md)
+
+---
+
+## 參考文獻與資料來源
+
+- Carrión S, et al. "Oropharyngeal dysphagia is a prevalent risk factor for malnutrition in a cohort of older patients: a two-year prospective study." *Dysphagia.* 2015;30(3):311–316. doi:10.1007/s00455-015-9600-6
+- Kaiser MJ, Bauer JM, et al. "Validation of the Mini Nutritional Assessment Short-Form (MNA®-SF): A practical tool for identification of nutritional status." *J Nutr Health Aging.* 2009;13(9):782–788.
+- Cawood AL, Elia M, Stratton RJ. "Systematic review and meta-analysis of the effects of high protein oral nutritional supplements." *Ageing Res Rev.* 2012;11(2):278–296. doi:10.1016/j.arr.2011.12.002
+- Volkert D, et al. "ESPEN guideline on clinical nutrition and hydration in geriatrics." *Clin Nutr.* 2019;38(1):10–47. doi:10.1016/j.clnu.2018.05.024
+- Stratton RJ, Elia M. "A review of reviews: A new look at the evidence for oral nutritional supplements in clinical practice." *Clin Nutr Suppl.* 2007;2(1):5–23.
+- IDDSI Framework 2.0 (2019). International Dysphagia Diet Standardisation Initiative. https://iddsi.org
+
+本文摘要自公開臨床文獻與產品廠商公告資料，內容僅供教育用途，不構成個別醫療建議。請諮詢言語治療師或營養師以獲得個人化建議。
+
+---
+
+**最後更新：** 2026-04-18 · **授權：** [CC BY 4.0](../../LICENSE) · **維護單位：[SeniorDeli (Carewells)](https://www.seniordeli.com)** — 香港社會企業，生產符合IDDSI標準的適老食品，致力改善吞嚥障礙患者的飲食安全與生活質量。本頁面為教育性內容；詳見 [About](/about) 了解我們的臨床合作夥伴與社會使命。
