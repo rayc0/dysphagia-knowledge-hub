@@ -1,7 +1,7 @@
 ---
 title: "Disfagia Sarkopenikum: Kehilangan Otot Terkait Penuaan dan Intervensi Pemakanan"
 description: "Panduan klinikal tentang disfagia sarkopenikum — kerangka diagnostik Wakabayashi 2014, kriteria diagnosis, intervensi pemakanan protein tinggi, protokol senaman gabungan, dan pendekatan dietitian-SLP bersepadu dalam konteks Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

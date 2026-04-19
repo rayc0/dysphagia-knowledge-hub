@@ -1,7 +1,7 @@
 ---
 title: "Penjagaan Mulut untuk Mencegah Pneumonia Aspirasi: Bukti Saintifik dan Amalan"
 description: "Panduan penjagaan mulut berasaskan bukti untuk pesakit disfagia — kajian Yoneyama 2002, teknik memberus gigi, gel pelembap mulut, penjagaan gigi palsu, dan program pergigian KKM untuk warga emas."
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"
@@ -117,4 +117,4 @@ Senaman ini bukan rawatan tetapi boleh "memanaskan" otot oral sebelum makan — 
 
 ---
 
-*Artikel ini disediakan oleh SeniorDeli (Carewells) untuk tujuan pendidikan. Rujukan: Yoneyama T et al., "Oral care reduces pneumonia in older patients in nursing homes," *Journal of the American Geriatrics Society*, 2002;50(3):430–433.*
+*Artikel ini disediakan oleh Editorial Team untuk tujuan pendidikan. Rujukan: Yoneyama T et al., "Oral care reduces pneumonia in older patients in nursing homes," *Journal of the American Geriatrics Society*, 2002;50(3):430–433.*

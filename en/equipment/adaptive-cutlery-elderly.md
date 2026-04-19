@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Cutlery for Elderly — Fork Weights, Spoon Angles, and Cup Designs That Keep Eating Safe"
 description: "A 2026 guide to adaptive cutlery for elderly dysphagia, tremor, and grip-weakness patients — weighted forks, angled spoons, nosey cups, and Provale-style flow-control cups."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-17"
@@ -176,4 +176,4 @@ This article paraphrases publicly-available clinical guidance and peer-reviewed 
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade enquiries and bulk sourcing questions for residential care homes: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade enquiries and bulk sourcing questions for residential care homes: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.

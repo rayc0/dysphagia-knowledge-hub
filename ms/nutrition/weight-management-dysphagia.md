@@ -1,7 +1,7 @@
 ---
 title: "Pengurusan Berat Badan pada Disfagia: Berat Kurang, Obesiti, dan Pemantauan"
 description: "Panduan pengurusan berat badan untuk pesakit disfagia di Malaysia — risiko berat badan rendah, sasaran kalori, teknik peningkatan kalori, alat saringan MNA, pemantauan di rumah, tanda bahaya, dan program NHIS untuk pengurusan berat badan."
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ms"
 category: "nutrition"
 last_updated: "2026-04-19"

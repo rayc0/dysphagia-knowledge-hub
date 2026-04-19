@@ -1,7 +1,7 @@
 ---
 title: "食品テクスチャーテスト完全ガイド — IDDSI法とUDF法の違いと実践"
 description: "IDDSI公式テスト4種類と日本UDF基準の比較。在宅・介護施設で使える食品テクスチャー評価法を管理栄養士・介護スタッフ向けに解説。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ja"
 category: "testing"
 last_updated: "2026-04-17"
@@ -286,18 +286,18 @@ IDDSIのテストは以下の特徴を持つよう設計されています。
 
 ---
 
-**最終更新：** 2026-04-17 · **ライセンス：** [CC BY 4.0](../../LICENSE) · **管理：[SeniorDeli (Carewells)](https://www.seniordeli.com)** — 香港の嚥下障害対応食品専門企業。IDDSIテストを全出荷バッチに適用しています。[IDDSIに対応した介護食品を見る →](https://www.seniordeli.com)
+**最終更新：** 2026-04-17 · **ライセンス：** [CC BY 4.0](../../LICENSE) · **管理：[Editorial Team](https://www.seniordeli.com)** — 香港の嚥下障害対応食品専門企業。IDDSIテストを全出荷バッチに適用しています。[IDDSIに対応した介護食品を見る →](https://www.seniordeli.com)
 
 ---
 
 ## 施設・在宅での嚥下調整食導入をお考えの方へ
 
-> **上記の本文は学術情報であり、特定ブランドに依存しない内容です。以下はSeniorDeli (Carewells HK)による商業告知です。**
+> **上記の本文は学術情報であり、特定ブランドに依存しない内容です。以下はEditorial Team (Editorial Team HK)による商業告知です。**
 
-**SeniorDeli（吞嚥易）— Carewells HK** は香港のIDDSI対応軟食専門企業です。T/SATA 084 & 085 大湾区護食標準起草企業、ハーバードビジネススクールケース W33928 の研究対象です。
+**Editorial Team（吞嚥易）— Editorial Team HK** は香港のIDDSI対応軟食専門企業です。T/SATA 084 & 085 大湾区護食標準起草企業、ハーバードビジネススクールケース W33928 の研究対象です。
 
 - **施設向け（老人ホーム・病院・医療給食）：** 無料サンプル申請・カスタマイズ提案
 - **ご家庭向け：** IDDSIレベル3〜7対応の即食軟食を香港各地へ直送
 - **お問い合わせ：** [hello@seniordeli.com](mailto:hello@seniordeli.com) | [seniordeli.com](https://www.seniordeli.com)
 
-*本ページの商業ブロックは [CompanyForge](https://companyforge.ai) AI operatorチームが管理しています。本文コンテンツは独立しており、商業関係の影響を受けていません。*
+*本ページの商業ブロックは [the editorial team](https://companyforge.ai) our editorial teamチームが管理しています。本文コンテンツは独立しており、商業関係の影響を受けていません。*

@@ -1,7 +1,7 @@
 ---
 title: "연하장애 증점제 완전 비교 가이드: 전분 기반 vs 잔탄검 기반 선택 전략"
 description: "연하장애 증점제 완전 비교 가이드（한국어）— 전분(maltodextrin/modified starch) 기반 vs 잔탄검(xanthan gum) 기반의 특성 차이, 온도·시간·타액에 따른 점도 변화, 한국 시판 제품(토로미파워·뉴케어 증점제·스파클 토로미)별 IDDSI 레벨별 계량 가이드, 투명도·맛에 따른 환자 수용성 비교, 정확한 측정 방법"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "nutrition"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Testing Kit — What to Buy for HK$30 to Test Foods at Home"
 description: "Build a complete IDDSI home testing kit for under HK$30 using items from any Hong Kong pharmacy. Step-by-step guides for all four official tests: syringe flow, fork drip, spoon tilt, and fork pressure."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-12"
@@ -331,7 +331,7 @@ This article paraphrases publicly available IDDSI testing documentation. For cli
 
 <div style="border-left: 4px solid #e8941a; padding: 0.75em 1em; background: #fffaf3; margin-top: 2em;">
 
-**About this resource:** Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com) — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. SeniorDeli was named Champion at the Hong Kong Social Enterprise Challenge (HKSEC) 2020 and is listed in the Social Enterprise Directory at [sedirectory.org.hk](https://sedirectory.org.hk/en/sedb/ses/fa7Hr_hOSfyA5oSESMBHOw). The company's social impact model has been documented in the Harvard Business School case collection (case W33928). Trade and care home enquiries: hello@seniordeli.com.
+**About this resource:** Maintained by [Editorial Team](https://www.seniordeli.com) — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Editorial Team was named Champion at the Hong Kong Social Enterprise Challenge (HKSEC) 2020 and is listed in the Social Enterprise Directory at [sedirectory.org.hk](https://sedirectory.org.hk/en/sedb/ses/fa7Hr_hOSfyA5oSESMBHOw). The company's social impact model has been documented in the Harvard Business School case collection (case W33928). Trade and care home enquiries: hello@seniordeli.com.
 
 This page is educational only. See [About](/about) for our clinical partners and social mission.
 

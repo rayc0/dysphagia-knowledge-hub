@@ -1,7 +1,7 @@
 ---
 title: "IDDSI三级（中等稠度液体）完全指南：适用人群、增稠方法与误吸风险管理"
 description: "IDDSI Level 3（Moderately Thick，中等稠度液体）完整指南（中国大陆版）— 三级稠度物理特性与汤匙测试方法，与二级（轻度稠）和四级（极稠）的区别，咽期延迟严重患者的适应症，国内增稠剂（雀巢资源易凝宝·纽迪希亚增稠剂）三级计量指引，三级液体的口感接受性挑战，脱水预防策略"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-04-18"

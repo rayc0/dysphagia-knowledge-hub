@@ -1,7 +1,7 @@
 ---
 title: "연하장애 대응 자조 식기·컵 완전 가이드: 편마비·손 떨림·연하 곤란자용"
 description: "연하장애·편마비·손 떨림이 있는 분들을 위한 자조 식기 완전 가이드 — 노즈컷 컵·연하용 스푼·흡착 그릇·경사 볼의 기능과 선택법, 한국 보쥬·해피라이프·이지라이프 비교, 경부 포지셔닝과 흡인 예방, 노인장기요양 복지용구 구매급여 연 160만원, OT(작업치료사) 처방"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ko"
 category: "equipment"
 last_updated: "2026-04-19"
@@ -86,4 +86,4 @@ canonical: "https://softmeal.org/ko/equipment/adaptive-cutlery-and-cups-guide"
 
 ---
 
-*본 문서는 CC BY 4.0 라이선스로 제공됩니다. 인용·전재 시 출처(SeniorDeli / softmeal.org)를 명기해 주세요.*
+*본 문서는 CC BY 4.0 라이선스로 제공됩니다. 인용·전재 시 출처(Editorial Team / softmeal.org)를 명기해 주세요.*

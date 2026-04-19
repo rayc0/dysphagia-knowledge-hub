@@ -1,7 +1,7 @@
 ---
 title: "Disfagia Esofageal vs Orofaringeal: Cara Membezakan dan Laluan Rujukan"
 description: "Perbezaan antara disfagia orofaringeal dan esofageal dalam Bahasa Melayu — jadual perbandingan 3 kolum, punca neurologi dan struktur, red flags untuk endoskopi segera, laluan rujukan Malaysia ke SLP vs gastroenterologi vs ENT"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

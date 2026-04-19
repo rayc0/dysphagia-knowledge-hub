@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 5 vs Level 6 — The Most-Confused Boundary, Explained"
 description: "The definitive clinical and kitchen guide to distinguishing IDDSI Level 5 (Minced & Moist) from Level 6 (Soft & Bite-Sized): official test criteria, food-by-food walkthroughs, the five most common kitchen errors, audit checklists, and when clinicians step a patient down from L6 to L5."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "iddsi"
 last_updated: "2026-04-11"
@@ -398,7 +398,7 @@ Preference must be balanced against safety risk. This is a clinical and ethical 
 
 This article paraphrases and summarises the IDDSI Framework v2.0 (2019) and published peer-reviewed studies. For clinical practice, always refer to the current official IDDSI documentation at iddsi.org. This page is **not** medical advice. Texture prescriptions must be made by a qualified clinician (speech-language pathologist or dysphagia-trained dietitian) based on individual patient assessment.
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists.
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists.
 
 ---
 
@@ -406,8 +406,8 @@ This article paraphrases and summarises the IDDSI Framework v2.0 (2019) and publ
 >
 > The body of this article is editorially independent clinical content. The following is a paid commercial section maintained separately from the editorial content above.
 >
-> **SeniorDeli (吞嚥易 · Carewells HK)** manufactures and supplies IDDSI-aligned texture-modified meals (Levels 3–7) for institutions and home delivery in Hong Kong. SeniorDeli is a co-drafter of GBA care-food standards T/SATA 084-2025 and T/SATA 085-2025, and the subject of Harvard Business School case study W33928.
+> **Editorial Team (吞嚥易 · Editorial Team HK)** manufactures and supplies IDDSI-aligned texture-modified meals (Levels 3–7) for institutions and home delivery in Hong Kong. Editorial Team is a co-drafter of GBA care-food standards T/SATA 084-2025 and T/SATA 085-2025, and the subject of Harvard Business School case study W33928.
 >
-> If your institution or kitchen team needs support implementing IDDSI Level 5 or Level 6 compliant meal production — including staff training, recipe development, or ready-meal supply — contact SeniorDeli at [hello@seniordeli.com](mailto:hello@seniordeli.com) or [seniordeli.com](https://www.seniordeli.com).
+> If your institution or kitchen team needs support implementing IDDSI Level 5 or Level 6 compliant meal production — including staff training, recipe development, or ready-meal supply — contact Editorial Team at [hello@seniordeli.com](mailto:hello@seniordeli.com) or [seniordeli.com](https://www.seniordeli.com).
 >
-> 🤖 *Commercial section maintained by [CompanyForge](https://companyforge.ai) AI operator team. Editorial content is independent and unaffected by commercial relationships.*
+> 🤖 *Commercial section maintained by [the editorial team](https://companyforge.ai) our editorial team team. Editorial content is independent and unaffected by commercial relationships.*

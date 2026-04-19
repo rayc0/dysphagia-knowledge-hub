@@ -1,7 +1,7 @@
 ---
 title: "Post-COVID Dysphagia and Long COVID Swallowing Difficulties — Clinical Evidence and Recovery Guide"
 description: "Why COVID-19 causes swallowing difficulties, how intubation duration predicts severity, long COVID persistence rates, rehabilitation evidence, and IDDSI diet guidance for recovery."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -209,4 +209,4 @@ This article paraphrases publicly available clinical guidelines and peer-reviewe
 
 ---
 
-**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

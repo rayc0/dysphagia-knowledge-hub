@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難的警示症狀：照顧者必識的10項警號"
 description: "詳細介紹吞嚥困難的10項警示症狀，幫助照顧者識別需要立即就醫的紅旗症狀，並了解香港及台灣的轉介流程。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

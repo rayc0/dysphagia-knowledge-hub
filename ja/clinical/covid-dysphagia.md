@@ -1,7 +1,7 @@
 ---
 title: "COVID-19後の嚥下障害：ロングCOVIDによる嚥下機能低下のメカニズムと回復"
 description: "新型コロナウイルス感染後に生じる嚥下障害（ロングCOVID）のメカニズム、神経系・筋肉への影響、ICU後症候群との関連、リハビリテーションアプローチと予後"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-18"

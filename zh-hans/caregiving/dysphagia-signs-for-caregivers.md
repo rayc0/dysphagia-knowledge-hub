@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍的十大警示信号——家庭照护者必读"
 description: "老人吃饭呛咳、食物残留、体重下降？这十个信号可能提示吞咽障碍。本文帮助家属和护工识别风险并及时就医。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-13"
@@ -266,4 +266,4 @@ canonical: "https://softmeal.org/zh-hans/caregiving/dysphagia-signs-for-caregive
 
 ---
 
-**最后更新：** 2026-04-13 · **许可协议：** [CC BY 4.0](../../LICENSE) · **维护方：[SeniorDeli（吞嚥易）](https://www.seniordeli.com)** —— 一家专注吞咽障碍食品的香港社会企业，为吞咽困难人群生产符合 IDDSI 标准的照护食品。本页仅供科普教育，不构成医疗建议。
+**最后更新：** 2026-04-13 · **许可协议：** [CC BY 4.0](../../LICENSE) · **维护方：[Editorial Team（吞嚥易）](https://www.seniordeli.com)** —— 一家专注吞咽障碍食品的香港社会企业，为吞咽困难人群生产符合 IDDSI 标准的照护食品。本页仅供科普教育，不构成医疗建议。

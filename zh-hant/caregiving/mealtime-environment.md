@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難者進食環境優化：光線、座椅、餐具配置指南"
 description: "詳解進食環境五大要素——光線、桌椅高度、噪音控制、餐具配置及視覺對比——如何影響吞嚥困難者的進食安全與食量，並提供香港及台灣的輔助器材及服務資源。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: zh-hant
 category: caregiving
 last_updated: "2026-04-19"

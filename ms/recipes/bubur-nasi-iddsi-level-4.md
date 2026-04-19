@@ -1,7 +1,7 @@
 ---
 title: "Resepi Bubur Nasi IDDSI Tahap 4 untuk Pesakit Disfagia: Bubur Ayam, Bubur Ikan, dan Bubur Kacang Hijau"
 description: "Resepi bubur nasi IDDSI Tahap 4 (Bahasa Melayu) — tiga variasi bubur untuk pesakit disfagia (bubur ayam dengan herba, bubur ikan tenggiri tanpa duri, bubur kacang hijau berkhasiat), kaedah memasak untuk tekstur Tahap 4, cara menambah kalori dan protein tanpa meningkatkan isipadu, ujian sudu untuk mengesahkan tahap, variasi rasa untuk meningkatkan selera makan"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "recipes"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "嚥下困難者のための食事環境づくり：照明・椅子・テーブル設定の最適化"
 description: "誤嚥リスクを下げる食事環境の5要素を解説。照明・テーブル高さ・座位姿勢・食器コントラスト・騒音除去の実践的最適化ガイド。老健・在宅リフォーム助成金情報も収録。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

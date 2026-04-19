@@ -4,7 +4,7 @@ description: "Protein-calorie malnutrition is the leading cause of weight loss i
 lang: en
 category: recipes
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Editorial Team
 tags: [dysphagia, puree, high-protein, IDDSI-level-4, nutrition, recipes, malnutrition]
 ---
 

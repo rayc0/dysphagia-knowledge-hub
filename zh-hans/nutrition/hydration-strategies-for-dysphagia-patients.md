@@ -1,7 +1,7 @@
 ---
 title: "吞咽困难患者的水分补充策略：脱水预防与适合中国内地的补水方案"
 description: "涵盖吞咽困难患者每日水分需求计算、脱水原因与警示识别、IDDSI适合饮品选择、定时补水方案及电解质补充，并提供适合中国内地使用的产品资源。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: zh-hans
 category: nutrition
 last_updated: "2026-04-19"

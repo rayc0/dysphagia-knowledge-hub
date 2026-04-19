@@ -1,7 +1,7 @@
 ---
 title: "Peraturan dan Produk Pekat Cecair di Malaysia: Panduan Penjaga dan Kemudahan Penjagaan"
 description: "Panduan lengkap peraturan MFDS Malaysia untuk pekat cecair disfagia — jenis agen pekat, perbandingan produk, cara pembelian, subsidi NHIS, teknik mencampur, dan interaksi ubat."
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ms"
 category: "standards"
 last_updated: "2026-04-19"

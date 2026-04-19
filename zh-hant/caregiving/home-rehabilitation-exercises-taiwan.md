@@ -1,7 +1,7 @@
 ---
 title: "IDDSI吞嚥障礙居家復健運動指南：台灣版吞嚥功能訓練方案"
 description: "吞嚥障礙居家復健運動完全指南（台灣繁體中文）— 言語治療師核可的吞嚥肌群強化運動、Shaker運動、Masako技巧、Effortful Swallow、Mendelsohn技巧，各運動的適應症與禁忌，居家執行頻率與記錄方法，何時需要返診重新評估"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "caregiving"
 last_updated: "2026-04-18"

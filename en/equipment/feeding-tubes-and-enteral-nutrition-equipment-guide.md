@@ -4,7 +4,7 @@ description: "Comprehensive guide to feeding tubes and enteral nutrition equipme
 lang: en
 category: equipment
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Margaret Wong
 tags:
   - feeding tubes
   - enteral nutrition

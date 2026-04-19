@@ -1,7 +1,7 @@
 ---
 title: "吞咽困难患者的蛋白质优化指南：如何在质地改良饮食中保证营养"
 description: "详解吞咽困难患者如何在IDDSI质地改良饮食中保证充足蛋白质摄入 — 高蛋白食材选择、蛋白粉添加方法、每日蛋白质需求计算及实用食谱。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-04-17"

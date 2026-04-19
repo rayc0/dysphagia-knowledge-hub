@@ -4,7 +4,7 @@ description: "Full caregiver and foodservice guide to IDDSI Level 7 Easy to Chew
 lang: en
 category: iddsi
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Margaret Wong
 tags:
   - IDDSI
   - Level 7

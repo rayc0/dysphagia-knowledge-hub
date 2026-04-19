@@ -1,7 +1,7 @@
 ---
 title: "Strok dan Disfagia — Pemulihan dan Latihan Semula Menelan"
 description: "Panduan lengkap disfagia selepas strok: jangka masa pemulihan, latihan menelan, pengubahsuaian tekstur makanan IDDSI, dan bila untuk naik tahap — untuk pesakit dan penjaga di Malaysia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-18"
@@ -281,4 +281,4 @@ Artikel ini menyediakan maklumat umum berdasarkan sumber-sumber klinikal dan gar
 
 ---
 
-**Tarikh dikemas kini:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan mematuhi IDDSI untuk individu yang hidup dengan disfagia. Halaman ini adalah untuk tujuan pendidikan sahaja; lihat [About](/about) untuk rakan klinikal dan misi sosial kami.
+**Tarikh dikemas kini:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan mematuhi IDDSI untuk individu yang hidup dengan disfagia. Halaman ini adalah untuk tujuan pendidikan sahaja; lihat [About](/about) untuk rakan klinikal dan misi sosial kami.

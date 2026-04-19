@@ -4,7 +4,7 @@ description: "A comprehensive comparison of commercial thickening agents used in
 lang: en
 category: equipment
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Margaret Wong
 tags: [thickener, xanthan-gum, modified-starch, ThickenUp, Nutilis, SimplyThick, dysphagia]
 ---
 

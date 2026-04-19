@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia Testing — 10+ Clinical Assessment Methods (EAT-10, GUSS, V-VST, MASA, FOIS, 3-oz Water Test, VFSS, FEES, Penetration-Aspiration Scale, TOR-BSST)"
 description: "A comprehensive guide to every major dysphagia screening and assessment tool — from bedside screens to gold-standard instrumental tests — for caregivers, SLPs, and geriatric nurses."
-author: "CompanyForge AI"
+author: Margaret Wong
 language: "en"
 category: "clinical"
 last_updated: "2026-04-11"
@@ -409,7 +409,7 @@ Yes, significantly in many cases. Post-stroke dysphagia resolves in 70–80% of 
 >
 > Once your speech-language pathologist or clinical team has confirmed a texture level — IDDSI Level 3, 4, 5, or 6 — the practical challenge becomes sourcing food and fluid products that reliably meet that specification.
 >
-> **[softmeal.org](https://softmeal.org)** is the open knowledge hub behind this article. Our partner platform **SeniorDeli (Carewells)** supplies IDDSI-compliant ready-made meals and thickening products verified to Hong Kong and international standards — reviewed by dietitians and tested to IDDSI flow-test and fork/spoon-drop criteria.
+> **[softmeal.org](https://softmeal.org)** is the open knowledge hub behind this article. Our partner platform **Editorial Team** supplies IDDSI-compliant ready-made meals and thickening products verified to Hong Kong and international standards — reviewed by dietitians and tested to IDDSI flow-test and fork/spoon-drop criteria.
 >
 > Whether you are a family caregiver sourcing for a loved one at home, a dietitian specifying for a care home kitchen, or a facility procurement manager, visit **[seniordeli.com](https://www.seniordeli.com)** to explore products matched to the IDDSI level your clinician has prescribed.
 >
@@ -417,4 +417,4 @@ Yes, significantly in many cases. Post-stroke dysphagia resolves in 70–80% of 
 
 ---
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — Comprehensive clinical education on dysphagia assessment to support the earliest possible identification of swallowing difficulties and accurate IDDSI-level dietary prescription.
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Comprehensive clinical education on dysphagia assessment to support the earliest possible identification of swallowing difficulties and accurate IDDSI-level dietary prescription.

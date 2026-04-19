@@ -1,7 +1,7 @@
 ---
 title: "脑卒中后吞咽障碍：筛查工具、误吸风险管理与吞咽康复"
 description: "脑卒中后吞咽障碍完整指南（简体中文）— 卒中患者吞咽障碍发生率（50-70%）、GUSS与3盎司水测试筛查方法、隐性误吸机制识别、吸入性肺炎预防、吞咽治疗技术（Shaker/用力吞咽/门德尔森法/Masako法）、脑损伤部位与预后关系、IDDSI质地调整、何时转介言语语言治疗师"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-04-18"

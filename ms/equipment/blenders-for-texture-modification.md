@@ -1,7 +1,7 @@
 ---
 title: "Pengisar dan Pemproses Makanan untuk Disfagia: Panduan Pembelian dan Teknik IDDSI"
 description: "Panduan pemilihan pengisar dan pemproses makanan untuk penyediaan diet tekstur diubah suai — perbandingan produk, teknik puree IDDSI Paras 4, kebersihan makanan, dan jenama yang tersedia di Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ms"
 category: "equipment"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙增稠劑完全指南：澱粉基vs黃原膠基、IDDSI調配與常見錯誤"
 description: "吞嚥障礙增稠劑使用指南 — 澱粉基與黃原膠基增稠劑的差異比較、IDDSI四個粘度等級的調配方法、台灣與香港常見產品，以及唾液澱粉酶對澱粉基增稠劑的影響"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "nutrition"
 last_updated: "2026-04-18"

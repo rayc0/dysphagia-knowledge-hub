@@ -4,7 +4,7 @@ description: "Fourteen tested IDDSI Level 6 (Soft & Bite-Sized) recipes for adul
 lang: en
 category: recipes
 date: 2026-04-15
-author: SeniorDeli Dysphagia Hub
+author: Susan Tam
 tags: [IDDSI, level-6, soft-bite-sized, dysphagia-recipes, home-cooking, caregiver-meals]
 ---
 
@@ -360,6 +360,6 @@ If the patient coughs during or immediately after a meal, or if an SLP reassessm
 
 ---
 
-All 14 recipes in this article have been tested in home kitchens in Hong Kong's Tseung Kwan O and Taiwan's Xinyi district by volunteer caregivers collaborating with the SeniorDeli Dysphagia Knowledge Hub team. Ingredient costs in April 2026 range from HKD 35 (Recipe 4, soft tofu with egg) to HKD 120 (Recipe 3, beef cheek). The mean preparation time, excluding braising and steaming, is 18 minutes per dish.
+All 14 recipes in this article have been tested in home kitchens in Hong Kong's Tseung Kwan O and Taiwan's Xinyi district by volunteer caregivers collaborating with the Editorial Team Dysphagia Knowledge Hub team. Ingredient costs in April 2026 range from HKD 35 (Recipe 4, soft tofu with egg) to HKD 120 (Recipe 3, beef cheek). The mean preparation time, excluding braising and steaming, is 18 minutes per dish.
 
 If you try any of these recipes and find a failure mode we missed, please file feedback through the hub's contact form — we update this article quarterly based on caregiver reports.

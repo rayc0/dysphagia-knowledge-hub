@@ -4,7 +4,7 @@ description: "A clinical buyer's guide to high-power blenders, immersion blender
 lang: en
 category: equipment
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Editorial Team
 tags: [blender, texture-modification, IDDSI, kitchen-equipment, pureed-diet, minced-moist, vitamix, thermomix]
 ---
 

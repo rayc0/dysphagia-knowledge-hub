@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 레벨 5(잘게 다진 촉촉한 식품) 완전 가이드: 기준, 조리법과 한국 식단 적용"
 description: "IDDSI Level 5(Minced & Moist, 잘게 다진 촉촉한 식품) 완전 실천 가이드 — 4mm 이하 입자 크기 기준, 포크 압력 테스트, 레벨 4(으깬 식품)와 레벨 6(부드러운 한 입 크기)의 차이, 한국 전통 식단(죽·반찬)의 레벨 5 적용법, 연하장애 유형별 적합성, 시판 연하조절식 제품"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "iddsi"
 last_updated: "2026-04-18"

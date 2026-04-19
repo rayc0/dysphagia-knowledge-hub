@@ -1,7 +1,7 @@
 ---
 title: "增稠液体的争议：THICSY研究后重新评估利与弊"
 description: "深度梳理THICSY与MATCH试验的颠覆性发现，结合IDDSI分级体系，客观评估增稠液体在吞咽障碍管理中的适用边界与替代方案，供临床决策参考。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "吞咽康复训练完全指南：居家可做的吞咽功能锻炼方法"
 description: "详解吞咽困难患者的康复训练方法 — 舌部肌力训练、门德尔松手法、声门上吞咽法、Shaker训练等，含图文说明及每日训练计划。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-17"

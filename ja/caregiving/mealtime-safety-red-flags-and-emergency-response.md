@@ -1,7 +1,7 @@
 ---
 title: "食事中の危険サインと緊急対応：介護者のための誤嚥・窒息対処マニュアル"
 description: "食事中に現れる5大危険サインの見分け方と、窒息・誤嚥それぞれの緊急対応手順を介護施設スタッフ向けに解説します。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

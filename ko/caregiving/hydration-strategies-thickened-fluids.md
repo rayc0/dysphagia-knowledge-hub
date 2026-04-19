@@ -1,7 +1,7 @@
 ---
 title: "농도조절 음료의 수분 관리: 탈수 위험과 재가 요양보호사를 위한 전략"
 description: "연하장애 노인에게 걸쭉한 음료를 제공할 때 발생하는 탈수 메커니즘을 분석하고, 젤리형 수분 보충, 시간대별 공급 프로토콜, 장기요양 기록 의무까지 구체적 대응책을 제시."
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

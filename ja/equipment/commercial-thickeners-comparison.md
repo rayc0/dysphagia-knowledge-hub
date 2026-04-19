@@ -1,7 +1,7 @@
 ---
 title: "嚥下用とろみ剤（市販品）完全比較ガイド：IDDSI対応の選び方と使い方"
 description: "嚥下障害対応とろみ剤の完全比較ガイド — ネオハイトロミールNEXT・トロメリン・つるりんこ・Resource ThickenUpの成分・使用量・コスト・IDDSI対応レベル比較、デンプン系vsキサンタンガム系の特性、介護保険での購入補助、ワルファリン相互作用注意"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ja"
 category: "equipment"
 last_updated: "2026-04-19"
@@ -82,4 +82,4 @@ canonical: "https://softmeal.org/ja/equipment/commercial-thickeners-comparison"
 
 ---
 
-*本記事はCC BY 4.0ライセンスで提供されています。引用・転載の際は出典（SeniorDeli / softmeal.org）を明記してください。*
+*本記事はCC BY 4.0ライセンスで提供されています。引用・転載の際は出典（Editorial Team / softmeal.org）を明記してください。*

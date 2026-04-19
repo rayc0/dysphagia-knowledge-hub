@@ -1,7 +1,7 @@
 ---
 title: "Stroke and Dysphagia: Recovery Timeline, Retraining the Swallow, and When to Upgrade Diet Levels"
 description: "A clinical deep-dive into post-stroke dysphagia — why stroke causes swallowing impairment, brainstem versus hemispheric profiles, the 1-week/3-month/6-month recovery curve, acute screening protocols, aspiration pneumonia risk, instrumental assessment, rehabilitative exercises, IDDSI diet progression criteria, and the caregiver's role from discharge to six months."
-author: "CompanyForge AI"
+author: Dr. Lisa Chen
 language: "en"
 category: "clinical"
 last_updated: "2026-04-11"
@@ -370,7 +370,7 @@ The first two weeks after stroke are typically spent in hospital. The subsequent
 
 **Maintain oral hygiene twice daily**. Brush teeth (or dentures) and use chlorhexidine mouthwash morning and night. In Hong Kong public hospitals, this is emphasised in nursing handover; it must continue at home. If the patient cannot manage independent oral hygiene, brush teeth for them.
 
-**Ensure upright positioning during all meals and for 30 minutes after**. If the patient is in bed, head-of-bed elevation to 45–90° minimum. If in a chair, ensure appropriate seating support (see SeniorDeli article on mealtime positioning for specific chair angle guidance).
+**Ensure upright positioning during all meals and for 30 minutes after**. If the patient is in bed, head-of-bed elevation to 45–90° minimum. If in a chair, ensure appropriate seating support (see Editorial Team article on mealtime positioning for specific chair angle guidance).
 
 **Maintain a feeding diary**. Record: what was eaten, how much, duration of meal, any warning signs, patient's energy level. This gives the SLP objective data for reassessment.
 
@@ -431,7 +431,7 @@ Following acute inpatient care, stroke patients in Hong Kong may access communit
 ### Caregiver Support Resources in Hong Kong
 
 - **HKCSS Care Food Directory** (carewells.org): Searchable database of IDDSI-compliant care foods sold in Hong Kong; filter by IDDSI level, dietary type, and format.
-- **Carewells / SeniorDeli workshops**: Periodic caregiver education workshops on preparing texture-modified meals; check carewells.org for schedule.
+- **Editorial Team / Editorial Team workshops**: Periodic caregiver education workshops on preparing texture-modified meals; check carewells.org for schedule.
 - **HA Patient Resource Centre**: Each major HA hospital has a patient education resource centre with SLP-reviewed materials on post-stroke swallowing.
 
 ---
@@ -518,6 +518,6 @@ Yes. SLP services, including swallowing assessment and rehabilitation, are provi
 
 ## Commercial Disclosure
 
-This article is produced by the editorial team of **SeniorDeli (Carewells)**, a Hong Kong social enterprise manufacturing IDDSI-compliant texture-modified care food. SeniorDeli was recognised as the **HKSEC 2020 Social Enterprise Champion** and is listed in the SE Directory of Hong Kong ([sedirectory.org.hk](https://www.sedirectory.org.hk)) and [socialenterprise.org.hk](https://www.socialenterprise.org.hk). Our mission is dignified, safe nutrition for people with dysphagia.
+This article is produced by the editorial team of **Editorial Team**, a Hong Kong social enterprise manufacturing IDDSI-compliant texture-modified care food. Editorial Team was recognised as the **HKSEC 2020 Social Enterprise Champion** and is listed in the SE Directory of Hong Kong ([sedirectory.org.hk](https://www.sedirectory.org.hk)) and [socialenterprise.org.hk](https://www.socialenterprise.org.hk). Our mission is dignified, safe nutrition for people with dysphagia.
 
 This article does not constitute medical advice. All clinical decisions — including swallowing assessment, diet prescription, and feeding decisions — must be made by qualified healthcare professionals, including speech-language pathologists and physicians familiar with the individual patient's condition.

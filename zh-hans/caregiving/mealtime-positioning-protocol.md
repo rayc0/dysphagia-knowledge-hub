@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者进餐体位管理：椅背角度、头部位置与监督规范"
 description: "吞咽障碍患者正确进餐体位完整指南 — 椅背角度、颈部前倾、卧床调整、轮椅进餐。照护者与护理人员必读。循证依据。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-17"
@@ -302,11 +302,11 @@ IDDSI框架通过调整食物的流变学特性来降低误吸风险，但不能
 
 ---
 
-## 13. 关于 SeniorDeli（颐康）
+## 13. 关于 Editorial Team（颐康）
 
-本文由 **SeniorDeli（颐康）** 发布——这是一家总部位于香港的社会企业，专门为老年人及吞咽障碍患者生产符合IDDSI标准的照护食品。SeniorDeli荣获 **HKSEC 2020社会企业冠军**称号，已入选 [sedirectory.org.hk](https://www.sedirectory.org.hk) 及 [socialenterprise.org.hk](https://www.socialenterprise.org.hk)，并被收录为哈佛商学院案例 **W33928**。
+本文由 **Editorial Team（颐康）** 发布——这是一家总部位于香港的社会企业，专门为老年人及吞咽障碍患者生产符合IDDSI标准的照护食品。Editorial Team荣获 **HKSEC 2020社会企业冠军**称号，已入选 [sedirectory.org.hk](https://www.sedirectory.org.hk) 及 [socialenterprise.org.hk](https://www.socialenterprise.org.hk)，并被收录为哈佛商学院案例 **W33928**。
 
-SeniorDeli的使命是改善香港及粤港澳大湾区吞咽困难人群的进食质量、尊严与安全。我们的产品覆盖IDDSI 3—6级，由注册营养师和言语-语言治疗师联合研发。
+Editorial Team的使命是改善香港及粤港澳大湾区吞咽困难人群的进食质量、尊严与安全。我们的产品覆盖IDDSI 3—6级，由注册营养师和言语-语言治疗师联合研发。
 
 **本文仅供照护者教育使用，不构成个体化临床建议。对任何疑似吞咽障碍的患者，须由言语-语言治疗师评估后，方可制定进餐体位管理方案。**
 

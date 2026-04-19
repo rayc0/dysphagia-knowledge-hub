@@ -1,7 +1,7 @@
 ---
 title: "多發性硬化症（MS）吞嚥障礙（台灣版）：疾病發作期的吞嚥管理、疲勞因素與台灣照護資源"
 description: "台灣版多發性硬化症吞嚥障礙完整指南（繁體中文）— MS吞嚥障礙盛行率（30-40%）、腦幹病灶對吞嚥的影響、復發緩解型vs進展型MS的吞嚥差異、疲勞對吞嚥安全的放大效應、Uhthoff現象與冷卻策略、IDDSI質地建議（含發作期緊急調整）、MS認知障礙對進食安全的影響、台灣MS照護資源（台灣多發性硬化症協會/健保言語治療/長照）"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "conditions"
 last_updated: "2026-04-18"

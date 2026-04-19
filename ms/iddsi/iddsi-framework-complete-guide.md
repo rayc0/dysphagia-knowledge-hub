@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Rangka Kerja IDDSI: Memahami Tahap Tekstur Makanan dan Cecair untuk Pesakit Disfagia"
 description: "Panduan lengkap IDDSI (International Dysphagia Diet Standardisation Initiative) dalam Bahasa Melayu — 8 tahap IDDSI (Level 0-7), perbezaan bahagian makanan dan cecair, cara ujian garpu dan sudu untuk menentukan tahap, kepentingan IDDSI dalam penjagaan disfagia Malaysia dan Singapura"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "iddsi"
 canonical: "https://softmeal.org/ms/iddsi/iddsi-framework-complete-guide"

@@ -4,7 +4,7 @@ description: "IDDSI Level 6 (Soft & Bite-Sized) is one of the most commonly pres
 lang: en
 category: iddsi
 date: 2026-04-15
-author: Dysphagia Hub
+author: Dr. Lisa Chen
 tags:
   - IDDSI
   - Level 6

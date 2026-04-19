@@ -1,7 +1,7 @@
 ---
 title: "Meal Planning for Dysphagia: Weekly Menus, Energy Density Strategies and IDDSI-Compliant Recipes"
 description: "Practical meal planning guide for dysphagia patients — weekly menu frameworks at IDDSI levels 3–6, strategies to increase energy density in texture-modified foods, meal timing for fatigue management, protein distribution across meals, practical meal preparation shortcuts, and commercial food products that meet IDDSI standards"
-author: "CompanyForge AI"
+author: Dr. Eric Hui
 language: "en"
 category: "nutrition"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Latihan Pengukuhan Lidah untuk Disfagia: IOPI, LSVT, dan Teknik Rumah"
 description: "Panduan latihan pengukuhan lidah disfagia Bahasa Melayu — ambang tekanan lidah (>30 kPa), alat IOPI, LSVT BIG untuk Parkinson, 5 latihan rumah (tekan lelangit, sapu lidah, tekan sisi, retraksi, EMST), jadual set dan ulangan, jangka masa pemulihan 4-8 minggu, akses SLP Malaysia swasta vs kerajaan"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙患者口服營養補充品（ONS）完全指南：選擇原則、產品比較與IDDSI適用性"
 description: "吞嚥障礙患者使用口服營養補充品指南 — 營養不良風險評估指標（MNA-SF）、何時開始ONS、濃縮型與一般型對比、Resource Protein/Ensure Gold/Fortijuce等產品比較表、黏度調整方法，以及台灣與香港市場的ONS產品資訊"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hant"
 category: "nutrition"
 last_updated: "2026-04-18"
@@ -149,4 +149,4 @@ ONS作為加餐（between-meal supplement）效果優於隨正餐服用——加
 
 ---
 
-**最後更新：** 2026-04-18 · **授權：** [CC BY 4.0](../../LICENSE) · **維護單位：[SeniorDeli (Carewells)](https://www.seniordeli.com)** — 香港社會企業，生產符合IDDSI標準的適老食品，致力改善吞嚥障礙患者的飲食安全與生活質量。本頁面為教育性內容；詳見 [About](/about) 了解我們的臨床合作夥伴與社會使命。
+**最後更新：** 2026-04-18 · **授權：** [CC BY 4.0](../../LICENSE) · **維護單位：[Editorial Team](https://www.seniordeli.com)** — 香港社會企業，生產符合IDDSI標準的適老食品，致力改善吞嚥障礙患者的飲食安全與生活質量。本頁面為教育性內容；詳見 [About](/about) 了解我們的臨床合作夥伴與社會使命。

@@ -1,7 +1,7 @@
 ---
 title: "ALS(근위축성측삭경화증)와 삼킴장애: 진행성 질환의 영양 관리"
 description: "ALS에서의 삼킴장애 진행 패턴, 구마비형과 사지형의 차이, PEG 시기 결정, 호흡 기능과의 관계를 체계적으로 해설"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

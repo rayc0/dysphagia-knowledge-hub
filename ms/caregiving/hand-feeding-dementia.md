@@ -1,7 +1,7 @@
 ---
 title: "Teknik Pemberian Makan Tangan untuk Pesakit Demensia dengan Disfagia"
 description: "Panduan praktikal teknik pemberian makan tangan yang selamat untuk pesakit demensia dengan disfagia — pendekatan berperikemanusiaan yang mengurangkan risiko aspirasi."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

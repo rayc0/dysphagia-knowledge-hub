@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 4 糊状饮食完全指南：标准、制作方法与实用食谱"
 description: "IDDSI第4级（糊状/Pureed）饮食详解 — 食物质地标准、叉子倾斜测试方法、勺子测试、家庭制作技巧及中式糊状食谱推荐。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-04-17"

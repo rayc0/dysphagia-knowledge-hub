@@ -1,7 +1,7 @@
 ---
 title: "IDDSIレベル6（軟飯・一口サイズ）完全ガイド：食形態基準・調理法・日本食対応"
 description: "IDDSIレベル6（Soft & Bite-Sized）完全実践ガイド — 15mm以下サイズ基準、舌と口蓋でのつぶし可否テスト、レベル5との違い、日本食でのレベル6対応（おかゆ・煮魚・豆腐料理）、市販の嚥下調整食レベル6製品、施設介護・在宅でのメニュー提案"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "iddsi"
 last_updated: "2026-04-18"

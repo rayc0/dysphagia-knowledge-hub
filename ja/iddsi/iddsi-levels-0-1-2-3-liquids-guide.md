@@ -1,7 +1,7 @@
 ---
 title: "IDDSI液体レベル0〜3完全ガイド：とろみ調整食品の実践と嚥下障害への適用"
 description: "IDDSI液体とろみレベル0–3の完全実践ガイド — Level 0（薄い液体）, Level 1（わずかにとろみ）, Level 2（軽度とろみ）, Level 3（中程度とろみ）の各特性・フローテスト方法・スプーンテスト・日本で市販されているとろみ調整食品（トロミアップ・ネオハイトロミール）の使用法、誤嚥リスクに応じた液体選択、水分摂取管理のヒント"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "iddsi"
 last_updated: "2026-04-18"

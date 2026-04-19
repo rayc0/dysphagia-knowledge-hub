@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙患者微量營養素缺乏指南：常見缺乏症識別與補充策略（台灣版）"
 description: "吞嚥障礙患者微量營養素缺乏完全指南（台灣繁體中文）— 質地改變飲食對維生素礦物質攝取的影響、常見缺乏症（維生素D/B12/鐵/鋅/鈣）的識別、台灣市售補充品的吞嚥友好劑型、液體補充劑 vs 粉末 vs 咀嚼錠的選擇、管灌患者的微量營養素管理"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "nutrition"
 last_updated: "2026-04-18"

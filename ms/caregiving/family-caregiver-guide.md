@@ -1,7 +1,7 @@
 ---
 title: "Panduan Penjaga Keluarga: Menjaga Pesakit Disfagia di Rumah"
 description: "Panduan lengkap penjaga keluarga untuk pesakit disfagia di rumah (Bahasa Melayu) — tanda-tanda amaran disfagia, posisi makan yang selamat, cara menyediakan makanan bertekstur IDDSI, pengurusan ubat-ubatan untuk pesakit disfagia, bila perlu merujuk kepada ahli patologi pertuturan, sumber sokongan Malaysia dan Singapura"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "caregiving"
 canonical: "https://softmeal.org/ms/caregiving/family-caregiver-guide"

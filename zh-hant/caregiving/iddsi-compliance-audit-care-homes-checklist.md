@@ -1,7 +1,7 @@
 ---
 title: "安養院IDDSI合規審計清單：食物標示、烹調程序與記錄核查"
 description: "提供安養院IDDSI合規審計的完整框架，包括食物標示、烹調程序、員工知識、質地測試執行及記錄管理，並涵蓋香港社會福利署及台灣長照2.0的相關規定。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: zh-hant
 category: caregiving
 last_updated: "2026-04-19"

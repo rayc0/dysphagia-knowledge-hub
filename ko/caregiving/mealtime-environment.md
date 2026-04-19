@@ -1,7 +1,7 @@
 ---
 title: "연하장애 노인을 위한 식사 환경 조성: 조명·의자·테이블 설정 최적화"
 description: "흡인 위험을 낮추는 식사 환경 5요소를 해설. 조명·테이블 높이·좌위 자세·식기 대비·소음 제거의 실천적 최적화 가이드. 치매안심센터·재가 환경개선 지원 정보 포함."
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

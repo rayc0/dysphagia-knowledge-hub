@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 레벨 6(부드러운 한 입 크기) 완전 가이드: 기준, 조리법과 한국 식단 활용"
 description: "IDDSI Level 6(Soft & Bite-Sized, 부드러운 한 입 크기) 완전 가이드 — 15mm 이하 크기 기준, 혀와 입천장 으깸 테스트, 레벨 5(잘게 다진 촉촉한 식품)와 레벨 7(일반식)의 차이, 한국 전통 식단(두부·연두부·찜요리·된장찌개)의 레벨 6 적용, 연하장애 유형별 적합성, 시판 연하조절식 레벨 6 제품"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "iddsi"
 last_updated: "2026-04-18"

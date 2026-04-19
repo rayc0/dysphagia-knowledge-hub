@@ -1,7 +1,7 @@
 ---
 title: "進食危險警號與緊急處理：照顧者必識的急救流程"
 description: "詳述進食時五大危險警號的識別方法、窒息與嗆咳的區別、背部拍打及海姆立克法的正確步驟，並涵蓋失去意識的急救程序、進食後遲發誤吸的徵兆，以及香港999及台灣119緊急聯絡資訊。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: zh-hant
 category: caregiving
 last_updated: "2026-04-19"

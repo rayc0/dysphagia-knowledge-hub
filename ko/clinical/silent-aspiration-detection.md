@@ -1,7 +1,7 @@
 ---
 title: "불현성 흡인(사일런트 아스피레이션) 발견과 보호자 위험 신호 가이드"
 description: "불현성 흡인(사레 없는 흡인·사일런트 아스피레이션)의 발견과 대처 완전 가이드 — 불현성 흡인의 메커니즘(기침 반사 저하), 보호자가 알아챌 수 있는 위험 신호(식후 습성 쉰 목소리/반복성 폐렴/식사 시간 연장), 스크리닝 방법(3온스 물 삼킴 검사/펄스옥시미터 활용), VF/VE 검사, 고위험 질환(치매/파킨슨병/뇌졸중), 한국 노인 폐렴 사망률 맥락"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"

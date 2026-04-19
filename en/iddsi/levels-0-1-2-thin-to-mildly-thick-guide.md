@@ -4,7 +4,7 @@ description: "Complete clinical guide to IDDSI Levels 0 (Thin), 1 (Slightly Thic
 lang: en
 category: iddsi
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Susan Tam
 tags: [IDDSI, level-0, level-1, level-2, thin-liquids, thickener, hydration, dysphagia]
 ---
 

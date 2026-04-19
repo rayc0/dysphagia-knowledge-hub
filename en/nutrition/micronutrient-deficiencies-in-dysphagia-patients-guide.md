@@ -4,7 +4,7 @@ description: "Dysphagia patients on texture-modified diets are at high risk of m
 lang: en
 category: nutrition
 date: 2026-04-15
-author: Dysphagia Hub
+author: Dr. Kevin Lau
 tags:
   - dysphagia
   - micronutrient deficiency

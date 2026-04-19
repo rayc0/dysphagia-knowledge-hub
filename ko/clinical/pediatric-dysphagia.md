@@ -1,7 +1,7 @@
 ---
 title: "소아 연하장애: 원인, 평가 및 가족 중심 치료 가이드"
 description: "소아 연하장애의 원인별 특성(뇌성마비, 미숙아, 구강 구조 이상), IDDSI 기반 질감 조정 식사 적용, 소아 연하 평가 방법, 가족 참여 전략 및 학교 급식 지원 방안"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

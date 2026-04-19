@@ -1,7 +1,7 @@
 ---
 title: "Oral Care for Dysphagia Patients — How Toothbrushing Cuts Aspiration Pneumonia Risk"
 description: "Evidence-based oral care protocol for dysphagia caregivers. Twice-daily toothbrushing reduces aspiration pneumonia by up to 40%. Step-by-step guide with citations."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-04-17"
@@ -164,4 +164,4 @@ This article paraphrases publicly-available peer-reviewed literature and clinica
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

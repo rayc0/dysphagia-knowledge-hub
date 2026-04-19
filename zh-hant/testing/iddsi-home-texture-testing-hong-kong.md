@@ -1,7 +1,7 @@
 ---
 title: "點樣喺屋企測試食物質地 — IDDSI 四個測試一步一步教"
 description: "香港照顧者居家 IDDSI 食物質地測試完整教學：流動測試、叉子滴落測試、叉子擠壓測試、匙羹傾斜測試，工具清單、步驟圖解及常見錯誤。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hant"
 category: "testing"
 last_updated: "2026-04-16"
@@ -326,7 +326,7 @@ IDDSI 仲提供咗一個「手指測試」（Finger Test），設計畀冇叉子
 | 類型 | 代表產品（香港常見） | 特點 | 注意事項 |
 |------|-------------------|------|---------|
 | **改性澱粉基** | Nestlé 快凝寶（原裝版） | 相對便宜；有效但飲品會變半透明或白濁 | 加粉後會**繼續增稠**——等 1–3 分鐘後先測試；翻熱後稠度可能改變 |
-| **黃原膠基（清透配方）** | SeniorDeli 清透凝固粉、Nestlé 快凝寶 Clear、吞樂美 | 飲品保持透明或接近原色；穩定性較好 | 價錢稍高；加粉後較快穩定；凍飲同熱飲嘅表現更一致 |
+| **黃原膠基（清透配方）** | Editorial Team 清透凝固粉、Nestlé 快凝寶 Clear、吞樂美 | 飲品保持透明或接近原色；穩定性較好 | 價錢稍高；加粉後較快穩定；凍飲同熱飲嘅表現更一致 |
 
 ### 凝固粉使用同測試嘅配合
 
@@ -421,4 +421,4 @@ IDDSI 仲提供咗一個「手指測試」（Finger Test），設計畀冇叉子
 
 ---
 
-**最後更新：** 2026-04-16 · **授權條款：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護** — 一間香港社會企業，專門生產符合 IDDSI 標準嘅照護食產品，服務吞嚥困難人士。本頁僅供教育用途；詳情請參閱 [關於我們](/about) 了解我們嘅臨床夥伴及社會使命。如有貿易查詢：hello@seniordeli.com
+**最後更新：** 2026-04-16 · **授權條款：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護** — 一間香港社會企業，專門生產符合 IDDSI 標準嘅照護食產品，服務吞嚥困難人士。本頁僅供教育用途；詳情請參閱 [關於我們](/about) 了解我們嘅臨床夥伴及社會使命。如有貿易查詢：hello@seniordeli.com

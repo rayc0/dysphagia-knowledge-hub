@@ -1,7 +1,7 @@
 ---
 title: "다발성 경화증과 삼킴장애: 병변 부위별 증상과 관리 전략"
 description: "다발성 경화증(MS)에 동반되는 삼킴장애의 발생 기전, 재발-완화형과 진행형의 차이, 평가 방법, 재활 전략을 체계적으로 해설"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者の日常ケアルーティン：食事前後の手順と誤嚥予防チェックリスト"
 description: "嚥下障害患者の在宅ケアルーティン完全ガイド — 食前の環境整備と体位確認、食事中の介助ポイントと注意サイン、食後の口腔ケアと誤嚥性肺炎予防、日常観察チェックリスト、および緊急時の対応手順"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-18"

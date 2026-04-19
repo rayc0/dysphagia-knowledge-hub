@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者夜间进食管理：安全策略与照护要点"
 description: "探讨吞咽困难患者夜间进食的安全风险、管饲患者夜间喂养方案、防误吸体位管理及照护者夜间护理技巧"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-18"

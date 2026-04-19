@@ -1,7 +1,7 @@
 ---
 title: "Sarcopenic dysphagia — the Wakabayashi framework, diagnostic algorithm, and rehabilitation nutrition"
 description: "Sarcopenic dysphagia is swallowing failure from muscle loss in the tongue and pharynx. This guide covers diagnosis, tongue pressure cutoffs, and the rehab-nutrition-oral triad."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-18"
@@ -170,4 +170,4 @@ This article paraphrases publicly-available research and position papers on sarc
 
 ---
 
-**Last updated:** 2026-04-18 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-18 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

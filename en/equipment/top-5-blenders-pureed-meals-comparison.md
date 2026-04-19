@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Kitchen Blenders for Puréed Meals — 2026 Head-to-Head Comparison"
 description: "A head-to-head comparison of five leading kitchen blenders for IDDSI-compliant puréed meals. Scored on smoothness, motor torque, cleaning, noise, and total cost of ownership."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-17"
@@ -147,4 +147,4 @@ This article paraphrases publicly-available specifications and the IDDSI Framewo
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Institutional trade enquiries: hello@seniordeli.com.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Institutional trade enquiries: hello@seniordeli.com.

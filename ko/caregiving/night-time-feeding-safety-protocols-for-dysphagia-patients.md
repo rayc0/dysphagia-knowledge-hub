@@ -1,7 +1,7 @@
 ---
 title: "연하장애 환자 야간 경관 영양 안전 프로토콜: 역류 방지와 야간 모니터링"
 description: "야간 경관 영양의 위험을 최소화하기 위한 침대 각도 관리, 주입 속도 설정, SpO₂ 모니터링, 방문간호 연계 프로토콜을 안내합니다."
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

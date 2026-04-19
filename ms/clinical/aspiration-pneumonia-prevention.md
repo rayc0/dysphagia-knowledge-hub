@@ -1,7 +1,7 @@
 ---
 title: "Pencegahan Pneumonia Aspirasi: Panduan Lengkap untuk Pesakit Disfagia dan Penjaga"
 description: "Panduan klinikal lengkap tentang pneumonia aspirasi — definisi, kumpulan berisiko tinggi, peranan pengubahsuaian tekstur makanan IDDSI, kebersihan mulut, posisi badan, dan tanda amaran awal bagi penjaga di Malaysia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-18"
@@ -279,4 +279,4 @@ Artikel ini memparafrasa bahan awam yang tersedia secara bebas dari garis pandua
 
 ---
 
-**Dikemas kini terakhir:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk orang yang hidup dengan disfagia. Halaman ini adalah pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami.
+**Dikemas kini terakhir:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk orang yang hidup dengan disfagia. Halaman ini adalah pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami.

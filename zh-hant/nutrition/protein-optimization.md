@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙患者蛋白質最佳化：防止肌少症與維持吞嚥肌功能的實用指南"
 description: "吞嚥障礙患者蛋白質攝取指南 — 推薦每日攝取量、質感調整食物中的蛋白質來源比較、乳清蛋白補充品應用、BCAA/HMB實證，以及腎功能不全患者的蛋白質管理"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "nutrition"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI家居測試套件：10mL注射器流量測試與叉壓測試詳解"
 description: "IDDSI官方4項測試完整詳解——流量測試、叉壓測試、湯匙傾斜測試、叉滴測試，各Level判定標準、注射器購買指南及測試紀錄表模板。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "zh-hant"
 category: "equipment"
 last_updated: "2026-04-19"

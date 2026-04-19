@@ -1,7 +1,7 @@
 ---
 title: "口乾症與吞嚥困難：藥物副作用與應對策略"
 description: "深入分析口乾症（xerostomia）與吞嚥困難的惡性循環，列出十大致口乾藥物類別，介紹人工唾液產品、非藥物策略及放射治療後管理，涵蓋香港老人科常用藥物及台灣健保給付情況。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

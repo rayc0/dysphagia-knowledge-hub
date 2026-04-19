@@ -1,7 +1,7 @@
 ---
 title: "失智症患者手喂食：误吸预防、口腔拒食应对与喂食辅助技术"
 description: "失智症患者手喂食（hand feeding）完整指南（中国大陆版）— 失智症各期吞咽功能变化，误吸风险信号早期识别，食物拒绝·口腔锁定应对法，体位设定（30度·90度），汤匙技术，IDDSI质地调整，家庭照护者实操清单，中国大陆长期护理现场应用"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-18"

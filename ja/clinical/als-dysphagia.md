@@ -1,7 +1,7 @@
 ---
 title: "ALS（筋萎縮性側索硬化症）と嚥下障害：進行性疾患における栄養管理"
 description: "ALSにおける嚥下障害の進行パターン、球麻痺型と四肢型の違い、PEG造設のタイミング、呼吸機能との関連を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-18"

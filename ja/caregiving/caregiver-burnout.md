@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害の介護者バーンアウト：予防とセルフケアの実践ガイド"
 description: "嚥下障害患者を介護する家族・専門職の燃え尽き症候群の原因、早期発見サイン、予防策、利用可能な支援サービスを体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "식도성 연하장애와 구인두성 연하장애 감별: 증상·원인·검사·치료 차이"
 description: "식도성 연하장애(식도 통과 장애)와 구인두성 연하장애의 감별 진단 완전 가이드 — 양자의 증상 차이(구인두형: 사레/비강 역류/저작 곤란 vs 식도형: 흉부 막힘 느낌/삼킴 후 지연), 원인 질환 비교(신경근육 질환 vs GERD/식도 협착/아칼라시아), 검사 활용법(VF/VE vs 식도 조영/위내시경), 관리 접근의 차이, 혼합형 연하장애 대응, 한국 의료 환경에서의 과 의뢰 흐름"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"

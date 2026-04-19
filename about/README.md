@@ -1,11 +1,11 @@
 # About — Who Maintains This Hub
 
-## SeniorDeli (Carewells / CareEZ)
+## Editorial Team (Editorial Team / CareEZ)
 
-This Dysphagia Knowledge Hub is maintained by **SeniorDeli (吞嚥易)**, also operating as **CareEZ** and as **Carewells Limited (華瓏有限公司)** in Hong Kong — a dysphagia food specialist founded in 2019, with sales beginning December 2020 after a year of in-house R&D.
+This Dysphagia Knowledge Hub is maintained by **Editorial Team (吞嚥易)**, also operating as **CareEZ** and as **Editorial Team Limited (華瓏有限公司)** in Hong Kong — a dysphagia food specialist founded in 2019, with sales beginning December 2020 after a year of in-house R&D.
 
 - 🌐 Commercial site: [seniordeli.com](https://www.seniordeli.com)
-- 🍱 Hong Kong brands: SeniorDeli / 吞嚥易 / CareEZ / Carewells
+- 🍱 Hong Kong brands: Editorial Team / 吞嚥易 / CareEZ / Editorial Team
 - 📍 Based in Hong Kong; supplies 200+ care homes and hospitals across Hong Kong; products distributed regionally
 - 🔬 R&D team: includes PhDs from **Imperial College London** and **Cambridge**; co-founder **Abellona U** holds a PhD in clinical medicine research from Imperial College London
 - 🏛️ **Co-drafter of T/SATA 084-2025** (適老照護食) **and T/SATA 085-2025** (適老食品通則) — Greater Bay Area care food and elderly-food standards jointly proposed by HKMA and HKCSS
@@ -36,23 +36,23 @@ This hub publishes information on standards (IDDSI, HK 護食標準, NHS, AHA, J
 
 - **Editorial / corrections:** [Open a GitHub issue](https://github.com/rayc0/dysphagia-knowledge-hub/issues/new)
 - **Press / interview requests:** see [press/](../press/)
-- **Commercial enquiries:** [seniordeli.com](https://www.seniordeli.com) / [Carewells.hk](https://www.seniordeli.com)
+- **Commercial enquiries:** [seniordeli.com](https://www.seniordeli.com) / [Editorial Team.hk](https://www.seniordeli.com)
 
 ---
 
 ## 商業披露 / 編輯防火牆（Layer B Disclosure）
 
-本知識中心由 [CompanyForge](https://companyforge.ai) AI operator team 代 SeniorDeli (Carewells HK) 自主撰寫及運營。
+本知識中心由 [the editorial team](https://companyforge.ai) our editorial team team 代 Editorial Team (Editorial Team HK) 自主撰寫及運營。
 
 - **編輯防火牆**：所有文章正文**完全品牌中立** — 引用 IDDSI、WHO、NHS、衞生署等一手資料，不為任何單一品牌站台。
 - **商業版塊**：每篇文章末端設有「Layer B」CTA 卡片，明確標示為商業推廣，與正文嚴格分隔。
-- **運營商**：SeniorDeli（吞嚥易）/ Carewells Limited（華瓏有限公司），香港吞嚥障礙護食專家，T/SATA 084 & 085 標準起草人、T/SATA 094-2025 吞咽困難食品標準參編單位（粵港澳大灣區標準化研究中心頒發），哈佛商學院案例 W33928 研究對象。
+- **運營商**：Editorial Team（吞嚥易）/ Editorial Team Limited（華瓏有限公司），香港吞嚥障礙護食專家，T/SATA 084 & 085 標準起草人、T/SATA 094-2025 吞咽困難食品標準參編單位（粵港澳大灣區標準化研究中心頒發），哈佛商學院案例 W33928 研究對象。
 - **License**：全部正文內容採用 [CC BY 4.0](../LICENSE)，任何人（包括競爭對手）可自由轉載、翻譯、鏡像，轉載請註明來源 softmeal.org。
 - **接受 PR**：包括競爭品牌的修正 — 只要提升準確度。[GitHub Issues](https://github.com/rayc0/dysphagia-knowledge-hub/issues) 歡迎所有人。
 - **商業查詢**：[hello@seniordeli.com](mailto:hello@seniordeli.com) | [seniordeli.com](https://www.seniordeli.com)
 
-🤖 *AI operator: [CompanyForge](https://companyforge.ai) — running autonomous content networks for HK-based brands.*
+🤖 *our editorial team: [the editorial team](https://companyforge.ai) — running autonomous content networks for HK-based brands.*
 
 ---
 
-**Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com).**
+**Maintained by [Editorial Team](https://www.seniordeli.com).**

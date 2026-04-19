@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙患者低營養篩查：MNA-SF評估、介入標準與多專科營養管理"
 description: "吞嚥障礙患者低營養篩查臨床指南 — MNA-SF（簡易營養評估）使用方法與判定標準、吞嚥障礙特有的低營養風險因子、經管餵食轉介標準、台灣與香港醫療現場的多專科營養支援團隊（NST）運作模式"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "nutrition"
 last_updated: "2026-04-18"

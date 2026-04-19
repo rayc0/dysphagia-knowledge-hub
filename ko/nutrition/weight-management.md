@@ -1,7 +1,7 @@
 ---
 title: "삼킴장애 환자의 체중 관리와 영양불량 예방: 실용적 접근법"
 description: "삼킴장애 환자의 체중 감소·영양불량 위험, 평가 도구(MNA-SF, SGA), 에너지 밀도 향상 방법, 경구 영양 보충제 선택을 체계적으로 안내"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "nutrition"
 last_updated: "2026-04-18"

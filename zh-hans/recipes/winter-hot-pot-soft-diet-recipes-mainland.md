@@ -4,7 +4,7 @@ description: "为吞咽障碍患者设计的冬季软食食谱集：软糯火锅
 lang: zh-hans
 category: recipes
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Dr. Lisa Chen
 tags:
   - 冬季食谱
   - 火锅

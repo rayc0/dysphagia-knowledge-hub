@@ -1,7 +1,7 @@
 ---
 title: "管飼指南：鼻胃喉（NG tube）與經皮內視鏡胃造口術（PEG）的選擇與護理"
 description: "全面介紹鼻胃喉與PEG胃造口術的比較、香港醫院程序、居家護理、常見併發症、轉回口腔進食，以及醫院管理局指引與情感支援考慮。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-04-19"

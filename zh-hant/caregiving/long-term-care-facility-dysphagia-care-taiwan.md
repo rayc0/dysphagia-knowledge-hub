@@ -4,7 +4,7 @@ description: "台灣長照機構（護理之家、養護機構、日照中心）
 lang: zh-hant
 category: caregiving
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Dr. Eric Hui
 tags:
   - 長照機構
   - 護理之家

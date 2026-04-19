@@ -1,7 +1,7 @@
 ---
 title: "終末期における嚥下障害：緩和ケアと経口摂取の倫理的判断"
 description: "終末期の嚥下障害に対する緩和的アプローチ、経口摂取継続の倫理的判断、人工的水分栄養補給の選択、ACP（アドバンス・ケア・プランニング）との統合"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-18"

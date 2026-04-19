@@ -1,7 +1,7 @@
 ---
 title: "Alatan Makan Adaptif untuk Disfagia: Sudu, Cawan, dan Kelengkapan Meja Makan"
 description: "Panduan pemilihan alatan makan adaptif untuk pesakit disfagia di Malaysia — jenis peralatan, siapa yang memerlukannya, cara membeli, dan penilaian terapi cara kerja (OT)."
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ms"
 category: "equipment"
 last_updated: "2026-04-19"

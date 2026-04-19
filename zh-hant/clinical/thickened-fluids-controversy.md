@@ -1,7 +1,7 @@
 ---
 title: "增稠飲品的爭議：THICSY研究後重新評估風險與效益"
 description: "深入探討THICSY及MATCH試驗的最新證據，重新審視增稠飲品在吞嚥困難管理中的適用性、風險及替代方案，提供共同決策框架。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

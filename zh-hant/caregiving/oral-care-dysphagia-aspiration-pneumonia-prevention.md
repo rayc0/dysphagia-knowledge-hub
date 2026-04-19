@@ -1,7 +1,7 @@
 ---
 title: "口腔護理防誤吸性肺炎：科學根據與照護實踐指南"
 description: "以循證醫學為基礎，說明口腔護理如何有效預防吞嚥困難患者的誤吸性肺炎，涵蓋刷牙頻率、電動牙刷比較、義齒護理及口腔吸引技術，附香港及台灣資源。"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: zh-hant
 category: caregiving
 last_updated: "2026-04-19"

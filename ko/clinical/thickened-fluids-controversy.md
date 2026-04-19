@@ -1,7 +1,7 @@
 ---
 title: "점증액(농후유동식) 유효성 논쟁: IDDSI 점증액의 흡인 예방 근거와 탈수 위험 균형"
 description: "연하장애 점증액(농후유동식) 사용의 유효성과 안전성 논쟁 완전 가이드 — IDDSI 점증액 사용 근거(흡인·질식 방지), 대규모 RCT 결과(ACTRN12614000949640), 점증액이 유발하는 탈수·영양 저하 위험, 환자 QOL 영향(음수 거부·복약 곤란), 턱 당기기 대체 전략 비교, '최소 유효 농도' 원칙, 언어재활사 정기 재평가 중요성"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -80,4 +80,4 @@ canonical: "https://softmeal.org/ko/clinical/thickened-fluids-controversy"
 
 *이 글은 의료 정보 제공을 목적으로 하며, 개별 진단·치료를 대체하지 않습니다. 점증액 사용·변경에 대해서는 언어재활사 또는 담당 의사와 상담하시기 바랍니다.*
 
-*라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — SeniorDeli (Carewells)*
+*라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Editorial Team*

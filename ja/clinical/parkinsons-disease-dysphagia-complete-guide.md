@@ -1,7 +1,7 @@
 ---
 title: "パーキンソン病と嚥下障害——症状・進行・食事調整の完全ガイド"
 description: "パーキンソン病患者の80%以上が嚥下障害を発症。原因・症状・JSDR嚥下調整食対応・LSVT療法・介護者向け実践ガイドを解説します。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -241,4 +241,4 @@ canonical: "https://softmeal.org/ja/clinical/parkinsons-disease-dysphagia-comple
 
 ---
 
-**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com
+**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com

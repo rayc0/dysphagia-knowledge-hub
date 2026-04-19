@@ -1,7 +1,7 @@
 ---
 title: "食事中の安全管理と緊急対応：誤嚥・窒息の予防と応急処置"
 description: "嚥下障害患者の食事時における安全管理チェックリスト、誤嚥の早期発見サイン、窒息時のハイムリック法・吸引手順を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-18"

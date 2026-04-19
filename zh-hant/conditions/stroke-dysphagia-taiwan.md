@@ -1,7 +1,7 @@
 ---
 title: "中風後吞嚥障礙（台灣版）：篩檢工具、吸入性肺炎預防與吞嚥復健"
 description: "台灣版中風後吞嚥障礙完整指南（繁體中文）— 中風患者吞嚥障礙發生率（50-70%）、台灣適用篩檢工具（GUSS與3盎司水測試）、隱性誤吸識別、吸入性肺炎預防、吞嚥治療技術（Shaker/Effortful Swallow/Mendelsohn/Masako）、IDDSI質地調整、何時轉介台灣語言治療師、台灣健保給付說明"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "conditions"
 last_updated: "2026-04-18"

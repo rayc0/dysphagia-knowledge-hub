@@ -1,7 +1,7 @@
 ---
 title: "점도증진제 선택 가이드——전분계 vs 검계 완전 비교"
 description: "연하장애 환자의 안전한 수분 섭취를 위한 점도증진제 선택법: 전분계와 잔탄검계의 점도 안정성, 투명도, 맛, 비용, IDDSI 적합성을 임상 근거와 함께 비교합니다."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"
@@ -230,4 +230,4 @@ Newman et al. (2016)이 발표한 체계적 문헌 고찰에서는 잔탄검계 
 
 ---
 
-**최종 업데이트:** 2026-04-19 · **라이선스:** [CC BY 4.0](../../LICENSE) · **제공:** [SeniorDeli (Carewells)](https://www.seniordeli.com) — 연하장애 환자를 위한 IDDSI 기준 케어푸드를 제조하는 홍콩 사회적 기업입니다. 이 페이지는 교육 목적으로만 제공됩니다. 임상 협력 및 문의: [소개](/about) 페이지를 참조하세요.
+**최종 업데이트:** 2026-04-19 · **라이선스:** [CC BY 4.0](../../LICENSE) · **제공:** [Editorial Team](https://www.seniordeli.com) — 연하장애 환자를 위한 IDDSI 기준 케어푸드를 제조하는 홍콩 사회적 기업입니다. 이 페이지는 교육 목적으로만 제공됩니다. 임상 협력 및 문의: [소개](/about) 페이지를 참조하세요.

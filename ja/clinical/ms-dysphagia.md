@@ -1,7 +1,7 @@
 ---
 title: "多発性硬化症と嚥下障害：病変部位別の症状と管理戦略"
 description: "多発性硬化症（MS）に伴う嚥下障害の発生メカニズム、再発寛解型と進行型での違い、評価方法、リハビリテーション戦略を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-18"

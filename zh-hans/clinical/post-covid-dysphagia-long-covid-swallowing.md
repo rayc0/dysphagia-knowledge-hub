@@ -1,7 +1,7 @@
 ---
 title: "新冠后吞咽障碍与长新冠吞咽困难——国内临床综述与康复指南"
 description: "COVID-19导致吞咽障碍的机制、ICU插管时长与预后的关系、长新冠持续症状，以及国内外循证康复方法与IDDSI饮食质地管理。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -225,4 +225,4 @@ canonical: "https://softmeal.org/zh-hans/clinical/post-covid-dysphagia-long-covi
 
 ---
 
-**最后更新：** 2026-04-19 · **许可证：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli（康乐龄）](https://www.seniordeli.com)** 维护——香港社会企业，专注生产符合IDDSI标准的吞咽障碍照护食品。本页面仅供教育参考，临床合作伙伴及社会使命详见 [关于我们](/about)。贸易查询：hello@seniordeli.com
+**最后更新：** 2026-04-19 · **许可证：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team（康乐龄）](https://www.seniordeli.com)** 维护——香港社会企业，专注生产符合IDDSI标准的吞咽障碍照护食品。本页面仅供教育参考，临床合作伙伴及社会使命详见 [关于我们](/about)。贸易查询：hello@seniordeli.com

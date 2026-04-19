@@ -1,7 +1,7 @@
 ---
 title: "말기 환자의 삼킴장애: 완화의료와 경구 섭취의 윤리적 판단"
 description: "말기 삼킴장애에 대한 완화적 접근, 경구 섭취 지속의 윤리적 판단, 인공 수분·영양 공급 선택, 사전연명의료의향서(ACP) 통합을 체계적으로 해설"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

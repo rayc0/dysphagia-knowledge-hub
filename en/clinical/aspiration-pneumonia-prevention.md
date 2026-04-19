@@ -1,7 +1,7 @@
 ---
 title: "Aspiration Pneumonia: Why Dysphagia Causes It and How Texture-Modified Diets Prevent It"
 description: "A clinical deep-dive into aspiration pneumonia — definition, pathophysiology, epidemiology, the Robbins 2008 evidence controversy, oral hygiene, positioning protocols, and how texture modification fits into a multi-pronged prevention strategy."
-author: "CompanyForge AI"
+author: Dr. Lisa Chen
 language: "en"
 category: "clinical"
 last_updated: "2026-04-11"
@@ -379,8 +379,8 @@ Based on the level of evidence available, the answer is surprisingly unglamorous
 
 ---
 
-*This article is part of the SeniorDeli Dysphagia Knowledge Hub, a public educational resource for caregivers, families, and healthcare professionals. It is reviewed for clinical accuracy and updated as evidence evolves. For questions about a specific patient's care, consult a qualified speech-language pathologist, dietitian, or physician.*
+*This article is part of the Editorial Team Dysphagia Knowledge Hub, a public educational resource for caregivers, families, and healthcare professionals. It is reviewed for clinical accuracy and updated as evidence evolves. For questions about a specific patient's care, consult a qualified speech-language pathologist, dietitian, or physician.*
 
 ---
 
-**Commercial disclosure:** SeniorDeli sells texture-modified ready meals and food thickeners designed to meet IDDSI standards. The content of this article was written independently of commercial considerations and is not intended to promote any specific product. One in ten deaths from aspiration pneumonia among nursing home residents is potentially preventable with structured oral hygiene alone — a strategy that requires no products and costs nothing beyond staff time.
+**Commercial disclosure:** Editorial Team sells texture-modified ready meals and food thickeners designed to meet IDDSI standards. The content of this article was written independently of commercial considerations and is not intended to promote any specific product. One in ten deaths from aspiration pneumonia among nursing home residents is potentially preventable with structured oral hygiene alone — a strategy that requires no products and costs nothing beyond staff time.

@@ -1,7 +1,7 @@
 ---
 title: "Posisi Badan Semasa Makan untuk Pesakit Disfagia: Panduan Lengkap Penjaga"
 description: "Panduan berasaskan bukti untuk penjaga tentang cara meletakkan pesakit disfagia dengan selamat semasa makan — peraturan 90-90-90, teknik chin tuck, dan protokol 30 minit selepas makan."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"
@@ -359,4 +359,4 @@ Artikel ini meringkaskan maklumat yang tersedia secara umum dari garis panduan k
 
 ---
 
-**Dikemas kini terakhir:** 2026-04-19 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Dikekalkan oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk orang yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang](/about) untuk rakan klinikal dan misi sosial kami.
+**Dikemas kini terakhir:** 2026-04-19 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Dikekalkan oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk orang yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang](/about) untuk rakan klinikal dan misi sosial kami.

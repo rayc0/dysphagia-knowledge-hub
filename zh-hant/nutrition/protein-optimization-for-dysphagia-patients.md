@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者蛋白質優化：IDDSI食品來源與每日策略"
 description: "說明吞嚥困難患者的蛋白質需求目標，提供按IDDSI級別分類的高蛋白食品清單，探討白胺酸與肌肉合成的關係，以及蛋白質分散方案與口服補充品比較，附香港及台灣資源。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: zh-hant
 category: nutrition
 last_updated: "2026-04-19"

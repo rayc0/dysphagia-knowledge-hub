@@ -1,7 +1,7 @@
 ---
 title: "口腔ケアによる誤嚥性肺炎予防：科学的根拠と介護現場での実践"
 description: "Yoneyama 2002 RCTをはじめとするエビデンスに基づき、誤嚥性肺炎を40%減少させる口腔ケアの方法と介護現場での実践手順を解説します。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

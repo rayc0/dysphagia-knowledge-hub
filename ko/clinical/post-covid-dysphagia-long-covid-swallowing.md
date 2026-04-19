@@ -1,7 +1,7 @@
 ---
 title: "코로나19 후유증 연하장애——롱코비드 환자를 위한 완전 가이드"
 description: "코로나19가 삼킴 기능에 미치는 영향, 기관삽관 기간과 중증도의 관계, 롱코비드 지속률, 재활 근거, IDDSI 식이 관리까지 체계적으로 정리한 임상 안내서."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -225,4 +225,4 @@ Gilheaney 등(2023년, *Aphasiology*)이 롱코비드 성인을 대상으로 실
 
 ---
 
-**최종 업데이트:** 2026-04-19 · **라이선스:** [CC BY 4.0](../../LICENSE) · **운영: [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 연하장애를 가진 분들을 위해 IDDSI 기준의 케어푸드를 생산하는 홍콩 사회적 기업입니다. 이 페이지는 교육 목적이며, 임상 파트너와 사회적 사명에 대해서는 [About](/about)을 참조하십시오.
+**최종 업데이트:** 2026-04-19 · **라이선스:** [CC BY 4.0](../../LICENSE) · **운영: [Editorial Team](https://www.seniordeli.com)** — 연하장애를 가진 분들을 위해 IDDSI 기준의 케어푸드를 생산하는 홍콩 사회적 기업입니다. 이 페이지는 교육 목적이며, 임상 파트너와 사회적 사명에 대해서는 [About](/about)을 참조하십시오.

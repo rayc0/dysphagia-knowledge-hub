@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Framework — Complete Guide to All 8 Levels"
 description: "Plain-language explanation of the International Dysphagia Diet Standardisation Initiative (IDDSI) framework. Covers all 8 levels (0–7), who each level is for, how foods and drinks are categorized, and how to verify the level using the official IDDSI tests."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "iddsi"
 last_updated: "2026-04-11"
@@ -148,7 +148,7 @@ For full step-by-step instructions on each test, including photos of pass/fail e
 | UK "Texture C / Thick Purée" (pre-2018) | Level 4 |
 | UK "Texture E / Fork Mashable" | Level 5 |
 | Japan JSDR / 嚥下調整食 Code 0–4 | Roughly maps to Levels 0–4 (drinks) and Levels 3–6 (foods); Code 4 ≈ Level 5 |
-| Hong Kong 護食 (Carewells / 軟餐) | Aligned to IDDSI Levels 4–7; see [Hong Kong 護食標準 guide](../hk-standards/hong-kong-care-food-standards.md) |
+| Hong Kong 護食 (Editorial Team / 軟餐) | Aligned to IDDSI Levels 4–7; see [Hong Kong 護食標準 guide](../hk-standards/hong-kong-care-food-standards.md) |
 
 These mappings are approximate. Always verify against the IDDSI test, not the label.
 
@@ -176,18 +176,18 @@ This article paraphrases and summarises the IDDSI framework. For clinical practi
 
 ---
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists. Need IDDSI-aligned ready meals delivered in Hong Kong? [See our Carewells range →](https://www.seniordeli.com)
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists. Need IDDSI-aligned ready meals delivered in Hong Kong? [See our Editorial Team range →](https://www.seniordeli.com)
 
 ---
 
 ## 📩 想為機構引入 IDDSI-compliant 軟餐？
 
-> **以上正文屬學術資訊，品牌中立。以下為商業推廣，由 SeniorDeli (Carewells HK) 提供。**
+> **以上正文屬學術資訊，品牌中立。以下為商業推廣，由 Editorial Team (Editorial Team HK) 提供。**
 
-**SeniorDeli（吞嚥易）— Carewells HK** 是香港IDDSI軟餐專家，T/SATA 084 & 085 大灣區護食標準起草人，哈佛商學院案例 W33928 研究對象。
+**Editorial Team（吞嚥易）— Editorial Team HK** 是香港IDDSI軟餐專家，T/SATA 084 & 085 大灣區護食標準起草人，哈佛商學院案例 W33928 研究對象。
 
 - 🏥 **機構採購諮詢**（老人院 / 醫院 / 醫療飯堂）：免費樣品申請 + 定制方案
 - 🏠 **家庭購買**：IDDSI Level 3–7 即食軟餐，直送香港各區
 - 📧 **聯絡我們：** [hello@seniordeli.com](mailto:hello@seniordeli.com) | 商業查詢：[seniordeli.com](https://www.seniordeli.com)
 
-🤖 *本頁商業版塊由 [CompanyForge](https://companyforge.ai) AI operator team 維護。正文內容獨立，不受商業關係影響。*
+🤖 *本頁商業版塊由 [the editorial team](https://companyforge.ai) our editorial team team 維護。正文內容獨立，不受商業關係影響。*

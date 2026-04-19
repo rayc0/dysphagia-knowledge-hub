@@ -1,7 +1,7 @@
 ---
 title: "痴呆症与吞咽障碍：从饮食行为改变到末期阶段的分阶段应对"
 description: "痴呆症相关吞咽障碍的阶段性变化、拒食与口腔滞留的处理方法、BPSD对进食的影响、末期阶段的管饲决策证据与舒适进食原则，以及家属沟通指南"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-18"

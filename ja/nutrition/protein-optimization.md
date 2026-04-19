@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者のタンパク質最適化：サルコペニア予防と嚥下筋維持のための栄養戦略"
 description: "嚥下障害患者のタンパク質摂取ガイド — 推奨摂取量、質感調整食でのタンパク質源、BCAA・HMBのエビデンス、嚥下訓練との相乗効果、腎機能低下患者への対応"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "nutrition"
 last_updated: "2026-04-18"

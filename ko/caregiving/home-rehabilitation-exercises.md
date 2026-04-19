@@ -1,7 +1,7 @@
 ---
 title: "연하 재활 운동 가이드: 집에서 할 수 있는 삼킴 근육 강화 운동"
 description: "재가 연하 재활 운동 완전 가이드（한국어）— Shaker 운동(목 굴곡 저항 운동), 노력 삼키기(Effortful Swallow), 마사코 기법(Masako Maneuver), 멘델슨 기법, 혀 강화 운동, 안면 근육 운동, 운동 빈도 및 세트 수, 언제 중단해야 하는지, SLP 없이 할 수 있는 운동 vs 전문가 지도 필요 운동"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-18"

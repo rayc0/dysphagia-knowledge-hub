@@ -1,7 +1,7 @@
 ---
 title: "嚥下困難患者のタンパク質最適化：1.2g/kg/日戦略とIDDSI食品源"
 description: "高齢嚥下困難患者のタンパク必要量（1.2g/kg/日以上）の根拠から、IDDSI別タンパク質食品源の選択、タンパク分散プロトコル、経口補助栄養食品の比較まで実践的に解説します。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: ja
 category: nutrition
 last_updated: "2026-04-19"

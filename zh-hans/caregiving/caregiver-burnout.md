@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍照护者耗竭：识别、预防与支持系统建立"
 description: "吞咽障碍照护者心理与身体耗竭完整指南 — 照护者耗竭的早期警告信号、长期进食照护的特殊心理负担、喘息服务与支持资源、边界设定的实用方法，以及中国大陆和台湾的照护者支持网络"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-18"

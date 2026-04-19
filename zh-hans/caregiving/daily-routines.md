@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者居家照护日常流程：从晨起口腔护理到夜间安全体位"
 description: "吞咽障碍患者居家照护的每日实用流程 — 晨起口腔护理、三餐喂食要点、用药安全、口腔卫生、体位管理、突发误吸的应急处理，以及照护者的减负策略"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者餐飲計劃指南：IDDSI 各級別香港飲食規劃"
 description: "香港吞嚥困難患者餐飲計劃全指南：IDDSI 3–7級均衡飲食規劃、3日香港菜式示範餐單（粥品、豆腐、雞蛋、點心）、食物強化技巧、每日5–6餐策略、批量煮食貼士、香港長者飯盒服務及每餐熱量蛋白質目標。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-04-19"
@@ -176,7 +176,7 @@ canonical: "https://softmeal.org/zh-hant-hk/nutrition/meal-planning-guide"
 
 | 服務商 | 特點 | 費用估計 | 聯絡 |
 |--------|------|---------|------|
-| SeniorDeli（Carewells） | 專為吞嚥困難設計，符合 IDDSI 標準 | 按餐單而定 | softmeal.org |
+| Editorial Team（Editorial Team） | 專為吞嚥困難設計，符合 IDDSI 標準 | 按餐單而定 | softmeal.org |
 | 各大酒樓外賣 | 需自行改良質地 | 普通外賣價格 | 因餐廳而異 |
 | 專業醫療膳食服務 | 醫院式，符合飲食治療要求 | 較昂貴 | 醫院/診所轉介 |
 
@@ -217,6 +217,6 @@ canonical: "https://softmeal.org/zh-hant-hk/nutrition/meal-planning-guide"
 - 香港言語治療師協會：www.hksta.org.hk
 - 社會福利署長者服務：www.swd.gov.hk
 - 衛生署長者健康服務：www.elderly.gov.hk
-- SeniorDeli (Carewells) 吞嚥困難軟餐服務：softmeal.org
+- Editorial Team 吞嚥困難軟餐服務：softmeal.org
 
 *本文件僅供教育參考用途，不能替代個別醫療評估及專業建議。請向言語治療師及營養師尋求個人化建議。*

@@ -1,7 +1,7 @@
 ---
 title: "식도성 삼킴장애: 원인 질환별 감별과 치료 전략"
 description: "식도성 삼킴장애의 원인(식도암, 아칼라지아, GERD, 호산구성 식도염), 구인두성 삼킴장애와의 감별, 진단 검사, 질환별 치료법을 체계적으로 해설"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

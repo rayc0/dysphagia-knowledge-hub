@@ -1,7 +1,7 @@
 ---
 title: "Piawaian IDDSI di Malaysia: Panduan Paras 0–7 untuk Kemudahan Penjagaan dan Hospital"
 description: "Panduan lengkap IDDSI Paras 0–7 dalam Bahasa Malaysia — nama rasmi, ujian makmal mudah, status penerimaan di hospital Malaysia, dan senarai semak penjaga untuk pematuhan di rumah."
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ms"
 category: "standards"
 last_updated: "2026-04-19"
@@ -28,7 +28,7 @@ canonical: "https://softmeal.org/ms/standards/iddsi-standards-malaysia"
 | 6 | Soft & Bite-Sized | **Makanan Lembut Suapan** | Boleh dipotong dengan tepi sudu; lembut dan lembap | Biru |
 | 7 | Regular | **Makanan Biasa** | Tiada sekatan tekstur | Hitam |
 
-> **Nota**: Nama BM di atas adalah cadangan kerja SeniorDeli (Carewells) berdasarkan terminologi yang digunakan oleh jabatan diet PPUM dan Hospital Putrajaya. Terminologi rasmi KKM mungkin berbeza mengikut kemaskini.
+> **Nota**: Nama BM di atas adalah cadangan kerja Editorial Team berdasarkan terminologi yang digunakan oleh jabatan diet PPUM dan Hospital Putrajaya. Terminologi rasmi KKM mungkin berbeza mengikut kemaskini.
 
 ---
 

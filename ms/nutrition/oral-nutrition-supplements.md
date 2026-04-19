@@ -1,7 +1,7 @@
 ---
 title: "Suplemen Pemakanan Oral (ONS) untuk Disfagia: Panduan Lengkap"
 description: "Panduan lengkap suplemen pemakanan oral (ONS) untuk pesakit disfagia di Malaysia — indikasi penggunaan, jenis ONS, produk tersedia, subsidi NHIS, cara optimumkan pematuhan, dan bila perlu beralih kepada pemberian makan melalui tiub."
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ms"
 category: "nutrition"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "吞咽困难的10项警示症状：家属照护者必知指南"
 description: "家属和照护者如何早期识别吞咽困难？本指南列出10项警示症状清单、需立即就医的红旗信号、不同疾病的特异性表现，以及中国大陆三甲医院吞咽专科就医与医保报销流程。"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-19"

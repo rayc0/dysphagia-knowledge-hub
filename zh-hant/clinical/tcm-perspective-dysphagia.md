@@ -1,7 +1,7 @@
 ---
 title: "中醫視角的吞嚥困難：針灸與整合治療的臨床證據"
 description: "從中醫噎膈概念出發，探討針灸治療中風後吞嚥困難的隨機對照試驗證據、常用中藥方劑，以及香港與台灣的中西醫整合模式。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

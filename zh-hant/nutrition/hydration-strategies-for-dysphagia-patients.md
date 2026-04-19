@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者的水分補充策略：脫水預防與實用補水方案"
 description: "涵蓋吞嚥困難患者的每日水分需求計算、脫水警示識別、IDDSI適合飲品選擇、定時補水時間表及電解質補充方案，附香港及台灣地區適用產品資訊。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: zh-hant
 category: nutrition
 last_updated: "2026-04-19"

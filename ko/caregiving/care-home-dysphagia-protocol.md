@@ -1,7 +1,7 @@
 ---
 title: "요양시설 연하장애 케어 프로토콜: 입소 스크리닝부터 기록 관리까지"
 description: "노인요양원·그룹홈에서 즉시 적용 가능한 연하장애 표준 관리 절차. 입소 시 스크리닝, SLP 의뢰 기준, 직원 교육, 기록 서식을 체계적으로 정리."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

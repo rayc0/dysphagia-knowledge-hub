@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者への経口栄養補助食品（ONS）：製品選択・増粘対応・臨床活用の完全ガイド"
 description: "嚥下障害患者のONS活用ガイド — エンシュア・ラコール・テルミール等の主要製品比較、IDDSI粘度別の増粘調整法、疾患特異型配合の選択基準、経管栄養への移行判断"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "nutrition"
 last_updated: "2026-04-18"

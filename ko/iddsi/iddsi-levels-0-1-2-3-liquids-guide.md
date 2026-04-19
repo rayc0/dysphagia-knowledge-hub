@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 액체 레벨 0~3 완전 가이드: 연하장애 환자 음료 점도 관리와 증점제 사용법"
 description: "IDDSI 액체 점도 레벨 0–3 완전 실천 가이드 — Level 0(묽은 액체), Level 1(약간 걸쭉함), Level 2(약하게 걸쭉함), Level 3(중간 정도 걸쭉함)의 특성·흐름 테스트·스푼 테스트, 한국 시판 증점제(토로미파워·뉴케어 증점제) 사용법, 연하장애 유형별 음료 레벨 선택, 수분 섭취 관리 주의사항"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "iddsi"
 last_updated: "2026-04-18"

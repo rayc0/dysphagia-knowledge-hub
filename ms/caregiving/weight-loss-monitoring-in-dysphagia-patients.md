@@ -1,7 +1,7 @@
 ---
 title: "Pemantauan Berat Badan dalam Disfagia: Pengesanan Awal Kekurangan Zat Makanan"
 description: "Panduan pemantauan berat badan untuk pesakit disfagia — frekuensi penimbangan, ambang bahaya, saringan MNA/MUST, makanan tinggi kalori, dan perkhidmatan dietitian KKM serta subsidi NHIS."
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"
@@ -112,4 +112,4 @@ Rekod ringkas membantu mengesan trend pengambilan:
 
 ---
 
-*Artikel ini disediakan oleh SeniorDeli (Carewells) untuk tujuan pendidikan. Penilaian nutrisi menyeluruh perlu dilakukan oleh dietitian berdaftar atau pakar perubatan yang berkelayakan.*
+*Artikel ini disediakan oleh Editorial Team untuk tujuan pendidikan. Penilaian nutrisi menyeluruh perlu dilakukan oleh dietitian berdaftar atau pakar perubatan yang berkelayakan.*

@@ -1,7 +1,7 @@
 ---
 title: "Posisi Duduk Semasa Makan untuk Pesakit Disfagia: Panduan Lengkap Pencegahan Aspirasi"
 description: "Panduan posisi makan untuk pesakit disfagia (Bahasa Melayu) — posisi duduk tegak 90 darjah, posisi kepala fleksi ke hadapan (chin tuck), posisi lateral bagi pesakit hemiplegi, cara menyuap dengan betul, tempoh berehat selepas makan, petanda aspirasi senyap semasa makan"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-18"

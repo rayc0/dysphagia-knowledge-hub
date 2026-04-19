@@ -1,7 +1,7 @@
 ---
 title: "Mulut Kering (Xerostomia) dan Disfagia: Kesan Ubat dan Strategi Pengurusan"
 description: "Panduan xerostomia dan disfagia Bahasa Melayu — mekanisme kitaran xerostomia-disfagia, 10 kelas ubat penyebab mulut kering (antikolinergik, antihistamin, antidepresan, diuretik, antihipertensi), perbandingan SSRI vs TCA, produk pengganti air liur (Biotène), intervensi bukan ubat, ubat-ubatan warga emas Malaysia (amlodipine, metformin, atorvastatin, furosemide)"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

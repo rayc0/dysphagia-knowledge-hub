@@ -1,7 +1,7 @@
 ---
 title: "誤嚥性肺炎予防——病態・エビデンスに基づく予防戦略（日本版）"
 description: "日本の超高齢社会における誤嚥性肺炎の病態生理と、口腔ケア・姿勢管理・嚥下調整食・リハビリを軸とした根拠ある予防戦略を2024年ガイドライン準拠で解説。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -246,4 +246,4 @@ canonical: "https://softmeal.org/ja/clinical/aspiration-pneumonia-prevention-evi
 
 ---
 
-**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

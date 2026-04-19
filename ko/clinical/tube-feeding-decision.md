@@ -1,7 +1,7 @@
 ---
 title: "경관 영양 도입 의사결정 가이드: 연하장애 환자의 위루·비위관 적응과 윤리"
 description: "연하장애가 중증인 경우 경관 영양(위루/비위관) 도입의 의사결정 완전 가이드 — 위루(PEG)와 비위관(NG tube) 비교, 적응 기준과 금기, FILS 척도에 의한 적응 판단, 치매 말기·ALS·뇌졸중에서의 윤리적 검토, 한국 사전연명의료의향서(ACP) 문화, 가족 중심 의사결정, 한국 건강보험 급여 현황"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "Presbyphagia vs Pathological Dysphagia — Normal Aging, Sarcopenic Dysphagia, and When to Screen"
 description: "Plain-language guide to presbyphagia: how aging changes the swallow, how it differs from pathological dysphagia, and when older adults should be screened."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"
@@ -158,4 +158,4 @@ This article paraphrases publicly-available clinical guidance from IDDSI, Taiwan
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com.

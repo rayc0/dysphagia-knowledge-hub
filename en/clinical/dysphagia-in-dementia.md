@@ -4,7 +4,7 @@ description: "A practical guide for families and carers. How swallowing changes 
 lang: en
 category: clinical
 date: 2026-04-14
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 ---
 
 # Dysphagia in Dementia — Feeding Strategies, Comfort Feeding, and the Hard Decisions
@@ -165,7 +165,7 @@ Two things that help: join a dementia carer support group, online or in person, 
 
 ---
 
-*This article is part of the [SeniorDeli Dysphagia Knowledge Hub](/), a free public resource from Carewells Limited (華瓏有限公司), a Hong Kong social enterprise providing texture-modified care food for elderly with swallowing difficulties. All revenue from our products funds research and free educational content like this. We are not a substitute for your medical team — please work with a speech-language therapist, geriatrician, or palliative care physician for individual care decisions.*
+*This article is part of the [Editorial Team Dysphagia Knowledge Hub](/), a free public resource from Editorial Team Limited (華瓏有限公司), a Hong Kong social enterprise providing texture-modified care food for elderly with swallowing difficulties. All revenue from our products funds research and free educational content like this. We are not a substitute for your medical team — please work with a speech-language therapist, geriatrician, or palliative care physician for individual care decisions.*
 
 ## Related articles
 

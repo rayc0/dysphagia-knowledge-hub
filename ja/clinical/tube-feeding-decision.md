@@ -1,7 +1,7 @@
 ---
 title: "経管栄養導入の意思決定ガイド：嚥下障害患者への胃ろう・経鼻胃管の適応と倫理"
 description: "嚥下障害が重度の場合の経管栄養（胃ろう/経鼻胃管）導入の意思決定完全ガイド — 胃ろう（PEG）と経鼻胃管（NG tube）の比較、適応基準と禁忌、嚥下障害重症度による適応判断（FILS/KT尺度）、認知症末期・ALS・脳卒中での倫理的検討、家族と医療者のコミュニケーション、日本のACP（アドバンス・ケア・プランニング）文脈"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"

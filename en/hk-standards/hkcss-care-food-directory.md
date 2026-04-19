@@ -1,7 +1,7 @@
 ---
 title: "HKCSS Care Food Directory — How to Use It as a Caregiver"
 description: "A practical guide for Hong Kong caregivers on finding IDDSI-labelled care food products using the HKCSS Care Food Directory at carefood.org.hk."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "hk-standards"
 last_updated: "2026-04-13"
@@ -156,4 +156,4 @@ This article paraphrases publicly available HKCSS guidelines and Care Food Direc
 
 ---
 
-**Last updated:** 2026-04-13 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-13 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

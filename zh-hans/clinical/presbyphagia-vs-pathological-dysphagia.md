@@ -1,7 +1,7 @@
 ---
 title: "老年性吞咽退化 vs 病理性吞咽困难：如何区分正常老化？"
 description: "老年人吞咽变慢是正常老化还是疾病信号？本指南详解正常老化吞咽改变、老年性吞咽退化定义、5因素鉴别诊断、肌少性吞咽困难，以及中国大陆老龄化背景下的社区筛查与长期照护保险资源。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-19"

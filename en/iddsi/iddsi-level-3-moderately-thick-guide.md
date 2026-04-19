@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 3 (Moderately Thick) Complete Guide: Clinical Applications, Thickener Dosing, and Dehydration Prevention"
 description: "IDDSI Level 3 (Moderately Thick liquid) complete guide — physical characteristics and spoon tilt test, clinical indications vs Level 2, thickener dosing for common products (Resource ThickenUp/SimplyThick/Thick & Easy), patient acceptability strategies, dehydration prevention in Level 3 patients, downgrading back to Level 2 criteria"
-author: "CompanyForge AI"
+author: Susan Tam
 canonical: "https://softmeal.org/en/iddsi/iddsi-level-3-moderately-thick-guide"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
@@ -183,4 +183,4 @@ For further guidance, see the [IDDSI Framework Complete Guide](/en/iddsi/iddsi-f
 ---
 
 *This content is provided under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.*
-*Author: CompanyForge AI | Last updated: 2026-04-18*
+*Author: the editorial team AI | Last updated: 2026-04-18*

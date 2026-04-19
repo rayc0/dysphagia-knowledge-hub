@@ -1,7 +1,7 @@
 ---
 title: "誤嚥性肺炎の予防：嚥下障害患者のための包括的ガイド"
 description: "誤嚥性肺炎の病態生理、リスク因子、口腔ケア・食事姿勢・嚥下調整食による予防戦略、そして日本の医療現場における実践的対応を解説。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-17"

@@ -1,7 +1,7 @@
 ---
 title: "연하용 점증제(시판품) 완전 비교 가이드: IDDSI 선택법과 사용법"
 description: "연하장애 대응 점증제 완전 비교 가이드 — 뮤틴·더걸쭉·넥타밀크 한국 제품 비교, 성분·사용량·비용·IDDSI 대응 레벨, 전분계 vs 잔탄검계 특성, 노인장기요양 소모품 지원, 와파린 상호작용 주의(한국 심방세동 환자)"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ko"
 category: "equipment"
 last_updated: "2026-04-19"
@@ -82,4 +82,4 @@ canonical: "https://softmeal.org/ko/equipment/commercial-thickeners-comparison"
 
 ---
 
-*본 문서는 CC BY 4.0 라이선스로 제공됩니다. 인용·전재 시 출처(SeniorDeli / softmeal.org)를 명기해 주세요.*
+*본 문서는 CC BY 4.0 라이선스로 제공됩니다. 인용·전재 시 출처(Editorial Team / softmeal.org)를 명기해 주세요.*

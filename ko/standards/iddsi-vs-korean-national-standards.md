@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 국제 기준과 한국 연하식 기준 비교: 노인장기요양 식사 형태 분류 가이드"
 description: "IDDSI 프레임워크와 한국 노인장기요양 연하식 기준의 완전 비교 가이드 — IDDSI 레벨 0-7과 한국 요양원 식사 형태(일반식/진밥/죽/갈은죽/농후유동식) 대응표, 노인장기요양보험 급식 기준, 병원 연하재활팀 IDDSI 도입 현황, 연하 기능 평가 후 식사 형태 처방 흐름도"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ko"
 category: "standards"
 last_updated: "2026-04-19"

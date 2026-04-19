@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者の低栄養スクリーニング：MNA-SF、介入基準と栄養管理プロトコル"
 description: "嚥下障害患者の低栄養スクリーニング臨床ガイド — MNA-SF（簡易栄養状態評価）の使用方法と判定基準、嚥下障害特有の低栄養リスク因子、経管栄養移行の判断基準、日本の医療現場における多職種連携による栄養管理の実際"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "nutrition"
 last_updated: "2026-04-18"

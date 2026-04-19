@@ -1,7 +1,7 @@
 ---
 title: "Disfagia di Penghujung Hayat: Penjagaan Paliatif dan Keputusan Pemberian Makan"
 description: "Panduan klinikal disfagia di penghujung hayat (Bahasa Melayu) — proses semula jadi berhenti makan (NEAD), menangkis mitos pemberian makan paksa, comfort feeding vs tiub makanan dalam kanser terminal dan demensia, penjagaan mulut sebagai keselesaan, rangka kerja keputusan bersama 4 langkah, konteks pelbagai budaya Malaysia, dan dokumentasi ACP/POLST."
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

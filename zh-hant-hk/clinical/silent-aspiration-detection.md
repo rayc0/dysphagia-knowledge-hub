@@ -1,7 +1,7 @@
 ---
 title: "無聲嗆咳（Silent Aspiration）的識別、診斷與香港臨床篩查"
 description: "詳細介紹無聲嗆咳的定義、危險性、臨床徵象、FEES與VFS診斷、藍色染料測試、醫院管理局篩查方案及照顧者警示訊號，涵蓋香港長者吸入性肺炎死亡率數據。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-04-19"

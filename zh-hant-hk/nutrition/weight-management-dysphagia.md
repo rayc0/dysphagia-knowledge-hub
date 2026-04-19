@@ -1,7 +1,7 @@
 ---
 title: "香港吞嚥困難患者體重管理指南"
 description: "香港吞嚥困難患者體重管理全指南：大部分患者面臨體重過輕風險（非肥胖）、BMI閾值表、每日熱量目標30–35 kcal/kg、體重下降危險閾值、MCT油增加熱量、香港常見高熱量軟質食物（芝麻糊、椰奶豆腐、加油粥）、每兩週稱重、醫管局營養師轉介標準及安老院體重監察標準。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-04-19"

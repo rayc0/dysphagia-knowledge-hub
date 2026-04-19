@@ -1,7 +1,7 @@
 ---
 title: "パーキンソン病と嚥下障害：疾患進行に応じた管理と栄養戦略"
 description: "パーキンソン病における嚥下障害の発生メカニズム、Hoehn-Yahr分類別の対応、薬剤オン・オフ期の影響、IDDSI対応の食事調整を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-18"

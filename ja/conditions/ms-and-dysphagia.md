@@ -1,7 +1,7 @@
 ---
 title: "多発性硬化症（MS）と嚥下障害：再発パターン、疲労の影響、適応的摂食戦略"
 description: "MS嚥下障害完全ガイド（日本語）— MS嚥下障害有病率（30-40%）、脳幹病変が嚥下に与える影響、再発寛解型vs進行型MSの嚥下パターン違い、疲労の嚥下安全性への増幅効果、Uhthoff現象と冷却戦略、IDDSI段階別テクスチャー推奨（再発期緊急調整含む）、認知MS障害が摂食安全に与える影響、日本のMS医療リソース"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "conditions"
 last_updated: "2026-04-18"

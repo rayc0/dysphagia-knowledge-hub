@@ -1,7 +1,7 @@
 ---
 title: "嚥下困難患者の体重管理：低体重・過体重両対応の栄養戦略"
 description: "嚥下困難患者に多い低体重リスクの評価とエネルギー目標の設定、低体重対策としての食事エネルギー密度向上、MCTオイル活用、そして過体重患者への減量制限の考え方を解説します。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: ja
 category: nutrition
 last_updated: "2026-04-19"

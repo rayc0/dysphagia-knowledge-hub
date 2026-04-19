@@ -1,7 +1,7 @@
 ---
 title: "FEES与VFSS吞咽功能仪器评估对比：适应症、优劣与选择策略"
 description: "系统比较纤维内镜吞咽检查（FEES）与视频透视吞咽检查（VFSS/MBS）的原理、适用场景、优缺点及在中国临床实践中的可及性"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "testing"
 last_updated: "2026-04-18"

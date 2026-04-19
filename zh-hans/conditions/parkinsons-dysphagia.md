@@ -1,7 +1,7 @@
 ---
 title: "帕金森病吞咽障碍：吞咽管理、左旋多巴用药时机与长期照护"
 description: "帕金森病吞咽障碍完整指南（简体中文）— 帕金森病吞咽障碍发生率（80%）、口腔期和咽期受损特征、左旋多巴与蛋白质重新分配饮食、LSVT LOUD对吞咽的改善效果、IDDSI质地选择、帕金森隐性误吸（Silent Aspiration）识别、流涎（Drool）管理、PEG胃造瘘时机讨论"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-04-18"

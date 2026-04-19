@@ -1,7 +1,7 @@
 ---
 title: "Peralatan Adaptif untuk Disfagia: Alat Makan, Cawan Khas dan Kelengkapan Sokongan"
 description: "Panduan komprehensif peralatan adaptif untuk pesakit disfagia — jenis alat, siapa yang memerlukannya, amaran keselamatan dan sumber di Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

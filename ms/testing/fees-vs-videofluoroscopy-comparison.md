@@ -1,7 +1,7 @@
 ---
 title: "FEES vs Videofluoroskopi (MBSS): Perbandingan untuk Penilaian Disfagia di Malaysia"
 description: "Perbandingan menyeluruh FEES dan Videofluoroskopi (MBSS) untuk penilaian disfagia — prosedur, kelebihan, kekurangan, kos, dan ketersediaan di hospital awam Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ms"
 category: "testing"
 last_updated: "2026-04-19"

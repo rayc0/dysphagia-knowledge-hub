@@ -1,7 +1,7 @@
 ---
 title: "파킨슨병과 삼킴 장애: 증상 관리 및 안전한 식사 가이드"
 description: "파킨슨병 환자의 삼킴 장애(연하곤란) 완전 가이드 — 증상 인식, 약물 복용 타이밍, 식사 자세, 질감 조절 식이, 그리고 가족 돌봄자를 위한 실용적 조언."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-17"

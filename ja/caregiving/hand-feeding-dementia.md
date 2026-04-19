@@ -1,7 +1,7 @@
 ---
 title: "認知症患者の手口腔介助：誤嚥予防・口腔拒否対応と安全な食事介助技術"
 description: "認知症患者の食事介助（手口腔介助）完全ガイド — 認知症ステージ別嚥下機能変化、誤嚥リスクサイン早期発見、食事拒否・口腔閉鎖対応法、90度・30度ポジショニング、スプーン技術、IDDSI食形態調整、家族・介護者向け実践チェックリスト、日本の介護現場への適用"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-18"

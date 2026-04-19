@@ -1,7 +1,7 @@
 ---
 title: "舌肌强化训练：改善吞咽功能的循证方法"
 description: "系统介绍舌肌力量训练的循证技术，涵盖IOPI设备使用、LSVT大声训练、五项家居训练方案及中国本土医疗资源，帮助吞咽障碍患者科学提升舌肌功能。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-19"

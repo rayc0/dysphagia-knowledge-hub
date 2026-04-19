@@ -1,7 +1,7 @@
 ---
 title: "柏金遜症與吞嚥困難：症狀進程、飲食調整與照顧策略"
 description: "柏金遜症患者吞嚥困難嘅症狀、進程、飲食調整方法。IDDSI等級選擇、進餐技巧、照顧者實用指南。香港醫療資源參考。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-17"
@@ -173,7 +173,7 @@ LSVT LOUD須由認證言語治療師負責，療程為期4週（每週4次、每
 - **香港柏金遜症基金會**（www.hkpf.org.hk）：提供患者教育、支援小組及照顧者培訓，並設有社工個案輔導服務
 - **香港言語治療師學會（HKSHA）**：可協助尋找私家認證言語治療師
 - **社會福利署長者地區中心**：部分提供言語治療外展或轉介服務
-- **SeniorDeli（Carewells）**：本港社會企業，生產符合IDDSI標準的護理食品，專為有吞嚥困難的長者設計
+- **Editorial Team（Editorial Team）**：本港社會企業，生產符合IDDSI標準的護理食品，專為有吞嚥困難的長者設計
 
 ---
 
@@ -204,4 +204,4 @@ LSVT LOUD須由認證言語治療師負責，療程為期4週（每週4次、每
 
 ---
 
-**最後更新：** 2026-04-17 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護** — 香港社會企業，為有吞嚥困難人士生產符合 IDDSI 標準的護理食品。本頁僅供教育用途；如需了解我們的臨床合作夥伴及社會使命，請參閱[關於我們](/about)。
+**最後更新：** 2026-04-17 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護** — 香港社會企業，為有吞嚥困難人士生產符合 IDDSI 標準的護理食品。本頁僅供教育用途；如需了解我們的臨床合作夥伴及社會使命，請參閱[關於我們](/about)。

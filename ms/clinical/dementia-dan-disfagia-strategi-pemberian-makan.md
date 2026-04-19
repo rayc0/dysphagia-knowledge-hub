@@ -1,7 +1,7 @@
 ---
 title: "Demensia dan Disfagia — Strategi Pemberian Makan dan Penjagaan Keselesaan"
 description: "Panduan lengkap untuk penjaga: bagaimana demensia menyebabkan disfagia, strategi pemberian makan yang selamat, pengubahsuaian tekstur IDDSI, dan penjagaan keselesaan di peringkat akhir."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-18"
@@ -274,4 +274,4 @@ Artikel ini meringkaskan maklumat yang tersedia secara terbuka daripada garis pa
 
 ---
 
-**Dikemas kini:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Dikendalikan oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh-IDDSI untuk individu yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami.
+**Dikemas kini:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Dikendalikan oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh-IDDSI untuk individu yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami.

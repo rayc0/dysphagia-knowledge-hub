@@ -4,7 +4,7 @@ description: "Complete guide to tongue strength training for dysphagia rehabilit
 lang: en
 category: clinical
 date: 2026-04-14
-author: "Dysphagia Knowledge Hub"
+author: Susan Tam
 ---
 
 # Tongue Strengthening Exercises for Dysphagia — Evidence-Based Protocols and Devices

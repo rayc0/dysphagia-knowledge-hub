@@ -1,7 +1,7 @@
 ---
 title: "파킨슨병 연하장애: 삼킴 관리, 레보도파 복약 시기, 장기 돌봄 계획"
 description: "파킨슨병 연하장애 완전 가이드（한국어）— 발생률（PD 환자의 80%）、구강기·인두기 특징적 장애、레보도파 ON/OFF 상태와 식사 시간 관계、LSVT LOUD 삼킴 개선 효과、IDDSI 식이 질감 선택、침묵 흡인 식별、유연증(Sialorrhea) 관리、PEG 위루술 시기"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "conditions"
 last_updated: "2026-04-18"

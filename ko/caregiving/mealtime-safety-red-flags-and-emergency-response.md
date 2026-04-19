@@ -1,7 +1,7 @@
 ---
 title: "식사 중 위험 신호와 응급 대응: 요양보호사를 위한 흡인·질식 대처 매뉴얼"
 description: "식사 중 발생하는 5대 위험 신호를 식별하고, 질식·흡인 각각의 응급 대응 절차를 요양보호사를 위해 체계적으로 안내합니다."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

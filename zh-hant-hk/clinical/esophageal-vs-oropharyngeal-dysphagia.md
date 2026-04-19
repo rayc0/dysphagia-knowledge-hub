@@ -1,7 +1,7 @@
 ---
 title: "食道性與口咽性吞嚥障礙：香港臨床鑑別診斷與轉介路徑"
 description: "系統比較食道性與口咽性吞嚥障礙的症狀位置、進食時機、常見香港病因（中風、胃食道反流、食道癌、責門失弛緩症），涵蓋鋇餐、胃鏡、FEES診斷途徑及醫院管理局轉介系統。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-04-19"

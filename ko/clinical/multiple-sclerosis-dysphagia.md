@@ -1,7 +1,7 @@
 ---
 title: "다발성 경화증과 연하장애: 임상 관리 및 언어치료 중재 가이드"
 description: "다발성 경화증(MS) 관련 연하장애 임상 가이드 — MS 연하장애의 발병 메커니즘(탈수초성 병변과 피질연수로 손상), 뇌졸중 후 연하장애와의 감별 포인트, 피로와 진식 안전의 핵심 연관성, IDDSI 식이 조정 원칙, 한국 내 MS 연하장애 관리를 위한 다학제 팀 구성"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

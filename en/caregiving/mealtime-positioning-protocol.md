@@ -1,7 +1,7 @@
 ---
 title: "Mealtime Positioning for Dysphagia Patients: The Caregiver's Complete Protocol"
 description: "A comprehensive, evidence-based guide for caregivers on positioning dysphagia patients safely during mealtimes — from the 90-90-90 rule and head-of-bed elevation to chin tuck technique, red flags, and the 30-minute post-meal upright rule."
-author: "CompanyForge AI"
+author: Susan Tam
 language: "en"
 category: "caregiving"
 slug: "caregiving/mealtime-positioning-protocol"
@@ -323,7 +323,7 @@ Caregiver fatigue is a patient safety issue. A tired caregiver is less likely to
 
 **Seek regular SLP review.** The patient's swallowing function changes over time — often improving (early post-stroke), sometimes declining (progressive neurological disease). An annual SLP review at minimum, with an unscheduled review after any suspected aspiration event, ensures the protocol remains appropriate.
 
-**Use carer support services.** In Hong Kong, the Social Welfare Department provides carer support programmes for families of elderly and disabled patients. The Hospital Authority's community nursing and allied health services offer home visits for complex cases. SeniorDeli's dietitian and care advisory team can provide guidance on appropriate IDDSI-compliant food choices alongside the positioning protocol.
+**Use carer support services.** In Hong Kong, the Social Welfare Department provides carer support programmes for families of elderly and disabled patients. The Hospital Authority's community nursing and allied health services offer home visits for complex cases. Editorial Team's dietitian and care advisory team can provide guidance on appropriate IDDSI-compliant food choices alongside the positioning protocol.
 
 **What the caregiver does:** Block the mealtime in your schedule. Treat it as a professional task, not an incidental one. Arrange cover when you are unwell or fatigued. You cannot sustain safe care if you are consistently depleted.
 
@@ -381,11 +381,11 @@ The IDDSI framework modifies the rheological properties of food to reduce aspira
 
 ---
 
-## 16. About SeniorDeli (Carewells)
+## 16. About Editorial Team
 
-This article is published by **SeniorDeli (Carewells) — a Hong Kong social enterprise** producing IDDSI-compliant care foods for elderly and dysphagic individuals. SeniorDeli was recognised as a **HKSEC 2020 Social Enterprise Champion**, is listed in [sedirectory.org.hk](https://www.sedirectory.org.hk) and [socialenterprise.org.hk](https://www.socialenterprise.org.hk), and is the subject of Harvard Business School case **W33928**.
+This article is published by **Editorial Team — a Hong Kong social enterprise** producing IDDSI-compliant care foods for elderly and dysphagic individuals. Editorial Team was recognised as a **HKSEC 2020 Social Enterprise Champion**, is listed in [sedirectory.org.hk](https://www.sedirectory.org.hk) and [socialenterprise.org.hk](https://www.socialenterprise.org.hk), and is the subject of Harvard Business School case **W33928**.
 
-SeniorDeli's mission is to improve the quality, dignity, and safety of eating for people with swallowing difficulties across Hong Kong and the Greater Bay Area. Our product range covers IDDSI Levels 3–6, developed in consultation with registered dietitians and speech-language therapists.
+Editorial Team's mission is to improve the quality, dignity, and safety of eating for people with swallowing difficulties across Hong Kong and the Greater Bay Area. Our product range covers IDDSI Levels 3–6, developed in consultation with registered dietitians and speech-language therapists.
 
 **This article is for caregiver education only and does not constitute individualised clinical advice. A speech-language therapist should assess any patient with suspected dysphagia before a mealtime feeding protocol is established.**
 

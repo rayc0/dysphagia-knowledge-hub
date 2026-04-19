@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者的營養不良篩查與管理：MNA與MUST工具實踐"
 description: "詳細說明MNA與MUST兩大篩查工具的評分方法及臨床應用，探討營養不良與吞嚥困難的惡性循環，提供分級干預方案，附香港及台灣地區營養師資源。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: zh-hant
 category: nutrition
 last_updated: "2026-04-19"

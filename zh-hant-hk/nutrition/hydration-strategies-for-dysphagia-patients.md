@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者的補水策略：香港實用指南"
 description: "針對香港吞嚥困難患者的全面補水指南：為何濃稠流質會減少飲水量、每日30 mL/kg目標計算、早期脫水徵兆檢查清單、IDDSI 0–4級流質比較表、香港水啫喱選擇、電解質產品及醫院管理局病房補水協議。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-04-19"

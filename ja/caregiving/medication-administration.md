@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者の服薬管理：錠剤の粉砕・簡易懸濁法・代替剤形"
 description: "嚥下困難な患者への安全な服薬方法、錠剤粉砕の可否判断、簡易懸濁法の手順、OD錠・液剤・貼付剤など代替剤形の選択を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "연하장애 환자를 위한 경구 영양 보충제(ONS) 가이드: 선택, 점도 조절 및 임상 활용"
 description: "연하장애 환자의 경구 영양 보충제(ONS) 완전 가이드 — 고에너지 ONS 제품 비교, IDDSI 기준 점도 조정, 질환별 특수 포뮬라 선택, 구미 피로 관리 및 경관 영양으로의 전환 기준"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "nutrition"
 last_updated: "2026-04-18"

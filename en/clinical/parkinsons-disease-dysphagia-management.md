@@ -4,7 +4,7 @@ description: "Dysphagia affects up to 80% of Parkinson's disease patients and is
 lang: en
 category: clinical
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Margaret Wong
 tags: [Parkinsons, dysphagia, LSVT-LOUD, EMST, levodopa, aspiration-pneumonia]
 ---
 

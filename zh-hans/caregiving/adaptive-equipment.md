@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍辅助餐具完全指南：Provale杯、防洒碗与适应性餐具选择"
 description: "吞咽障碍患者辅助餐具与适应性设备指南 — Provale杯与切缺杯的控流原理、防洒碗与分格餐盘功能、加重勺叉适用人群、弯曲吸管与吸管夹使用技巧，以及各类辅具的IDDSI适用等级对照"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-18"

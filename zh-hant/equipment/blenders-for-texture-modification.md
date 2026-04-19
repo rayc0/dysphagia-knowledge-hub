@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難照顧者必知：攪拌機選購指南與IDDSI質地達標技巧"
 description: "吞嚥困難照顧者完整攪拌機選購指南——5種機型功率比較、IDDSI Level 4七步驟製作、液體添加公式、食物安全規則及香港台灣購買渠道。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hant"
 category: "equipment"
 last_updated: "2026-04-19"

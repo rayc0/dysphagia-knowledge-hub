@@ -1,7 +1,7 @@
 ---
 title: "Presbyphagia vs Disfagia Patologi: Adakah Menelan Lambat Itu Normal Penuaan?"
 description: "Perbezaan antara presbyphagia (perubahan menelan normal akibat penuaan) dan disfagia patologi dalam Bahasa Melayu — perubahan menelan normal pada warga emas, jadual diagnostik 5 faktor, kaitan frailty Fried dan sarcopenic dysphagia, konteks pemakanan warga emas Malaysia, jadual intervensi"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

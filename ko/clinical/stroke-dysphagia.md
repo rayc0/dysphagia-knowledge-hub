@@ -1,7 +1,7 @@
 ---
 title: "뇌졸중 후 연하장애: 선별검사, 흡인 위험, 삼킴 재활 치료"
 description: "뇌졸중 후 연하장애 완전 가이드（한국어）— 뇌졸중 환자의 연하장애 발생률(급성기 50-70%), GUSS/3oz 물 검사 선별검사 방법, 침묵 흡인(Silent Aspiration) 기전, 흡인성 폐렴 예방, 삼킴 치료 기법(Shaker/Effortful/Mendelsohn/Masako), 뇌졸중 위치별 예후 차이, IDDSI 식이 조정, 언어재활사 의뢰 시기"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Latihan Terapi Menelan untuk Disfagia: Panduan Lengkap bagi Pesakit dan Penjaga"
 description: "Panduan latihan terapi menelan disfagia Bahasa Melayu — 5 latihan klinikal utama (Mendelsohn Manoeuvre, Shaker Exercise, EMST, Effortful Swallow, Supraglottic Swallow), bukti klinikal, jadual frekuensi, panduan khusus untuk strok, Parkinson, sarkopenia dan ALS, akses ahli patologi pertuturan Malaysia JKN/MySJ"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

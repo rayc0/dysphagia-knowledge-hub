@@ -1,7 +1,7 @@
 ---
 title: "口腔乾燥症（ドライマウス）と嚥下障害：唾液減少が誤嚥リスクに与える影響と対策"
 description: "口腔乾燥症（ドライマウス・口渇）が嚥下障害に与える影響と対策の完全ガイド — 唾液の嚥下機能への役割（食塊形成・潤滑・口腔清潔）、口腔乾燥の原因（薬剤性/放射線後/シェーグレン症候群/加齢性）、口腔乾燥を引き起こす薬剤リスト（抗コリン薬/抗ヒスタミン薬/利尿薬）、唾液代替製品の比較、保湿ケアプロトコル、頸部放射線後の嚥下リハビリ"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -89,4 +89,4 @@ canonical: "https://softmeal.org/ja/clinical/xerostomia-and-dysphagia"
 
 *本記事は医療情報の提供を目的としており、個別の診断・治療の代替とはなりません。薬剤の変更や口腔乾燥症の管理については担当医・歯科医・薬剤師にご相談ください。*
 
-*ライセンス：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — SeniorDeli (Carewells)*
+*ライセンス：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Editorial Team*

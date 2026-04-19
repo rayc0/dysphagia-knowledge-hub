@@ -1,7 +1,7 @@
 ---
 title: "IDDSI3レベル（中程度の濃さの液体）完全ガイド：臨床適応症・増粘剤計量・脱水予防"
 description: "IDDSI Level 3（Moderately Thick，中程度の濃さ）完全ガイド（日本語）— 3レベル液体の物理的特性とスプーン傾斜テスト方法、2レベルとの違い、咽頭期遅延重症患者への適応症、国内増粘剤（トロミパーフェクト・トロミアップ・ソフティア）3レベル計量指針、患者受容性向上策、脱水予防戦略"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "iddsi"
 canonical: "https://softmeal.org/ja/iddsi/iddsi-level-3-moderately-thick-guide"

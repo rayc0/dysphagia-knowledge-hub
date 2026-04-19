@@ -1,7 +1,7 @@
 ---
 title: "Perspektif Perubatan Tradisional Cina terhadap Disfagia: Akupunktur dan Pendekatan Integratif"
 description: "Artikel ini menjelaskan kerangka TCM dalam memahami disfagia (噎膈), bukti akupunktur untuk disfagia pasca-strok, formula herba Cina, dan cara mengintegrasikan rawatan TCM dengan terapi pertuturan konvensional dalam konteks Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

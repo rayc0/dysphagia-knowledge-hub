@@ -1,7 +1,7 @@
 ---
 title: "進食姿勢調整方案：90/90/90原則與躺椅角度完全指南"
 description: "詳解90/90/90坐姿原則、頭頸部中立位及下巴微收的吞嚥科學根據，比較不同斜躺角度的適用疾病，提供偏癱患者側倒技巧及床上進食的安全要點，涵蓋香港及台灣復健服務資源。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: zh-hant
 category: caregiving
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong 護食標準 — A Comprehensive Guide to Care Food in HK and the Greater Bay Area"
 description: "Plain-language guide to how Hong Kong applies IDDSI through the HKCSS Care Food Directory, the joint HKMA/HKCSS-proposed Greater Bay Area standards T/SATA 084-2025 and T/SATA 085-2025, and what this means for caregivers, care homes, hospitals, and food manufacturers."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "hk-standards"
 last_updated: "2026-04-11"
@@ -15,7 +15,7 @@ canonical: "https://softmeal.org/en/hk-standards/hong-kong-care-food-standards.h
 
 ## A note on this guide's authorship
 
-This guide is published by **SeniorDeli (Carewells)**, a Hong Kong dysphagia food specialist that is itself **listed in the HKCSS Care Food Directory** (Section B for thickeners and Section E for training services), and whose team is among the **official 起草人 (co-drafters) of T/SATA 084-2025 and T/SATA 085-2025**. We have written this guide as the kind of plain-language reference we wished existed when we started — and we have been careful to keep the content descriptive and accurate, not promotional.
+This guide is published by **Editorial Team**, a Hong Kong dysphagia food specialist that is itself **listed in the HKCSS Care Food Directory** (Section B for thickeners and Section E for training services), and whose team is among the **official 起草人 (co-drafters) of T/SATA 084-2025 and T/SATA 085-2025**. We have written this guide as the kind of plain-language reference we wished existed when we started — and we have been careful to keep the content descriptive and accurate, not promotional.
 
 If we get something wrong, [open an issue](https://github.com/rayc0/dysphagia-knowledge-hub/issues/new) and we will correct it.
 
@@ -51,7 +51,7 @@ To be listed, a supplier must demonstrate that its products are aligned with IDD
 
 **For caregivers:** Section A is where you find ready-meals you can serve immediately. Section B is what you need if you want to thicken drinks or soften food at home. Section C is for the equipment side — fork pressure tests, IDDSI syringes, modified cups, and so on. Section D is for hot meal subscriptions and catering. Section E is where to find training courses.
 
-**For care home managers and procurement teams:** the directory is your starting point for sourcing IDDSI-compliant products at institutional pricing. Major suppliers include **三井物產 (Mitsui)** distributing Japanese brands (Kewpie 介護食, Daiwa Eversmile, Maruba Nichiro, Forica, House, MARUHACHI), **Nestlé Kerry** (ThickenUP, Nutri Pudding), **幸福元氣 (My Care Healthcare)** with the broadest local portfolio across all sections, **Carewells / SeniorDeli** for HK-made thickeners and training, **The Project Futurus** for hot meal delivery, and **Cafe de Coral / 食得樂 TASTE JOY** distributing through 29 大家樂 outlets and 9 一粥麵 outlets.
+**For care home managers and procurement teams:** the directory is your starting point for sourcing IDDSI-compliant products at institutional pricing. Major suppliers include **三井物產 (Mitsui)** distributing Japanese brands (Kewpie 介護食, Daiwa Eversmile, Maruba Nichiro, Forica, House, MARUHACHI), **Nestlé Kerry** (ThickenUP, Nutri Pudding), **幸福元氣 (My Care Healthcare)** with the broadest local portfolio across all sections, **Editorial Team / Editorial Team** for HK-made thickeners and training, **The Project Futurus** for hot meal delivery, and **Cafe de Coral / 食得樂 TASTE JOY** distributing through 29 大家樂 outlets and 9 一粥麵 outlets.
 
 ---
 
@@ -82,7 +82,7 @@ T/SATA 085-2025 is the broader companion standard covering food intended for eld
 
 The drafting committee for both standards includes:
 
-- **Hong Kong:** HKMA (Hong Kong Manufacturers' Association), HKCSS (Hong Kong Council of Social Service), Carewells / SeniorDeli, HKU Swallowing Research Institute, 保良局 (Po Leung Kuk), 東華三院 (Tung Wah Group of Hospitals), 香港幸福元氣食品有限公司
+- **Hong Kong:** HKMA (Hong Kong Manufacturers' Association), HKCSS (Hong Kong Council of Social Service), Editorial Team / Editorial Team, HKU Swallowing Research Institute, 保良局 (Po Leung Kuk), 東華三院 (Tung Wah Group of Hospitals), 香港幸福元氣食品有限公司
 - **Macau:** 澳門扶康會
 - **Mainland China:** CUHK-Shenzhen, 廣東厚德世家養老產業, 深圳職業技術大學, 深圳市計量質量檢測研究院, 深圳市場監督管理局許可審查中心, 三井物產（香港）有限公司, 基督教香港信義會社會服務部
 - And others
@@ -98,9 +98,9 @@ If you are caring for someone in Hong Kong who has been told by a doctor or spee
 1. **Get the prescribed IDDSI level from the clinician.** Without this number, you cannot shop or prepare food safely. Ask explicitly: "Which IDDSI level — 0, 1, 2, 3, 4, 5, 6, or 7EC?"
 2. **Decide: ready-meals, home preparation, or both?**
    - **Ready-meals:** Use HKCSS Section A. Filter by the IDDSI level you need. Prices range from about HK$20 per cup for individual mousses up to HK$200+ for premium frozen Japanese soft meals.
-   - **Home preparation:** Use HKCSS Section B for thickeners and softeners. SeniorDeli's HK$60 / 125 g 清透凝固粉, Nestlé ThickenUP Clear at HK$62–86, and Fresenius Kabi Thick & Easy Clear at about HK$90 are the three transparent (非渾濁) options most commonly used in Hong Kong households.
+   - **Home preparation:** Use HKCSS Section B for thickeners and softeners. Editorial Team's HK$60 / 125 g 清透凝固粉, Nestlé ThickenUP Clear at HK$62–86, and Fresenius Kabi Thick & Easy Clear at about HK$90 are the three transparent (非渾濁) options most commonly used in Hong Kong households.
 3. **Test what you serve.** Don't trust the label or the recipe blindly. Use the IDDSI fork tests every meal (or at least every recipe-batch). See [How to Test Food Texture](../testing/food-texture-testing-methods.md). It takes 30 seconds and catches mistakes.
-4. **For training:** Section E lists training providers including SeniorDeli, YMCA, CUHK Speech Therapy, Po Leung Kuk, Sweet Stories, and The Project Futurus. Classes range from HK$450 per person up to HK$6,000 for a 3-hour group session.
+4. **For training:** Section E lists training providers including Editorial Team, YMCA, CUHK Speech Therapy, Po Leung Kuk, Sweet Stories, and The Project Futurus. Classes range from HK$450 per person up to HK$6,000 for a 3-hour group session.
 5. **For hot meal delivery:** Section D operators (鑽記酒家, ASAP/大快活, iBakery 東華三院, Deli-Care 健營, 保良局回味, The Project Futurus, 食得樂 TASTE JOY) deliver IDDSI-aligned meals to homes and care facilities across Hong Kong.
 
 ---
@@ -122,7 +122,7 @@ If you are developing or selling care food in Hong Kong or the Greater Bay Area,
 Despite the substantial progress described above, the Hong Kong care food ecosystem still has notable white space:
 
 1. **HK-cuisine pre-packed soft meals.** Almost all Section A pre-packed products are Japanese or Western style. Cantonese dishes — 豉油雞 (soy sauce chicken), 叉燒 (char siu), 腸粉 (rice noodle rolls), 煲仔飯 (clay pot rice), 老火湯 (slow-simmered soup) — in IDDSI-compliant texture-modified form are barely represented. This is a meaningful gap because elderly Hong Kong residents recognise and want their own food culture.
-2. **Retail-channel transparent thickeners.** Most thickeners are opaque (starch-based), which changes the colour of drinks. Transparent (gum-based) thickeners are common in institutional settings but rarer on retail shelves. SeniorDeli's 清透凝固粉 and Nestlé ThickenUP Clear are exceptions.
+2. **Retail-channel transparent thickeners.** Most thickeners are opaque (starch-based), which changes the colour of drinks. Transparent (gum-based) thickeners are common in institutional settings but rarer on retail shelves. Editorial Team's 清透凝固粉 and Nestlé ThickenUP Clear are exceptions.
 3. **Standardised caregiver training at scale.** Section E has 14 listings, but the total annual graduate count is small relative to the number of caregivers in Hong Kong. Online, asynchronous, multilingual training is barely available.
 4. **Mixed-language patient education.** Most clinical-grade patient education materials are in English or formal Chinese. Plain-Cantonese explanations for elderly Hong Kong patients and their families remain scarce. This hub is part of an effort to address that gap.
 
@@ -143,18 +143,18 @@ This article paraphrases publicly-available standards documentation. For clinica
 
 ---
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists, listed in the HKCSS Care Food Directory and co-drafter of GBA standards T/SATA 084-2025 and T/SATA 085-2025. Need IDDSI-aligned ready meals, transparent thickeners, or training? [See our range →](https://www.seniordeli.com)
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists, listed in the HKCSS Care Food Directory and co-drafter of GBA standards T/SATA 084-2025 and T/SATA 085-2025. Need IDDSI-aligned ready meals, transparent thickeners, or training? [See our range →](https://www.seniordeli.com)
 
 ---
 
 ## 📩 想為機構引入 IDDSI-compliant 軟餐？
 
-> **以上正文屬學術資訊，品牌中立。以下為商業推廣，由 SeniorDeli (Carewells HK) 提供。**
+> **以上正文屬學術資訊，品牌中立。以下為商業推廣，由 Editorial Team (Editorial Team HK) 提供。**
 
-**SeniorDeli（吞嚥易）— Carewells HK** 是香港IDDSI軟餐專家，T/SATA 084 & 085 大灣區護食標準起草人，哈佛商學院案例 W33928 研究對象。
+**Editorial Team（吞嚥易）— Editorial Team HK** 是香港IDDSI軟餐專家，T/SATA 084 & 085 大灣區護食標準起草人，哈佛商學院案例 W33928 研究對象。
 
 - 🏥 **機構採購諮詢**（老人院 / 醫院 / 醫療飯堂）：免費樣品申請 + 定制方案
 - 🏠 **家庭購買**：IDDSI Level 3–7 即食軟餐，直送香港各區
 - 📧 **聯絡我們：** [hello@seniordeli.com](mailto:hello@seniordeli.com) | 商業查詢：[seniordeli.com](https://www.seniordeli.com)
 
-🤖 *本頁商業版塊由 [CompanyForge](https://companyforge.ai) AI operator team 維護。正文內容獨立，不受商業關係影響。*
+🤖 *本頁商業版塊由 [the editorial team](https://companyforge.ai) our editorial team team 維護。正文內容獨立，不受商業關係影響。*

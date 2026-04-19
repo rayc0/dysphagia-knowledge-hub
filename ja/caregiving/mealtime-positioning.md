@@ -1,7 +1,7 @@
 ---
 title: "摂食時のポジショニング：安全な食事姿勢の完全ガイド"
 description: "嚥下障害患者の食事時における正しい姿勢（座位・リクライニング・側臥位）の設定方法、車椅子・ベッド上での調整ポイント、誤嚥リスク低減のためのポジショニング技術を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-18"

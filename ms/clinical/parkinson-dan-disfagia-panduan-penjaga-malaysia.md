@@ -1,7 +1,7 @@
 ---
 title: "Penyakit Parkinson dan Disfagia — Panduan Lengkap untuk Penjaga di Malaysia"
 description: "Panduan klinikal tentang masalah menelan (disfagia) dalam penyakit Parkinson: punca, tahap IDDSI, strategi penjagaan, masa ubat levodopa, dan tanda amaran untuk penjaga Malaysia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-18"
@@ -337,4 +337,4 @@ Artikel ini meringkaskan maklumat daripada sumber awam yang tersedia secara beba
 
 ---
 
-**Tarikh kemaskini:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggarakan oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan mematuhi IDDSI untuk individu yang hidup dengan disfagia. Halaman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami. Pertanyaan perdagangan: hello@seniordeli.com
+**Tarikh kemaskini:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggarakan oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan mematuhi IDDSI untuk individu yang hidup dengan disfagia. Halaman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami. Pertanyaan perdagangan: hello@seniordeli.com

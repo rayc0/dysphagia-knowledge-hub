@@ -1,7 +1,7 @@
 ---
 title: "嚥下困難患者の夜間経管栄養安全プロトコル：逆流防止と夜間モニタリング"
 description: "夜間経管栄養のリスクを最小化するためのベッド角度管理・注入速度設定・SpO₂モニタリング・訪問看護連携のプロトコルを解説します。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

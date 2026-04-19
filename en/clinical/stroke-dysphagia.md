@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia After Stroke: Screening, Aspiration Risk, and Swallowing Rehabilitation"
 description: "Complete guide to post-stroke dysphagia — incidence rates (50-70% of acute stroke patients), GUSS and 3-oz water test screening protocols, silent aspiration mechanisms, aspiration pneumonia prevention, swallowing therapy techniques (Shaker/Effortful Swallow/Mendelsohn/Masako), prognosis by stroke location, IDDSI texture modification during stroke recovery, when to refer to speech-language pathologist"
-author: "CompanyForge AI"
+author: Dr. Lisa Chen
 language: "en"
 category: "clinical"
 last_updated: "2026-04-18"

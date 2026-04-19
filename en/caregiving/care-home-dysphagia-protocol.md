@@ -4,7 +4,7 @@ description: "A ready-to-adopt dysphagia management protocol for care homes, nur
 lang: en
 category: caregiving
 date: 2026-04-14
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 ---
 
 # Care Home Dysphagia Protocol — A Practical Operational Guide for Residential Facilities
@@ -271,7 +271,7 @@ The worst protocol is the one that is too ambitious to implement, sits in a bind
 
 ---
 
-*This article is part of the [SeniorDeli Dysphagia Knowledge Hub](/), a free public resource from Carewells Limited (華瓏有限公司), a Hong Kong social enterprise providing texture-modified care food for elderly with swallowing difficulties. We publish operational guidance because we work with care homes and see the difference good protocols make for residents and families. This article is for general guidance and should be adapted to local regulatory requirements, facility size, and resident populations — please consult your SLT consultant and facility manager for implementation.*
+*This article is part of the [Editorial Team Dysphagia Knowledge Hub](/), a free public resource from Editorial Team Limited (華瓏有限公司), a Hong Kong social enterprise providing texture-modified care food for elderly with swallowing difficulties. We publish operational guidance because we work with care homes and see the difference good protocols make for residents and families. This article is for general guidance and should be adapted to local regulatory requirements, facility size, and resident populations — please consult your SLT consultant and facility manager for implementation.*
 
 ## Related articles
 

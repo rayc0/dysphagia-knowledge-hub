@@ -1,7 +1,7 @@
 ---
 title: "Resepi Lauk Lembut IDDSI Tahap 5–6 untuk Pesakit Disfagia: Ikan, Ayam, Tauhu, dan Sayur"
 description: "Resepi lauk lembut IDDSI Tahap 5 dan 6 untuk pesakit disfagia (Bahasa Melayu) — ikan kukus hancur, ayam masak slow-cooker, tauhu masak kicap lembut, sayur campur dipotong kecil, cara menguji tekstur ≤4mm (Tahap 5) dan ≤15mm (Tahap 6), cara menjaga rasa Melayu dalam lauk bertekstur ubahsuai, nilai pemakanan setiap resepi"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "recipes"
 last_updated: "2026-04-18"

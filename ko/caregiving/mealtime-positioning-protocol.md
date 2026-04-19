@@ -1,7 +1,7 @@
 ---
 title: "식사 시 포지셔닝 프로토콜: 흡인을 예방하는 자세 조정 완전 가이드"
 description: "흡인을 최소화하는 식사 시 포지셔닝의 과학적 근거와 실천 절차. 90/90/90 원칙·리클라이닝 각도 비교·옆으로 삼키기·식후 안정까지 재활의학과·작업치료사 협업 시각으로 체계적 해설."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

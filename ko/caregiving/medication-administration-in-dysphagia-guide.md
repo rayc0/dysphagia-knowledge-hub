@@ -1,7 +1,7 @@
 ---
 title: "연하장애 환자 투약 관리: 분쇄 금기 약물과 대체 제형 가이드"
 description: "연하장애 환자에게 안전하게 약물을 투여하기 위한 분쇄 금기 약물 목록, 증점제 젤리 혼합 기법, 대체 제형 선택 방법을 약사 감수 아래 안내합니다."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

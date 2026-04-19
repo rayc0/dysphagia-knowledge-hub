@@ -1,7 +1,7 @@
 ---
 title: "食道性吞嚥困難：病因、內窺鏡評估與治療方案"
 description: "系統介紹食道性吞嚥困難的結構性與蠕動性病因、緊急胃鏡紅旗徵象，以及香港和台灣的內窺鏡轉介與治療路徑。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

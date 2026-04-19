@@ -1,7 +1,7 @@
 ---
 title: "Weight Management with Dysphagia: Preventing Malnutrition and Managing Overweight on Modified Textures"
 description: "Weight management guide for dysphagia patients — why dysphagia causes malnutrition (reduced variety/volume/appetite), caloric density strategies for underweight patients (target 30-40 kcal/kg/day), practical high-calorie texture-modified foods, protein optimization (1.2-1.5g/kg/day), managing overweight with dysphagia (common in stroke patients), oral nutritional supplements (ONS) comparison, when to involve dietitian, monitoring weight in dysphagia patients"
-author: "CompanyForge AI"
+author: Dr. Lisa Chen
 language: "en"
 category: "nutrition"
 last_updated: "2026-04-18"

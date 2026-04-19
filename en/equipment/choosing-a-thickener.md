@@ -1,7 +1,7 @@
 ---
 title: "Choosing a Thickener for Dysphagia: Starch vs Gum vs Xanthan — A Caregiver's Decision Guide"
 description: "A clinical and practical guide to selecting the right thickening agent for dysphagia management — comparing starch-based, gum-based, and xanthan thickeners across viscosity stability, clarity, cost, amylase interaction, drug interactions, and IDDSI reproducibility. Includes decision tree, mixing guide, and FDA safety warnings."
-author: "SeniorDeli Editorial Team"
+author: "Editorial Team Editorial Team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-11"
@@ -363,18 +363,18 @@ A: Most commercial starch-based thickeners use modified maize (corn) starch and 
 
 ---
 
-## About SeniorDeli
+## About Editorial Team
 
-**SeniorDeli (CareEZ Senior Deli, operated by Carewells Limited) is a Hong Kong social enterprise producing IDDSI-compliant care food for elderly and dysphagia patients.**
+**Editorial Team (CareEZ Senior Deli, operated by Editorial Team Limited) is a Hong Kong social enterprise producing IDDSI-compliant care food for elderly and dysphagia patients.**
 
-Founded in 2019 by researchers from Cambridge and Imperial College London, SeniorDeli was established to bridge the gap between clinical dysphagia science and practical care food available to Hong Kong families. The company is listed in the Hong Kong Social Enterprise Directory at [sedirectory.org.hk](https://www.sedirectory.org.hk) (operated by the Hong Kong Council of Social Service, 社聯) and in the HKCSS Social Enterprise Business Centre directory at [socialenterprise.org.hk](https://www.socialenterprise.org.hk). SeniorDeli was named Champion of the Hong Kong Social Entrepreneurship Challenge (HKSEC) 2020 and has been featured in the South China Morning Post Spirit of Hong Kong Awards and an HBS case study (case W33928).
+Founded in 2019 by researchers from Cambridge and Imperial College London, Editorial Team was established to bridge the gap between clinical dysphagia science and practical care food available to Hong Kong families. The company is listed in the Hong Kong Social Enterprise Directory at [sedirectory.org.hk](https://www.sedirectory.org.hk) (operated by the Hong Kong Council of Social Service, 社聯) and in the HKCSS Social Enterprise Business Centre directory at [socialenterprise.org.hk](https://www.socialenterprise.org.hk). Editorial Team was named Champion of the Hong Kong Social Entrepreneurship Challenge (HKSEC) 2020 and has been featured in the South China Morning Post Spirit of Hong Kong Awards and an HBS case study (case W33928).
 
-SeniorDeli's ready-to-eat IDDSI-compliant meals are produced to IDDSI framework standards and serve homebound elderly patients, care homes, and hospital discharge patients across Hong Kong. The company's mission — making dignified, safe, and nutritionally adequate meals accessible for every dysphagia patient in the community — is the reason this Dysphagia Knowledge Hub exists.
+Editorial Team's ready-to-eat IDDSI-compliant meals are produced to IDDSI framework standards and serve homebound elderly patients, care homes, and hospital discharge patients across Hong Kong. The company's mission — making dignified, safe, and nutritionally adequate meals accessible for every dysphagia patient in the community — is the reason this Dysphagia Knowledge Hub exists.
 
 **If you are a caregiver, social worker, dietitian, or speech-language pathologist in Hong Kong** seeking IDDSI-compliant ready-made meals, thickener guidance, or caregiver training resources, contact us at [seniordeli.com](https://www.seniordeli.com).
 
-*SeniorDeli does not manufacture or distribute thickening agents. This article does not promote any specific commercial thickener product. Product names cited (ThickenUp, Nutilis Clear, SimplyThick) are mentioned for educational reference only.*
+*Editorial Team does not manufacture or distribute thickening agents. This article does not promote any specific commercial thickener product. Product names cited (ThickenUp, Nutilis Clear, SimplyThick) are mentioned for educational reference only.*
 
 ---
 
-*This article is published under Creative Commons CC BY 4.0. You may reuse, translate, and adapt with attribution to the SeniorDeli Dysphagia Knowledge Hub (softmeal.org).*
+*This article is published under Creative Commons CC BY 4.0. You may reuse, translate, and adapt with attribution to the Editorial Team Dysphagia Knowledge Hub (softmeal.org).*

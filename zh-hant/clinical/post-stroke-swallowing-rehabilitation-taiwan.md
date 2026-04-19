@@ -1,7 +1,7 @@
 ---
 title: "中風後吞嚥訓練完整指南 — 復健時程、再評估時機與關鍵訓練動作（台灣臨床版）"
 description: "依 2024 台灣腦中風學會吞嚥障礙照護指引整理：急性期篩檢、VFSS 時機、孟德森手法、Shaker 運動、鼻胃管移除條件與長照 2.0 服務。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-14"
@@ -160,4 +160,4 @@ canonical: "https://softmeal.org/zh-hant/clinical/post-stroke-swallowing-rehabil
 
 ---
 
-**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 香港社會企業，專注生產符合 IDDSI 標準的吞嚥障礙照護食品。本頁僅供教育用途；商業或機構合作請見 [About](/about)。
+**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — 香港社會企業，專注生產符合 IDDSI 標準的吞嚥障礙照護食品。本頁僅供教育用途；商業或機構合作請見 [About](/about)。

@@ -4,7 +4,7 @@ description: "Comprehensive guide to the EAT-10 dysphagia screening questionnair
 lang: en
 category: testing
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Dr. Lisa Chen
 tags:
   - EAT-10
   - dysphagia screening

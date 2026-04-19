@@ -1,7 +1,7 @@
 ---
 title: "Strategi Penghidratan dengan Cecair Pekat: Mencegah Dehidrasi pada Pesakit Disfagia"
 description: "Panduan klinikal mencegah dehidrasi pada pesakit disfagia yang menggunakan cecair pekat — keperluan harian, tanda amaran, alternatif penghidratan dan produk yang tersedia di Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

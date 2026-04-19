@@ -1,7 +1,7 @@
 ---
 title: "연하장애 환자의 영양불량 선별과 관리: MNA-SF, 체중 모니터링과 중재 원칙"
 description: "연하장애 환자 영양불량 관리 완전 가이드 — MNA-SF(Mini Nutritional Assessment Short Form) 선별 도구 사용법, 연하장애 특이적 영양불량 위험 요인, 체중·근육량 모니터링 기준, 경구 영양보충(ONS) 시작 지표, 경관식 고려 시점, 한국 의료 현장의 영양지원팀(NST) 활용"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "nutrition"
 last_updated: "2026-04-18"

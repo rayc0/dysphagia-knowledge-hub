@@ -4,7 +4,7 @@ description: "Evidence-based guide for administering medication to patients with
 lang: en
 category: caregiving
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Susan Tam
 tags:
   - medication
   - pill crushing

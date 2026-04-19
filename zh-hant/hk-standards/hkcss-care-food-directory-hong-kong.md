@@ -1,7 +1,7 @@
 ---
 title: "香港社聯照護食目錄 — 照顧者點樣搵啱嘅護食產品"
 description: "實用指南：用社聯 carefood.org.hk 照護食目錄搵適合吞嚥困難長者嘅預先包裝食品、增稠粉、軟餐到會同培訓服務。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hant"
 category: "hk-standards"
 last_updated: "2026-04-16"
@@ -153,7 +153,7 @@ canonical: "https://softmeal.org/zh-hant/hk-standards/hkcss-care-food-directory-
 
 | 渠道 | 例子 | 適合邊啲人 |
 |---|---|---|
-| 社企直銷 | SeniorDeli（seniordeli.com）、保良局「回味」、幸福元氣 | 家庭照顧者、小量購買 |
+| 社企直銷 | Editorial Team（seniordeli.com）、保良局「回味」、幸福元氣 | 家庭照顧者、小量購買 |
 | 醫療器材店 | Kerry Medical（代理 Nestlé ThickenUP 系列） | 經醫護推薦購買 |
 | 日本品牌代理 | 三井物產（代理 Kewpie、Maruha Nichiro、Precise 等） | 院舍大量採購 |
 | 連鎖快餐 | 大家樂、一粥麵（有食得樂 TASTE JOY 軟餐發售） | 外出食飯、方便快捷 |
@@ -218,4 +218,4 @@ canonical: "https://softmeal.org/zh-hant/hk-standards/hkcss-care-food-directory-
 
 ---
 
-**最後更新：** 2026-04-16 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli（Carewells）](https://www.seniordeli.com) 維護** —— 一間香港社會企業，專注生產符合 IDDSI 標準嘅照護食品，服務有吞嚥困難嘅人士。本頁面僅供教育用途；詳見[關於我哋](/about)了解我哋嘅臨床合作夥伴同社會使命。
+**最後更新：** 2026-04-16 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team（Editorial Team）](https://www.seniordeli.com) 維護** —— 一間香港社會企業，專注生產符合 IDDSI 標準嘅照護食品，服務有吞嚥困難嘅人士。本頁面僅供教育用途；詳見[關於我哋](/about)了解我哋嘅臨床合作夥伴同社會使命。

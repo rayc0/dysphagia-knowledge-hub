@@ -4,7 +4,7 @@ description: "Comprehensive guide for family and professional caregivers on reco
 lang: en
 category: caregiving
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Margaret Wong
 tags:
   - mealtime safety
   - choking

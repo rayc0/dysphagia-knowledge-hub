@@ -1,7 +1,7 @@
 ---
 title: "연하 재활 운동 완전 가이드: 언어재활사 감수 연하 훈련 운동법"
 description: "연하장애(삼킴장애) 재활 운동의 완전 가이드 — 멘델슨 기법·샤커 운동·EMST 호흡근 훈련·노력 삼킴의 올바른 실시 방법과 근거, 언어재활사(SLP) 지도 집중 훈련과 가정 자가 훈련의 구분, 노인장기요양 방문재활 활용, 질환별 권장 프로그램(뇌졸중/파킨슨병/근감소성 연하장애)"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"

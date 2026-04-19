@@ -1,7 +1,7 @@
 ---
 title: "失智症吞嚥障礙：分期照護、進食拒絕與管灌決策指南"
 description: "失智症患者吞嚥障礙的分期特徵、BPSD行為對進食的影響、環境調整與質感飲食策略，以及管灌營養的倫理決策框架"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-18"

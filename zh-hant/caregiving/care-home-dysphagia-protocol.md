@@ -1,7 +1,7 @@
 ---
 title: "安養院吞嚥困難護理方案：從入院篩查到員工培訓的完整指引"
 description: "為安養院及院舍提供吞嚥困難管理的完整指引，涵蓋入院篩查流程、IDDSI員工培訓、護理計劃模板、進食觀察清單及SLP協作模式，附香港及台灣法規要求。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: zh-hant
 category: caregiving
 last_updated: "2026-04-19"

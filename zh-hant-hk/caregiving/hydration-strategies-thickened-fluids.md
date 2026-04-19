@@ -1,7 +1,7 @@
 ---
 title: "增稠飲品與水分補充策略：吞嚥困難患者脫水預防指南"
 description: "吞嚥困難患者使用增稠飲品時的脫水風險管理，包括每日30 mL/kg目標、早期脫水徵兆檢查清單、水啫喱及IDDSI Level 3選擇、香港院舍每小時飲水時間表，以及醫管局病房補水協議。"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-04-19"
@@ -242,4 +242,4 @@ canonical: "https://softmeal.org/zh-hant-hk/caregiving/hydration-strategies-thic
 
 ---
 
-*本文件由SeniorDeli (Carewells)編制，供香港安老院舍及居家照顧人員參考使用。如有疑問，請諮詢註冊言語治療師或醫生。*
+*本文件由Editorial Team編制，供香港安老院舍及居家照顧人員參考使用。如有疑問，請諮詢註冊言語治療師或醫生。*

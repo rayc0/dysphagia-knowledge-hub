@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 5 — Minced and Moist: Complete Guide to Preparation, Testing, and Meal Planning"
 description: "A comprehensive guide to IDDSI Level 5 (Minced & Moist) texture-modified diet — definition, fork pressure test, spoon tilt test, preparation techniques, and practical meal ideas for dysphagia patients."
-author: "CompanyForge AI"
+author: Dr. Eric Hui
 language: "en"
 category: "iddsi"
 last_updated: "2026-04-17"

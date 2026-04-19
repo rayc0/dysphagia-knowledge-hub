@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者口服营养补充品（ONS）完全指南：选择、增稠与临床应用"
 description: "吞咽障碍患者口服营养补充品指南 — 高能量ONS产品比较、IDDSI增稠调整方法、疾病专用配方（肾功能不全、糖尿病）、口感疲劳管理，以及何时升级为管饲营养"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-04-18"

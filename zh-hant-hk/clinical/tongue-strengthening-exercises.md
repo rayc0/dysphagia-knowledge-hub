@@ -1,7 +1,7 @@
 ---
 title: "舌頭肌力訓練：吞嚥障礙的舌部運動指引"
 description: "全面介紹用於治療吞嚥障礙的舌頭肌力訓練，包括IOPI儀器使用、舌壓運動、益子手法、MDTP療程、活動範圍訓練，以及香港言語治療師的處方方式與安老院舍適用運動。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-04-19"

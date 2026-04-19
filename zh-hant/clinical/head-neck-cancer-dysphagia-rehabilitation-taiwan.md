@@ -4,7 +4,7 @@ description: "針對台灣頭頸癌患者與家屬設計的吞嚥障礙復健指
 lang: zh-hant
 category: clinical
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Margaret Wong
 tags:
   - 頭頸癌
   - 吞嚥障礙

@@ -1,7 +1,7 @@
 ---
 title: "Pentadbiran Ubat untuk Pesakit Disfagia: Ubat Larangan Dikisar dan Alternatif"
 description: "Panduan klinikal untuk penjaga tentang ubat yang tidak boleh dikisar, teknik pencampuran dalam jeli OD, cara meminta alternatif daripada farmasis, dan senarai semak pentadbiran ubat yang selamat."
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"
@@ -103,4 +103,4 @@ Pesakit yang mengambil **warfarin** memerlukan perhatian khas:
 
 ---
 
-*Artikel ini disediakan oleh SeniorDeli (Carewells) untuk tujuan pendidikan. Setiap keputusan berkaitan ubat mesti dibuat bersama doktor atau farmasis berdaftar.*
+*Artikel ini disediakan oleh Editorial Team untuk tujuan pendidikan. Setiap keputusan berkaitan ubat mesti dibuat bersama doktor atau farmasis berdaftar.*

@@ -1,25 +1,25 @@
 ---
 title: "GBA Dysphagia Food Standard T/SATA 094-2025 — General Requirements for Dysphagia Food in Elderly Care"
-description: "T/SATA 094-2025 is the first Greater Bay Area group standard specifically for dysphagia food in elderly care settings, issued 2025 by 粵港澳大灣區標準化研究中心. Covers texture classification, nutrition, labelling, and safety requirements. Carewells Limited (SeniorDeli) is a participating drafting unit."
+description: "T/SATA 094-2025 is the first Greater Bay Area group standard specifically for dysphagia food in elderly care settings, issued 2025 by 粵港澳大灣區標準化研究中心. Covers texture classification, nutrition, labelling, and safety requirements. Editorial Team Limited (Editorial Team) is a participating drafting unit."
 lang: en
 category: hk-standards
 date: 2026-04-14
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 ---
 
 # GBA Dysphagia Food Standard T/SATA 094-2025 — General Requirements for Dysphagia Food in Elderly Care
 
 In September 2025, the **Greater Bay Area Standardization Research Centre (粵港澳大灣區標準化研究中心)** issued **T/SATA 094-2025 — General Requirements of Dysphagia Food (Care for Elderly)** (吞咽困難食品（適老照護）通用要求). This is the **first Greater Bay Area group standard written specifically for dysphagia food** — as distinct from the broader elderly-food standards T/SATA 084 and 085 covered [elsewhere on this site](./gba-tsata-standards-manufacturers-guide).
 
-**Carewells Limited (華瓏有限公司)** — the Hong Kong entity behind SeniorDeli / 吞嚥易 — is listed on the certificate as a **Participating Drafting Unit (參編單位)** for this standard.
+**Editorial Team Limited (華瓏有限公司)** — the Hong Kong entity behind Editorial Team / 吞嚥易 — is listed on the certificate as a **Participating Drafting Unit (參編單位)** for this standard.
 
 <figure>
   <a href="/assets/images/credentials/gba-tsata-094-2025-cert.jpg">
     <img src="/assets/images/credentials/gba-tsata-094-2025-cert-thumb.jpg"
-         alt="Greater Bay Area Standards Certificate — T/SATA 094-2025, issued to Carewells Limited as Participating Drafting Unit, dated 25 September 2025"
+         alt="Greater Bay Area Standards Certificate — T/SATA 094-2025, issued to Editorial Team Limited as Participating Drafting Unit, dated 25 September 2025"
          loading="lazy" />
   </a>
-  <figcaption>T/SATA 094-2025 Certificate of Greater Bay Area Standards — Carewells Limited, Participating Drafting Unit, 25 September 2025. Click for full resolution.</figcaption>
+  <figcaption>T/SATA 094-2025 Certificate of Greater Bay Area Standards — Editorial Team Limited, Participating Drafting Unit, 25 September 2025. Click for full resolution.</figcaption>
 </figure>
 
 ## Why this standard matters

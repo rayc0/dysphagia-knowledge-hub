@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者管饲指南：鼻胃管、胃造瘘与空肠造瘘全面解析"
 description: "系统介绍吞咽困难患者管饲选择的临床依据、NGT/PEG/PEJ的适应症与禁忌症、并发症管理及向经口进食过渡的评估流程"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "小儿吞咽障碍：诊断框架、常见病因与多学科干预策略"
 description: "小儿（儿童）吞咽障碍临床综合指南 — 儿童吞咽障碍的常见病因（神经发育障碍·先天性结构异常·早产）、与成人吞咽障碍的关键差异、小儿吞咽评估工具（临床进食评估·VFSS·FEES）、IDDSI质地分级在儿科的应用、家长教育要点，以及中国大陆儿科言语治疗资源"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-18"

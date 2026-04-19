@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙患者自助器具指南：特製杯、湯匙及餐具的選擇與使用"
 description: "吞嚥障礙患者食事輔具完整指南 — Provale杯、鼻型杯、淺底湯匙、防滑餐具的選擇原則，以及為長者和兒童患者推薦的合適器具"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "caregiving"
 last_updated: "2026-04-18"

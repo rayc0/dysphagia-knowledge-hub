@@ -4,7 +4,7 @@ description: "Comprehensive clinical reference on esophageal dysphagia. Covers m
 lang: en
 category: clinical
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Dr. Lisa Chen
 tags:
   - esophageal dysphagia
   - achalasia

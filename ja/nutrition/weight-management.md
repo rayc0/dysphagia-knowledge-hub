@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者の体重管理と低栄養予防：実践的アプローチ"
 description: "嚥下障害患者における体重減少・低栄養のリスク、評価方法（MNA-SF、SGA）、エネルギー密度向上の実践技術、補助栄養食品の選択を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "nutrition"
 last_updated: "2026-04-18"

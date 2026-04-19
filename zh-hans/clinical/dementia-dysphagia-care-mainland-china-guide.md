@@ -4,7 +4,7 @@ description: "针对中国内地家庭照护阿尔茨海默病（老年痴呆）
 lang: zh-hans
 category: clinical
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Susan Tam
 tags:
   - 阿尔茨海默病
   - 老年痴呆

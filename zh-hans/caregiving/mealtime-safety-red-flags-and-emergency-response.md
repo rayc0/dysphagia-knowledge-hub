@@ -1,7 +1,7 @@
 ---
 title: "吞咽困难患者进餐安全警示与紧急处理指南"
 description: "详解吞咽困难患者进餐时的危险信号识别 — 呛咳、湿声、食物残留等警示征兆，以及噎食窒息时的海姆立克急救法操作步骤。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-17"

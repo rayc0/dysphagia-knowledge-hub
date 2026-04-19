@@ -1,7 +1,7 @@
 ---
 title: "연하장애 환자 단백질 최적화 가이드: 근감소증 예방과 상처 회복을 위한 영양 전략"
 description: "연하장애 환자 단백질 필요량 및 최적화 가이드（한국어）— 연하장애와 근감소증(삼킴노쇠)의 연관성, 체중 kg당 단백질 목표량(1.2–1.5g/kg), IDDSI 레벨별 고단백 식품 준비법, 경구영양보충제(뉴케어·그린비아) 단백질 함량 비교, 근육 단백질 합성 최적화를 위한 단백질 분배 전략"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "nutrition"
 last_updated: "2026-04-18"

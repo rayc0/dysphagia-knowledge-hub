@@ -4,7 +4,7 @@ description: "A practical guide for parents and clinicians on pediatric swallowi
 lang: en
 category: clinical
 date: 2026-04-14
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 ---
 
 # Pediatric Dysphagia — IDDSI for Children, Particle Size Limits, and Feeding the Medically Complex Child
@@ -156,7 +156,7 @@ And know that dysphagia in children, unlike in many elderly populations, often h
 
 ---
 
-*This article is part of the [SeniorDeli Dysphagia Knowledge Hub](/), a free public resource from Carewells Limited (華瓏有限公司), a Hong Kong social enterprise providing texture-modified care food for elderly with swallowing difficulties. While our products are designed for adults, we publish free educational content across the full spectrum of dysphagia, including pediatric populations, because better-informed families make better feeding decisions. All revenue from our elderly care food funds research and free educational content like this. We are not a substitute for your medical team — please work with a pediatric speech-language therapist, feeding team, or developmental pediatrician for individual care decisions.*
+*This article is part of the [Editorial Team Dysphagia Knowledge Hub](/), a free public resource from Editorial Team Limited (華瓏有限公司), a Hong Kong social enterprise providing texture-modified care food for elderly with swallowing difficulties. While our products are designed for adults, we publish free educational content across the full spectrum of dysphagia, including pediatric populations, because better-informed families make better feeding decisions. All revenue from our elderly care food funds research and free educational content like this. We are not a substitute for your medical team — please work with a pediatric speech-language therapist, feeding team, or developmental pediatrician for individual care decisions.*
 
 ## Related articles
 

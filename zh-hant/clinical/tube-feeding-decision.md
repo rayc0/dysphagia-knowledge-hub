@@ -1,7 +1,7 @@
 ---
 title: "管飼餵食決策：鼻胃管與胃造口（PEG）的比較與選擇"
 description: "協助患者家屬及臨床團隊理解鼻胃管（NGT）與經皮內視鏡胃造口術（PEG）的適應症、比較分析及文化倫理考量，涵蓋ALS、失智症、中風等疾病指引。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

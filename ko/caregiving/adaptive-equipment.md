@@ -1,7 +1,7 @@
 ---
 title: "연하장애 보조식기 완전 가이드: Provale 컵, 흡착 그릇, 적응형 식기 선택법"
 description: "연하장애 환자를 위한 보조식기 및 적응형 식기 가이드 — Provale 컵과 노즈컵의 유량 조절 원리, 흡착 그릇과 분리 접시, 가중 숟가락과 구부러진 숟가락, 역류 방지 빨대의 IDDSI 등급별 적용 기준 및 국내 구매 정보"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-18"
