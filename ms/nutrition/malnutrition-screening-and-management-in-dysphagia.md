@@ -1,7 +1,7 @@
 ---
 title: "Saringan dan Pengurusan Kekurangan Zat Makanan dalam Disfagia"
 description: "Panduan klinikal saringan dan pengurusan kekurangan zat makanan dalam disfagia — prevalens Malaysia NHMS 2019, MNA 6-item, MUST, kitaran ganas disfagia-malnutrisi, intervensi berperingkat, dan dietitian hospital KKM."
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ms"
 category: "nutrition"
 last_updated: "2026-04-19"
@@ -122,4 +122,4 @@ Pesakit kekurangan zat yang mengambil makanan pada paras IDDSI tertentu perlu me
 
 ---
 
-*Artikel ini disediakan oleh SeniorDeli (Carewells) untuk tujuan pendidikan. Rujukan: NHMS 2019 (Institut Kesihatan Umum, MOH Malaysia); Guigoz Y., "The Mini Nutritional Assessment (MNA) review of the literature — what does it tell us?" *Journal of Nutrition Health Aging*, 2006.*
+*Artikel ini disediakan oleh Editorial Team untuk tujuan pendidikan. Rujukan: NHMS 2019 (Institut Kesihatan Umum, MOH Malaysia); Guigoz Y., "The Mini Nutritional Assessment (MNA) review of the literature — what does it tell us?" *Journal of Nutrition Health Aging*, 2006.*

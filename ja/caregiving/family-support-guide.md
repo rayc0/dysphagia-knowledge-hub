@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害のある家族を支える介護者ガイド：情報収集から介護者自身のケアまで"
 description: "嚥下障害患者の家族・介護者向け総合ガイド — 嚥下障害の基礎知識、食事介助の安全技術、医療チームとの連携方法、介護者の燃え尽きを防ぐセルフケア、社会資源の活用"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者のとろみ剤ガイド：種類・適切な濃度・調製方法"
 description: "嚥下障害患者に使用するとろみ剤の種類（でんぷん系・キサンタンガム系）、IDDSI/日本摂食嚥下リハビリテーション学会基準に基づく適切な濃度選択、調製のコツ、日本市販製品比較"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "nutrition"
 last_updated: "2026-04-18"

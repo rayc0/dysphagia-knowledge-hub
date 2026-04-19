@@ -1,7 +1,7 @@
 ---
 title: "EAT-10嚥下障害スクリーニングツール完全ガイド：実施方法・判定基準・臨床活用"
 description: "EAT-10（Eating Assessment Tool-10）嚥下障害スクリーニングの完全ガイド — EAT-10の10項目と実施方法、スコア3以上の医療受診推奨基準、EAT-10の感度・特異度（86%/73%）、疾患別スコア分布（脳卒中/パーキンソン病/頭頸部癌/認知症）、他スクリーニングツール（GUSS/3オンス水飲みテスト）との使い分け、在宅介護者・看護師が実施する手順"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ja"
 category: "testing"
 last_updated: "2026-04-19"
@@ -133,4 +133,4 @@ Belafsky ら（2008年）の検証研究（n=700名）によるデータ:
 
 *本記事は情報提供を目的としており、医療診断・治療の代替となるものではありません。スクリーニングで異常が疑われた場合は、必ず専門家にご相談ください。*
 
-*ライセンス: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — SeniorDeli (Carewells)*
+*ライセンス: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Editorial Team*

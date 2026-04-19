@@ -1,7 +1,7 @@
 ---
 title: "Pengesanan Aspirasi Senyap: Tanda Amaran dan Alat Saringan untuk Penjaga"
 description: "Panduan pengesanan aspirasi senyap disfagia Bahasa Melayu — definisi dan mekanisme (40-70% tanpa batuk), 7 tanda amaran penjaga, 3-oz water test, ujian SpO₂, auskultasi servikal, VF sebagai piawaian emas, jadual penyakit berisiko tinggi, pencegahan, akses FEES hospital awam Malaysia, Perkeso/SOCSO"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

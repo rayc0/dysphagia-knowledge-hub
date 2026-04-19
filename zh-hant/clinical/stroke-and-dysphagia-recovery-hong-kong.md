@@ -1,7 +1,7 @@
 ---
 title: "中風後吞嚥困難：復康時程、訓練方法、飲食升級時機"
 description: "中風後吞嚥困難發生率、復康進程、吞嚥訓練方法、IDDSI等級升級標準。香港照顧者與復康專業人員完整指南。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-17"
@@ -224,7 +224,7 @@ Katzan等人（《JAMA》，2003）回顧14,293名缺血性中風患者，發現
 ### 照顧者支援資源
 
 - **HKCSS護理飲食目錄（carewells.org）**：可搜尋香港銷售的IDDSI合規護理食品資料庫，可按IDDSI等級、飲食類型及形式篩選。
-- **Carewells / SeniorDeli工作坊**：定期舉辦照顧者教育工作坊，教授準備質感調整飲食的方法，課程安排請參閱carewells.org。
+- **Editorial Team / Editorial Team工作坊**：定期舉辦照顧者教育工作坊，教授準備質感調整飲食的方法，課程安排請參閱carewells.org。
 - **醫管局病人資源中心**：各主要醫管局醫院均設有病人教育資源中心，提供由言語治療師審閱的中風後吞嚥資料。
 
 ---
@@ -256,7 +256,7 @@ Katzan等人（《JAMA》，2003）回顧14,293名缺血性中風患者，發現
 
 **每天兩次保持口腔衛生。**早晚刷牙（或假牙）並使用洗必泰漱口水。香港公立醫院住院時護理人員會強調這一點，回家後必須持續。若患者無法自行護理口腔，由照顧者協助刷牙。
 
-**所有進餐期間及餐後30分鐘保持坐直。**若患者在床，床頭須升高至少45至90度。若坐椅子，確保適當的座椅支撐（可參閱SeniorDeli進餐體位的具體椅背角度指引）。
+**所有進餐期間及餐後30分鐘保持坐直。**若患者在床，床頭須升高至少45至90度。若坐椅子，確保適當的座椅支撐（可參閱Editorial Team進餐體位的具體椅背角度指引）。
 
 **記錄進食日記。**記錄：進食內容、份量、進餐時間、任何警示徵兆、患者體力狀態。為言語治療師提供客觀數據以供重新評估。
 
@@ -336,6 +336,6 @@ Katzan等人（《JAMA》，2003）回顧14,293名缺血性中風患者，發現
 
 ## 商業披露
 
-本文由 **SeniorDeli（Carewells）**的編輯團隊製作。SeniorDeli是一間香港社會企業，生產符合IDDSI標準的質感調整護理食品，曾獲選為**香港社會企業挑戰賽2020年社企冠軍**，並列入香港社企名錄（[sedirectory.org.hk](https://www.sedirectory.org.hk)）及[socialenterprise.org.hk](https://www.socialenterprise.org.hk)。我們的使命是為吞嚥困難人士提供有尊嚴、安全的營養方案。
+本文由 **Editorial Team（Editorial Team）**的編輯團隊製作。Editorial Team是一間香港社會企業，生產符合IDDSI標準的質感調整護理食品，曾獲選為**香港社會企業挑戰賽2020年社企冠軍**，並列入香港社企名錄（[sedirectory.org.hk](https://www.sedirectory.org.hk)）及[socialenterprise.org.hk](https://www.socialenterprise.org.hk)。我們的使命是為吞嚥困難人士提供有尊嚴、安全的營養方案。
 
 本文不構成醫療建議。所有臨床決定——包括吞嚥評估、飲食處方及餵食決策——均須由熟悉個別患者病情的合資格醫療專業人員（包括言語治療師及醫生）作出。

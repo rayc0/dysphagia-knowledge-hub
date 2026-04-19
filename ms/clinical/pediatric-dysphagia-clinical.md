@@ -1,7 +1,7 @@
 ---
 title: "Disfagia Pediatrik: Tanda Amaran, Penilaian, dan Intervensi SLP untuk Kanak-Kanak"
 description: "Panduan klinikal komprehensif tentang disfagia pada kanak-kanak — merangkumi pencapaian pemakanan normal, tanda amaran, penilaian klinikal, dan intervensi terapi pertuturan-bahasa (SLP) dalam konteks penjagaan kanak-kanak Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

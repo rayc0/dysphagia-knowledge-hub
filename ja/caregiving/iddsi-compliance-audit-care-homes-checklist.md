@@ -1,7 +1,7 @@
 ---
 title: "施設向けIDDSI適合監査チェックリスト：食事提供・調理・記録の検証"
 description: "介護施設がIDDSI準拠を組織的に証明するための監査チェックリスト。調理手順・スタッフ知識・テスト実施・記録保全まで網羅し、訴訟リスク軽減と入居者安全を両立。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

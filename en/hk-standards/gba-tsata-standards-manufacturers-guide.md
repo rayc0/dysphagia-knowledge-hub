@@ -4,7 +4,7 @@ description: "The Greater Bay Area's group standards for elderly care food and e
 lang: en
 category: hk-standards
 date: 2026-04-14
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 ---
 
 # GBA Elderly Food Standards T/SATA 084-2025 and 085-2025 — What Manufacturers Need to Know
@@ -16,7 +16,7 @@ In 2025, the Shenzhen Ageing Industry Association (深圳市老龄事业发展�
 
 These are not government-enforced national standards (国标 GB), but group standards (团体标准 T/) — a tier of voluntary industry standards that in practice act as the baseline for GBA procurement tenders, e-commerce platform onboarding, and institutional care home purchasing. For any manufacturer selling into the Greater Bay Area elderly food market, these are the standards you will be asked about.
 
-> **Note — dysphagia-specific standard:** In September 2025 the Greater Bay Area Standardization Research Centre issued [**T/SATA 094-2025 — General Requirements of Dysphagia Food (Care for Elderly)**](./tsata-094-2025-dysphagia-food), the first GBA group standard written specifically for **dysphagia food**. If your product is explicitly targeted at swallowing difficulties rather than general elderly consumption, T/SATA 094 is the standard you should be asked about — it is complementary to, not a replacement for, 084 and 085. SeniorDeli (Carewells) is a participating drafting unit for T/SATA 094.
+> **Note — dysphagia-specific standard:** In September 2025 the Greater Bay Area Standardization Research Centre issued [**T/SATA 094-2025 — General Requirements of Dysphagia Food (Care for Elderly)**](./tsata-094-2025-dysphagia-food), the first GBA group standard written specifically for **dysphagia food**. If your product is explicitly targeted at swallowing difficulties rather than general elderly consumption, T/SATA 094 is the standard you should be asked about — it is complementary to, not a replacement for, 084 and 085. Editorial Team is a participating drafting unit for T/SATA 094.
 
 This English-language guide explains what each standard covers, how they relate to IDDSI, the testing and labelling requirements, and the practical steps a manufacturer needs to take to comply. We have detailed Chinese versions on the site — this article is a consolidated English reference for international manufacturers, product developers, and food safety officers working in or exporting to the GBA market.
 
@@ -241,7 +241,7 @@ For Hong Kong social enterprises and startups entering elderly food, T/SATA 084 
 
 ---
 
-*This article is part of the [SeniorDeli Dysphagia Knowledge Hub](/), a free public resource from Carewells Limited (華瓏有限公司), a Hong Kong social enterprise providing texture-modified care food for elderly with swallowing difficulties. We publish regulatory and standards guidance because we believe better-informed manufacturers produce better food for the people we all serve. This article is for general guidance; compliance with T/SATA standards requires engagement with an authorised tester and SATA itself — please consult their official published text and an experienced food safety consultant for implementation.*
+*This article is part of the [Editorial Team Dysphagia Knowledge Hub](/), a free public resource from Editorial Team Limited (華瓏有限公司), a Hong Kong social enterprise providing texture-modified care food for elderly with swallowing difficulties. We publish regulatory and standards guidance because we believe better-informed manufacturers produce better food for the people we all serve. This article is for general guidance; compliance with T/SATA standards requires engagement with an authorised tester and SATA itself — please consult their official published text and an experienced food safety consultant for implementation.*
 
 ## Related articles
 

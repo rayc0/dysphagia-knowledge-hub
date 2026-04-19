@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害の食事プランニング：週間メニュー例、エネルギー密度戦略とIDDSI対応食品"
 description: "嚥下障害患者の食事プランニング実践ガイド — IDDSIレベル3–6週間メニューフレームワーク、とろみ食・きざみ食のエネルギー増密法、疲労管理に基づく食事時間の設計、タンパク質の分散摂取、日本市場の経口栄養補助食品（ONS）製品比較、栄養士への紹介が必要な警告サイン"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "nutrition"
 last_updated: "2026-04-18"

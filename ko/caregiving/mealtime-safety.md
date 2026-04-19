@@ -1,7 +1,7 @@
 ---
 title: "삼킴장애 환자의 식사 안전 관리와 응급 대응"
 description: "삼킴장애 환자의 식사 전·중·후 안전 체크리스트, 흡인 조기 발견 징후, 질식 시 하임리히법 및 흡인 처치를 체계적으로 해설"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-18"

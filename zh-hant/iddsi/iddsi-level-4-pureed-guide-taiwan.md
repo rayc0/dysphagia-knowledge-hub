@@ -1,7 +1,7 @@
 ---
 title: "IDDSI四級（泥狀食物）完全指南：台灣版吞嚥障礙泥狀飲食製作與管理"
 description: "IDDSI Level 4（Pureed，泥狀食物）完全指南（台灣繁體中文）— 四級食物物理特性與叉壓測試，三級與五級的比較，台灣傳統飲食四級化製作方法，增稠劑選用與調配比例，四級飲食的熱量密度問題，特殊族群（老年/腦中風後/漸凍症）的四級應用"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "iddsi"
 canonical: "https://softmeal.org/zh-hant/iddsi/iddsi-level-4-pureed-guide-taiwan"

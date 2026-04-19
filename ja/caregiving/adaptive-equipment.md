@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者向け自助具・適応器具：食事支援ツールの選び方と使い方"
 description: "嚥下障害患者の食事を安全に支援するための自助具・適応器具ガイド — 特殊スプーン・カップ・食器の選び方、Provaleカップの使用、吸い飲みとストローの適応判断、介護施設と在宅での器具選択"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-18"

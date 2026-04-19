@@ -1,7 +1,7 @@
 ---
 title: "增稠飲品的水分管理：防止脫水與香港台灣照護者實用指南"
 description: "詳解增稠飲品導致脫水的三大原因、每日水分需求計算、脫水早期警示指標，並提供水分啫喱、IDDSI Level 3等替代補水方案及定時補水時間表，涵蓋香港及台灣本地資源。"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: zh-hant
 category: caregiving
 last_updated: "2026-04-19"

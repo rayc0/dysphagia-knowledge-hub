@@ -1,7 +1,7 @@
 ---
 title: "舌肌強化訓練：預防吞嚥退化的科學方法"
 description: "以循證為本的舌肌訓練指南，涵蓋舌壓目標值、IOPI設備介紹、五項家居訓練動作及疾病別建議，適合肌少症、中風、柏金遜症患者及香港台灣言語治療師參考。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

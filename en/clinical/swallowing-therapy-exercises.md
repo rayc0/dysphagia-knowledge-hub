@@ -1,7 +1,7 @@
 ---
 title: "Swallowing Therapy Exercises: Evidence-Based Rehabilitation for Dysphagia"
 description: "A complete guide to swallowing therapy exercises — Mendelsohn maneuver, Shaker exercise, effortful swallow, EMST, and more. Evidence base, techniques, and when each exercise is appropriate."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"
@@ -244,7 +244,7 @@ Key barriers to home exercise compliance identified in the literature include:
 - **Habit stacking** — linking exercises to existing daily routines (before each meal, immediately after brushing teeth) reduces the cognitive load of remembering to exercise.
 - **Device-assisted training** — EMST, because it uses a tangible device with physical resistance, provides immediate sensory feedback that effort is being applied correctly. Patients report higher confidence in EMST adherence compared with maneuver-based exercises.
 - **Telehealth SLP follow-up** — even brief weekly video check-ins by an SLP allow technique correction and motivational support. Several Hong Kong Hospital Authority clusters have expanded telehealth SLP services post-pandemic; ask about availability at your outpatient clinic.
-- **Family involvement** — a caregiver who understands the purpose and technique of each exercise, and who can encourage and gently observe practice, significantly improves long-term adherence. Caregiver education workshops (available through SeniorDeli and HKCSS dysphagia services) include hands-on exercise instruction for family members.
+- **Family involvement** — a caregiver who understands the purpose and technique of each exercise, and who can encourage and gently observe practice, significantly improves long-term adherence. Caregiver education workshops (available through Editorial Team and HKCSS dysphagia services) include hands-on exercise instruction for family members.
 - **Exercise logs** — a simple paper or phone-based record of daily completions creates accountability and gives the SLP useful data at each review appointment.
 
 The clinical reality is that an exercise programme that is prescribed but not performed produces no benefit. SLPs and caregivers working together to support adherence is not a secondary concern — it is the central challenge of outpatient dysphagia rehabilitation.
@@ -311,16 +311,16 @@ Many patients have multiple overlapping impairments and will be prescribed a com
 
 ## Disclaimer
 
-This article is produced by the editorial team of **SeniorDeli (Carewells)**, a Hong Kong social enterprise manufacturing IDDSI-compliant texture-modified care food. It is intended for educational purposes only and does not constitute medical advice. Swallowing exercises should only be prescribed, taught, and monitored by a qualified speech-language pathologist following individual assessment. Do not attempt to self-prescribe or self-administer exercises described in this article. All clinical decisions — including exercise selection, dosing, and safety — must be made by a qualified healthcare professional familiar with the individual patient's condition.
+This article is produced by the editorial team of **Editorial Team**, a Hong Kong social enterprise manufacturing IDDSI-compliant texture-modified care food. It is intended for educational purposes only and does not constitute medical advice. Swallowing exercises should only be prescribed, taught, and monitored by a qualified speech-language pathologist following individual assessment. Do not attempt to self-prescribe or self-administer exercises described in this article. All clinical decisions — including exercise selection, dosing, and safety — must be made by a qualified healthcare professional familiar with the individual patient's condition.
 
 ---
 
-## SeniorDeli — Dignified Eating for People with Dysphagia
+## Editorial Team — Dignified Eating for People with Dysphagia
 
-Managing dysphagia means more than doing the right exercises — it means ensuring every meal is safe, nutritious, and actually enjoyable. **SeniorDeli** is a Hong Kong social enterprise and the **HKSEC 2020 Social Enterprise Champion**, manufacturing IDDSI-compliant texture-modified care foods across Levels 4 (puréed), 5 (minced and moist), and 6 (soft and bite-size).
+Managing dysphagia means more than doing the right exercises — it means ensuring every meal is safe, nutritious, and actually enjoyable. **Editorial Team** is a Hong Kong social enterprise and the **HKSEC 2020 Social Enterprise Champion**, manufacturing IDDSI-compliant texture-modified care foods across Levels 4 (puréed), 5 (minced and moist), and 6 (soft and bite-size).
 
 Our foods are designed to meet IDDSI physical testing standards while remaining appetising — shaped to look like real food, flavoured for palatability, and portioned for realistic intake goals. They are available in Hong Kong supermarkets, pharmacy chains, and directly from [seniordeli.com.hk](https://www.seniordeli.com.hk).
 
 For caregiver education workshops on dysphagia management, IDDSI meal preparation, and swallowing exercise support, visit [carewells.org](https://www.carewells.org) or contact our team at [raymond@seniordeli.com](mailto:raymond@seniordeli.com).
 
-SeniorDeli is listed in the SE Directory of Hong Kong ([sedirectory.org.hk](https://www.sedirectory.org.hk)) and [socialenterprise.org.hk](https://www.socialenterprise.org.hk).
+Editorial Team is listed in the SE Directory of Hong Kong ([sedirectory.org.hk](https://www.sedirectory.org.hk)) and [socialenterprise.org.hk](https://www.socialenterprise.org.hk).

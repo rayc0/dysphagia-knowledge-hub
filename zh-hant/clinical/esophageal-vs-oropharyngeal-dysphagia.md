@@ -1,7 +1,7 @@
 ---
 title: "食道性 vs 口咽性吞嚥困難：分辨方法與轉介路徑"
 description: "系統性比較食道性與口咽性吞嚥困難的臨床特徵、原因及轉介路徑，協助香港及台灣照顧者與醫療人員快速分流。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

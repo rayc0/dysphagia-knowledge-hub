@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 0-1-2 液体稠度指南：稀薄、微稠与中稠液体"
 description: "IDDSI液体等级0-2详解 — 稀薄液体（Level 0）、微稠液体（Level 1）和中稠液体（Level 2）的定义、测试方法、增稠剂使用及临床应用。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-04-17"

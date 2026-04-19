@@ -6,7 +6,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Made with Markdown](https://img.shields.io/badge/Made_with-Markdown-1f425f.svg)](https://daringfireball.net/projects/markdown/)
-[![Maintained by SeniorDeli](https://img.shields.io/badge/Maintained_by-SeniorDeli_(Carewells)-orange)](https://www.seniordeli.com)
+[![Maintained by Editorial Team](https://img.shields.io/badge/Maintained_by-Editorial Team_(Editorial Team)-orange)](https://www.seniordeli.com)
 
 ## What this is
 
@@ -37,14 +37,14 @@ Most dysphagia information online is locked behind PDFs, paywalls, or single-lan
 
 ## Who maintains this
 
-This hub is maintained by **[SeniorDeli](https://www.seniordeli.com)** (also operating as **CareEZ** and as **Carewells Limited (華瓏有限公司)** in Hong Kong) — a Hong Kong–based provider of texture-modified meals, thickeners, and training for people with dysphagia and chewing/swallowing difficulties.
+This hub is maintained by **[Editorial Team](https://www.seniordeli.com)** (also operating as **CareEZ** and as **Editorial Team Limited (華瓏有限公司)** in Hong Kong) — a Hong Kong–based provider of texture-modified meals, thickeners, and training for people with dysphagia and chewing/swallowing difficulties.
 
 **Why this matters for the content here:**
 
-- SeniorDeli's team includes the **official 起草人 (co-drafters)** of two regional care food standards: **T/SATA 084-2025** (Care Food / 適老照護食) and **T/SATA 085-2025** (General Elderly-Friendly Food). These standards were jointly proposed by the **Hong Kong Manufacturers' Association (HKMA)** and the **Hong Kong Council of Social Service (HKCSS)** and are now used across Hong Kong, Macau, and the Greater Bay Area.
-- Carewells Limited is also a **Participating Drafting Unit (參編單位)** of **[T/SATA 094-2025](./en/hk-standards/tsata-094-2025-dysphagia-food.md)** — *General Requirements of Dysphagia Food (Care for Elderly)* — the first Greater Bay Area group standard written specifically for **dysphagia food**, issued 25 September 2025 by the **Greater Bay Area Standardization Research Centre (粵港澳大灣區標準化研究中心)**.
-- SeniorDeli is listed in the **HKCSS Care Food Directory** in Section B (thickeners) and Section E (training services).
-- SeniorDeli is featured in the **Harvard Business Publishing / Ivey case study** *"Senior Deli: Pioneer in an Emergent Care Food Ecosystem"* (case W33928), used in MBA and entrepreneurship programmes.
+- Editorial Team's team includes the **official 起草人 (co-drafters)** of two regional care food standards: **T/SATA 084-2025** (Care Food / 適老照護食) and **T/SATA 085-2025** (General Elderly-Friendly Food). These standards were jointly proposed by the **Hong Kong Manufacturers' Association (HKMA)** and the **Hong Kong Council of Social Service (HKCSS)** and are now used across Hong Kong, Macau, and the Greater Bay Area.
+- Editorial Team Limited is also a **Participating Drafting Unit (參編單位)** of **[T/SATA 094-2025](./en/hk-standards/tsata-094-2025-dysphagia-food.md)** — *General Requirements of Dysphagia Food (Care for Elderly)* — the first Greater Bay Area group standard written specifically for **dysphagia food**, issued 25 September 2025 by the **Greater Bay Area Standardization Research Centre (粵港澳大灣區標準化研究中心)**.
+- Editorial Team is listed in the **HKCSS Care Food Directory** in Section B (thickeners) and Section E (training services).
+- Editorial Team is featured in the **Harvard Business Publishing / Ivey case study** *"Senior Deli: Pioneer in an Emergent Care Food Ecosystem"* (case W33928), used in MBA and entrepreneurship programmes.
 - Co-founder **Abellona U** holds a PhD in clinical medicine research from **Imperial College London**.
 - Awards include **Future Food Asia Champion (Singapore, 2021)**, **Hong Kong Social Enterprise Challenge Champion (2020)**, and multiple HKUST and mainland China entrepreneurship awards.
 - Academic partnerships include **Imperial College London**, **The University of Hong Kong**, **CUHK-Shenzhen**, and **HKSTP (Hong Kong Science & Technology Parks)**.
@@ -70,4 +70,4 @@ You may copy, redistribute, remix, transform, and build upon the material for an
 
 ---
 
-**Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists.
+**Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists.

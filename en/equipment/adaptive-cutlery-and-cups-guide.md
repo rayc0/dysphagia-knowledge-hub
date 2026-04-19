@@ -4,7 +4,7 @@ description: "The right cup, spoon, or fork can transform mealtime safety for a 
 lang: en
 category: equipment
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Dr. Eric Hui
 tags: [dysphagia, adaptive-cutlery, nosey-cup, mealtime-aids, equipment, OT, feeding-aids]
 ---
 

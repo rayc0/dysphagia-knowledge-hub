@@ -1,7 +1,7 @@
 ---
 title: "吞咽困难患者营养不良筛查与管理指南"
 description: "详解吞咽困难患者营养不良的早期识别 — MNA量表使用、体重监测方法、营养干预策略及何时需要转介营养科。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-04-17"

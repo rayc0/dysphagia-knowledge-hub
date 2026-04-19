@@ -1,7 +1,7 @@
 ---
 title: "口乾症（Xerostomia）與吞嚥障礙：成因、治療及香港醫療路徑"
 description: "深入探討口乾症如何加重吞嚥困難，涵蓋藥物副作用、放射治療、修格蘭氏症候群及老化等成因，介紹香港藥房可購得的唾液代替品、口腔護理建議及轉介牙醫或腫瘤科的時機。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-04-19"

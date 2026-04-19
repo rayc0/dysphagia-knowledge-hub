@@ -1,7 +1,7 @@
 ---
 title: "认知障碍与吞咽困难：从早期识别到全程照护"
 description: "系统解析认知障碍（老年痴呆）患者吞咽困难的发生机制、各阶段表现、评估方法与照护策略，涵盖阿尔茨海默病、血管性痴呆等常见类型"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-04-18"

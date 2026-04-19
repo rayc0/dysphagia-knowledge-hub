@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者微量營養素缺乏指南：香港版"
 description: "香港吞嚥困難患者微量營養素指南：質地限制飲食如何導致缺乏、5大關鍵營養素（維他命D、鋅、鐵、B12、鈣）對照表、缺乏徵兆、IDDSI 4–7 級香港食物來源、屈臣氏及萬寧補充品選擇、長者健康中心血液測試監察。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-04-19"

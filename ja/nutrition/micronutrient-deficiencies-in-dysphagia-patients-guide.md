@@ -1,7 +1,7 @@
 ---
 title: "嚥下困難患者の微量栄養素不足：ビタミンD・亜鉛・鉄欠乏の管理"
 description: "嚥下困難患者に多いビタミンD・亜鉛・鉄・ビタミンB12・カルシウム欠乏の原因と症状、IDDSI対応食品による補給方法、サプリメント選択と定期血液検査の実践を解説します。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: ja
 category: nutrition
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "삼킴장애 환자의 수분 관리: 탈수 위험 평가와 안전한 수분 보충 방법"
 description: "삼킴장애 환자의 탈수 위험 평가, IDDSI 수분 단계별 안전한 수분 보충, 점도증진제 외 대안적 수분 공급원, 고령자·요양시설 입소자를 위한 실용적 수분 관리 프로토콜"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "nutrition"
 last_updated: "2026-04-18"

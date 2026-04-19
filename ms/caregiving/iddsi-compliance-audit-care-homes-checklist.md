@@ -1,7 +1,7 @@
 ---
 title: "Senarai Semak Audit Pematuhan IDDSI untuk Pusat Penjagaan: Makanan, Prosedur dan Rekod"
 description: "Senarai semak audit IDDSI yang komprehensif untuk pusat penjagaan warga emas — melindungi keselamatan penghuni dan memenuhi piawaian akreditasi Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

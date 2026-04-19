@@ -1,7 +1,7 @@
 ---
 title: "脳卒中後の嚥下障害：急性期から回復期・維持期までのリハビリテーション"
 description: "脳卒中による嚥下障害の発生メカニズム、急性期スクリーニング、回復期リハビリテーション手法、IDDSI対応の段階的食事アップグレード、在宅復帰後の管理を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-18"

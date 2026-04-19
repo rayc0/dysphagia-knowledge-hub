@@ -1,7 +1,7 @@
 ---
 title: "吞嚥治療運動：門德爾遜手法、沙克運動及其他循證訓練法"
 description: "全面介紹吞嚥治療運動，包括門德爾遜手法、頭部屈曲運動（沙克運動）、用力吞嚥及聲門上吞嚥，涵蓋香港大學及中文大學研究實證、訓練頻率、居家練習指引及轉介言語治療師時機。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-04-19"

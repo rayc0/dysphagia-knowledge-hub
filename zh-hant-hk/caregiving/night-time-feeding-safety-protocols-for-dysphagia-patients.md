@@ -1,7 +1,7 @@
 ---
 title: "夜間管餵安全協議：鼻胃管及PEG餵食床頭抬高、SpO₂監測及口腔護理"
 description: "吞嚥困難患者夜間鼻胃管及PEG胃造口管餵食完整安全協議，包括30–45°必要床頭抬高、25–100 mL/小時灌食速率表、餵食後1小時坐直規定、夜間SpO₂及發燒監測、吸痰機準備、四點口腔護理時間表，及醫管局居家腸內營養計劃申請。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-04-19"
@@ -258,4 +258,4 @@ canonical: "https://softmeal.org/zh-hant-hk/caregiving/night-time-feeding-safety
 
 ---
 
-*本文件由SeniorDeli (Carewells)編制，供香港安老院舍夜班護理員及居家照顧者參考使用。夜間管餵需由受過訓練的護理人員執行，如有疑問請聯絡主管護士或醫管局居家腸內營養服務。*
+*本文件由Editorial Team編制，供香港安老院舍夜班護理員及居家照顧者參考使用。夜間管餵需由受過訓練的護理人員執行，如有疑問請聯絡主管護士或醫管局居家腸內營養服務。*

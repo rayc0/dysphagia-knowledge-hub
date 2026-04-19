@@ -1,7 +1,7 @@
 ---
 title: "Cara Memberi Ubat kepada Pesakit Disfagia: Tablet, Kapsul, dan Ubat Cecair"
 description: "Panduan pemberian ubat untuk pesakit disfagia (Bahasa Melayu) — ubat yang boleh dan tidak boleh dihancurkan, menukar tablet kepada bentuk cecair, mencampurkan ubat dalam makanan bertekstur, ubat extended-release yang berbahaya jika dihancurkan, kaedah menelan ubat selamat, peranan farmasi"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "EAT-10: Alat Saringan Disfagia 10 Item — Panduan untuk Pesakit dan Penjaga Malaysia"
 description: "Panduan lengkap EAT-10 dalam Bahasa Malaysia — 10 soalan saringan disfagia dengan skoring, siapa yang perlu menggunakannya, dan langkah seterusnya selepas ujian."
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ms"
 category: "testing"
 last_updated: "2026-04-19"

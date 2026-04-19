@@ -1,7 +1,7 @@
 ---
 title: "とろみ飲料での水分管理：脱水リスクと在宅介護者のための戦略"
 description: "嚥下困難者がとろみ飲料で脱水になるメカニズムを解説し、ゼリー状水分・時間割補給・介護保険加算まで在宅介護者向けの具体的対策を提示。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

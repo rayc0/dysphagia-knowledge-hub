@@ -1,7 +1,7 @@
 ---
 title: "多发性硬化症与吞咽障碍：临床管理与言语治疗干预指南"
 description: "多发性硬化症（MS）吞咽障碍管理完整指南 — MS相关吞咽困难的发病机制（脱髓鞘病变与皮质延髓束损伤）、与卒中性吞咽障碍的鉴别要点、MS吞咽障碍的IDDSI饮食调整原则、疲劳管理对进食安全的影响，以及言语治疗师的干预策略"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-18"

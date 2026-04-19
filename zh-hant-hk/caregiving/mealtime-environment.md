@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者用餐環境設置：照明、桌椅高度、認知症輔助及進食尊嚴"
 description: "為吞嚥困難長者優化用餐環境，包括500 lux標準照明、香港長者適合桌椅高度、認知症對比色餐具選擇、噪音控制、復康輔助器具（復康藥房購買指南）、餐前口腔運動及進食尊嚴原則。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-04-19"
@@ -225,4 +225,4 @@ canonical: "https://softmeal.org/zh-hant-hk/caregiving/mealtime-environment"
 
 ---
 
-*本文件由SeniorDeli (Carewells)編制，供香港安老院舍護理人員及家庭照顧者參考使用。如需個別評估，請聯絡職業治療師（OT）。*
+*本文件由Editorial Team編制，供香港安老院舍護理人員及家庭照顧者參考使用。如需個別評估，請聯絡職業治療師（OT）。*

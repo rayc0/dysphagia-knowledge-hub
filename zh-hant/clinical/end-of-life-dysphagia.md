@@ -1,7 +1,7 @@
 ---
 title: "臨終吞嚥困難：緩和照顧與進食決策的文化考量"
 description: "探討臨終自然停止進食飲水（NEAD）的臨床意義、家屬進食焦慮的文化根源、舒適餵食與管飼的比較，以及香港預設醫療指示與台灣病人自主權利法的應用框架。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

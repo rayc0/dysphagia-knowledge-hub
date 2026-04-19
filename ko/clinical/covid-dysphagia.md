@@ -1,7 +1,7 @@
 ---
 title: "코로나19 후 삼킴장애: 롱코비드 연하 기능 저하의 원인과 회복"
 description: "코로나19 감염 후 발생하는 삼킴장애(롱코비드)의 신경학적·근육적 원인, ICU 후 증후군과의 연관성, 언어재활 접근법, 한국 임상 현황 및 예후"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

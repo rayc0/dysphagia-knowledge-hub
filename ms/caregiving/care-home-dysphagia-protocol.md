@@ -1,7 +1,7 @@
 ---
 title: "Protokol Penjagaan Disfagia di Pusat Penjagaan Warga Emas: Saringan, Latihan dan Rekod"
 description: "Panduan protokol klinikal untuk pengurusan disfagia di pusat penjagaan warga emas — dari saringan masuk hingga latihan staf, rekod penjagaan dan piawaian Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

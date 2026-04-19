@@ -1,7 +1,7 @@
 ---
 title: "老年性吞嚥退化 vs 病理性吞嚥困難：如何分辨正常老化？"
 description: "探討老年性吞嚥退化（Presbyphagia）與病理性吞嚥困難的分別，提供5因素鑑別診斷框架，並介紹香港及台灣長照評估流程。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

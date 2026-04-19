@@ -1,7 +1,7 @@
 ---
 title: "연하장애 선별검사 도구 가이드: EAT-10·GUSS·구강기능평가 한국어 버전"
 description: "연하장애 선별 및 평가 도구 완전 가이드 — EAT-10(10문항, 점수≥3=의뢰)·GUSS·3온스 물 삼킴 테스트 비교, 가정 간병인용 선별 도구, 병원 의뢰 판단 기준, 질환별 권장 평가 도구(뇌졸중/파킨슨/치매/ALS), 한국 언어재활사 협회 공식 도구 목록"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ko"
 category: "testing"
 last_updated: "2026-04-19"

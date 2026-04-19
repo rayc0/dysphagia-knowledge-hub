@@ -1,7 +1,7 @@
 ---
 title: "연하장애 식사 계획 가이드: 주간 메뉴 프레임워크, 에너지 밀도 전략과 IDDSI 준수 식단"
 description: "연하장애 환자 식사 계획 실용 가이드 — IDDSI 3–6단계 주간 메뉴 프레임워크, 질감 조정 식품의 에너지 밀도 높이기 전략, 피로 관리와 식사 시간 배분, 단백질 균형 분배, 한국 시장의 경구 영양 보충제(ONS) 비교, 영양사 의뢰가 필요한 경고 징후"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "nutrition"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍膳食计划指南：周菜单框架、能量密度策略与IDDSI合规食谱"
 description: "吞咽障碍患者膳食计划实用指南 — IDDSI 3–6级周菜单框架、质地调整食物的能量增密策略、疲劳管理与用餐时间安排、蛋白质均衡分配、中国大陆常用口服营养补充剂（ONS）推荐，以及何时需要转介营养师的评估指标"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-04-18"

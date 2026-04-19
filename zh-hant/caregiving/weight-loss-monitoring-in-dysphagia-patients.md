@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者體重監測：營養不良的早期發現與干預"
 description: "說明吞嚥困難患者體重減少的危險性、建議的監測頻率與危險閾值、MNA/MUST篩查工具的使用，以及高熱量食物添加與口服營養補充品的應用，附香港及台灣資源。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: zh-hant
 category: caregiving
 last_updated: "2026-04-19"

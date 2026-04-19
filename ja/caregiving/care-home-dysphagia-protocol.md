@@ -1,7 +1,7 @@
 ---
 title: "介護施設における嚥下困難ケアプロトコル：スタッフ教育から記録まで"
 description: "特別養護老人ホームやグループホームで実践できる嚥下困難ケアの標準手順。入居時スクリーニングからSLP連携、記録テンプレートまで体系的に解説。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

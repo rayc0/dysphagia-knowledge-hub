@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者的口腔护理：预防误吸性肺炎的关键环节"
 description: "详解吞咽困难患者口腔卫生管理的重要性、具体操作方法、常见问题处理及与误吸性肺炎预防的关系"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-18"

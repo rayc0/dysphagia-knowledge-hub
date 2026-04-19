@@ -1,7 +1,7 @@
 ---
 title: "兒童吞嚥困難：IDDSI 4mm規則、常見原因與家長指南"
 description: "兒童吞嚥困難（小兒吞嚥障礙）完整指南 — IDDSI兒童版4mm規則、醫學複雜兒童飲食管理、早期識別、香港醫療資源。家長必讀。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-17"
@@ -190,7 +190,7 @@ canonical: "https://softmeal.org/zh-hant/clinical/pediatric-dysphagia-hong-kong.
 
 ---
 
-*本文是 [SeniorDeli 吞嚥困難知識庫](/zh-hant/) 的一部分，由香港社會企業 Carewells Limited（華瓏有限公司）免費提供。本公司主要為有吞嚥困難的長者提供質地調整食品，但我們同樣關注整個吞嚥困難的知識領域，包括兒童群體，因為資訊更豐富的家庭，能為孩子作出更好的進食決策。本文內容不取代個人醫療意見——請務必與兒科言語治療師、進食治療團隊或發展兒科醫生合作，制定個人化的護理計劃。*
+*本文是 [Editorial Team 吞嚥困難知識庫](/zh-hant/) 的一部分，由香港社會企業 Editorial Team Limited（華瓏有限公司）免費提供。本公司主要為有吞嚥困難的長者提供質地調整食品，但我們同樣關注整個吞嚥困難的知識領域，包括兒童群體，因為資訊更豐富的家庭，能為孩子作出更好的進食決策。本文內容不取代個人醫療意見——請務必與兒科言語治療師、進食治療團隊或發展兒科醫生合作，制定個人化的護理計劃。*
 
 ## 相關文章
 

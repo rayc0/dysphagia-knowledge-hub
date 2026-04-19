@@ -1,7 +1,7 @@
 ---
 title: "Pengoptimuman Protein untuk Pesakit Disfagia: Mencegah Sarcopenia dan Mempercepatkan Pemulihan"
 description: "Panduan pengoptimuman protein untuk pesakit disfagia (Bahasa Melayu) — keperluan protein harian, sarcopenia disfagia, sumber protein yang sesuai mengikut tahap IDDSI, produk suplemen nutrisi oral (ONS) yang tersedia di Malaysia, strategi meningkatkan protein tanpa meningkatkan isipadu makanan"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "nutrition"
 last_updated: "2026-04-18"

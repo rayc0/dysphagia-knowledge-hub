@@ -1,7 +1,7 @@
 ---
 title: "吞咽困难患者的营养不良筛查与管理：MNA与MUST的内地应用"
 description: "详细介绍MNA与MUST两大营养筛查工具的评分方法及在内地临床中的应用，探讨营养不良与吞咽困难的恶性循环，提供分级干预方案，并结合中国内地营养科门诊、NST多学科团队及相关政策资源。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: zh-hans
 category: nutrition
 last_updated: "2026-04-19"

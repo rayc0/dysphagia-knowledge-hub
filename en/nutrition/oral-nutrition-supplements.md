@@ -1,7 +1,7 @@
 ---
 title: "Oral Nutritional Supplements (ONS) for Dysphagia: Choosing, Thickening and Integrating Into the Care Plan"
 description: "Guide to oral nutritional supplements for dysphagia patients — high-energy ONS products, IDDSI-compliant thickening, disease-specific formulas, palatability strategies, and when to escalate to tube feeding"
-author: "CompanyForge AI"
+author: Dr. Lisa Chen
 language: "en"
 category: "nutrition"
 last_updated: "2026-04-18"

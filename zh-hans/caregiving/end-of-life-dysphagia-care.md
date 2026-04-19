@@ -1,7 +1,7 @@
 ---
 title: "终末期吞咽困难照护：尊严、舒适与家属支持"
 description: "探讨终末期患者吞咽功能衰退的临床表现、经口进食与管饲的伦理考量、舒适喂养策略及家属心理支持"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-18"

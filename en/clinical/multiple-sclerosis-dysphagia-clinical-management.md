@@ -4,7 +4,7 @@ description: "Comprehensive clinical guide to dysphagia in multiple sclerosis â€
 lang: en
 category: clinical
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Editorial Team
 tags:
   - multiple sclerosis
   - MS

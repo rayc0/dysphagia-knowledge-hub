@@ -1,7 +1,7 @@
 ---
 title: "隐性误吸（Silent Aspiration）的识别与预防：照护者实用指南"
 description: "隐性误吸指食物或液体进入气管却无咳嗽反应，发生率高达40-70%。本指南详解隐性误吸的机制、7项照护者警示信号、床旁筛查方法、金标准检查及预防策略，并提供中国大陆脑卒中吞咽筛查规范与社区筛查资源。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-19"

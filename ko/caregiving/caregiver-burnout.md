@@ -1,7 +1,7 @@
 ---
 title: "삼킴장애 환자 돌봄과 보호자 소진: 예방과 자원 안내"
 description: "삼킴장애 환자를 돌보는 가족 보호자의 소진(번아웃) 조기 징후, 예방 전략, 장기요양보험 활용, 위기 대응 자원을 상세히 안내"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-18"

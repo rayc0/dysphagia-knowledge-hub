@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者のビタミン・ミネラル不足：ビタミンD・B12・鉄・亜鉛の補充と食事対策"
 description: "嚥下障害患者のビタミン・ミネラル不足完全ガイド（日本語）— ビタミンD欠乏（転倒・骨折・嚥下筋力低下）、ビタミンB12欠乏（神経症状・舌炎）、鉄欠乏性貧血（疲労・嚥下効率低下）、亜鉛欠乏（味覚障害・食欲低下・創傷治癒遅延）、IDDSI各レベルでの微量栄養素確保戦略、管理栄養士への相談タイミング"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "nutrition"
 last_updated: "2026-04-18"

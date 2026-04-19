@@ -4,7 +4,7 @@ description: "A comprehensive clinical and practical guide to safely managing ni
 lang: en
 category: caregiving
 date: 2026-04-15
-author: Dysphagia Hub
+author: Susan Tam
 tags:
   - dysphagia
   - night-feeding

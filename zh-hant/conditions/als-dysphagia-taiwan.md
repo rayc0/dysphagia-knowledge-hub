@@ -1,7 +1,7 @@
 ---
 title: "ALS/漸凍人吞嚥障礙（台灣版）：PEG胃造口時機、呼吸功能協調與長期照護"
 description: "台灣版ALS/運動神經元病吞嚥障礙完整指南（繁體中文）— ALS吞嚥障礙發生率（2年內80%）、延髓型起病症狀（舌肌萎縮/流涎/構音困難）、PEG最佳時機（FVC>50%）、BiPAP與進食時間協調、高熱量飲食策略、台灣ALS照護資源（台灣漸凍人協會/健保給付/長照服務）、末期安寧照護中的飲食決策"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "conditions"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Disfagia dalam Penyakit Parkinson: Pengurusan Menelan, Ubat-ubatan, dan Penjagaan Jangka Panjang"
 description: "Panduan disfagia Parkinson (Bahasa Melayu) — kadar kejadian disfagia dalam Parkinson (80%), fasa oral dan faring yang terjejas, hubungan antara ubat levodopa dan waktu makan terbaik, teknik menelan (Lee Silverman Voice Treatment/LSVT), pemilihan tekstur IDDSI yang sesuai, pengurusan sialorrhoea (air liur berlebihan), tanda-tanda aspirasi tersembunyi dalam Parkinson"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "conditions"
 last_updated: "2026-04-18"

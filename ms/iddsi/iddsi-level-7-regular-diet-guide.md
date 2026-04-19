@@ -1,7 +1,7 @@
 ---
 title: "Panduan IDDSI Tahap 7 (Diet Biasa): Kriteria Pemulihan dan Makanan yang Masih Perlu Dielakkan"
 description: "Panduan IDDSI Tahap 7 (Regular Diet, Diet Biasa) dalam Bahasa Melayu — definisi dua aras Tahap 7 (diet biasa vs mudah dikunyah), kriteria klinikal untuk naik taraf dari Tahap 6, makanan yang masih perlu dielakkan walaupun di Tahap 7, kepentingan pemantauan berterusan oleh SLP"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "iddsi"
 canonical: "https://softmeal.org/ms/iddsi/iddsi-level-7-regular-diet-guide"

@@ -1,7 +1,7 @@
 ---
 title: "Dementia and Dysphagia: Swallowing Changes Across Disease Stages, Feeding Strategies, and End-of-Life Decisions"
 description: "Complete guide to dementia-related dysphagia in English — swallowing changes by dementia stage (mild/moderate/severe), Alzheimer's vs vascular vs Lewy body dysphagia differences, silent aspiration risk, feeding assistance techniques (hand-over-hand/chaining/spoon pacing), IDDSI texture choices by stage, oral hygiene in dementia, tube feeding ethics in advanced dementia, family caregiver guidance"
-author: "CompanyForge AI"
+author: Dr. Lisa Chen
 language: "en"
 category: "conditions"
 last_updated: "2026-04-18"

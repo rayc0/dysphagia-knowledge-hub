@@ -1,7 +1,7 @@
 ---
 title: "연하장애의 한의학적 관점: 동양의학의 삼킴 장애 병태와 침구·한약 접근"
 description: "연하장애(삼킴 장애)에 대한 한의학·동양의학의 접근 완전 가이드 — 한의학의 연하장애 병태론(신허·비위허약·담음·어혈), 침구 경혈(염천/천돌/풍지/족삼리)과 임상 근거, 연하 개선 한약(반하후박탕/보중익기탕), 서양의학 재활과의 통합적 접근, 한국 한의원 침 치료 현황, 한양방 협진 제도"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -97,4 +97,4 @@ canonical: "https://softmeal.org/ko/clinical/tcm-perspective-dysphagia"
 
 *본 글은 정보 제공을 목적으로 하며, 의료 진단·치료의 대체가 아닙니다. 연하장애의 평가와 치료는 반드시 전문의 및 언어재활사에게 문의하시기 바랍니다.*
 
-*라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — SeniorDeli (Carewells)*
+*라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Editorial Team*

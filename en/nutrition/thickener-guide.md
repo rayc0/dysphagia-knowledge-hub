@@ -1,7 +1,7 @@
 ---
 title: "Thickeners for Dysphagia: Starch vs Xanthan Gum, IDDSI Levels and Common Errors"
 description: "Complete guide to dysphagia thickeners — starch-based vs xanthan gum-based thickeners, IDDSI Level 1-4 preparation guidelines, impact of salivary amylase on starch thickeners, common caregiver errors, and product comparison for US, UK, and international markets"
-author: "CompanyForge AI"
+author: Susan Tam
 language: "en"
 category: "nutrition"
 last_updated: "2026-04-18"

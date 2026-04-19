@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害の中医学的視点：東洋医学からみた摂食嚥下の病態と鍼灸・漢方アプローチ"
 description: "嚥下障害（摂食嚥下障害）に対する中医学・東洋医学からのアプローチ完全ガイド — 中医学の嚥下障害病態論（腎虚・脾胃虚弱・痰飲・瘀血）、鍼灸の使用穴（廉泉/天突/風池/足三里）と臨床エビデンス、嚥下改善に使われる漢方薬（半夏厚朴湯/補中益気湯）、西洋医学リハビリとの統合的アプローチ、香港TCMクリニックの活用、日本の東洋医学病院での嚥下リハビリ統合"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -95,4 +95,4 @@ canonical: "https://softmeal.org/ja/clinical/tcm-perspective-dysphagia"
 
 *本記事は情報提供を目的としており、医療診断・治療の代替となるものではありません。嚥下障害の評価・治療は必ず専門医・言語聴覚士にご相談ください。*
 
-*ライセンス: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — SeniorDeli (Carewells)*
+*ライセンス: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Editorial Team*

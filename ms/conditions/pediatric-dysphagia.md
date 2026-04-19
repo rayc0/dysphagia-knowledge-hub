@@ -1,7 +1,7 @@
 ---
 title: "Disfagia Pediatrik (Kanak-kanak): Tanda Amaran, Penilaian, dan Terapi Pemberian Makan"
 description: "Panduan disfagia pediatrik (Bahasa Melayu) — tanda-tanda awal masalah pemberian makan pada bayi dan kanak-kanak, perbezaan disfagia bayi vs disfagia kanak-kanak lebih tua, penyebab biasa (cerebral palsy/down syndrome/lelangit sumbing/prematuriti), rujukan kepada SLP pediatrik, strategi pemberian makan adaptif, botol dan puting khusus untuk bayi dengan kesukaran menyusu, sokongan psikologi untuk keluarga"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "conditions"
 last_updated: "2026-04-18"

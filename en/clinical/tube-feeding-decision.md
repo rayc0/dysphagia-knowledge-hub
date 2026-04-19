@@ -1,7 +1,7 @@
 ---
 title: "Tube Feeding Decision in Dysphagia: When Oral Feeding Becomes Unsafe"
 description: "A clinical guide to the tube feeding decision for dysphagia patients — NG tube vs PEG, evidence base, ethical considerations, comfort feeding in dementia, and return-to-oral criteria."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"
@@ -283,9 +283,9 @@ This article is intended as a clinical education resource for healthcare profess
 
 ---
 
-**About SeniorDeli (Carewells)**
+**About Editorial Team**
 
-SeniorDeli is a Hong Kong-based social enterprise that produces IDDSI-compliant texture-modified meals for older adults and individuals with dysphagia. The softmeal.org Dysphagia Knowledge Hub is produced by the SeniorDeli editorial team as a public educational resource — free to access, licensed under CC BY 4.0, and written independently of commercial product promotion.
+Editorial Team is a Hong Kong-based social enterprise that produces IDDSI-compliant texture-modified meals for older adults and individuals with dysphagia. The softmeal.org Dysphagia Knowledge Hub is produced by the Editorial Team editorial team as a public educational resource — free to access, licensed under CC BY 4.0, and written independently of commercial product promotion.
 
 If you found this article useful, explore our other resources at softmeal.org, or contact us at raymond@seniordeli.com if you are a care facility, hospital dietitian, or speech-language pathologist looking for reliable texture-modified meal supply in Hong Kong.
 

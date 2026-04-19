@@ -1,7 +1,7 @@
 ---
 title: "管飼設備指南：鼻胃管、PEG胃造口及家居腸內營養操作"
 description: "鼻胃管與PEG胃造口完整比較——家居管飼護理SOP、腸內營養配方選擇、藥物給管注意事項、並發症處理及香港台灣社區支援資源。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "zh-hant"
 category: "equipment"
 last_updated: "2026-04-19"

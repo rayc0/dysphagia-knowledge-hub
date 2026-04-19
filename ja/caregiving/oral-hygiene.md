@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者の口腔ケア：誤嚥性肺炎予防の最前線"
 description: "嚥下障害患者の口腔ケアの重要性、適切なケア手順、使用器具の選択、口腔乾燥への対応、専門家との連携を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-18"

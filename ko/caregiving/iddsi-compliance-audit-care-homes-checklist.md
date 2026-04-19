@@ -1,7 +1,7 @@
 ---
 title: "요양시설 IDDSI 적합성 감사 체크리스트: 식사 제공·조리·기록 검증"
 description: "한국 요양원이 IDDSI 준수를 체계적으로 입증하기 위한 감사 체크리스트. 조리 절차·직원 지식·테스트 실시·기록 보전을 망라하여 입소자 안전과 법적 리스크 대응을 동시에 충족."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

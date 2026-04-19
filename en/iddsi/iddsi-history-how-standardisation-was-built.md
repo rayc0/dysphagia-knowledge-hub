@@ -1,7 +1,7 @@
 ---
 title: "How IDDSI Was Developed — The Story of Global Dysphagia Diet Standardisation (2010–2017)"
 description: "How three clinicians, 5,240 survey responses from 57 countries, and a six-year volunteer effort produced the IDDSI framework that now governs dysphagia diets worldwide."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "iddsi"
 last_updated: "2026-04-17"
@@ -161,4 +161,4 @@ This article paraphrases publicly-available information about the history of the
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. SeniorDeli/Carewells is among the official 起草人 (drafters) of the GBA T/SATA 084-2025 and T/SATA 085-2025 care-food standards. Trade enquiries: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Editorial Team/Editorial Team is among the official 起草人 (drafters) of the GBA T/SATA 084-2025 and T/SATA 085-2025 care-food standards. Trade enquiries: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.

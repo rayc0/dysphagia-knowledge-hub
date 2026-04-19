@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia Signs and Symptoms Every Caregiver Should Watch For"
 description: "A clinical guide for family caregivers on recognising the 10 most common warning signs of dysphagia — including silent aspiration, red flags, symptom documentation, at-home screening, and when to call for help."
-author: "CompanyForge AI"
+author: Margaret Wong
 language: "en"
 category: "clinical"
 last_updated: "2026-04-11"
@@ -469,8 +469,8 @@ Yes. Medications that cause dry mouth (anticholinergics, antihistamines, diureti
 
 **This section is a commercial disclosure, separate from the clinical content above.**
 
-This article was published by SeniorDeli / softmeal.org, a Hong Kong-based company that produces soft-meal and texture-modified food products designed to meet IDDSI Level 4 (Pureed) and Level 5 (Minced and Moist) specifications.
+This article was published by Editorial Team / softmeal.org, a Hong Kong-based company that produces soft-meal and texture-modified food products designed to meet IDDSI Level 4 (Pureed) and Level 5 (Minced and Moist) specifications.
 
-If a qualified speech-language pathologist has assessed your relative and prescribed a texture-modified diet, SeniorDeli's prepared soft-meal range may help make daily mealtimes safer and more nutritious. Our products are not a medical device and are not a substitute for professional assessment or SLP-prescribed dietary management. Safe eating begins with diagnosis — always seek a formal swallowing assessment before relying on any modified-texture food product.
+If a qualified speech-language pathologist has assessed your relative and prescribed a texture-modified diet, Editorial Team's prepared soft-meal range may help make daily mealtimes safer and more nutritious. Our products are not a medical device and are not a substitute for professional assessment or SLP-prescribed dietary management. Safe eating begins with diagnosis — always seek a formal swallowing assessment before relying on any modified-texture food product.
 
 Learn more at [softmeal.org](https://softmeal.org).

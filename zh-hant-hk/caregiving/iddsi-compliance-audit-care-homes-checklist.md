@@ -1,7 +1,7 @@
 ---
 title: "香港安老院舍IDDSI合規審核清單：六大範疇完整核查指南"
 description: "香港安老院舍IDDSI合規季度審核清單，涵蓋食物標示、廚房程序、員工知識、質感測試（叉壓/茶匙傾斜/注射器流量）、護理文件及轉介資料六大範疇，附評分表及社署合規要求。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-04-19"
@@ -256,4 +256,4 @@ canonical: "https://softmeal.org/zh-hant-hk/caregiving/iddsi-compliance-audit-ca
 
 ---
 
-*本文件由SeniorDeli (Carewells)編制，供香港安老院舍管理人員、社署評審人員及醫管局外展團隊使用。歡迎按院舍需要調整審核項目。*
+*本文件由Editorial Team編制，供香港安老院舍管理人員、社署評審人員及醫管局外展團隊使用。歡迎按院舍需要調整審核項目。*

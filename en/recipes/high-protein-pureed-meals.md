@@ -1,7 +1,7 @@
 ---
 title: "High-Protein Puréed Meals: Preventing Muscle Loss in Dysphagia Patients"
 description: "How to maintain adequate protein intake on a puréed diet — IDDSI Level 4 high-protein recipes, fortification strategies, and sarcopenia prevention for elderly dysphagia patients."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "recipes"
 last_updated: "2026-04-17"
@@ -241,4 +241,4 @@ Dysphagia changes how people eat, but it does not have to mean surrendering adeq
 
 *This article is for general informational purposes and does not constitute medical or dietetic advice. Individuals with dysphagia should work with a qualified speech-language pathologist and registered dietitian to develop a safe, personalised eating and nutrition plan.*
 
-*Published by SeniorDeli (Carewells) editorial team. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+*Published by Editorial Team editorial team. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

@@ -1,7 +1,7 @@
 ---
 title: "Keputusan Pemberian Makan Tiub untuk Disfagia: PEG vs Tiub Nasogastrik"
 description: "Panduan keputusan pemberian makan tiub disfagia Bahasa Melayu — perbandingan PEG vs tiub nasogastrik, skala FILS 1-7, panduan khusus ALS dan demensia, perancangan penjagaan awal, pertimbangan budaya dan agama Islam Malaysia, pemberian makan keselesaan paliatif, pertimbangan halal"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "認知症と嚥下障害：食事行動の変化から終末期まで段階別対応"
 description: "認知症に伴う嚥下障害の段階的な変化、食事拒否・口腔保持・早期満腹感の対処法、BPSD（行動・心理症状）が食事に与える影響、終末期の倫理的判断まで実践的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-18"

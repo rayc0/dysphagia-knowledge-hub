@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 레벨 7(일반식) 완전 가이드: 연하장애 회복 후 일반식 복귀 기준과 주의사항"
 description: "IDDSI Level 7(Regular Diet, 일반식) 완전 가이드 — 레벨 7의 두 단계(일반식 vs 부드러운 일반식), 레벨 6에서 레벨 7로의 전환 임상 기준, 피해야 할 식품(통째 삼킴 위험 식품), 노인 연하장애에서의 레벨 7 적용, 한국 연하장애 임상 분류와 IDDSI 레벨 7의 대응"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "iddsi"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者的營養不良篩查與管理：香港指南"
 description: "香港吞嚥困難患者營養不良指南：醫管局統計數據、吞嚥困難與營養不良惡性循環、MNA-SF 6項評分表、MUST 3級風險分類、臨床指標（BMI、皮下脂肪、手握力、MUAC）、分階段干預措施及社署社區營養服務。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-04-19"

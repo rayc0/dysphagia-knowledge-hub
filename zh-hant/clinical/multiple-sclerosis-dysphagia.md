@@ -1,7 +1,7 @@
 ---
 title: "多發性硬化症與吞嚥困難：發作性管理與進展期照護"
 description: "全面介紹多發性硬化症（MS）相關吞嚥困難的盛行率、病理機制、疲勞管理策略及IDDSI分級建議，並涵蓋香港及台灣本地資源。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "Resepi Makanan Lembut Malaysia — 7 Hidangan Tradisional Mesra Disfagia (IDDSI Tahap 4/5)"
 description: "Tujuh resepi hidangan tradisional Malaysia yang diubahsuai teksturnya mengikut IDDSI Tahap 4 dan 5 untuk pesakit disfagia — rendang, kari, labu, ikan masak lemak, dan lain-lain."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ms"
 category: "recipes"
 last_updated: "2026-04-18"
@@ -312,4 +312,4 @@ Artikel ini adalah panduan umum berasaskan piawaian IDDSI 2.0 dan kajian akademi
 
 ---
 
-**Kemaskini terakhir:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Dikekalkan oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh-IDDSI untuk individu yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk maklumat rakan klinikal dan misi sosial kami.
+**Kemaskini terakhir:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Dikekalkan oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh-IDDSI untuk individu yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk maklumat rakan klinikal dan misi sosial kami.

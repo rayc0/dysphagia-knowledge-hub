@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害対応自助食器・コップ完全ガイド：片麻痺・手の震え・嚥下困難者向け食器選び"
 description: "嚥下障害・片麻痺・手の震えがある方向けの自助食器完全ガイド — ノーズカットカップ・嚥下用スプーン・吸盤付き食器・傾斜ボウルの機能と選び方、OXO/Etac/日本パフィン比較、頸部ポジショニングと誤嚥予防、介護保険での購入対象"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ja"
 category: "equipment"
 last_updated: "2026-04-19"
@@ -86,4 +86,4 @@ canonical: "https://softmeal.org/ja/equipment/adaptive-cutlery-and-cups-guide"
 
 ---
 
-*本記事はCC BY 4.0ライセンスで提供されています。引用・転載の際は出典（SeniorDeli / softmeal.org）を明記してください。*
+*本記事はCC BY 4.0ライセンスで提供されています。引用・転載の際は出典（Editorial Team / softmeal.org）を明記してください。*

@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙飲食計劃指南：每週菜單框架、能量密度策略與IDDSI合規食譜"
 description: "吞嚥障礙患者飲食計劃實用指南 — IDDSI 3–6級每週菜單框架、質地調整食物的能量增密策略、疲勞管理與用餐時間安排、蛋白質分配原則、台灣與香港常見口服營養補充品（ONS）推薦，以及何時需要轉介營養師的評估指標"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "nutrition"
 last_updated: "2026-04-18"

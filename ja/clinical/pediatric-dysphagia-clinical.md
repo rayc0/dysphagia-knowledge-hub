@@ -1,7 +1,7 @@
 ---
 title: "小児嚥下障害の臨床管理ガイド：早産児・神経発達障害・口蓋裂への対応"
 description: "小児（乳幼児〜学童期）の嚥下障害の臨床管理完全ガイド — 小児嚥下障害の主要原因（早産低出生体重児/脳性麻痺/ダウン症/ASD/口蓋裂/食道閉鎖術後）、正常嚥下発達マイルストーン（離乳食開始〜固形食移行）との比較、小児VF/VEの特殊考慮事項、言語聴覚士と小児科・口腔外科の多職種連携、保護者へのフィーディング指導、経管栄養からの経口移行"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -128,4 +128,4 @@ canonical: "https://softmeal.org/ja/clinical/pediatric-dysphagia-clinical"
 
 *本記事は情報提供を目的としており、医療診断・治療の代替となるものではありません。お子さんの嚥下・摂食に不安がある場合は、早めに小児科医または言語聴覚士にご相談ください。*
 
-*ライセンス: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — SeniorDeli (Carewells)*
+*ライセンス: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Editorial Team*

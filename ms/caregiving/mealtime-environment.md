@@ -1,7 +1,7 @@
 ---
 title: "Persekitaran Waktu Makan untuk Pesakit Disfagia: Pencahayaan, Kerusi dan Tetapan Meja"
 description: "Panduan menyediakan persekitaran waktu makan yang selamat dan kondusif untuk pesakit disfagia — pencahayaan, ergonomik kerusi, susunan meja dan modifikasi rumah di Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

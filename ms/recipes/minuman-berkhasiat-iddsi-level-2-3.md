@@ -1,7 +1,7 @@
 ---
 title: "Minuman Berkhasiat IDDSI Tahap 2–3 untuk Pesakit Disfagia: Susu, Jus Buah, dan Minuman Bertenaga"
 description: "Resepi minuman IDDSI Tahap 2 dan 3 (Bahasa Melayu) — cara memekatkan susu, jus mangga, teh halia, dan minuman bertenaga ke tahap yang betul menggunakan pemekat xanthan gum atau kanji, dos pemekat yang betul, cara menambah kalori dalam minuman, ujian syringe 10mL untuk mengesahkan tahap, variasi minuman tempatan Malaysia yang sesuai"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "recipes"
 last_updated: "2026-04-18"

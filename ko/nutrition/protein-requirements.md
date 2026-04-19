@@ -1,7 +1,7 @@
 ---
 title: "삼킴장애 환자의 단백질 요구량과 보충 전략"
 description: "삼킴장애 환자의 단백질 결핍 위험, 질환별 권장 섭취량, IDDSI 단계별 고단백 식품, 경구 영양 보충제 비교를 체계적으로 안내"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "nutrition"
 last_updated: "2026-04-18"

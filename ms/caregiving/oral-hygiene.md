@@ -1,7 +1,7 @@
 ---
 title: "Kebersihan Mulut untuk Pesakit Disfagia: Mencegah Pneumonia Aspirasi Melalui Penjagaan Oral"
 description: "Panduan kebersihan mulut untuk pesakit disfagia (Bahasa Melayu) — hubungan antara kebersihan mulut dan pneumonia aspirasi, teknik memberus gigi yang selamat, penggunaan pencuci mulut, cara membersihkan gigi palsu, kepentingan saliva, penjagaan mulut untuk pesakit yang tidak boleh makan melalui mulut (NPO)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-18"

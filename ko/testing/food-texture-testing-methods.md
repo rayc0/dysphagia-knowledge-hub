@@ -1,7 +1,7 @@
 ---
 title: "연하식 텍스처 테스트 방법 가이드: IDDSI 흐름 테스트·포크 압력 테스트·스푼 기울기 테스트"
 description: "연하장애 식품 텍스처 테스트 방법 완전 가이드 — IDDSI 공식 테스트(흐름/포크압력/스푼기울기/젓가락 테스트), 가정 간병인용 간이 확인법, 10mL 주사기 등 테스트 도구 구입처(쿠팡), 재현성 있는 텍스처 확보 방법, 언어재활사 처방 없이 가정 간병인이 할 수 있는 범위"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ko"
 category: "testing"
 last_updated: "2026-04-19"

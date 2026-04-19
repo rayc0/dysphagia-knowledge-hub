@@ -1,7 +1,7 @@
 ---
 title: "Disfagia Akibat Kanser Kepala dan Leher: Pemulihan Selepas Radioterapi dan Pembedahan"
 description: "Panduan klinikal disfagia berkaitan kanser kepala dan leher (Bahasa Melayu) — mekanisme fibrosis radiasi dan perubahan anatomi pasca pembedahan, jadual masa komplikasi akut dan lewat, latihan menelan preventif semasa RT, gastrostomi profilaktik vs reaktif, pemantauan FEES/VF, dan sumber penjagaan di Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

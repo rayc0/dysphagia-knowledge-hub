@@ -1,7 +1,7 @@
 ---
 title: "소아 연하장애 임상 관리 가이드: 미숙아·신경발달장애·구개열에 대한 대응"
 description: "소아(영유아~학령기) 연하장애 임상 관리 완전 가이드 — 소아 연하장애 주요 원인(미숙아/뇌성마비/다운증후군/ASD/구개열/식도폐쇄 수술 후), 정상 연하 발달 이정표(이유식 시작~고형식 이행)와의 비교, 소아 VF/FEES의 특수 고려사항, 언어재활사와 소아과·구강외과의 다학제 협력, 보호자 수유·이유식 지도, 관식에서 경구 이행"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -136,4 +136,4 @@ canonical: "https://softmeal.org/ko/clinical/pediatric-dysphagia-clinical"
 
 *본 글은 정보 제공을 목적으로 하며, 의료 진단·치료의 대체가 아닙니다. 자녀의 삼킴·섭식에 불안이 있으시면 소아과 의사 또는 언어재활사에게 조속히 상담하시기 바랍니다.*
 
-*라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — SeniorDeli (Carewells)*
+*라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Editorial Team*

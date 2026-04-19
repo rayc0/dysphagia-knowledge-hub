@@ -1,7 +1,7 @@
 ---
 title: "食道性嚥下障害と口咽頭性嚥下障害の鑑別：症状・原因・検査・治療の違い"
 description: "食道性嚥下障害（食道通過障害）と口咽頭性嚥下障害の鑑別診断完全ガイド — 両者の症状の違い（口咽頭型：むせ/鼻腔逆流/咀嚼困難 vs 食道型：胸部つかえ感/嚥下後遅延）、原因疾患比較（神経筋疾患 vs GERD/食道狭窄/アカラシア）、検査の使い分け（VF/VE vs 食道造影/胃カメラ）、管理アプローチの違い、混合型嚥下障害への対応"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"

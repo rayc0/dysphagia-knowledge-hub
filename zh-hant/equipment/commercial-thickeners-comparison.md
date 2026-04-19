@@ -1,7 +1,7 @@
 ---
 title: "增稠劑產品比較：IDDSI認證品牌在香港及台灣的選購指南"
 description: "澱粉類與黃原膠增稠劑全面比較——唾液酶降解風險、穩定性、IDDSI通過率，以及香港台灣市售產品選購指引、混合技術與藥物交互影響。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "zh-hant"
 category: "equipment"
 last_updated: "2026-04-19"

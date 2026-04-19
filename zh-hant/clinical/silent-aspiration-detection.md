@@ -1,7 +1,7 @@
 ---
 title: "無聲嗆咳（Silent Aspiration）：照顧者必識的警示訊號"
 description: "深入解釋無聲誤吸的成因機制、七大照顧者警示訊號及篩查方法，涵蓋VF/FEES金標準評估、高危疾病列表及預防策略，適合香港及台灣照顧者和臨床人員參考。"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

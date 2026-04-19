@@ -1,7 +1,7 @@
 ---
 title: "구강 케어를 통한 흡인성 폐렴 예방: 근거 기반 실천 가이드"
 description: "Yoneyama 2002 RCT 등의 근거에 기반하여 흡인성 폐렴을 40% 줄이는 구강 케어 방법과 요양 현장에서의 실천 절차를 안내합니다."
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

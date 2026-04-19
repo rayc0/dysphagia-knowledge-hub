@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍增稠剂选购指南：淀粉基vs黄原胶基全面对比"
 description: "系统比较淀粉基与黄原胶基增稠剂的特性、IDDSI达标表现、口感差异、成本及中国市场主要品牌，帮助照护者做出最佳选择"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-04-18"

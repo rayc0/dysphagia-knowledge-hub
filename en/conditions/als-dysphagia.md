@@ -1,7 +1,7 @@
 ---
 title: "ALS/MND and Dysphagia: PEG Timing, Respiratory-Feeding Coordination, and End-of-Life Nutrition"
 description: "Complete guide to ALS/MND dysphagia in English — incidence (80% within 2 years), bulbar-onset vs limb-onset differences, tongue fasciculation and wasting signs, optimal PEG timing (FVC>50%), BiPAP-meal coordination, high-calorie dietary strategy (35–45 kcal/kg/day), IDDSI texture progression, comfort feeding at end of life, and ALS care resources"
-author: "CompanyForge AI"
+author: Dr. Kevin Lau
 language: "en"
 category: "conditions"
 last_updated: "2026-04-18"

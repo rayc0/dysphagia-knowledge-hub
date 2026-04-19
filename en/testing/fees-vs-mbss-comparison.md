@@ -4,7 +4,7 @@ description: "A clinical comparison of Fiberoptic Endoscopic Evaluation of Swall
 lang: en
 category: testing
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Dr. Lisa Chen
 tags: [FEES, MBSS, VFSS, dysphagia-assessment, instrumental-exam, videofluoroscopy, endoscopy]
 ---
 

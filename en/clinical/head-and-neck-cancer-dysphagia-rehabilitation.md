@@ -4,7 +4,7 @@ description: "Evidence-based rehabilitation of radiation-induced and post-surgic
 lang: en
 category: clinical
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Dr. Lisa Chen
 tags:
   - head and neck cancer
   - radiation-induced dysphagia

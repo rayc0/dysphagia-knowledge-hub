@@ -1,7 +1,7 @@
 ---
 title: "연하장애 환자 일상 돌봄 루틴: 식사 준비부터 구강 관리까지 실전 가이드"
 description: "연하장애 환자를 위한 일상 돌봄 루틴 가이드 — 아침 식사 준비 체크리스트, IDDSI 질감 조정 식사 실천법, 식사 중 자세와 환경 조성, 식후 구강 관리 및 보호자 번아웃 예방 전략"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-18"

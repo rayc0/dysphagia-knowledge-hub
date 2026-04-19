@@ -4,7 +4,7 @@ description: "中風後吞嚥困難(Post-Stroke Dysphagia)的完整復健指南,
 lang: zh-hant
 category: clinical
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Dr. Eric Hui
 tags: [中風, 吞嚥困難, 復健, GUSS, VFSS, 表面電刺激, 長照, 台灣]
 ---
 

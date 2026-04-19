@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia in Parkinson's Disease: Swallowing Management, Medication Timing, and Long-Term Care"
 description: "Complete guide to Parkinson's disease dysphagia — prevalence (80% of PD patients), oral and pharyngeal phase impairments, levodopa timing and protein redistribution diet, LSVT LOUD swallowing benefits, IDDSI texture selection for PD, silent aspiration in Parkinson's, sialorrhea management, when to consider PEG placement"
-author: "CompanyForge AI"
+author: Margaret Wong
 language: "en"
 category: "conditions"
 last_updated: "2026-04-18"

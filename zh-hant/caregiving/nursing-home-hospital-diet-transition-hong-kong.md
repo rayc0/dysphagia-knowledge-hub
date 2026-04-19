@@ -1,7 +1,7 @@
 ---
 title: "喺老人院同醫院之間轉換 — 點樣保持吞嚥飲食一致（香港照顧者指南）"
 description: "長者喺醫院同老人院之間轉換嘅時候，吞嚥飲食點樣先唔會亂？教你用 IDDSI 等級、出院紙同照護食標準，做好交接，避免嗆咳同吸入性肺炎。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hant"
 category: "caregiving"
 last_updated: "2026-04-17"
@@ -196,4 +196,4 @@ Level 1 以上嘅增稠飲品通常可以用標準吸管飲，但 Level 3、Leve
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 一間香港社會企業，生產符合 IDDSI 標準嘅護食產品，亦係廣東省—香港—澳門大灣區 T/SATA 084-2025《適老易食食品》標準嘅共同起草機構。本頁純屬教育用途；機構採購或培訓查詢：hello@seniordeli.com。
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — 一間香港社會企業，生產符合 IDDSI 標準嘅護食產品，亦係廣東省—香港—澳門大灣區 T/SATA 084-2025《適老易食食品》標準嘅共同起草機構。本頁純屬教育用途；機構採購或培訓查詢：hello@seniordeli.com。

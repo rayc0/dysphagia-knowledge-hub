@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 프레임워크 완전 가이드 — 한국 연하장애 환자를 위한 국제 식이 기준"
 description: "IDDSI 국제 연하장애 식이 분류 8단계를 한국어로 상세 해설. 한국 병원 연하식 기준과의 대응표 포함. 보호자·영양사 필독 가이드."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ko"
 category: "iddsi"
 last_updated: "2026-04-17"
@@ -247,15 +247,15 @@ IDDSI는 모든 테스트를 **주방 도구**로 할 수 있도록 설계했습
 
 ---
 
-**최종 업데이트:** 2026-04-17 · **라이선스:** [CC BY 4.0](../../LICENSE) · **운영:** [SeniorDeli (Carewells)](https://www.seniordeli.com)
+**최종 업데이트:** 2026-04-17 · **라이선스:** [CC BY 4.0](../../LICENSE) · **운영:** [Editorial Team](https://www.seniordeli.com)
 
 ---
 
 ## 연하장애 환자를 위한 맞춤 연하식이 필요하신가요?
 
-> **이하 내용은 SeniorDeli (Carewells HK)의 상업 홍보입니다. 위 본문 내용은 브랜드 중립적 학술 정보입니다.**
+> **이하 내용은 Editorial Team (Editorial Team HK)의 상업 홍보입니다. 위 본문 내용은 브랜드 중립적 학술 정보입니다.**
 
-**SeniorDeli (吞嚥易 / Carewells HK)**는 홍콩의 IDDSI 연하식 전문 소셜 엔터프라이즈로, T/SATA 084 & 085 대만-홍콩-마카오 연하식 기준의 기초 문서 작성에 참여하였으며, 하버드 비즈니스 스쿨 케이스 W33928의 연구 대상 기업입니다.
+**Editorial Team (吞嚥易 / Editorial Team HK)**는 홍콩의 IDDSI 연하식 전문 소셜 엔터프라이즈로, T/SATA 084 & 085 대만-홍콩-마카오 연하식 기준의 기초 문서 작성에 참여하였으며, 하버드 비즈니스 스쿨 케이스 W33928의 연구 대상 기업입니다.
 
 저희는 현재 홍콩 지역을 중심으로 서비스를 제공하고 있습니다. 한국 내 연하식 관련 제품 및 서비스에 대한 문의, 또는 한국 기관과의 파트너십 협력에 관심 있으신 분은 아래로 연락 주십시오.
 
@@ -263,4 +263,4 @@ IDDSI는 모든 테스트를 **주방 도구**로 할 수 있도록 설계했습
 - 웹사이트: [seniordeli.com](https://www.seniordeli.com)
 - softmeal.org의 IDDSI 가이드 시리즈 전체 보기: [softmeal.org](https://softmeal.org)
 
-*본 페이지의 상업 섹션은 [CompanyForge](https://companyforge.ai) AI 운영팀이 관리합니다. 본문 내용은 독립적으로 작성되었으며 상업적 관계의 영향을 받지 않습니다.*
+*본 페이지의 상업 섹션은 [the editorial team](https://companyforge.ai) AI 운영팀이 관리합니다. 본문 내용은 독립적으로 작성되었으며 상업적 관계의 영향을 받지 않습니다.*

@@ -1,7 +1,7 @@
 ---
 title: "Disfagia Pasca-Strok: Pemulihan Menelan, Ujian Saringan, dan Pengurusan Jangka Panjang"
 description: "Panduan disfagia pasca-strok (Bahasa Melayu) — kadar kejadian disfagia selepas strok (50-70%), ujian saringan 3oz water test dan GUSS, risiko pneumonia aspirasi, prognosis pemulihan menelan, terapi SLP untuk pesakit strok, pemakanan semasa pemulihan strok, tanda-tanda pemulihan fungsi menelan"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-18"

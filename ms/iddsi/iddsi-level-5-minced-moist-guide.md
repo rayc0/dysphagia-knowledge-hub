@@ -1,7 +1,7 @@
 ---
 title: "Panduan IDDSI Tahap 5 (Makanan Cincang Lembap): Saiz Potongan, Ujian Garpu dan Makanan Tradisi Malaysia"
 description: "Panduan lengkap IDDSI Tahap 5 (Minced & Moist) dalam Bahasa Melayu — sifat fizikal makanan cincang lembap, keperluan saiz ≤4mm, ujian garpu IDDSI, makanan tradisi Melayu yang sesuai untuk Tahap 5, perbezaan dengan Tahap 4 dan Tahap 6, strategi penyediaan di rumah"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "iddsi"
 last_updated: "2026-04-18"

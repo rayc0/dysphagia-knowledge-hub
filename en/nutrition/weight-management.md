@@ -4,7 +4,7 @@ description: "Weight management and malnutrition prevention complete guide for d
 lang: en
 category: nutrition
 date: 2026-04-18
-author: CompanyForge AI
+author: Dr. Eric Hui
 canonical: "https://softmeal.org/en/nutrition/weight-management"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"

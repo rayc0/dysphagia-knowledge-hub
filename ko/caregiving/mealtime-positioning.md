@@ -1,7 +1,7 @@
 ---
 title: "삼킴장애 환자의 식사 자세: 안전한 포지셔닝 완전 가이드"
 description: "삼킴장애 환자의 식사 시 올바른 자세(좌위, 리클라이닝, 측와위) 설정 방법, 휠체어/침대 위 조정 포인트, 흡인 위험 저감을 위한 포지셔닝 기술을 체계적으로 해설"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-18"

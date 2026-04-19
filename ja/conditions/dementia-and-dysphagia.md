@@ -1,7 +1,7 @@
 ---
 title: "認知症と嚥下障害：早期発見からケアの実践まで"
 description: "アルツハイマー型、血管性、レビー小体型など認知症のタイプ別嚥下障害の特徴、評価方法、IDDSI対応の食事調整、終末期の経管栄養の判断を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "conditions"
 last_updated: "2026-04-18"

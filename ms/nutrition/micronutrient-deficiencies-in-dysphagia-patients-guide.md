@@ -1,7 +1,7 @@
 ---
 title: "Kekurangan Mikronutrien pada Pesakit Disfagia: Panduan Lengkap"
 description: "Panduan komprehensif tentang risiko kekurangan mikronutrien pada pesakit disfagia — Vitamin D, Zink, Besi, Vitamin B12, Kalsium — dengan sumber makanan mengikut tahap IDDSI, pilihan suplemen cecair, dan rujukan dietitian KKM."
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ms"
 category: "nutrition"
 last_updated: "2026-04-19"

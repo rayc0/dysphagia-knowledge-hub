@@ -1,7 +1,7 @@
 ---
 title: "香港家常廣東菜吞嚥友善食譜——IDDSI Level 4 及 Level 5 完整指南"
 description: "七道改良廣東家常菜食譜，符合IDDSI Level 4糊狀及Level 5細碎及濕軟標準，附質地測試方法，適合香港吞嚥困難患者家屬居家烹調。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "zh-hant"
 category: "recipes"
 last_updated: "2026-04-19"
@@ -265,4 +265,4 @@ canonical: "https://softmeal.org/zh-hant-hk/recipes/hong-kong-cantonese-soft-mea
 
 ---
 
-**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. We are co-drafters of GBA care food standards T/SATA 084-2025 and T/SATA 085-2025. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com
+**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. We are co-drafters of GBA care food standards T/SATA 084-2025 and T/SATA 085-2025. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com

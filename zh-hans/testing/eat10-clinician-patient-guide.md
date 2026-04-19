@@ -1,7 +1,7 @@
 ---
 title: "EAT-10吞咽筛查量表：临床应用与患者自评完全指南"
 description: "EAT-10（进食评估工具）详解 — 10个问题的完整内容、评分方法、临床意义、中文版本使用注意事项及何时需要进一步吞咽评估。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "testing"
 last_updated: "2026-04-17"

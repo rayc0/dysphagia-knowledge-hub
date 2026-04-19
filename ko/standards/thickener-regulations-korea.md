@@ -1,7 +1,7 @@
 ---
 title: "한국 점증제 규제와 안전 기준: 식약처 승인 연하용 점증제 가이드"
 description: "한국 식약처(MFDS) 승인 연하용 점증제 규제와 안전 기준 완전 가이드 — 전분계 vs 잔탄검계 제품 비교, 한국 시판 제품(뮤틴/더걸쭉/넥타밀크) 비교, 노인장기요양보험 소모품 급여 기준, 와파린 상호작용/영양 희석 주의사항"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "standards"
 last_updated: "2026-04-19"

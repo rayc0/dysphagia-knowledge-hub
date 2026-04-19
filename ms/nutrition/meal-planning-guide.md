@@ -1,7 +1,7 @@
 ---
 title: "Panduan Perancangan Hidangan untuk Disfagia: Makanan Seimbang di Setiap Tahap IDDSI"
 description: "Panduan lengkap perancangan hidangan untuk pesakit disfagia di Malaysia — contoh pelan makan 3 hari mengikut tahap IDDSI 3–7, penyesuaian makanan Malaysia, teknik pengayaan kalori, memasak berkumpul, dan tip jimat masa untuk penjaga."
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "ms"
 category: "nutrition"
 last_updated: "2026-04-19"

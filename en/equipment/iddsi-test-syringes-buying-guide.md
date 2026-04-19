@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Test Syringes — Buying Guide for Hong Kong and Global Buyers (2026)"
 description: "Which 10 mL slip-tip syringes pass the IDDSI Flow Test, how to verify barrel length, and where to buy compliant syringes in Hong Kong, Taiwan, Japan, and online."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-17"
@@ -189,4 +189,4 @@ This article paraphrases publicly-available international testing methodology fr
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade, institutional and distributor enquiries: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade, institutional and distributor enquiries: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.

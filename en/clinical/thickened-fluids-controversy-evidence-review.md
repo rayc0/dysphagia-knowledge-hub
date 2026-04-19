@@ -1,7 +1,7 @@
 ---
 title: "The Thickened Fluids Controversy — Robbins 2008, Adverse Events, and the 2024–2026 Evidence Shift"
 description: "Evidence review of thickened liquids for dysphagia: what the Robbins 2008 RCT actually found, documented harms, quality-of-life trade-offs, and how shared decision-making is replacing one-size-fits-all prescribing."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"
@@ -150,4 +150,4 @@ This article paraphrases publicly available clinical evidence and guideline comm
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

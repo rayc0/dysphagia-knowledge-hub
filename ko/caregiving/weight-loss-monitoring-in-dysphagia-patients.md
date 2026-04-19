@@ -1,7 +1,7 @@
 ---
 title: "연하장애 환자 체중 감소 모니터링: 영양불량 조기 발견과 중재"
 description: "연하장애 환자에서 체중 감소의 위험성·스크리닝 도구·고칼로리 식품 활용·영양 보충제 선택에 대해 재가·시설 양쪽 관점에서 안내합니다."
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

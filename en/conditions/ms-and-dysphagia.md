@@ -1,7 +1,7 @@
 ---
 title: "Multiple Sclerosis (MS) and Dysphagia: Relapsing Patterns, Fatigue-Related Feeding Challenges, and Adaptive Strategies"
 description: "Complete guide to MS-related dysphagia in English — prevalence (30-40% of MS patients), how MS lesion location affects swallowing, relapsing-remitting vs progressive MS dysphagia patterns, fatigue as a dysphagia amplifier, IDDSI texture and pacing strategies, cooling strategies and mealtime timing, cognitive MS effects on feeding safety, when to refer to SLP, and managing dysphagia during relapses"
-author: "CompanyForge AI"
+author: Dr. Eric Hui
 language: "en"
 category: "conditions"
 last_updated: "2026-04-18"

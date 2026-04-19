@@ -1,7 +1,7 @@
 ---
 title: "食管性 vs 口咽性吞咽困难：鉴别诊断与转诊路径"
 description: "吞咽困难有两大类型：口咽性（吞咽启动困难）和食管性（吞咽后食物停滞）。本指南通过三栏比较表详解两类型的病因、症状、诊断工具，以及中国大陆的科室分诊路径与多学科团队转诊流程。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-19"

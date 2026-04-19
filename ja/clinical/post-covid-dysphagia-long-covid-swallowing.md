@@ -1,7 +1,7 @@
 ---
 title: "新型コロナウイルス感染後の嚥下障害——ロングCOVID患者ケアガイド"
 description: "COVID-19が嚥下機能を障害するメカニズム、挿管期間と重症度の関係、ロングCOVID持続率、リハビリの根拠、IDDSI食形態管理を徹底解説。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"
@@ -224,4 +224,4 @@ COVID後嚥下障害の典型的な食形態移行：
 
 ---
 
-**最終更新：** 2026-04-19 · **ライセンス：** [CC BY 4.0](../../LICENSE) · **運営：[SeniorDeli (Carewells)](https://www.seniordeli.com)** — 嚥下障害を抱える方々のためにIDDSI準拠の介護食を製造する香港のソーシャルエンタープライズ。本ページは教育目的であり、臨床パートナー・社会的使命については [About](/about) をご覧ください。
+**最終更新：** 2026-04-19 · **ライセンス：** [CC BY 4.0](../../LICENSE) · **運営：[Editorial Team](https://www.seniordeli.com)** — 嚥下障害を抱える方々のためにIDDSI準拠の介護食を製造する香港のソーシャルエンタープライズ。本ページは教育目的であり、臨床パートナー・社会的使命については [About](/about) をご覧ください。

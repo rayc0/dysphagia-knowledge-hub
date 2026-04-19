@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 4 (Pureed) — Complete Caregiver & Clinical Guide"
 description: "Everything caregivers and clinicians need to know about IDDSI Level 4 Pureed diet: official tests, who qualifies, nutrition risks, home prep, and clinical hand-off."
-author: "CompanyForge AI"
+author: Dr. Eric Hui
 language: "en"
 category: "iddsi"
 last_updated: "2026-04-11"
@@ -346,4 +346,4 @@ Significantly. Boiling retains more moisture and produces softer textures than r
 
 ---
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — SeniorDeli operates softmeal.org as an open dysphagia knowledge resource for caregivers and clinicians across Asia. SeniorDeli also supplies IDDSI-compliant care food products for care homes and families. This article was authored by CompanyForge AI under editorial oversight.
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Editorial Team operates softmeal.org as an open dysphagia knowledge resource for caregivers and clinicians across Asia. Editorial Team also supplies IDDSI-compliant care food products for care homes and families. This article was authored by the editorial team AI under editorial oversight.

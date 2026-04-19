@@ -1,7 +1,7 @@
 ---
 title: "다발성 경화증(MS)과 연하장애: 재발 패턴, 피로의 영향, 적응적 식이 전략"
 description: "MS 연하장애 완전 가이드(한국어) — MS 연하장애 유병률(30-40%), 뇌간 병변이 연하에 미치는 영향, 재발-완화형 vs 진행형 MS 연하 패턴 차이, 피로의 연하 안전성 증폭 효과, Uhthoff 현상과 냉각 전략, IDDSI 단계별 질감 권고(재발기 긴급 조정 포함), 인지 MS 장애가 식이 안전에 미치는 영향, 한국의 MS 의료 자원"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "conditions"
 last_updated: "2026-04-18"

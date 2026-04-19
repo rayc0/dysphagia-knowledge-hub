@@ -1,7 +1,7 @@
 ---
 title: "パーキンソン病の嚥下障害：飲み込みの管理・レボドパ服用タイミング・長期ケア"
 description: "パーキンソン病の嚥下障害完全ガイド（日本語）— 有病率（PD患者の80%）、口腔期・咽頭期の特徴的障害、レボドパ服薬タイミングとタンパク質再分配食、LSVT LOUDの嚥下改善効果、IDDSI食形態選択、沈黙性誤嚥の識別、流涎（ドローリング）管理、PEG胃ろう造設のタイミング"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "conditions"
 last_updated: "2026-04-18"

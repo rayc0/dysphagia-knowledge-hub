@@ -1,7 +1,7 @@
 ---
 title: "Kontroversi Cecair Pekat untuk Disfagia: Manfaat vs Risiko Berdasarkan Bukti"
 description: "Analisis kritikal tentang penggunaan cecair pekat dalam pengurusan disfagia, merangkumi dapatan kajian THICSY dan MATCH, piawaian IDDSI, risiko klinikal, dan pendekatan membuat keputusan bersama pesakit dalam konteks Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

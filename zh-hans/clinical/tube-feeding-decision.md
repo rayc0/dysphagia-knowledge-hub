@@ -1,7 +1,7 @@
 ---
 title: "吞咽困难患者的管饲决策指南：鼻饲管与胃造瘘的选择"
 description: "详解吞咽困难患者何时需要管饲、鼻饲管（NGT）与经皮内镜胃造瘘（PEG）的区别、家属决策要点、伦理考量及中国大陆临床实践。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-17"

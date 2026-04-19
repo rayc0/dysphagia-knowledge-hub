@@ -1,7 +1,7 @@
 ---
 title: "Robot Cook vs Thermomix vs Immersion Blender — Choosing Equipment for IDDSI Level 4 Production"
 description: "Head-to-head comparison of Robot Cook, Thermomix, and immersion blenders for producing IDDSI Level 4 purées in hospital, aged-care, and home kitchens."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-17"
@@ -154,4 +154,4 @@ This article paraphrases publicly-available IDDSI framework documentation and ma
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade enquiries and bulk procurement: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade enquiries and bulk procurement: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.

@@ -1,7 +1,7 @@
 ---
 title: "嚥下困難患者の体重減少モニタリング：栄養不良の早期発見と介入"
 description: "嚥下障害患者における体重減少の危険性・スクリーニングツール・高カロリー食の工夫・栄養補助食品の選択について、在宅・施設双方の視点から解説します。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

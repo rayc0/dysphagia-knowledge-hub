@@ -1,7 +1,7 @@
 ---
 title: "香港吞嚥困難患者口服營養補充品（ONS）指南"
 description: "香港口服營養補充品（ONS）完整指南：ONS定義及適應症、各類型對比（標準型、高蛋白、腎病/糖尿病/癌症專用）、質地改良ONS、香港藥房產品（Ensure、Resource、Nutrison、Glucerna、Nepro）、綜援補貼及醫管局轉介管飼評估。"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "頭頸部がんと嚥下障害：治療前後のリハビリテーションと栄養管理"
 description: "頭頸部がん（咽頭がん・喉頭がん・口腔がん）の治療に伴う嚥下障害の発生メカニズム、手術・放射線・化学療法の影響、リハビリテーション戦略を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-18"

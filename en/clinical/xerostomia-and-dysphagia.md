@@ -4,7 +4,7 @@ description: "Complete clinical guide to xerostomia (dry mouth) as a driver of d
 lang: en
 category: clinical
 date: 2026-04-14
-author: "Dysphagia Knowledge Hub"
+author: Susan Tam
 ---
 
 # Xerostomia and Dysphagia — How Dry Mouth Worsens Swallowing and What to Do About It

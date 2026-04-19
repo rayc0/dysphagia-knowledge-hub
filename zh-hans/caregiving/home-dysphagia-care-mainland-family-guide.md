@@ -4,7 +4,7 @@ description: "为大陆家庭照顾吞咽困难长辈而写的实用手册。涵
 lang: zh-hans
 category: caregiving
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Editorial Team
 tags:
   - 吞咽困难
   - 居家照护

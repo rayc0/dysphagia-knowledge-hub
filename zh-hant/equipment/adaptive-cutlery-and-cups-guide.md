@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難適用餐具：輔助杯、防滑墊與自適應餐具全指南"
 description: "吞嚥困難患者適用餐具完整指南——9類輔助餐具比較、Nosey杯與Provale杯說明、鴨嘴杯危險警告、職業治療師評估建議及香港台灣購買渠道。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "zh-hant"
 category: "equipment"
 last_updated: "2026-04-19"

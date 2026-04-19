@@ -1,7 +1,7 @@
 ---
 title: "食事時ポジショニングプロトコル：誤嚥を防ぐ姿勢調整の完全ガイド"
 description: "誤嚥を最小化する食事時ポジショニングの科学的根拠と実践手順。90/90/90原則・リクライニング角度比較・横向き嚥下・食後安静まで、PT/OT/STの連携視点で体系的に解説。"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

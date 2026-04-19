@@ -1,7 +1,7 @@
 ---
 title: "临终吞咽困难：姑息照护与进食决策的伦理考量"
 description: "从循证医学与中国文化双重视角，梳理临终阶段吞咽困难的管理原则，涵盖自然停止进食饮水、舒适喂食、管饲利弊对比及共同决策框架，指导家属与医疗团队做出符合患者最佳利益的决定。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-19"

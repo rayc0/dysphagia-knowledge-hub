@@ -1,7 +1,7 @@
 ---
 title: "吞嚥治療訓練：改善吞嚥功能的五大關鍵運動"
 description: "循證為本的吞嚥復康運動指南，涵蓋Mendelsohn手法、Shaker抬頭訓練、EMST呼氣肌力訓練、用力吞嚥及Supraglottic吞嚥法，適合中風、柏金遜症、肌少症及ALS患者。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

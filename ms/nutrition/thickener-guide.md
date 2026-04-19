@@ -1,7 +1,7 @@
 ---
 title: "Panduan Agen Pemekat untuk Pesakit Disfagia: Cara Memilih dan Menggunakan Pemekat yang Betul"
 description: "Panduan lengkap agen pemekat untuk pesakit disfagia (Bahasa Melayu) — perbezaan pemekat kanji vs xanthan gum, cara mengukur dos mengikut tahap IDDSI, produk pemekat yang tersedia di Malaysia dan Singapura, kesan pemekat ke atas ubat-ubatan, cara menguji ketebalan yang betul"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "nutrition"
 canonical: "https://softmeal.org/ms/nutrition/thickener-guide"

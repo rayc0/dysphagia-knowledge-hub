@@ -4,7 +4,7 @@ description: "Seven Cantonese family dishes reworked for IDDSI Level 4 (Pureed) 
 lang: en
 category: recipes
 date: 2026-04-14
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 ---
 
 # Cantonese Soft Meal Recipes — IDDSI Level 4 and 5 Versions of Home-Cooked Classics
@@ -265,7 +265,7 @@ Home cooking is always more flavourful and more accepted than commercial product
 
 ---
 
-*This article is part of the [SeniorDeli Dysphagia Knowledge Hub](/), a free public resource from Carewells Limited (華瓏有限公司), a Hong Kong social enterprise providing texture-modified care food for elderly with swallowing difficulties. All revenue from our products funds research and free educational content like this. These recipes are for general guidance; please confirm the target IDDSI level with your speech-language therapist or dietitian before cooking for a specific patient.*
+*This article is part of the [Editorial Team Dysphagia Knowledge Hub](/), a free public resource from Editorial Team Limited (華瓏有限公司), a Hong Kong social enterprise providing texture-modified care food for elderly with swallowing difficulties. All revenue from our products funds research and free educational content like this. These recipes are for general guidance; please confirm the target IDDSI level with your speech-language therapist or dietitian before cooking for a specific patient.*
 
 ## Related articles
 

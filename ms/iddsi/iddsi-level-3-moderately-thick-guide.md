@@ -1,7 +1,7 @@
 ---
 title: "Panduan IDDSI Tahap 3 — Cecair Pekat Sederhana: Ciri Fizikal, Ujian Sudu, dan Risiko Dehidrasi"
 description: "Panduan IDDSI Tahap 3 cecair pekat sederhana (Bahasa Melayu) — viskositi 351-1750 mPa·s, ujian sudu IDDSI, perbandingan dengan Tahap 2 dan 4, cara menggunakan pemekat xanthan gum untuk cecair sederhana, risiko dehidrasi tinggi pada Tahap 3, minuman yang sesuai, pemantauan pengambilan cecair harian"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "iddsi"
 last_updated: "2026-04-18"

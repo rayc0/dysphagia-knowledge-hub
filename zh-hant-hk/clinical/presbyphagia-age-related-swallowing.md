@@ -1,7 +1,7 @@
 ---
 title: "老年性吞嚥功能衰退（Presbyphagia）：正常老化與病理性吞嚥障礙的區別"
 description: "深入介紹老年性吞嚥功能衰退的正常老化變化、肌少性吞嚥障礙、咽部感覺下降與喉部上提減慢，以及香港長者統計數據、預防進展為臨床吞嚥障礙的運動介入及轉介老人科指引。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-04-19"

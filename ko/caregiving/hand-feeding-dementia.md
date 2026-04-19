@@ -1,7 +1,7 @@
 ---
 title: "치매 환자 손 먹이기: 흡인 예방, 구강 거부 대응과 식사 보조 기술"
 description: "치매 환자 손 먹이기(hand feeding) 완전 가이드 — 치매 단계별 연하 기능 변화, 흡인 위험 신호 인식, 식사 거부·구강 잠금 대응법, 자세 설정(30도·90도), 스푼 테크닉, IDDSI 질감 조정, 가족 보호자를 위한 실전 체크리스트, 한국 요양 현장 적용"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-18"

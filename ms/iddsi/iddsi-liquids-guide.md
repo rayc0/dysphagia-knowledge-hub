@@ -1,7 +1,7 @@
 ---
 title: "Panduan Tahap Cecair IDDSI (Tahap 0–4): Cara Memekatkan Minuman dengan Betul"
 description: "Panduan lengkap cecair IDDSI Tahap 0 hingga 4 dalam Bahasa Melayu — ciri fizikal setiap tahap cecair, ujian syringe IDDSI, perbezaan air biasa vs cecair sedikit pekat vs pekat sederhana vs amat pekat, cara menggunakan agen pemekat dengan betul, risiko dehidrasi pada cecair pekat"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "iddsi"
 last_updated: "2026-04-18"

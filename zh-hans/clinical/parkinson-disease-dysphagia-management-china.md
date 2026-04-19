@@ -4,7 +4,7 @@ description: "针对中国帕金森病患者和家属的吞咽障碍全面指南
 lang: zh-hans
 category: clinical
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Editorial Team
 tags:
   - 帕金森病
   - 吞咽障碍

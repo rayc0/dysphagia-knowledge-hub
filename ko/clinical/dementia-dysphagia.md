@@ -1,7 +1,7 @@
 ---
 title: "치매와 삼킴장애: 식사 행동 변화부터 말기 단계까지 단계별 대응"
 description: "치매에 동반하는 삼킴장애의 단계적 변화, 식사 거부·구강 보유·조기 포만감 대처법, 행동심리증상(BPSD)이 식사에 미치는 영향, 말기 의사결정까지 실용적 해설"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

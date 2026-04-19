@@ -1,7 +1,7 @@
 ---
 title: "Disfagia dalam Sklerosis Berbilang (Multiple Sclerosis): Pengurusan Episodik dan Progresif"
 description: "Panduan klinikal disfagia dalam Multiple Sclerosis (Bahasa Melayu) — prevalens 30–40%, corak relaps-remisi vs progresif, demielinasi saraf kranial IX/X/XII, korelasi skor EDSS, pengurusan keletihan semasa makan, cadangan IDDSI, dan sumber penjagaan di Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

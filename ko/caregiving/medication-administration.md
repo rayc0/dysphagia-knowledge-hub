@@ -1,7 +1,7 @@
 ---
 title: "삼킴장애 환자의 복약 관리: 정제 분쇄, 대체 제형, 안전한 투약법"
 description: "삼킴곤란 환자를 위한 안전한 복약 방법, 분쇄 가능/불가 판단, 구강붕해정(OD정), 액제, 패치 등 대체 제형 선택을 체계적으로 해설"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-18"

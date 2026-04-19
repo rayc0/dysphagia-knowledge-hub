@@ -1,7 +1,7 @@
 ---
 title: "Sklerosis Berbilang (MS) dan Disfagia: Pola Kambuhan, Cabaran Pemakanan Berkaitan Keletihan, dan Strategi Adaptif"
 description: "Panduan disfagia MS dalam Bahasa Melayu — prevalens disfagia MS (30-40%), kesan lokasi lesi MS pada menelan, pola disfagia RRMS vs MS progresif, keletihan sebagai penguat disfagia, strategi IDDSI dan kadar makan, strategi penyejukan dan masa makan, kesan kognitif MS pada keselamatan pemakanan, bila perlu rujuk SLP, pengurusan disfagia semasa kambuhan"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "conditions"
 last_updated: "2026-04-18"

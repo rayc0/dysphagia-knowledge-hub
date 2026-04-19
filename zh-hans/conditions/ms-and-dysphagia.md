@@ -1,7 +1,7 @@
 ---
 title: "多发性硬化与吞咽障碍：病程管理与康复策略"
 description: "系统解析多发性硬化（MS）患者吞咽障碍的发生机制、复发-缓解模式下的评估时机、药物影响及针对性康复方案"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-04-18"

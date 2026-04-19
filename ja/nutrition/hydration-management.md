@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者の水分管理：脱水リスクの評価と安全な水分補給方法"
 description: "嚥下障害患者における脱水リスクの評価、IDDSI水分段階に基づく安全な水分補給、とろみ水以外の代替水分源、高齢者・施設入居者向けの実践的な水分管理プロトコル"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "nutrition"
 last_updated: "2026-04-18"

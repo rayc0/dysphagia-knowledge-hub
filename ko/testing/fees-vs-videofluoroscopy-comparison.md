@@ -1,7 +1,7 @@
 ---
 title: "FEES vs VF(연하조영검사) 비교 가이드: 연하내시경과 연하조영 검사 사용 구분"
 description: "연하 기능의 2대 정밀 검사, FEES(연하내시경검사)와 VF(연하조영검사/VFS)의 완전 비교 가이드 — 양 검사의 원리·보이는 것·보이지 않는 것, 오연 검출 정확도 비교, 적응증과 금기(VF: 방사선/조영제 vs FEES: 코피·응고 장애), 검사 가능 병원 찾기(한국·대한연하장애학회), 검사 결과 해석과 식사 형태 변경으로의 연결"
-author: "SeniorDeli (Carewells)"
+author: Dr. Kevin Lau
 language: "ko"
 category: "testing"
 last_updated: "2026-04-19"
@@ -139,4 +139,4 @@ VF/FEES 결과는 식사 형태 결정에 직결됩니다:
 
 *본 글은 정보 제공을 목적으로 하며, 의료 진단·치료의 대체가 아닙니다. 연하 기능의 정밀 검사가 필요한지 여부는 언어재활사 또는 담당의에게 상담하시기 바랍니다.*
 
-*라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — SeniorDeli (Carewells)*
+*라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Editorial Team*

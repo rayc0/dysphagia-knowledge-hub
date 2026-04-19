@@ -1,7 +1,7 @@
 ---
 title: "IDDSIレベル5（みじん切りと水分調整食）完全ガイド：基準・調理法・日本食対応"
 description: "IDDSIレベル5（Minced & Moist）完全実践ガイド — 4mm以下粒子基準、フォークテスト判定、レベル4（ペースト食）とレベル6（軟食一口サイズ）との違い、日本食でのレベル5対応（おかゆ・煮魚・豆腐・茶碗蒸し）、市販の嚥下調整食レベル5製品、施設・在宅での活用"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "iddsi"
 last_updated: "2026-04-18"

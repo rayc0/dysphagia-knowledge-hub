@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 第5級絞碎濕潤食物（台灣版）：4mm標準、台式食材改良與備製技巧"
 description: "台灣版IDDSI第5級絞碎濕潤食物完整指南（繁體中文）— ≤4mm顆粒標準、叉壓測試、台式食材應用（虱目魚/豆腐/滷肉/地瓜）、醬汁調配保濕、長輩接受度提升技巧、與第4級和第6級的差異比較"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "iddsi"
 last_updated: "2026-04-18"

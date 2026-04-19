@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙的徵狀與症狀：完整檢查清單及何時求診"
 description: "全面列出吞嚥障礙的徵狀（咳嗽、哽塞、濕潤聲音、流口水、進食時間長、體重下降、反覆肺炎），涵蓋廣東話家屬描述、口咽及食道吞嚥障礙的區別、EAT-10中文篩查量表及香港急症室求診指引。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-04-19"

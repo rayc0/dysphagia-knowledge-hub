@@ -4,7 +4,7 @@ description: "针对中国大陆家庭与养老机构的 IDDSI 第 6 级（Soft 
 lang: zh-hans
 category: iddsi
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Dr. Kevin Lau
 tags:
   - IDDSI
   - 软质小块

@@ -1,7 +1,7 @@
 ---
 title: "뇌졸중 후 연하장애：선별검사, 흡인성 폐렴 예방, 삼킴 재활"
 description: "뇌졸중 후 연하장애 완전 가이드（한국어）— 발생률（급성기 50-70%）、GUSS·3oz 물 검사 방법、침묵 흡인 기전、흡인성 폐렴 예방、삼킴 치료 기법（Shaker/노력 삼키기/Mendelsohn/Masako）、뇌 손상 부위별 예후 차이、IDDSI 식이 조정、언어재활사 의뢰 시기、한국 건강보험 급여"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "conditions"
 last_updated: "2026-04-18"

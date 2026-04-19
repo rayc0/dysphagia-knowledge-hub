@@ -1,7 +1,7 @@
 ---
 title: "嚥下困難患者の水分摂取戦略：脱水リスクと適切な水分補給法"
 description: "嚥下困難患者における1日水分必要量の算出から、IDDSI対応飲料の選択、時間割水分プロトコル、経口補水液の活用まで、脱水予防の実践的戦略を解説します。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Eric Hui
 language: ja
 category: nutrition
 last_updated: "2026-04-19"

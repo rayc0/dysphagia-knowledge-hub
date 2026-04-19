@@ -1,7 +1,7 @@
 ---
 title: "嚥下困難患者への服薬管理：錠剤粉砕禁止薬と代替製剤ガイド"
 description: "嚥下障害患者への安全な服薬支援のため、粉砕禁止薬の一覧・とろみゼリーへの混入技術・代替製剤の選択方法を薬剤師監修のもと解説します。"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

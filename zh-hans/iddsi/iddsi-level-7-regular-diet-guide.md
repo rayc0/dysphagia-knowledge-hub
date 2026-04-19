@@ -1,7 +1,7 @@
 ---
 title: "IDDSI七级（普通饮食）完全指南：吞咽障碍康复后恢复普通饮食的标准与注意事项"
 description: "IDDSI Level 7（Regular Diet，普通饮食）完整指南（中国大陆版）— 七级的两个亚类（普通饮食 vs 软质易嚼饮食），从六级到七级的临床转换标准，需要注意的危险食物（整体误吸风险食品），老年吞咽障碍中七级的应用，IDDSI与国内标准对应，重返普通饮食的心理意义"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-04-18"

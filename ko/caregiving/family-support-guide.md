@@ -1,7 +1,7 @@
 ---
 title: "연하장애 가족 지원 가이드: 가족 역할 분담, 커뮤니케이션 전략과 한국 지원 자원"
 description: "연하장애 환자 가족 지원 완전 가이드 — 연하장애 진단 직후 가족의 심리적 적응, 효과적인 역할 분담 방법, 환자와의 식사 관련 커뮤니케이션 전략, 원거리 가족의 지원 방법, 한국 장기요양보험 및 재가서비스 활용, 가족이 알아야 할 흡인 응급 대응"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-18"

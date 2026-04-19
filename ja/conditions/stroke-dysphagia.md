@@ -1,7 +1,7 @@
 ---
 title: "脳卒中後の嚥下障害：スクリーニング・誤嚥性肺炎予防・嚥下リハビリ"
 description: "脳卒中後嚥下障害完全ガイド（日本語）— 脳卒中患者の嚥下障害発生率（50-70%）、GUSS・3オンス水飲みテストのスクリーニング法、沈黙性誤嚥のメカニズム、誤嚥性肺炎予防、嚥下療法技術（Shaker/努力嚥下/メンデルゾーン法/マサコ法）、予後と脳損傷部位の関係、IDDSI食形態調整、言語聴覚士への紹介タイミング"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "conditions"
 last_updated: "2026-04-18"

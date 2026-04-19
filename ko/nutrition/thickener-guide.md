@@ -1,7 +1,7 @@
 ---
 title: "삼킴장애 환자를 위한 증점제 가이드: 종류·농도·조제 방법"
 description: "삼킴장애 환자에게 사용하는 증점제(전분계·잔탄검계)의 종류, IDDSI 기준 점도 단계 선택, 올바른 조제 방법, 한국 시판 제품 비교, 흔한 실수와 주의사항"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "nutrition"
 last_updated: "2026-04-18"

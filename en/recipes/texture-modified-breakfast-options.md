@@ -1,7 +1,7 @@
 ---
 title: "Texture-Modified Breakfast Options for Dysphagia: Congee, Steamed Egg, and Oatmeal"
 description: "Practical IDDSI-aligned breakfast recipes for dysphagia — congee, steamed egg, and oatmeal variations, with Taiwan and Hong Kong kitchen techniques."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "recipes"
 last_updated: "2026-04-14"
@@ -147,4 +147,4 @@ This article paraphrases publicly available IDDSI, NTUH, NCKU, and Chi Mei guida
 
 ---
 
-**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade and care-home procurement enquiries: hello@seniordeli.com.
+**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade and care-home procurement enquiries: hello@seniordeli.com.

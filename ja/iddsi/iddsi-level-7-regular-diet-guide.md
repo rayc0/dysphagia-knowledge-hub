@@ -1,7 +1,7 @@
 ---
 title: "IDDSIレベル7（普通食・やわらか普通食）ガイド：IDDSI最高レベルの適用基準と日本食"
 description: "IDDSIレベル7（Regular / Easy-to-Chew）完全ガイド — レベル7の二段階（通常の普通食とやわらか普通食）、嚥下機能回復後のレベル6→7移行基準、避けるべき食品（丸飲みリスク食品）、日本の摂食嚥下リハビリテーション学会2021分類との対応、施設・在宅でのレベル7適用"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "iddsi"
 last_updated: "2026-04-18"

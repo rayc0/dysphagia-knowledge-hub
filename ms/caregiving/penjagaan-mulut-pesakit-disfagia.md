@@ -1,7 +1,7 @@
 ---
 title: "Penjagaan Mulut untuk Pesakit Disfagia — Mencegah Radang Paru-paru Aspirasi"
 description: "Panduan lengkap penjagaan mulut untuk penjaga pesakit disfagia di Malaysia: protokol gosok gigi dua kali sehari, bukti Yoneyama 2002, kesalahan biasa, dan bila rujuk doktor."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"
@@ -159,4 +159,4 @@ Artikel ini meringkaskan literatur saintifik yang tersedia secara awam dan pandu
 
 ---
 
-**Tarikh dikemaskini:** 2026-04-19 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk pesakit disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami.
+**Tarikh dikemaskini:** 2026-04-19 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk pesakit disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami.

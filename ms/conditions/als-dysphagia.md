@@ -1,7 +1,7 @@
 ---
 title: "ALS/Sklerosis Lateral Amiotrofik dan Disfagia: Masa Pemasangan PEG, Koordinasi Pernafasan, dan Pemakanan Jangka Panjang"
 description: "Panduan lengkap disfagia ALS dalam Bahasa Melayu — kadar disfagia ALS (80% dalam 2 tahun), perbezaan ALS bulbar-onset vs limb-onset, tanda-tanda atrofi lidah dan fascikulasi, masa optimum PEG (FVC>50%), penyelarasan BiPAP dengan jadual makan, strategi diet tinggi kalori (35-45 kcal/kg/hari), cadangan tekstur IDDSI, keputusan pemakanan di akhir hayat, sumber penjagaan ALS di Malaysia"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "conditions"
 last_updated: "2026-04-18"

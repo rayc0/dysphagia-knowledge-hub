@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者夜間管飼安全方案：防逆流與夜間監測指引"
 description: "涵蓋夜間管飼的主要風險、防逆流技術、注入速度與體位管理，以及夜間監測方法，並附香港及台灣居家護理資源。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: zh-hant
 category: caregiving
 last_updated: "2026-04-19"

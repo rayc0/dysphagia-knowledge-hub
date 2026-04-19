@@ -1,7 +1,7 @@
 ---
 title: "香港照顧者加稠劑使用指南"
 description: "香港照顧者加稠劑完整指南：澱粉型vs黃原膠加稠劑比較、IDDSI 1–4 級調配量表、香港購買渠道（Resource ThickenUp、Thick-It、順康樂）、費用比較、常見錯誤（過厚/過薄/不一致）、液體分離問題、冷熱液體差異、正確稠度測試方法（叉壓/匙傾/注射器流速）及IDDSI測試工具。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "Disfagia dalam Demensia: Pengurusan Menelan, Memberi Makan dengan Tangan, dan Keputusan Pemakanan Hujung Hayat"
 description: "Panduan disfagia demensia (Bahasa Melayu) — kadar disfagia dalam penyakit Alzheimer (45-85%), fasa oral dan keengganan makan dalam demensia, teknik memberi makan dengan tangan (hand feeding), keputusan pemasangan tiub makanan dalam demensia lanjut, pendekatan comfort feeding, komunikasi dengan keluarga mengenai keputusan pemakanan"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "conditions"
 last_updated: "2026-04-18"

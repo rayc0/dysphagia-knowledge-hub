@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者的服藥管理：禁止研磨藥物清單與代替劑型指南"
 description: "詳細說明吞嚥困難患者服藥的注意事項，包括禁止研磨藥物一覽、啫喱混入技術、代替劑型選擇及增稠劑與藥物吸收的相互作用，並附香港及台灣地區資源。"
-author: "SeniorDeli (Carewells)"
+author: Margaret Wong
 language: zh-hant
 category: caregiving
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙患者水分管理：脫水風險、增稠液體口感改善與替代補水策略"
 description: "吞嚥障礙患者日常水分管理指南 — 脫水風險與惡化效應、每日水分目標設定、果凍水和冰沙等替代補水方案、增稠液體口感改善方法，以及IDDSI免增稠水指引的應用條件"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant"
 category: "nutrition"
 last_updated: "2026-04-18"

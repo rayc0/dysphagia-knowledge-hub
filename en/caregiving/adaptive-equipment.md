@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Eating Equipment for Dysphagia: Provale Cup, Nosey Cup, Weighted Utensils and Selection Guide"
 description: "Complete guide to adaptive eating equipment for dysphagia — Provale cup vs Nosey cup flow control comparison, suction bowls and scoop dishes, weighted utensils for tremor management, one-way valve straws, IDDSI level applicability for each device, and sourcing information for US and UK markets"
-author: "CompanyForge AI"
+author: Margaret Wong
 language: "en"
 category: "caregiving"
 last_updated: "2026-04-18"

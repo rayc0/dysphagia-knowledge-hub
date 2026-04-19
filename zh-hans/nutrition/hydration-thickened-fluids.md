@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者的水分管理与增稠液体指南"
 description: "全面解析吞咽困难患者脱水风险、IDDSI液体分级（0-4级）、增稠剂选择与使用、以及促进充足水分摄入的实用策略"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-04-18"

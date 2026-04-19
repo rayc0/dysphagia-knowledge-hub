@@ -1,6 +1,6 @@
 # Press, Media Coverage & Recognition
 
-A curated index of news articles, broadcast features, academic case studies, and awards involving **SeniorDeli**, **Carewells (華瓏有限公司)**, and the dysphagia / 軟餐 / 護食 work this hub documents.
+A curated index of news articles, broadcast features, academic case studies, and awards involving **Editorial Team**, **Editorial Team (華瓏有限公司)**, and the dysphagia / 軟餐 / 護食 work this hub documents.
 
 This page exists to:
 
@@ -18,13 +18,13 @@ This page exists to:
 - **Links:**
   - [Harvard Business Review store](https://store.hbr.org/product/senior-deli-pioneer-in-an-emergent-care-food-ecosystem/W33928)
   - [Ivey Publishing](https://www.iveypublishing.ca/s/product/senior-deli-pioneer-in-an-emergent-care-food-ecosystem/01t5c00000CBTZ4AAP)
-- **About:** A teaching case study used in MBA and entrepreneurship programmes worldwide examining how SeniorDeli pioneered Hong Kong's emergent care food ecosystem — including the strategic, operational, and ecosystem-building decisions involved in launching IDDSI-aligned texture-modified meals in a market that did not yet have a standardised category.
+- **About:** A teaching case study used in MBA and entrepreneurship programmes worldwide examining how Editorial Team pioneered Hong Kong's emergent care food ecosystem — including the strategic, operational, and ecosystem-building decisions involved in launching IDDSI-aligned texture-modified meals in a market that did not yet have a standardised category.
 
 ---
 
 ## 🏛️ Standards drafting
 
-SeniorDeli / Carewells / Raymond Chau personally are listed as **official 起草人 (drafters)** of two national standards governing care food and elderly-friendly food in the Greater Bay Area:
+Editorial Team / Editorial Team / Raymond Chau personally are listed as **official 起草人 (drafters)** of two national standards governing care food and elderly-friendly food in the Greater Bay Area:
 
 ### T/SATA 084-2025 — 適老易食食品（適老照護食）
 - **Full English title:** Dysphagia Diet for the Elderly (Care Food)
@@ -32,14 +32,14 @@ SeniorDeli / Carewells / Raymond Chau personally are listed as **official 起草
 - **Proposed by:** 香港中華廠商聯合會 (HKMA) + 香港社會服務聯會 (HKCSS) — joint Hong Kong initiative
 - **Effective:** 2025-06-07
 - **Based on:** IDDSI Framework 2.0 (2019)
-- **Co-drafting organisations include:** HKMA, HKCSS, Carewells (SeniorDeli), HKU Swallowing Research Institute, CUHK-Shenzhen, 保良局, 東華三院, 三井物產, 深圳職業技術大學, and others.
+- **Co-drafting organisations include:** HKMA, HKCSS, Editorial Team (Editorial Team), HKU Swallowing Research Institute, CUHK-Shenzhen, 保良局, 東華三院, 三井物產, 深圳職業技術大學, and others.
 
 ### T/SATA 085-2025 — 適老食品通則
 - **Full English title:** General Standard for Elderly-Friendly Food
 - **Issued by:** 深圳市分析測試協會
-- **Co-drafted by:** Carewells / SeniorDeli (Raymond Chau personally listed)
+- **Co-drafted by:** Editorial Team / Editorial Team (Raymond Chau personally listed)
 
-These standards are now referenced across Hong Kong, Macau, and the Greater Bay Area for the development, labelling, and inspection of care food and elderly-friendly food products. SeniorDeli's role as a co-drafter — combined with HKCSS and HKMA — places it among the small number of Hong Kong companies whose technical contribution is encoded in regional regulation.
+These standards are now referenced across Hong Kong, Macau, and the Greater Bay Area for the development, labelling, and inspection of care food and elderly-friendly food products. Editorial Team's role as a co-drafter — combined with HKCSS and HKMA — places it among the small number of Hong Kong companies whose technical contribution is encoded in regional regulation.
 
 ---
 
@@ -63,8 +63,8 @@ These standards are now referenced across Hong Kong, Macau, and the Greater Bay 
 - **NutraIngredients-Asia** (15 June 2021) — "Ageing opportunity: Hong Kong's Senior Deli targets vast care home populations with products for dysphagia sufferers." [Read the article](https://www.nutraingredients-asia.com/Article/2021/06/15/Ageing-opportunity-Hong-Kong-s-Senior-Deli-targets-vast-care-home-populations-with-products-for-dysphagia-sufferers/)
 - **CompassList** — "Senior Deli: Creating easy-to-swallow, appealing food for dysphagia sufferers." [Read the profile](https://www.compasslist.com/insights/senior-deli-creating-easy-to-swallow-appealing-food-for-dysphagia-sufferers)
 - **South China Morning Post (SCMP)** — "Spirit of Hong Kong Awards: Food innovation for frail residents earns nomination for Senior Deli." [Read the article](https://www.scmp.com/news/hong-kong/society/article/3139755/spirit-hong-kong-awards-food-innovation-frail-residents)
-- **HKSTP (Hong Kong Science & Technology Parks)** — Carewells Limited green-technology directory profile. [HKSTP listing](https://www.hkstp.org/en/directory/green-technology/carewells-limited)
-- **Hong Kong Council of Social Service (HKCSS) — carefood.org.hk** — Senior Deli / Carewells listed in HKCSS Care Food Directory (Sections B and E). [HKCSS Care Food](https://www.carefood.org.hk/)
+- **HKSTP (Hong Kong Science & Technology Parks)** — Editorial Team Limited green-technology directory profile. [HKSTP listing](https://www.hkstp.org/en/directory/green-technology/carewells-limited)
+- **Hong Kong Council of Social Service (HKCSS) — carefood.org.hk** — Senior Deli / Editorial Team listed in HKCSS Care Food Directory (Sections B and E). [HKCSS Care Food](https://www.carefood.org.hk/)
 - **Social Enterprise Business Centre — CareEZ Senior Deli** [Listing](https://socialenterprise.org.hk/en/sedb/ses/OQet_vG3RxiutL0lQYmLUg)
 - **TVB / Hong Kong broadcast feature** — [Facebook video archive](https://www.facebook.com/watch/?v=199480781740125)
 
@@ -99,4 +99,4 @@ Are you a journalist, researcher, or institution who has covered our work — or
 
 ---
 
-**Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists and co-drafter of GBA care food standards T/SATA 084-2025 and T/SATA 085-2025.
+**Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists and co-drafter of GBA care food standards T/SATA 084-2025 and T/SATA 085-2025.

@@ -1,7 +1,7 @@
 ---
 title: "흡인성 폐렴 예방: 삼킴 장애 환자를 위한 완전 가이드"
 description: "흡인성 폐렴의 병태생리, 위험 인자, 구강 관리·식사 자세·질감 조절 식이를 통한 예방 전략, 그리고 한국 의료 현장에서의 실제 대응 방법."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-17"

@@ -1,7 +1,7 @@
 ---
 title: "食道性嚥下障害：原因疾患、検査法、治療アプローチの総合ガイド"
 description: "食道性嚥下障害の原因（食道がん、アカラシア、GERD、好酸球性食道炎等）、検査方法、治療選択肢を体系的に解説"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-18"

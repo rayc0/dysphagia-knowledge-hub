@@ -1,7 +1,7 @@
 ---
 title: "IDDSI vs JSDR vs UDF vs NDD: Global Dysphagia Diet Standards Crosswalk"
 description: "A comprehensive mapping of global dysphagia diet classification systems — IDDSI, Japan JSDR/UDF, old US NDD, GBA T/SATA, and legacy national standards. Essential for international patient transfers."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "standards"
 last_updated: "2026-04-17"
@@ -238,6 +238,6 @@ The global direction is clear: IDDSI is becoming the dominant international stan
 
 ---
 
-*This article is published under CC BY 4.0. You may share and adapt it with attribution to SeniorDeli (Carewells) editorial team / softmeal.org.*
+*This article is published under CC BY 4.0. You may share and adapt it with attribution to Editorial Team editorial team / softmeal.org.*
 
 *For clinical decisions, always consult a qualified speech-language pathologist or dietitian. Texture classifications are medical prescriptions and must not be changed without professional assessment.*

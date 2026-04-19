@@ -1,7 +1,7 @@
 ---
 title: "Pediatric Dysphagia: Warning Signs, Assessment Tools, and Feeding Therapy for Infants and Children"
 description: "Complete guide to pediatric dysphagia in English — early warning signs of feeding problems in infants and children, differences between infant dysphagia and older child dysphagia, common causes (cerebral palsy/Down syndrome/cleft palate/prematurity), referral to pediatric SLP, adaptive feeding strategies, specialist bottles and nipples for infants with feeding difficulties, ARFID, psychological support for families"
-author: "CompanyForge AI"
+author: Margaret Wong
 language: "en"
 category: "conditions"
 last_updated: "2026-04-18"

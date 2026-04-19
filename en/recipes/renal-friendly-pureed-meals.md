@@ -1,7 +1,7 @@
 ---
 title: "Renal-Friendly Puréed Meals — Low-Potassium, Low-Phosphorus IDDSI Level 4 for Dysphagia with CKD"
 description: "How to design IDDSI Level 4 puréed meals for people with chronic kidney disease: protein targets, potassium leaching, phosphate additive traps, and a 7-meal renal-safe plan."
-author: "SeniorDeli (Carewells) editorial team"
+author: "Editorial Team editorial team"
 language: "en"
 category: "recipes"
 last_updated: "2026-04-17"
@@ -179,4 +179,4 @@ This article paraphrases publicly-available KDOQI, Taiwan 衛福部, National Ki
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries and care-home partnership requests: hello@seniordeli.com.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries and care-home partnership requests: hello@seniordeli.com.

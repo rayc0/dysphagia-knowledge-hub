@@ -4,7 +4,7 @@ description: "Evidence-based guide for family caregivers of adults with dysphagi
 lang: en
 category: caregiver
 date: 2026-04-15
-author: Dysphagia Knowledge Hub
+author: Susan Tam
 tags:
   - caregiver burnout
   - self-care

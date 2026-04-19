@@ -1,7 +1,7 @@
 ---
 title: "ALS/运动神经元病吞咽障碍：PEG时机选择、呼吸功能与长期营养管理"
 description: "ALS/MND吞咽障碍完整指南（简体中文）— ALS吞咽障碍发生率（2年内80%）、球部型与肢体型起病区别、延髓型症状（舌肌萎缩/流涎/构音障碍）、PEG胃造瘘最佳时机（FVC>50%）、BiPAP通气与进食协调、高热量高蛋白饮食策略、ALS末期喂食决策与安宁照护"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-04-18"

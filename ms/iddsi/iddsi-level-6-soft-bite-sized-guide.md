@@ -1,7 +1,7 @@
 ---
 title: "Panduan IDDSI Tahap 6 (Makanan Lembut Satu Gigitan): Saiz ≤15mm dan Makanan yang Sesuai"
 description: "Panduan lengkap IDDSI Tahap 6 (Soft & Bite-Sized) dalam Bahasa Melayu — keperluan saiz ≤15mm, ujian garpu dan potongan, makanan tradisi Malaysia untuk Tahap 6, perbezaan dengan Tahap 5 dan Tahap 7, syarat naik taraf ke Tahap 7 (makanan biasa)"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "iddsi"
 last_updated: "2026-04-18"

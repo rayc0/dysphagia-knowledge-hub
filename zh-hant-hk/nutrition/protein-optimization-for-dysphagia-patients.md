@@ -1,7 +1,7 @@
 ---
 title: "香港吞嚥困難患者蛋白質優化指南"
 description: "香港吞嚥困難患者蛋白質攝取優化指南：每日目標≥1.2 g/kg、各IDDSI級別蛋白質食物對照表（嫩豆腐、炒蛋、魚茸、肉碎粥）、白胺酸閾值、蛋白質分配策略、ONS比較表、食物強化技巧及醫管局營養師轉介流程。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Lisa Chen
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-04-19"

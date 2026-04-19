@@ -1,7 +1,7 @@
 ---
 title: "嚥下困難患者の栄養不良スクリーニングと管理：MNAとMUSTの実践"
 description: "嚥下困難患者における栄養不良リスクの評価ツール（MNA・MUST）の使い方、臨床指標による判定、段階的な栄養介入戦略、そして日本の介護保険制度との連携を解説します。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: ja
 category: nutrition
 last_updated: "2026-04-19"

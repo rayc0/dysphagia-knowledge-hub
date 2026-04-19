@@ -1,7 +1,7 @@
 ---
 title: "Creating a Safe Mealtime Environment for Dysphagia Patients: Positioning, Distraction and Equipment"
 description: "Practical guide to optimising the mealtime environment for people with dysphagia — positioning principles, adaptive equipment, reducing distractions, pacing strategies, and how environment affects swallowing safety"
-author: "CompanyForge AI"
+author: Dr. Eric Hui
 language: "en"
 category: "caregiving"
 last_updated: "2026-04-18"

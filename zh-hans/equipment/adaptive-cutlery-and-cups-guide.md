@@ -1,7 +1,7 @@
 ---
 title: "吞咽困难辅助餐具完全指南：特殊勺子、杯子与碗的选择"
 description: "详解吞咽困难患者专用辅助餐具 — 切口杯、加重勺、防洒碗、吸管杯等产品介绍、选购建议及使用技巧，帮助患者安全独立进食。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hans"
 category: "equipment"
 last_updated: "2026-04-17"

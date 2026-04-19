@@ -1,7 +1,7 @@
 ---
 title: "肌萎缩侧索硬化症（ALS）吞咽困难：管理指南与营养支持"
 description: "ALS（俗称「渐冻症」）患者中有50-95%会出现吞咽困难。本指南涵盖吞咽障碍四期进展、早期PEG置管时机、语言治疗干预、痰液管理及中国大陆专科资源，帮助患者与家属做出知情决策。"
-author: "SeniorDeli (Carewells)"
+author: Susan Tam
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-19"
