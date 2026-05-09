@@ -43,6 +43,14 @@
 - /en/equipment/2026-05-09-thickener-comparison-types — Comparing Thickener Types: Starch vs Gum-Based
 - /en/iddsi/2026-05-09-iddsi-level-5-minced-moist — IDDSI Level 5 Minced and Moist: Clinical Implementation Guide
 
+## zh-hant-tw Recent Articles (2026-05-09)
+- /zh-hant-tw/iddsi/taiwan-iddsi-implementation — 台灣IDDSI實施現況與展望：2026年進度全面解析
+- /zh-hant-tw/caregiving/taiwan-ltc-dysphagia-coverage — 長照2.0吞嚥照護給付項目全解析：哪些服務有補助？
+- /zh-hant-tw/conditions/taiwan-stroke-slt-pathway — 台灣腦中風吞嚥障礙語言治療轉介路徑完整指南
+- /zh-hant-tw/nutrition/taiwan-summer-soft-food-recipes — 台灣夏季吞嚥障礙軟食食譜推薦：消暑又安全的在地食材選擇
+- /zh-hant-tw/caregiving/taiwan-family-caregiver-resources — 台灣吞嚥障礙家庭照顧者資源指南：從申請補助到心理支持
+- /zh-hant-tw/caregiving/adaptive-dining-taiwan — 台灣吞嚥障礙適應性飲食輔具介紹：選購指南與實用推薦
+
 ## Related Sites
 - softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
 - kangleling.com — Mainland China brand hub (Simplified Chinese)
