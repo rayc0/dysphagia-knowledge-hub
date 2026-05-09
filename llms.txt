@@ -12,10 +12,18 @@
 - Clinical assessment: screening tools, VFSS, FEES, manometry, geriatric dysphagia screening
 - Nutrition: protein, micronutrients, texture-modified meals
 - IDDSI standards: levels 0-7, testing methods, food mapping, yum cha ordering guide
-- Conditions: stroke, Parkinson's, ALS/MND, dementia, head & neck cancer
+- Conditions: stroke, Parkinson's, ALS/MND, dementia, head & neck cancer, multiple sclerosis, GERD, post-ICU dysphagia, cognitive impairment, presbyphagia
 - Caregiving: mealtime techniques, equipment, family support, community nursing, carer training, hospital discharge planning
 - Recipes: soft Cantonese dishes, winter melon soft recipes, HK-adapted texture-modified cooking
 - Standards: T/SATA, IDDSI, NHC guidelines, food safety
+
+## en/conditions Recent Articles (2026-05-09)
+- /en/conditions/head-neck-cancer-dysphagia-management — Head and neck cancer: managing dysphagia through treatment and recovery
+- /en/conditions/multiple-sclerosis-swallowing — Multiple sclerosis and dysphagia: a practical guide
+- /en/conditions/gerd-aspiration-overlap — GERD and aspiration: when reflux affects swallowing safety
+- /en/conditions/critical-illness-dysphagia-icu — Post-ICU dysphagia: recovery after critical illness
+- /en/conditions/cognitive-impairment-safe-eating — Safe eating strategies for people with cognitive impairment
+- /en/conditions/aging-presbyphagia-prevention — Presbyphagia: understanding age-related swallowing changes
 
 ## zh-hant-hk Recent Articles (2026-05-09)
 - /zh-hant-hk/clinical/hk-geriatric-assessment-dysphagia — 香港老年科評估中的吞嚥障礙篩查
@@ -24,6 +32,14 @@
 - /zh-hant-hk/iddsi/iddsi-yumcha-ordering-guide — 飲茶點心的IDDSI友好點法指南
 - /zh-hant-hk/caregiving/hk-hospital-discharge-planning — 出院後的吞嚥護理過渡計劃
 - /zh-hant-hk/recipes/winter-melon-soft-recipes-hk — 冬瓜軟食食譜：香港本地適應版
+
+## en Recent Articles (2026-05-09)
+- /en/iddsi/2026-05-09-iddsi-implementation-hospital — IDDSI Implementation in Hospital Settings
+- /en/equipment/2026-05-09-adaptive-eating-equipment-guide — Guide to Adaptive Eating Equipment for Dysphagia
+- /en/standards/2026-05-09-dysphagia-documentation-best-practices — Clinical Documentation Best Practices for Dysphagia
+- /en/clinical/2026-05-09-infection-control-dysphagia-care — Infection Control in Dysphagia Care Settings
+- /en/equipment/2026-05-09-thickener-comparison-types — Comparing Thickener Types: Starch vs Gum-Based
+- /en/iddsi/2026-05-09-iddsi-level-5-minced-moist — IDDSI Level 5 Minced and Moist: Clinical Implementation Guide
 
 ## Related Sites
 - softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
