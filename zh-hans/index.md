@@ -1,12 +1,103 @@
 ---
-title: "吞咽困难知识库 — 简体中文"
-description: "吞咽障碍 · IDDSI · 软餐 · 照护"
+title: "吞咽困难知识库 — 简体中文完整资源"
+description: "吞咽障碍免费知识库（简体中文）——IDDSI标准、软餐食谱、居家照护指南、临床资源、测试方法与相关病症管理，适合患者家属与医护人员参考。"
+lang: zh-hans
+canonical: "https://dysphagia.cn/zh-hans/"
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "吞咽困难知识库 — 简体中文",
+  "url": "https://dysphagia.cn/zh-hans/",
+  "inLanguage": "zh-Hans",
+  "description": "吞咽障碍免费知识库，涵盖IDDSI标准、软餐食谱、居家照护、临床资源与相关病症管理。",
+  "publisher": {
+    "@type": "Organization",
+    "name": "dysphagia.cn",
+    "url": "https://dysphagia.cn"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://dysphagia.cn/"},
+    {"@type": "ListItem", "position": 2, "name": "简体中文", "item": "https://dysphagia.cn/zh-hans/"}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "zh-Hans",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "什么是吞咽障碍（吞咽困难）？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "吞咽障碍（医学上称为Dysphagia）是指吞咽食物或液体时出现困难、疼痛或不安全的情况。它可能源于脑卒中、帕金森病、失智症、ALS、头颈癌或老龄化引起的肌肉退化。症状包括进食时咳嗽、食物卡喉、进食时间延长及不明原因的体重下降。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "IDDSI标准对中式饮食意味着什么？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IDDSI（国际吞咽障碍饮食标准）将食物和饮料分为0至7共八个级别。对于中式饮食，Level 4对应顺滑糊状食物（如南瓜泥粥、蒸水蛋）；Level 5对应细碎湿润食物（如软烂鱼肉、豆腐羹）；Level 6对应软质小块食物（如烂软米饭配嫩豆腐）。每个级别都有标准化的测试方法，可在家中使用注射器进行验证。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "如何安全地为吞咽障碍患者增稠液体？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "增稠液体是预防吞咽障碍患者误吸的常用方法。常用增稠剂分为淀粉基和黄原胶基两大类。黄原胶基增稠剂稳定性更高，不受温度和酶的影响，更适合医疗场合。使用时应严格按照包装指示调配至IDDSI规定的稠度级别（1级微稠、2级中稠、3级高稠），并用IDDSI注射器测试法验证稠度。详见：增稠剂选购指南。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "出现吞咽困难时应该看哪个科医生？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "吞咽困难应首先就诊于神经内科（排查脑卒中、帕金森等病因）或耳鼻喉科。明确病因后，建议转介给言语治疗师（Speech-Language Pathologist）进行专业吞咽评估，包括EAT-10筛查、床旁吞咽测试，必要时进行VFSS（吞钡透视）或FEES（内镜评估）。在中国大陆，部分三甲医院的康复科和神经科设有专门的吞咽障碍门诊。"
+      }
+    }
+  ]
+}
+</script>
 
 # 吞咽困难知识库 — 简体中文
 
+> 涵盖吞咽障碍照护、IDDSI软餐标准、临床资源与实用食谱
+> 免费公开 · CC BY 4.0 · 独立编辑
 
-### Caregiving
+---
+
+## 分类导航
+
+| 分类 | 内容简介 |
+|------|----------|
+| [居家照护](/zh-hans/caregiving/) | 进餐体位、口腔护理、用药安全、手喂食、夜间进食管理 |
+| [临床资源](/zh-hans/clinical/) | 脑卒中、帕金森、ALS、失智症、头颈癌、吞咽康复训练 |
+| [相关病症](/zh-hans/conditions/) | 按病症分类的吞咽障碍管理指南 |
+| [辅助器材](/zh-hans/equipment/) | 适应性餐具、破壁机、增稠剂产品对比 |
+| [IDDSI标准](/zh-hans/iddsi/) | Level 0至Level 7八级框架完整解读 |
+| [营养指南](/zh-hans/nutrition/) | 增稠剂选购、补水策略、营养不良筛查、膳食计划 |
+| [软餐食谱](/zh-hans/recipes/) | 中式IDDSI合规食谱、7天餐单、早餐与冬季炖汤 |
+| [国际标准](/zh-hans/standards/) | T/SATA 084-2025、T/SATA 085-2025大湾区标准详解 |
+| [测试方法](/zh-hans/testing/) | EAT-10筛查、床旁评估、FEES与VFSS对比 |
+
+---
+
+### 居家照护
 
 - [吞咽障碍辅助餐具完全指南：Provale杯、防洒碗与适应性餐具选择](/zh-hans/caregiving/adaptive-equipment/)
 - [吞咽障碍照护者耗竭：识别、预防与支持系统建立](/zh-hans/caregiving/caregiver-burnout/)

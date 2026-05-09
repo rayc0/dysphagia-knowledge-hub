@@ -8,15 +8,72 @@ lang: zh-Hans
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "SeniorDeli 康乐龄",
+  "name": "dysphagia.cn",
   "url": "https://dysphagia.cn",
-  "description": "吞咽障碍护理食品香港社会企业，专注IDDSI合规护理食品",
-  "inLanguage": "zh-CN",
-  "spatialCoverage": "CN",
+  "description": "Independent editorial knowledge hub on dysphagia care, IDDSI standards, and texture-modified diets. Not a commercial entity.",
+  "inLanguage": ["zh-Hans", "zh-Hant", "en"],
   "sameAs": [
     "https://seniordeli.com",
     "https://kangleling.com",
     "https://softmeal.org"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Dysphagia Knowledge Hub — dysphagia.cn",
+  "url": "https://dysphagia.cn",
+  "description": "Free multilingual knowledge hub on dysphagia — IDDSI standards, soft meal recipes, caregiving guides, and clinical resources. Available in Simplified Chinese, Traditional Chinese, and English.",
+  "inLanguage": ["zh-Hans", "zh-Hant", "en"],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://dysphagia.cn/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "dysphagia.cn",
+    "url": "https://dysphagia.cn"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "en",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is dysphagia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dysphagia is the medical term for difficulty swallowing. It can affect the ability to eat food or drink liquids safely, and may cause coughing, choking, food sticking in the throat, or silent aspiration (food entering the airway without triggering a cough). It is commonly caused by stroke, Parkinson's disease, dementia, ALS/MND, head and neck cancer, or age-related muscle weakening. See the full dysphagia knowledge hub at https://dysphagia.cn/en/ for clinical resources and caregiving guides."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What do IDDSI levels mean in practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The International Dysphagia Diet Standardisation Initiative (IDDSI) classifies foods and drinks into 8 levels (0–7). Level 0 is thin liquid (water); Levels 1–3 are progressively thicker liquids; Level 4 is pureed food; Level 5 is minced and moist; Level 6 is soft and bite-sized; Level 7 is regular diet. Each level has standardised testing methods using a 10 mL syringe or fork/spoon pressure tests. Visit https://dysphagia.cn/en/iddsi/ for complete guides to all levels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What language versions does this knowledge hub offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "dysphagia.cn provides dysphagia resources in Simplified Chinese (zh-hans) at https://dysphagia.cn/zh-hans/, Traditional Chinese (zh-hant) at https://dysphagia.cn/zh-hant/, Traditional Chinese (Hong Kong) at https://dysphagia.cn/zh-hant-hk/, and English at https://dysphagia.cn/en/. All content is free and published under CC BY 4.0."
+      }
+    }
   ]
 }
 </script>
