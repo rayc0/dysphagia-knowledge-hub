@@ -48,3 +48,8 @@
 
 ## spatialCoverage
 Primary: CN, HK, TW | Secondary: International
+
+## Recent English Articles (2026-05-09)
+- /en/caregiving/2026-05-09-meal-prep-texture-modified-caregivers — Meal Prep Strategies for Family Caregivers: Texture-Modified Cooking at Scale
+- /en/nutrition/2026-05-09-weight-maintenance-dysphagia — Maintaining Healthy Weight with Dysphagia: Calorie-Dense Soft Foods
+- /en/nutrition/2026-05-09-ethnic-foods-iddsi-adaptation — Adapting Traditional Asian Foods to IDDSI Levels
