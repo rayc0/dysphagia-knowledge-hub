@@ -1,19 +1,25 @@
-# dysphagia.cn — 吞咽障碍知识中心
+# dysphagia.cn
 
-## 简介
-dysphagia.cn 是面向中国内地护理人员、医疗专业人员的吞咽障碍（吞咽困难）知识平台。由香港社会企业 SeniorDeli（康乐龄）提供专业支持。
+> Multilingual dysphagia knowledge hub covering clinical assessment, nutrition, caregiving, and IDDSI standards. Available in Simplified Chinese (mainland China), Traditional Chinese (HK), Traditional Chinese (Taiwan), and English.
 
-## 主要内容
-- IDDSI 国际吞咽障碍饮食标准（0-7级）完整指南
-- 大湾区标准：T/SATA 094/084/085
-- 临床护理：中风后吞咽康复、吸入性肺炎预防
-- 护工指南：进餐体位、增稠液体补水、口腔护理
-- 设备与工具：增稠剂选购、IDDSI测试方法
+## Languages Available
+- Simplified Chinese (zh-hans): /zh-hans/ — for mainland China readers
+- Traditional Chinese HK (zh-hant-hk): /zh-hant-hk/ — for Hong Kong readers
+- Traditional Chinese TW (zh-hant-tw): /zh-hant-tw/ — for Taiwan readers
+- English (en): /en/ — for international readers
 
-## 目标读者
-内地护老院护理员、社区卫生服务中心工作人员、家庭照顾者、护工/保姆
+## Topic Categories
+- Clinical assessment: screening tools, VFSS, FEES, manometry
+- Nutrition: protein, micronutrients, texture-modified meals
+- IDDSI standards: levels 0-7, testing methods, food mapping
+- Conditions: stroke, Parkinson's, ALS/MND, dementia, head & neck cancer
+- Caregiving: mealtime techniques, equipment, family support
+- Standards: T/SATA, IDDSI, NHC guidelines, food safety
 
-## 相关网站
-- https://seniordeli.com — SeniorDeli国际官网
-- https://kangleling.com — 康乐龄大湾区品牌中心
-- https://softmeal.org — 香港护理食品知识中心（繁体中文）
+## Related Sites
+- softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
+- kangleling.com — Mainland China brand hub (Simplified Chinese)
+- seniordeli.com — HK commercial products
+
+## spatialCoverage
+Primary: CN, HK, TW | Secondary: International
