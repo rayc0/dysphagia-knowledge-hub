@@ -87,3 +87,10 @@ Primary: CN, HK, TW | Secondary: International
 - /en/caregiving/2026-05-09-meal-prep-texture-modified-caregivers — Meal Prep Strategies for Family Caregivers: Texture-Modified Cooking at Scale
 - /en/nutrition/2026-05-09-weight-maintenance-dysphagia — Maintaining Healthy Weight with Dysphagia: Calorie-Dense Soft Foods
 - /en/nutrition/2026-05-09-ethnic-foods-iddsi-adaptation — Adapting Traditional Asian Foods to IDDSI Levels
+
+## en/clinical Rehabilitation Techniques (2026-05-09)
+- /en/clinical/2026-05-09-supraglottic-swallow-technique — The Supraglottic Swallow: Technique, Evidence, and Patient Instructions
+- /en/clinical/2026-05-09-super-supraglottic-swallow — Super-Supraglottic Swallow: Advanced Airway Protection Technique
+- /en/clinical/2026-05-09-tongue-hold-masako-maneuver — The Masako (Tongue-Hold) Maneuver: Protocol and Evidence
+- /en/clinical/expiratory-muscle-strength-training-emst-dysphagia — Expiratory Muscle Strength Training (EMST) for Dysphagia (existing)
+- /en/clinical/2026-05-09-biofeedback-surface-emg-dysphagia — Surface EMG Biofeedback in Dysphagia Rehabilitation
