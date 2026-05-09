@@ -67,6 +67,12 @@
 - /zh-hans/nutrition/2026-05-09-zinc-vitamin-d-dysphagia — 微量营养素（锌、维生素D）与吞咽功能
 - /zh-hans/nutrition/2026-05-09-high-calorie-soft-foods-zh-hans — 高热量软食配方：吞咽障碍患者的体重维持与热量强化策略
 - /zh-hans/nutrition/2026-05-09-texture-modified-chinese-cuisine — 中华传统菜肴的质地改良方法：保留风味的IDDSI分级实践指南
+- /zh-hans/nutrition/2026-05-09-omega3-dysphagia-muscle — Omega-3脂肪酸与吞咽肌肉维护：营养干预的科学依据
+- /zh-hans/nutrition/2026-05-09-ons-oral-nutritional-supplements-china — 口服营养补充剂（ONS）在中国的使用指南
+- /zh-hans/nutrition/2026-05-09-dysphagia-elderly-protein-requirements — 老年吞咽障碍患者的蛋白质需求：科学评估与实践指导
+- /zh-hans/nutrition/2026-05-09-hydration-strategies-dysphagia — 吞咽障碍患者的补水策略：安全饮水与液体管理
+- /zh-hans/nutrition/2026-05-09-microbiome-swallowing-gut — 肠道微生物组与吞咽功能的关联：肠-脑-吞咽轴的新认识
+- /zh-hans/nutrition/2026-05-09-vitamin-deficiency-dysphagia — 维生素缺乏与吞咽障碍风险：营养监测与干预指南
 
 ## Related Sites
 - softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
