@@ -19,3 +19,102 @@ document.addEventListener('DOMContentLoaded',function(){
   else if(l.startsWith('zh'))window.location.href='/zh-hans/';
 });
 </script>
+
+{% comment %}=== Meta, OG, Schema injected by AI-native update 2026-05-09 ==={% endcomment %}
+
+{% assign page_lang = page.lang | default: page.language | default: "zh-hans" %}
+{% assign page_url = page.canonical | default: page.url %}
+{% assign site_url = "https://dysphagia.cn" %}
+{% assign full_url = page_url | prepend: site_url %}
+
+<!-- Meta description -->
+{% if page.description %}<meta name="description" content="{{ page.description | escape }}">{% endif %}
+
+<!-- Canonical -->
+{% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}">{% endif %}
+
+<!-- OpenGraph -->
+<meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+<meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ full_url }}">
+<meta property="og:image" content="{{ site_url }}/assets/img/og-default.png">
+<meta property="og:site_name" content="dysphagia.cn">
+<meta property="og:locale" content="{{ page_lang | replace: '-', '_' }}">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+<meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
+<meta name="twitter:image" content="{{ site_url }}/assets/img/og-default.png">
+
+<!-- hreflang -->
+<link rel="alternate" hreflang="{{ page_lang }}" href="{{ full_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ site_url }}/zh-hans/">
+
+<!-- Schema: Article -->
+{% if page.title %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "{{ full_url }}#article",
+  "headline": {{ page.title | jsonify }},
+  {% if page.description %}"description": {{ page.description | jsonify }},{% endif %}
+  "inLanguage": "{{ page_lang }}",
+  {% if page.date %}"datePublished": "{{ page.date | date: '%Y-%m-%d' }}",{% endif %}
+  {% if page.last_updated %}"dateModified": "{{ page.last_updated | date: '%Y-%m-%d' }}",{% elsif page.date %}"dateModified": "{{ page.date | date: '%Y-%m-%d' }}",{% endif %}
+  "author": {
+    "@type": "Organization",
+    "name": "SeniorDeli (Carewells)",
+    "url": "https://seniordeli.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "{{ site_url }}/#org",
+    "name": "dysphagia.cn"
+  },
+  {% if page.tags %}"keywords": {{ page.tags | join: ', ' | jsonify }},{% endif %}
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isPartOf": {"@id": "{{ site_url }}/#website"}
+}
+</script>
+{% endif %}
+
+<!-- Schema: BreadcrumbList -->
+{% if page.category and page.title %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": "{{ site_url }}/"},
+    {"@type": "ListItem", "position": 2, "name": "{{ page.category }}", "item": "{{ site_url }}/{{ page_lang }}/{{ page.category }}/"},
+    {"@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ full_url }}"}
+  ]
+}
+</script>
+{% endif %}
+
+<!-- Schema: Organization (every page) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "{{ site_url }}/#org",
+  "name": "dysphagia.cn",
+  "url": "{{ site_url }}",
+  "sameAs": ["https://seniordeli.com","https://kangleling.com","https://softmeal.org"]
+}
+</script>
+
+<!-- Schema: WebSite (every page) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "{{ site_url }}/#website",
+  "name": "dysphagia.cn 吞咽障碍知识中心",
+  "url": "{{ site_url }}"
+}
+</script>
