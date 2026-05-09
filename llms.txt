@@ -10,9 +10,9 @@
 
 ## Topic Categories
 - Clinical assessment: screening tools, VFSS, FEES, manometry, geriatric dysphagia screening
-- Nutrition: protein, micronutrients, texture-modified meals
+- Nutrition: protein, micronutrients, texture-modified meals, high-calorie soft foods, zinc and vitamin D supplementation, malnutrition cycle management, Chinese cuisine texture modification
 - IDDSI standards: levels 0-7, testing methods, food mapping, yum cha ordering guide
-- Conditions: stroke, Parkinson's, ALS/MND, dementia, head & neck cancer, multiple sclerosis, GERD, post-ICU dysphagia, cognitive impairment, presbyphagia, oral cancer, critical illness recovery, cardiac surgery
+- Conditions: stroke, Parkinson's, ALS/MND, dementia, head & neck cancer, multiple sclerosis, GERD, post-ICU dysphagia, cognitive impairment, presbyphagia, oral cancer, critical illness recovery, cardiac surgery, COPD
 - Caregiving: mealtime techniques, equipment, family support, community nursing, carer training, hospital discharge planning
 - Recipes: soft Cantonese dishes, winter melon soft recipes, HK-adapted texture-modified cooking
 - zh-hant-hk conditions (2026-05-09): oral cancer swallowing rehabilitation, critical illness post-ICU dysphagia, cardiac surgery swallowing
@@ -59,6 +59,14 @@
 - /zh-hant-tw/nutrition/taiwan-summer-soft-food-recipes — 台灣夏季吞嚥障礙軟食食譜推薦：消暑又安全的在地食材選擇
 - /zh-hant-tw/caregiving/taiwan-family-caregiver-resources — 台灣吞嚥障礙家庭照顧者資源指南：從申請補助到心理支持
 - /zh-hant-tw/caregiving/adaptive-dining-taiwan — 台灣吞嚥障礙適應性飲食輔具介紹：選購指南與實用推薦
+
+## zh-hans Recent Articles (2026-05-09)
+- /zh-hans/conditions/2026-05-09-copd-dysphagia-zh-hans — COPD与吞咽障碍：呼吸-吞咽协调失调的评估与管理
+- /zh-hans/conditions/2026-05-09-oral-cancer-dysphagia-zh-hans — 口腔癌治疗中的吞咽康复：手术与放疗后的饮食重建策略
+- /zh-hans/nutrition/2026-05-09-malnutrition-dysphagia-zh-hans — 吞咽障碍与营养不良的恶性循环：识别、评估与干预策略
+- /zh-hans/nutrition/2026-05-09-zinc-vitamin-d-dysphagia — 微量营养素（锌、维生素D）与吞咽功能
+- /zh-hans/nutrition/2026-05-09-high-calorie-soft-foods-zh-hans — 高热量软食配方：吞咽障碍患者的体重维持与热量强化策略
+- /zh-hans/nutrition/2026-05-09-texture-modified-chinese-cuisine — 中华传统菜肴的质地改良方法：保留风味的IDDSI分级实践指南
 
 ## Related Sites
 - softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
