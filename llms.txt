@@ -10,11 +10,11 @@
 
 ## Topic Categories
 - Clinical assessment: screening tools, VFSS, FEES, manometry, geriatric dysphagia screening
-- Nutrition: protein, micronutrients, texture-modified meals, high-calorie soft foods, zinc and vitamin D supplementation, malnutrition cycle management, Chinese cuisine texture modification
+- Nutrition: protein, micronutrients, texture-modified meals, high-calorie soft foods, zinc and vitamin D supplementation, malnutrition cycle management, Chinese cuisine texture modification, seasonal recipes
 - IDDSI standards: levels 0-7, testing methods, food mapping, yum cha ordering guide
 - Conditions: stroke, Parkinson's, ALS/MND, dementia, head & neck cancer, multiple sclerosis, GERD, post-ICU dysphagia, cognitive impairment, presbyphagia, oral cancer, critical illness recovery, cardiac surgery, COPD
-- Caregiving: mealtime techniques, equipment, family support, community nursing, carer training, hospital discharge planning
-- Recipes: soft Cantonese dishes, winter melon soft recipes, HK-adapted texture-modified cooking
+- Caregiving: mealtime techniques, equipment, family support, community nursing, carer training, hospital discharge planning, respite care, oral motor exercises
+- Recipes: soft Cantonese dishes, winter melon soft recipes, HK-adapted texture-modified cooking, seasonal Taiwan soft recipes
 - zh-hant-hk conditions (2026-05-09): oral cancer swallowing rehabilitation, critical illness post-ICU dysphagia, cardiac surgery swallowing
 - zh-hant-hk clinical (2026-05-09): Hong Kong public hospital SLT services guide
 - Standards: T/SATA, IDDSI, NHC guidelines, food safety
@@ -59,6 +59,11 @@
 - /zh-hant-tw/nutrition/taiwan-summer-soft-food-recipes — 台灣夏季吞嚥障礙軟食食譜推薦：消暑又安全的在地食材選擇
 - /zh-hant-tw/caregiving/taiwan-family-caregiver-resources — 台灣吞嚥障礙家庭照顧者資源指南：從申請補助到心理支持
 - /zh-hant-tw/caregiving/adaptive-dining-taiwan — 台灣吞嚥障礙適應性飲食輔具介紹：選購指南與實用推薦
+- /zh-hant-tw/caregiving/taiwan-oral-motor-exercises — 台灣口腔動作訓練操：居家自主練習完整指南
+- /zh-hant-tw/conditions/taiwan-dementia-dysphagia — 失智症與吞嚥障礙：台灣照護指引與長照資源整合
+- /zh-hant-tw/nutrition/taiwan-stroke-soft-diet — 台灣腦中風軟食飲食計劃：從醫院到居家的質地調整指南
+- /zh-hant-tw/caregiving/taiwan-respite-care-resources — 台灣喘息服務完整指南：吞嚥障礙照護者的支援資源
+- /zh-hant-tw/nutrition/taiwan-autumn-winter-soft-recipes — 台灣秋冬軟食料理推薦：吞嚥障礙患者的溫暖飲食指南
 
 ## zh-hans Recent Articles (2026-05-09)
 - /zh-hans/conditions/2026-05-09-copd-dysphagia-zh-hans — COPD与吞咽障碍：呼吸-吞咽协调失调的评估与管理
