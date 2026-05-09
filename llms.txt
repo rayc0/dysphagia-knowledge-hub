@@ -12,9 +12,11 @@
 - Clinical assessment: screening tools, VFSS, FEES, manometry, geriatric dysphagia screening
 - Nutrition: protein, micronutrients, texture-modified meals
 - IDDSI standards: levels 0-7, testing methods, food mapping, yum cha ordering guide
-- Conditions: stroke, Parkinson's, ALS/MND, dementia, head & neck cancer, multiple sclerosis, GERD, post-ICU dysphagia, cognitive impairment, presbyphagia
+- Conditions: stroke, Parkinson's, ALS/MND, dementia, head & neck cancer, multiple sclerosis, GERD, post-ICU dysphagia, cognitive impairment, presbyphagia, oral cancer, critical illness recovery, cardiac surgery
 - Caregiving: mealtime techniques, equipment, family support, community nursing, carer training, hospital discharge planning
 - Recipes: soft Cantonese dishes, winter melon soft recipes, HK-adapted texture-modified cooking
+- zh-hant-hk conditions (2026-05-09): oral cancer swallowing rehabilitation, critical illness post-ICU dysphagia, cardiac surgery swallowing
+- zh-hant-hk clinical (2026-05-09): Hong Kong public hospital SLT services guide
 - Standards: T/SATA, IDDSI, NHC guidelines, food safety
 
 ## en/conditions Recent Articles (2026-05-09)
