@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://softmeal.org/</loc>
+    <loc>https://dysphagia.cn/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://softmeal.org/en/iddsi/iddsi-framework-complete-guide.html</loc>
+    <loc>https://dysphagia.cn/en/iddsi/iddsi-framework-complete-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://softmeal.org/en/testing/food-texture-testing-methods.html</loc>
+    <loc>https://dysphagia.cn/en/testing/food-texture-testing-methods.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://softmeal.org/en/hk-standards/hong-kong-care-food-standards.html</loc>
+    <loc>https://dysphagia.cn/en/hk-standards/hong-kong-care-food-standards.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://softmeal.org/about/</loc>
+    <loc>https://dysphagia.cn/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://softmeal.org/press/</loc>
+    <loc>https://dysphagia.cn/press/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
