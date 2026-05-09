@@ -4,6 +4,23 @@ description: "吞咽困难照护、IDDSI标准、软餐食谱、临床指引 —
 lang: zh-Hans
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SeniorDeli 康乐龄",
+  "url": "https://dysphagia.cn",
+  "description": "吞咽障碍护理食品香港社会企业，专注IDDSI合规护理食品",
+  "inLanguage": "zh-CN",
+  "spatialCoverage": "CN",
+  "sameAs": [
+    "https://seniordeli.com",
+    "https://kangleling.com",
+    "https://softmeal.org"
+  ]
+}
+</script>
+
 <style>
 .lang-bar{background:#1a1a2e;padding:8px 16px;text-align:right;font-size:13px;position:sticky;top:0;z-index:999}
 .lang-bar a{color:#a8d8ea;text-decoration:none;margin:0 6px;padding:3px 8px;border-radius:3px;transition:background .2s}

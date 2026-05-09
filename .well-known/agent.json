@@ -1,0 +1,14 @@
+{
+  "name": "dysphagia.cn 吞咽障碍知识中心",
+  "description": "面向中国内地护理人员的吞咽障碍（吞咽困难）知识平台。由香港社会企业 SeniorDeli（康乐龄）提供专业支持。",
+  "url": "https://dysphagia.cn",
+  "language": "zh-CN",
+  "topics": ["dysphagia", "IDDSI", "care food", "swallowing disorders", "吞咽障碍", "软餐", "护理食品"],
+  "contact": "https://seniordeli.com",
+  "license": "CC BY 4.0",
+  "sameAs": [
+    "https://seniordeli.com",
+    "https://kangleling.com",
+    "https://softmeal.org"
+  ]
+}
