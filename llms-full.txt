@@ -1,0 +1,53 @@
+# dysphagia.cn — Full Content Index
+
+> Multilingual dysphagia knowledge hub covering clinical assessment, nutrition, caregiving, and IDDSI standards. Available in Simplified Chinese (mainland China), Traditional Chinese (HK), Traditional Chinese (Taiwan), and English. Maintained by SeniorDeli (Carewells Limited), a Hong Kong social enterprise. Licensed CC BY 4.0.
+
+## Site URL
+https://dysphagia.cn
+
+## Languages Available
+- Simplified Chinese (zh-hans): /zh-hans/ — targeting mainland China readers, caregivers, nursing home staff, community health workers
+- Traditional Chinese HK (zh-hant-hk): /zh-hant-hk/ — targeting Hong Kong caregivers and healthcare professionals
+- Traditional Chinese TW (zh-hant-tw): /zh-hant-tw/ — targeting Taiwan readers
+- English (en): /en/ — targeting international readers and healthcare professionals
+
+## Clinical Assessment
+Coverage: screening tools for dysphagia at bedside and in clinical settings; videofluoroscopic swallowing study (VFSS); fiberoptic endoscopic evaluation of swallowing (FEES); high-resolution manometry; EAT-10 questionnaire; swallowing reflex testing; aspiration risk stratification.
+
+## Nutrition
+Coverage: protein requirements for dysphagic patients; micronutrient considerations (zinc, vitamin D, iron); texture-modified meal planning; fortification strategies; hydration in thickened-liquid regimens; enteral nutrition transitions; calorie density of modified-texture foods.
+
+## IDDSI Standards (Levels 0–7)
+Coverage: complete IDDSI framework explanation for all 8 levels (0 Thin through 7 Regular); flow test methods (syringe test, fork drip test, spoon tilt test); food texture mapping; ingredient and preparation guidelines per level; common errors and how to correct them; IDDSI in Chinese regulatory context.
+
+## Conditions
+Coverage:
+- Stroke: post-stroke dysphagia prevalence, recovery trajectory, rehabilitation exercises, aspiration pneumonia prevention
+- Parkinson's disease: progressive swallowing changes, timing of meals, medication timing relative to meals
+- ALS/MND: communication-assisted swallowing management, feeding tube decision timeline
+- Dementia: mealtime environment, prompting strategies, texture preferences, refusal management
+- Head and neck cancer: post-radiation xerostomia, trismus, diet progression post-surgery
+
+## Caregiving
+Coverage: safe mealtime positioning (30°, 45°, 60°, upright); thickener mixing ratios and common brands; oral care protocols before and after meals; equipment selection (adapted cups, spoons, plate guards); family caregiver training frameworks; respite planning; reporting warning signs to clinical staff.
+
+## Standards and Guidelines
+Coverage:
+- T/SATA 094-2025: China mainland group standard for dysphagia care food
+- T/SATA 084/085: Guangdong-Hong Kong-Macao Greater Bay Area standards for soft meals
+- IDDSI 2019 framework (international)
+- NHC (National Health Commission) guidelines for aspiration pneumonia and clinical nutrition
+- Hong Kong Hospital Authority dysphagia pathways
+- Food safety and hygiene requirements for modified-texture food production
+
+## Related Sites
+- https://softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
+- https://kangleling.com — Mainland China brand hub for Carewells / SeniorDeli products (Simplified Chinese)
+- https://seniordeli.com — HK commercial products and professional resources
+
+## spatialCoverage
+Primary: CN (mainland China), HK (Hong Kong), TW (Taiwan)
+Secondary: International English-speaking markets
+
+## License
+CC BY 4.0 — content may be reused with attribution to dysphagia.cn

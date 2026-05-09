@@ -43,4 +43,10 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
+User-agent: CCBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
 Sitemap: https://dysphagia.cn/sitemap.xml
