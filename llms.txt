@@ -18,6 +18,15 @@
 - zh-hant-hk conditions (2026-05-09): oral cancer swallowing rehabilitation, critical illness post-ICU dysphagia, cardiac surgery swallowing
 - zh-hant-hk clinical (2026-05-09): Hong Kong public hospital SLT services guide
 - Standards: T/SATA, IDDSI, NHC guidelines, food safety
+- Rehabilitation techniques: swallowing exercises, neurostimulation, compensatory strategies
+
+## zh-hans Clinical Rehabilitation Articles (2026-05-09)
+- /zh-hans/clinical/2026-05-09-shaker-exercise-zh-hans — Shaker运动与吞咽康复：头部抬升训练操作规范与循证依据
+- /zh-hans/clinical/2026-05-09-mendelsohn-maneuver-zh-hans — Mendelsohn手法操作指南：机制、适应证与临床训练方案
+- /zh-hans/clinical/2026-05-09-effortful-swallow-technique — 用力吞咽技术详解：机制、操作规范与临床应用
+- /zh-hans/clinical/2026-05-09-vocal-fold-adduction-exercises — 声带内收训练与吞咽障碍康复：喉保护功能强化指南
+- /zh-hans/clinical/2026-05-09-neurostimulation-dysphagia — 神经肌肉电刺激治疗吞咽障碍：临床应用与参数规范
+- /zh-hans/clinical/2026-05-09-vitalstim-transcutaneous — 经皮电刺激（VitalStim）临床应用：设备操作、参数优化与内地实践
 
 ## en/conditions Recent Articles (2026-05-09)
 - /en/conditions/head-neck-cancer-dysphagia-management — Head and neck cancer: managing dysphagia through treatment and recovery
