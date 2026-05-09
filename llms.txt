@@ -9,12 +9,21 @@
 - English (en): /en/ — for international readers
 
 ## Topic Categories
-- Clinical assessment: screening tools, VFSS, FEES, manometry
+- Clinical assessment: screening tools, VFSS, FEES, manometry, geriatric dysphagia screening
 - Nutrition: protein, micronutrients, texture-modified meals
-- IDDSI standards: levels 0-7, testing methods, food mapping
+- IDDSI standards: levels 0-7, testing methods, food mapping, yum cha ordering guide
 - Conditions: stroke, Parkinson's, ALS/MND, dementia, head & neck cancer
-- Caregiving: mealtime techniques, equipment, family support
+- Caregiving: mealtime techniques, equipment, family support, community nursing, carer training, hospital discharge planning
+- Recipes: soft Cantonese dishes, winter melon soft recipes, HK-adapted texture-modified cooking
 - Standards: T/SATA, IDDSI, NHC guidelines, food safety
+
+## zh-hant-hk Recent Articles (2026-05-09)
+- /zh-hant-hk/clinical/hk-geriatric-assessment-dysphagia — 香港老年科評估中的吞嚥障礙篩查
+- /zh-hant-hk/caregiving/hk-community-nursing-swallowing — 社區護理中的吞嚥護理技巧
+- /zh-hant-hk/caregiving/hk-carer-training-programme — 香港照護者吞嚥培訓課程資源
+- /zh-hant-hk/iddsi/iddsi-yumcha-ordering-guide — 飲茶點心的IDDSI友好點法指南
+- /zh-hant-hk/caregiving/hk-hospital-discharge-planning — 出院後的吞嚥護理過渡計劃
+- /zh-hant-hk/recipes/winter-melon-soft-recipes-hk — 冬瓜軟食食譜：香港本地適應版
 
 ## Related Sites
 - softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
