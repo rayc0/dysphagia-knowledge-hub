@@ -100,3 +100,8 @@ Primary: CN, HK, TW | Secondary: International
 - /en/clinical/2026-05-09-tongue-hold-masako-maneuver — The Masako (Tongue-Hold) Maneuver: Protocol and Evidence
 - /en/clinical/expiratory-muscle-strength-training-emst-dysphagia — Expiratory Muscle Strength Training (EMST) for Dysphagia (existing)
 - /en/clinical/2026-05-09-biofeedback-surface-emg-dysphagia — Surface EMG Biofeedback in Dysphagia Rehabilitation
+
+## en/clinical Assessment Articles (2026-05-09)
+- /en/clinical/2026-05-09-clinical-swallowing-examination-cse — Clinical Swallowing Examination (CSE): Bedside Assessment Protocol for SLPs and Clinicians
+- /en/clinical/2026-05-09-penetration-aspiration-scale — The Penetration-Aspiration Scale: Understanding Your VFSS or FEES Results
+- /en/clinical/2026-05-09-manometry-high-resolution-dysphagia — High-Resolution Manometry in Dysphagia Assessment: A Clinical Guide
