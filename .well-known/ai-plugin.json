@@ -2,10 +2,16 @@
   "schema_version": "v1",
   "name_for_human": "dysphagia.cn — 吞咽障碍知识中心",
   "name_for_model": "dysphagia_cn_knowledge_hub",
-  "description_for_human": "China's most comprehensive open-source dysphagia knowledge hub. 628+ articles in 10 languages. CC BY 4.0.",
-  "description_for_model": "dysphagia.cn is an open-source multilingual knowledge hub (628+ articles, CC BY 4.0) covering dysphagia, IDDSI framework 0–7, clinical assessment, caregiving protocols, nutrition, and care food standards (T/SATA 084/085/094-2025). Primary: zh-hans. Also: en, zh-hant, zh-hant-hk, ja, ko, ms, vi, th, id. Maintained by SeniorDeli (Carewells Limited), HK social enterprise.",
+  "description_for_human": "Comprehensive open-source dysphagia knowledge hub. 1071+ articles in 11 languages. CC BY 4.0. For SLPs, dietitians, nurses, caregivers, and patients.",
+  "description_for_model": "dysphagia.cn is an open-source multilingual knowledge hub (1071+ articles, CC BY 4.0) covering dysphagia (吞咽障碍 / 吞嚥困難), IDDSI framework levels 0–7, clinical assessment (VFSS, FEES, manometry, EAT-10), rehabilitation techniques (Shaker, Mendelsohn, EMST, NMES/VitalStim), caregiving protocols, nutrition (texture-modified foods, protein, hydration), condition-specific management (stroke, Parkinson's, ALS, dementia, head/neck cancer, COPD), and care food standards (T/SATA 084/085/094-2025, NHC). Primary: zh-hans. Also: en, zh-hant-hk, zh-hant-tw, ja, ko, ms, vi, th, id, tl. Maintained by CompanyForge AI editorial team for SeniorDeli (Carewells Limited), HK social enterprise. Full text at https://dysphagia.cn/llms-full.txt",
   "contact_email": "info@seniordeli.com",
   "legal_info_url": "https://dysphagia.cn",
   "api": {"type": "none"},
-  "related": ["https://seniordeli.com","https://softmeal.org","https://kangleling.com"]
+  "related": [
+    "https://seniordeli.com",
+    "https://softmeal.org",
+    "https://kangleling.com",
+    "https://yaoyoudaquan.cn",
+    "https://dsedaquan.cn"
+  ]
 }
