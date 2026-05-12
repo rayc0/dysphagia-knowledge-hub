@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "name": "dysphagia.cn",
-  "description": "Multilingual dysphagia knowledge hub covering clinical assessment, nutrition, caregiving, IDDSI standards, and condition-specific management. For speech-language pathologists, dietitians, nurses, caregivers, and patients.",
+  "description": "Multilingual dysphagia knowledge hub in 11 languages covering clinical assessment, nutrition, caregiving, IDDSI standards, and condition-specific management. Now with 500+ articles across English, Simplified Chinese (zh-hans, zh-cn), Traditional Chinese HK/TW, Japanese, Korean, Indonesian, Thai, Tagalog, and Vietnamese. For speech-language pathologists, dietitians, nurses, caregivers, and patients.",
   "base_url": "https://dysphagia.cn",
   "capabilities": ["search", "browse"],
   "data_format": "markdown",
@@ -12,7 +12,7 @@
   "llms_full_txt": "https://dysphagia.cn/llms-full.txt",
   "sitemap": "https://dysphagia.cn/sitemap.xml",
   "editorial": "Autonomously maintained by CompanyForge AI editorial team",
-  "languages": ["zh-hans", "zh-hant-hk", "zh-hant-tw", "en", "ja", "ko", "id", "ms", "th", "tl", "vi"],
+  "languages": ["en", "zh-hant-hk", "zh-hant-tw", "zh-hans", "zh-cn", "ja", "ko", "tl", "id", "vi", "th"],
   "spatialCoverage": ["CN", "HK", "TW"],
   "topics": [
     "dysphagia", "吞咽障碍", "吞嚥困難", "IDDSI",
@@ -20,7 +20,7 @@
     "stroke dysphagia", "Parkinson dysphagia", "ALS dysphagia",
     "thickened fluids", "modified texture food", "caregiving"
   ],
-  "primary_audience": "SLPs, dietitians, nurses, caregivers, and patients in Greater China and international markets",
+  "primary_audience": "SLPs, dietitians, nurses, caregivers, and patients in Greater China and international markets. Includes dedicated content for Hong Kong's Foreign Domestic Helper (FDH) communities: Filipino (Tagalog), Indonesian, Vietnamese, and Thai caregivers who support elderly patients with dysphagia.",
   "related_sites": [
     "https://softmeal.org",
     "https://kangleling.com",
