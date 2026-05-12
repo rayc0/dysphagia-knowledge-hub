@@ -82,7 +82,7 @@ T/SATA 085-2025 is the broader companion standard covering food intended for eld
 
 The drafting committee for both standards includes:
 
-- **Hong Kong:** HKMA (Hong Kong Manufacturers' Association), HKCSS (Hong Kong Council of Social Service), Editorial Team / Editorial Team, HKU Swallowing Research Institute, 保良局 (Po Leung Kuk), 東華三院 (Tung Wah Group of Hospitals), 香港幸福元氣食品有限公司
+- **Hong Kong:** HKMA (Hong Kong Manufacturers' Association), HKCSS (Hong Kong Council of Social Service), Editorial Team / Editorial Team, HKU Swallowing Research Institute, 保良局 (Po Leung Kuk), 東華三院 (Tung Wah Group of Hospitals)
 - **Macau:** 澳門扶康會
 - **Mainland China:** CUHK-Shenzhen, 廣東厚德世家養老產業, 深圳職業技術大學, 深圳市計量質量檢測研究院, 深圳市場監督管理局許可審查中心, 三井物產（香港）有限公司, 基督教香港信義會社會服務部
 - And others
