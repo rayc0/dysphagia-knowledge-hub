@@ -30,6 +30,10 @@ canonical: "https://dysphagia.cn/zh-hant-tw/"
 - [台灣吞嚥障礙照顧者支持資源：長照、協會、喘息服務全指南](/zh-hant-tw/caregiving/2025-01-23-taiwan-caregiver-support/)
 - [外籍看護工與吞嚥障礙照護：聘雇說明、訓練資源與溝通技巧](/zh-hant-tw/caregiving/2025-01-24-foreign-worker-caregiving-taiwan/)
 - [台灣健保給付吞嚥障礙治療與營養支持：2026年最新給付範圍解析](/zh-hant-tw/caregiving/2026-05-09-taiwan-health-insurance-dysphagia/)
+- [居家照護IDDSI飲食準備：家屬完整操作手冊](/zh-hant-tw/caregiving/home-care-iddsi-taiwan/)
+- [安全進食環境設置：防止誤嗆的環境與輔具準備](/zh-hant-tw/caregiving/mealtime-environment-setup/)
+- [照顧者身心健康：台灣在地支持資源與喘息服務](/zh-hant-tw/caregiving/caregiver-self-care-taiwan/)
+- [吞嚥困難病歷記錄與醫療交接：家屬必備清單](/zh-hant-tw/caregiving/documentary-medical-handover-taiwan/)
 
 [→ 查看全部照護指南](/zh-hant-tw/caregiving/)
 
@@ -39,6 +43,7 @@ canonical: "https://dysphagia.cn/zh-hant-tw/"
 - [腦中風後吞嚥障礙：台灣患者從急性期到社區復健的完整指南](/zh-hant-tw/conditions/2025-01-23-stroke-dysphagia-taiwan/)
 - [帕金森氏症吞嚥障礙：台灣患者吞嚥管理與運動復健指引](/zh-hant-tw/conditions/2025-01-24-parkinson-dysphagia-taiwan/)
 - [失智症患者的吞嚥與進食困難：台灣照護者實戰指南](/zh-hant-tw/conditions/2025-01-25-dementia-mealtime-taiwan/)
+- [中風後吞嚥困難康復：復健療程與飲食管理（台灣醫療資源版）](/zh-hant-tw/conditions/stroke-dysphagia-recovery-taiwan/)
 
 [→ 查看全部病症指南](/zh-hant-tw/conditions/)
 
@@ -56,6 +61,9 @@ canonical: "https://dysphagia.cn/zh-hant-tw/"
 - [台灣鼻胃管與胃造口管飼：健保給付、照護流程及撤管決策](/zh-hant-tw/nutrition/2025-01-22-tube-feeding-taiwan-insurance/)
 - [台灣家庭自製吞嚥障礙軟食：實作技巧與廚房工具指南](/zh-hant-tw/nutrition/2025-01-25-taiwan-soft-food-preparation/)
 - [長照2.0體系下吞嚥障礙者的營養支持策略：從評估到落地執行](/zh-hant-tw/nutrition/2026-05-09-nutrition-support-ltc/)
+- [台灣市售食物增稠劑比較：品牌選購指南](/zh-hant-tw/nutrition/thickener-product-comparison-taiwan/)
+- [吞嚥困難老人的營養補充：台灣可取得的口服營養補充品指南](/zh-hant-tw/nutrition/nutrition-supplement-elderly-taiwan/)
+- [台式軟食料理改良：傳統台灣料理的IDDSI改造指南](/zh-hant-tw/nutrition/soft-food-regional-taiwan/)
 
 [→ 查看全部營養指南](/zh-hant-tw/nutrition/)
 
