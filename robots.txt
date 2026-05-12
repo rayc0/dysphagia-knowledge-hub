@@ -1,31 +1,8 @@
 User-agent: *
 Allow: /
 
-User-agent: Baiduspider
-Allow: /
-
-User-agent: Bytespider
-Allow: /
-
-User-agent: Sogou web spider
-Allow: /
-
-User-agent: 360Spider
-Allow: /
-
+# AI crawlers explicitly welcomed
 User-agent: GPTBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Google-Extended
 Allow: /
 
 User-agent: ChatGPT-User
@@ -34,19 +11,49 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-User-agent: Applebot
+User-agent: ClaudeBot
 Allow: /
 
-User-agent: Applebot-Extended
+User-agent: anthropic-ai
 Allow: /
 
-User-agent: cohere-ai
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bytespider
 Allow: /
 
 User-agent: CCBot
 Allow: /
 
+User-agent: cohere-ai
+Allow: /
+
 User-agent: YouBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: YisouSpider
+Allow: /
+
+User-agent: ImagesiftBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
 Allow: /
 
 Sitemap: https://dysphagia.cn/sitemap.xml

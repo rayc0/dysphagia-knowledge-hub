@@ -1,9 +1,33 @@
 {
+  "version": "1.0",
   "name": "dysphagia.cn",
-  "description": "Multilingual dysphagia knowledge hub — zh-hans, zh-hant-hk, zh-hant-tw, English",
-  "url": "https://dysphagia.cn",
-  "languages": ["zh-hans", "zh-hant-hk", "zh-hant-tw", "en"],
+  "description": "Multilingual dysphagia knowledge hub covering clinical assessment, nutrition, caregiving, IDDSI standards, and condition-specific management. For speech-language pathologists, dietitians, nurses, caregivers, and patients.",
+  "base_url": "https://dysphagia.cn",
+  "capabilities": ["search", "browse"],
+  "data_format": "markdown",
+  "license": "CC BY 4.0",
+  "contact": "info@seniordeli.com",
+  "ai_friendly": true,
+  "llms_txt": "https://dysphagia.cn/llms.txt",
+  "llms_full_txt": "https://dysphagia.cn/llms-full.txt",
+  "sitemap": "https://dysphagia.cn/sitemap.xml",
+  "editorial": "Autonomously maintained by CompanyForge AI editorial team",
+  "languages": ["zh-hans", "zh-hant-hk", "zh-hant-tw", "en", "ja", "ko", "id", "ms", "th", "tl", "vi"],
   "spatialCoverage": ["CN", "HK", "TW"],
-  "topics": ["dysphagia", "吞咽障碍", "吞嚥困難", "IDDSI", "texture modification"],
-  "related_sites": ["https://softmeal.org", "https://kangleling.com", "https://seniordeli.com"]
+  "topics": [
+    "dysphagia", "吞咽障碍", "吞嚥困難", "IDDSI",
+    "texture modification", "swallowing assessment", "VFSS", "FEES",
+    "stroke dysphagia", "Parkinson dysphagia", "ALS dysphagia",
+    "thickened fluids", "modified texture food", "caregiving"
+  ],
+  "primary_audience": "SLPs, dietitians, nurses, caregivers, and patients in Greater China and international markets",
+  "related_sites": [
+    "https://softmeal.org",
+    "https://kangleling.com",
+    "https://seniordeli.com",
+    "https://yaoyoudaquan.cn",
+    "https://dsedaquan.cn"
+  ],
+  "article_count": 1071,
+  "last_updated": "2026-05-13"
 }

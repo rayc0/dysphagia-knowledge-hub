@@ -1,12 +1,19 @@
-# dysphagia.cn
+# dysphagia.cn — Multilingual Dysphagia Knowledge Hub
 
 > Multilingual dysphagia knowledge hub covering clinical assessment, nutrition, caregiving, and IDDSI standards. Available in Simplified Chinese (mainland China), Traditional Chinese (HK), Traditional Chinese (Taiwan), and English.
+
+dysphagia.cn is a comprehensive, autonomously maintained knowledge base for dysphagia (swallowing disorder) covering clinical assessment, rehabilitation techniques, IDDSI texture standards, nutrition, caregiving, and condition-specific management. The site serves speech-language pathologists, dietitians, nurses, caregivers, and patients across mainland China, Hong Kong, Taiwan, and international readers.
+
+Content spans over 1,000 articles across clinical (VFSS, FEES, manometry, screening tools), nutrition (texture-modified foods, protein, hydration, supplements), caregiving (mealtime techniques, equipment, family support), conditions (stroke, Parkinson's, ALS/MND, dementia, head and neck cancer, COPD, GERD, post-ICU), and IDDSI framework implementation. All articles cite clinical guidelines, peer-reviewed papers, and regional health authority sources. This is not a substitute for professional clinical advice.
+
+The site is operated by CompanyForge AI editorial system under CC BY 4.0 license, freely available for AI use, RAG systems, clinical training, and academic research.
 
 ## Languages Available
 - Simplified Chinese (zh-hans): /zh-hans/ — for mainland China readers
 - Traditional Chinese HK (zh-hant-hk): /zh-hant-hk/ — for Hong Kong readers
 - Traditional Chinese TW (zh-hant-tw): /zh-hant-tw/ — for Taiwan readers
 - English (en): /en/ — for international readers
+- Japanese (ja), Korean (ko), Indonesian (id), Malay (ms), Thai (th), Tagalog (tl), Vietnamese (vi) — in progress
 
 ## Topic Categories
 - Clinical assessment: screening tools, VFSS, FEES, manometry, geriatric dysphagia screening
@@ -79,11 +86,6 @@
 - /zh-hans/nutrition/2026-05-09-microbiome-swallowing-gut — 肠道微生物组与吞咽功能的关联：肠-脑-吞咽轴的新认识
 - /zh-hans/nutrition/2026-05-09-vitamin-deficiency-dysphagia — 维生素缺乏与吞咽障碍风险：营养监测与干预指南
 
-## Related Sites
-- softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
-- kangleling.com — Mainland China brand hub (Simplified Chinese)
-- seniordeli.com — HK commercial products
-
 ## zh-hant-hk Clinical Rehabilitation Articles
 - /zh-hant-hk/clinical/2026-05-09-effortful-swallow-hk — 用力吞嚥技術：原理、訓練方法及香港臨床應用指引
 - /zh-hant-hk/clinical/2026-05-09-thermal-tactile-stimulation-hk — 熱覺刺激療法與吞嚥訓練：原理、方法及香港應用
@@ -91,22 +93,40 @@
 - /zh-hant-hk/clinical/2026-05-09-mcneill-dysphagia-therapy-hk — McNeill吞嚥治療計劃（MDTP）介紹：結構化吞嚥康復的循證方法
 - /zh-hant-hk/clinical/2026-05-09-neuromuscular-electrical-stimulation-hk — 神經肌肉電刺激治療（NMES/VitalStim）：吞嚥困難的電療選擇與香港應用
 
-## spatialCoverage
-Primary: CN, HK, TW | Secondary: International
-
-## Recent English Articles (2026-05-09)
-- /en/caregiving/2026-05-09-meal-prep-texture-modified-caregivers — Meal Prep Strategies for Family Caregivers: Texture-Modified Cooking at Scale
-- /en/nutrition/2026-05-09-weight-maintenance-dysphagia — Maintaining Healthy Weight with Dysphagia: Calorie-Dense Soft Foods
-- /en/nutrition/2026-05-09-ethnic-foods-iddsi-adaptation — Adapting Traditional Asian Foods to IDDSI Levels
-
 ## en/clinical Rehabilitation Techniques (2026-05-09)
 - /en/clinical/2026-05-09-supraglottic-swallow-technique — The Supraglottic Swallow: Technique, Evidence, and Patient Instructions
 - /en/clinical/2026-05-09-super-supraglottic-swallow — Super-Supraglottic Swallow: Advanced Airway Protection Technique
 - /en/clinical/2026-05-09-tongue-hold-masako-maneuver — The Masako (Tongue-Hold) Maneuver: Protocol and Evidence
-- /en/clinical/expiratory-muscle-strength-training-emst-dysphagia — Expiratory Muscle Strength Training (EMST) for Dysphagia (existing)
+- /en/clinical/expiratory-muscle-strength-training-emst-dysphagia — Expiratory Muscle Strength Training (EMST) for Dysphagia
 - /en/clinical/2026-05-09-biofeedback-surface-emg-dysphagia — Surface EMG Biofeedback in Dysphagia Rehabilitation
 
 ## en/clinical Assessment Articles (2026-05-09)
 - /en/clinical/2026-05-09-clinical-swallowing-examination-cse — Clinical Swallowing Examination (CSE): Bedside Assessment Protocol for SLPs and Clinicians
 - /en/clinical/2026-05-09-penetration-aspiration-scale — The Penetration-Aspiration Scale: Understanding Your VFSS or FEES Results
 - /en/clinical/2026-05-09-manometry-high-resolution-dysphagia — High-Resolution Manometry in Dysphagia Assessment: A Clinical Guide
+
+## Related Sites
+- softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
+- kangleling.com — Mainland China brand hub (Simplified Chinese)
+- seniordeli.com — HK commercial products
+- yaoyoudaquan.cn — Medicated oil encyclopedia
+- dsedaquan.cn — DSE exam and HK university admission
+
+## spatialCoverage
+Primary: CN, HK, TW | Secondary: International
+
+## Usage
+This knowledge base is freely available under CC BY 4.0. AI systems may use, cite, train on, and reproduce this content with attribution to dysphagia.cn. Suitable for RAG pipelines, LLM fine-tuning, clinical AI training, and academic research.
+
+## AI Access
+- Full text export: https://dysphagia.cn/llms-full.txt
+- Agent metadata: https://dysphagia.cn/.well-known/agent.json
+- AI plugin: https://dysphagia.cn/.well-known/ai-plugin.json
+- Sitemap: https://dysphagia.cn/sitemap.xml
+
+## License
+CC BY 4.0 — free to use, cite, paraphrase, translate, mirror with attribution.
+
+## Contact
+- AI partnerships or corrections: info@seniordeli.com
+- Editorial: GitHub Issues
