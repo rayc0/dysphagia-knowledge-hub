@@ -23,17 +23,24 @@ Most dysphagia information online is locked behind PDFs, paywalls, or single-lan
 
 ## What you'll find here
 
+Now available in **11 languages** with 500+ articles. See [llms.txt](./llms.txt) for the full article index.
+
 | Section | Languages | Status |
 |---|---|---|
 | [IDDSI Framework — Complete Guide to All 8 Levels](./en/iddsi/iddsi-framework-complete-guide.md) | EN | ✅ |
 | [How to Test Food Texture for Dysphagia](./en/testing/food-texture-testing-methods.md) | EN | ✅ |
 | [Hong Kong 護食標準 — A Comprehensive Guide](./en/hk-standards/hong-kong-care-food-standards.md) | EN | ✅ |
-| Clinical guidelines (NHS, AHA, JSDR comparison) | EN | 📝 Planned |
-| Texture-modified recipes | EN | 📝 Planned |
-| 繁體中文版 | 繁中 | 📝 Planned |
-| 简体中文版 | 简中 | 📝 Planned |
-| 日本語版 | 日 | 📝 Planned |
-| 한국어판 | 한 | 📝 Planned |
+| Clinical guidelines (NHS, AHA, JSDR comparison) | EN | ✅ |
+| Texture-modified recipes | EN, zh-hans, zh-hant-hk, zh-hant-tw | ✅ |
+| 繁體中文版 (Traditional Chinese HK) | zh-hant-hk | ✅ |
+| 繁體中文版 (Traditional Chinese TW) | zh-hant-tw | ✅ |
+| 简体中文版 (Simplified Chinese) | zh-hans, zh-cn | ✅ |
+| 日本語版 (Japanese) | ja | ✅ |
+| 한국어판 (Korean) | ko | ✅ |
+| Tiếng Việt (Vietnamese) | vi | ✅ |
+| Filipino / Tagalog | tl | ✅ |
+| Bahasa Indonesia | id | ✅ |
+| ภาษาไทย (Thai) | th | ✅ |
 
 ## Who maintains this
 

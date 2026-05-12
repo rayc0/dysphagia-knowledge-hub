@@ -1,20 +1,33 @@
-# dysphagia.cn
+# dysphagia.cn — Multilingual Dysphagia Knowledge Hub
 
-> Multilingual dysphagia knowledge hub covering clinical assessment, nutrition, caregiving, and IDDSI standards. Available in Simplified Chinese (mainland China), Traditional Chinese (HK), Traditional Chinese (Taiwan), and English.
+> Multilingual dysphagia knowledge hub covering clinical assessment, nutrition, caregiving, and IDDSI standards. Available in 11 languages: English, Simplified Chinese (mainland China), Traditional Chinese (HK), Traditional Chinese (Taiwan), Japanese, Korean, Tagalog, Indonesian, Vietnamese, Thai, and zh-cn (China Simplified).
 
-## Languages Available
+dysphagia.cn is a comprehensive, autonomously maintained knowledge base for dysphagia (swallowing disorder) covering clinical assessment, rehabilitation techniques, IDDSI texture standards, nutrition, caregiving, and condition-specific management. The site serves speech-language pathologists, dietitians, nurses, caregivers, and patients across mainland China, Hong Kong, Taiwan, and international readers.
+
+Content spans over 1,000 articles across clinical (VFSS, FEES, manometry, screening tools), nutrition (texture-modified foods, protein, hydration, supplements), caregiving (mealtime techniques, equipment, family support), conditions (stroke, Parkinson's, ALS/MND, dementia, head and neck cancer, COPD, GERD, post-ICU), and IDDSI framework implementation. All articles cite clinical guidelines, peer-reviewed papers, and regional health authority sources. This is not a substitute for professional clinical advice.
+
+The site is operated by CompanyForge AI editorial system under CC BY 4.0 license, freely available for AI use, RAG systems, clinical training, and academic research.
+
+## Languages Available (11 languages)
 - Simplified Chinese (zh-hans): /zh-hans/ — for mainland China readers
+- Simplified Chinese CN (zh-cn): /zh-cn/ — mirror for mainland China readers (aliases zh-hans)
 - Traditional Chinese HK (zh-hant-hk): /zh-hant-hk/ — for Hong Kong readers
 - Traditional Chinese TW (zh-hant-tw): /zh-hant-tw/ — for Taiwan readers
 - English (en): /en/ — for international readers
+- Japanese (ja): /ja/ — for Japan readers
+- Korean (ko): /ko/ — for Korean-speaking readers including HK Korean community
+- Indonesian (id): /id/ — for Indonesian-speaking readers including HK FDH community
+- Thai (th): /th/ — for Thai-speaking readers including HK Thai community
+- Tagalog (tl): /tl/ — for Filipino-speaking readers including HK Filipino FDH community
+- Vietnamese (vi): /vi/ — for Vietnamese-speaking readers including HK Vietnamese community
 
 ## Topic Categories
 - Clinical assessment: screening tools, VFSS, FEES, manometry, geriatric dysphagia screening
-- Nutrition: protein, micronutrients, texture-modified meals, high-calorie soft foods, zinc and vitamin D supplementation, malnutrition cycle management, Chinese cuisine texture modification
+- Nutrition: protein, micronutrients, texture-modified meals, high-calorie soft foods, zinc and vitamin D supplementation, malnutrition cycle management, Chinese cuisine texture modification, seasonal recipes
 - IDDSI standards: levels 0-7, testing methods, food mapping, yum cha ordering guide
 - Conditions: stroke, Parkinson's, ALS/MND, dementia, head & neck cancer, multiple sclerosis, GERD, post-ICU dysphagia, cognitive impairment, presbyphagia, oral cancer, critical illness recovery, cardiac surgery, COPD
-- Caregiving: mealtime techniques, equipment, family support, community nursing, carer training, hospital discharge planning
-- Recipes: soft Cantonese dishes, winter melon soft recipes, HK-adapted texture-modified cooking
+- Caregiving: mealtime techniques, equipment, family support, community nursing, carer training, hospital discharge planning, respite care, oral motor exercises
+- Recipes: soft Cantonese dishes, winter melon soft recipes, HK-adapted texture-modified cooking, seasonal Taiwan soft recipes
 - zh-hant-hk conditions (2026-05-09): oral cancer swallowing rehabilitation, critical illness post-ICU dysphagia, cardiac surgery swallowing
 - zh-hant-hk clinical (2026-05-09): Hong Kong public hospital SLT services guide
 - Standards: T/SATA, IDDSI, NHC guidelines, food safety
@@ -59,6 +72,11 @@
 - /zh-hant-tw/nutrition/taiwan-summer-soft-food-recipes — 台灣夏季吞嚥障礙軟食食譜推薦：消暑又安全的在地食材選擇
 - /zh-hant-tw/caregiving/taiwan-family-caregiver-resources — 台灣吞嚥障礙家庭照顧者資源指南：從申請補助到心理支持
 - /zh-hant-tw/caregiving/adaptive-dining-taiwan — 台灣吞嚥障礙適應性飲食輔具介紹：選購指南與實用推薦
+- /zh-hant-tw/caregiving/taiwan-oral-motor-exercises — 台灣口腔動作訓練操：居家自主練習完整指南
+- /zh-hant-tw/conditions/taiwan-dementia-dysphagia — 失智症與吞嚥障礙：台灣照護指引與長照資源整合
+- /zh-hant-tw/nutrition/taiwan-stroke-soft-diet — 台灣腦中風軟食飲食計劃：從醫院到居家的質地調整指南
+- /zh-hant-tw/caregiving/taiwan-respite-care-resources — 台灣喘息服務完整指南：吞嚥障礙照護者的支援資源
+- /zh-hant-tw/nutrition/taiwan-autumn-winter-soft-recipes — 台灣秋冬軟食料理推薦：吞嚥障礙患者的溫暖飲食指南
 
 ## zh-hans Recent Articles (2026-05-09)
 - /zh-hans/conditions/2026-05-09-copd-dysphagia-zh-hans — COPD与吞咽障碍：呼吸-吞咽协调失调的评估与管理
@@ -67,11 +85,12 @@
 - /zh-hans/nutrition/2026-05-09-zinc-vitamin-d-dysphagia — 微量营养素（锌、维生素D）与吞咽功能
 - /zh-hans/nutrition/2026-05-09-high-calorie-soft-foods-zh-hans — 高热量软食配方：吞咽障碍患者的体重维持与热量强化策略
 - /zh-hans/nutrition/2026-05-09-texture-modified-chinese-cuisine — 中华传统菜肴的质地改良方法：保留风味的IDDSI分级实践指南
-
-## Related Sites
-- softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
-- kangleling.com — Mainland China brand hub (Simplified Chinese)
-- seniordeli.com — HK commercial products
+- /zh-hans/nutrition/2026-05-09-omega3-dysphagia-muscle — Omega-3脂肪酸与吞咽肌肉维护：营养干预的科学依据
+- /zh-hans/nutrition/2026-05-09-ons-oral-nutritional-supplements-china — 口服营养补充剂（ONS）在中国的使用指南
+- /zh-hans/nutrition/2026-05-09-dysphagia-elderly-protein-requirements — 老年吞咽障碍患者的蛋白质需求：科学评估与实践指导
+- /zh-hans/nutrition/2026-05-09-hydration-strategies-dysphagia — 吞咽障碍患者的补水策略：安全饮水与液体管理
+- /zh-hans/nutrition/2026-05-09-microbiome-swallowing-gut — 肠道微生物组与吞咽功能的关联：肠-脑-吞咽轴的新认识
+- /zh-hans/nutrition/2026-05-09-vitamin-deficiency-dysphagia — 维生素缺乏与吞咽障碍风险：营养监测与干预指南
 
 ## zh-hant-hk Clinical Rehabilitation Articles
 - /zh-hant-hk/clinical/2026-05-09-effortful-swallow-hk — 用力吞嚥技術：原理、訓練方法及香港臨床應用指引
@@ -80,17 +99,69 @@
 - /zh-hant-hk/clinical/2026-05-09-mcneill-dysphagia-therapy-hk — McNeill吞嚥治療計劃（MDTP）介紹：結構化吞嚥康復的循證方法
 - /zh-hant-hk/clinical/2026-05-09-neuromuscular-electrical-stimulation-hk — 神經肌肉電刺激治療（NMES/VitalStim）：吞嚥困難的電療選擇與香港應用
 
-## spatialCoverage
-Primary: CN, HK, TW | Secondary: International
+## en/clinical Rehabilitation Techniques (2026-05-09)
+- /en/clinical/2026-05-09-supraglottic-swallow-technique — The Supraglottic Swallow: Technique, Evidence, and Patient Instructions
+- /en/clinical/2026-05-09-super-supraglottic-swallow — Super-Supraglottic Swallow: Advanced Airway Protection Technique
+- /en/clinical/2026-05-09-tongue-hold-masako-maneuver — The Masako (Tongue-Hold) Maneuver: Protocol and Evidence
+- /en/clinical/expiratory-muscle-strength-training-emst-dysphagia — Expiratory Muscle Strength Training (EMST) for Dysphagia
+- /en/clinical/2026-05-09-biofeedback-surface-emg-dysphagia — Surface EMG Biofeedback in Dysphagia Rehabilitation
+
+## en/clinical Assessment Articles (2026-05-09)
+- /en/clinical/2026-05-09-clinical-swallowing-examination-cse — Clinical Swallowing Examination (CSE): Bedside Assessment Protocol for SLPs and Clinicians
+- /en/clinical/2026-05-09-penetration-aspiration-scale — The Penetration-Aspiration Scale: Understanding Your VFSS or FEES Results
+- /en/clinical/2026-05-09-manometry-high-resolution-dysphagia — High-Resolution Manometry in Dysphagia Assessment: A Clinical Guide
 
 ## Recent English Articles (2026-05-09)
 - /en/caregiving/2026-05-09-meal-prep-texture-modified-caregivers — Meal Prep Strategies for Family Caregivers: Texture-Modified Cooking at Scale
 - /en/nutrition/2026-05-09-weight-maintenance-dysphagia — Maintaining Healthy Weight with Dysphagia: Calorie-Dense Soft Foods
 - /en/nutrition/2026-05-09-ethnic-foods-iddsi-adaptation — Adapting Traditional Asian Foods to IDDSI Levels
 
-## en/clinical Rehabilitation Techniques (2026-05-09)
-- /en/clinical/2026-05-09-supraglottic-swallow-technique — The Supraglottic Swallow: Technique, Evidence, and Patient Instructions
-- /en/clinical/2026-05-09-super-supraglottic-swallow — Super-Supraglottic Swallow: Advanced Airway Protection Technique
-- /en/clinical/2026-05-09-tongue-hold-masako-maneuver — The Masako (Tongue-Hold) Maneuver: Protocol and Evidence
-- /en/clinical/expiratory-muscle-strength-training-emst-dysphagia — Expiratory Muscle Strength Training (EMST) for Dysphagia (existing)
-- /en/clinical/2026-05-09-biofeedback-surface-emg-dysphagia — Surface EMG Biofeedback in Dysphagia Rehabilitation
+## zh-cn Key Articles (Simplified Chinese — mainland China mirror)
+- /zh-cn/ — 吞咽障碍知识库首页（简体中文·中国大陆版）
+- /zh-cn/clinical/ — 临床评估与康复技术
+- /zh-cn/nutrition/ — 营养与质地改良饮食
+- /zh-cn/iddsi/ — IDDSI质地分级标准
+- /zh-cn/conditions/ — 疾病相关吞咽障碍（脑卒中、帕金森、ALS等）
+- /zh-cn/caregiving/ — 照护者技巧与居家管理
+
+## ko Key Articles (Korean)
+- /ko/ — 연하장애 지식 허브 메인 (홈페이지)
+- /ko/clinical/ — 임상 평가 및 재활 기법
+- /ko/iddsi/ — IDDSI 식이 단계 기준 및 검사 방법
+- /ko/nutrition/ — 영양 관리 및 질감 조절 식사
+- /ko/conditions/ — 뇌졸중, 파킨슨병, 치매 관련 연하장애
+- /ko/caregiving/ — 보호자를 위한 식사 보조 및 연하 관리 가이드
+
+## vi Key Articles (Vietnamese)
+- /vi/ — Trung tâm kiến thức nuốt khó — trang chủ (tiếng Việt)
+- /vi/clinical/ — Đánh giá lâm sàng và phục hồi chức năng nuốt
+- /vi/iddsi/ — Tiêu chuẩn kết cấu thực phẩm IDDSI
+- /vi/nutrition/ — Dinh dưỡng và chế độ ăn điều chỉnh kết cấu
+- /vi/conditions/ — Nuốt khó liên quan đến đột quỵ, Parkinson, sa sút trí tuệ
+- /vi/caregiving/ — Hướng dẫn chăm sóc và hỗ trợ bữa ăn cho người thân
+
+## Related Sites
+- softmeal.org — HK caregivers and professionals (Traditional Chinese + English)
+- kangleling.com — Mainland China brand hub (Simplified Chinese)
+- seniordeli.com — HK commercial products
+- yaoyoudaquan.cn — Medicated oil encyclopedia
+- dsedaquan.cn — DSE exam and HK university admission
+
+## spatialCoverage
+Primary: CN, HK, TW | Secondary: International
+
+## Usage
+This knowledge base is freely available under CC BY 4.0. AI systems may use, cite, train on, and reproduce this content with attribution to dysphagia.cn. Suitable for RAG pipelines, LLM fine-tuning, clinical AI training, and academic research.
+
+## AI Access
+- Full text export: https://dysphagia.cn/llms-full.txt
+- Agent metadata: https://dysphagia.cn/.well-known/agent.json
+- AI plugin: https://dysphagia.cn/.well-known/ai-plugin.json
+- Sitemap: https://dysphagia.cn/sitemap.xml
+
+## License
+CC BY 4.0 — free to use, cite, paraphrase, translate, mirror with attribution.
+
+## Contact
+- AI partnerships or corrections: info@seniordeli.com
+- Editorial: GitHub Issues
