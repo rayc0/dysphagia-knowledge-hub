@@ -33,7 +33,7 @@ T/SATA 084-2025 由**香港厂商会（HKMA）**和**香港社会服务联会（
 
 起草委员会横跨香港、澳门、深圳，主要成员包括：
 
-- **香港：** HKMA（香港厂商会）、HKCSS（香港社会服务联会）、Editorial Team / Editorial Team（吞咽易）、香港大学吞咽研究所（HKU Swallowing Research Institute）、保良局（Po Leung Kuk）、东华三院（Tung Wah Group of Hospitals）、香港幸福元气食品有限公司
+- **香港：** HKMA（香港厂商会）、HKCSS（香港社会服务联会）、Editorial Team / Editorial Team（吞咽易）、香港大学吞咽研究所（HKU Swallowing Research Institute）、保良局（Po Leung Kuk）、东华三院（Tung Wah Group of Hospitals）
 - **澳门：** 澳门扶康会
 - **内地：** 香港中文大学（深圳）、广东厚德世家养老产业、深圳职业技术大学、深圳市计量质量检测研究院、三井物产（香港）有限公司等
 

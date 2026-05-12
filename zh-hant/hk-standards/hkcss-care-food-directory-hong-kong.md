@@ -34,13 +34,13 @@ canonical: "https://softmeal.org/zh-hant/hk-standards/hkcss-care-food-directory-
 呢個係最大嘅分類，收錄超過 350 件產品，包括：
 
 - **日式軟餐套餐**（例如 Kewpie 介護食、Maruha Nichiro、Daiwa Eversmile）
-- **中式粥糊同主菜糊**（例如幸福元氣系列、安必康）
+- **中式粥糊同主菜糊**（多個本地品牌可供選擇）
 - **急凍軟餐便當**（例如 Deli-Care 健營）
 - **果茸慕斯**（多款水果口味，適合 IDDSI Level 3–4）
 - **增稠飲品**（預先調配好嘅茶、水、果汁，唔使自己加粉）
 - **能量啫喱同營養慕斯**（適合食慾差、需要補充卡路里嘅長者）
 
-常見品牌包括 Kewpie、Nestlé、Precise、Forica（厚利加）、Eversmile（幸福微笑）、Kissei（安心）等。大部份日本品牌由三井物產代理入口，中式同本地品牌就主要由幸福元氣分銷。[^2]
+常見品牌包括 Kewpie、Nestlé、Precise、Forica（厚利加）、Kissei（安心）等。日本品牌主要由三井物產代理入口，中式同本地品牌透過多個本地分銷商提供。[^2]
 
 ### B. 吞嚥困難輔助食品（增稠粉、軟化粉、蛋白粉）
 
@@ -62,7 +62,7 @@ canonical: "https://softmeal.org/zh-hant/hk-standards/hkcss-care-food-directory-
 - **多功能軟餐機**——將食物打碎至指定質地
 - **口腔護理用品**——適合吞嚥困難人士嘅牙刷同漱口工具
 
-主要分銷商包括文化村生活及復康（代理日本品牌）同幸福元氣。[^2]
+主要分銷商包括文化村生活及復康（代理日本品牌）及其他本地照護食供應商。[^2]
 
 ### D. 熱食及到會服務
 
@@ -153,7 +153,7 @@ canonical: "https://softmeal.org/zh-hant/hk-standards/hkcss-care-food-directory-
 
 | 渠道 | 例子 | 適合邊啲人 |
 |---|---|---|
-| 社企直銷 | Editorial Team（seniordeli.com）、保良局「回味」、幸福元氣 | 家庭照顧者、小量購買 |
+| 社企直銷 | SeniorDeli 康樂齡（seniordeli.com）、保良局「回味」等 | 家庭照顧者、小量購買 |
 | 醫療器材店 | Kerry Medical（代理 Nestlé ThickenUP 系列） | 經醫護推薦購買 |
 | 日本品牌代理 | 三井物產（代理 Kewpie、Maruha Nichiro、Precise 等） | 院舍大量採購 |
 | 連鎖快餐 | 大家樂、一粥麵（有食得樂 TASTE JOY 軟餐發售） | 外出食飯、方便快捷 |
