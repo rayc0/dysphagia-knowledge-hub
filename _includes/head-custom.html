@@ -2,6 +2,8 @@
 #lang-bar{position:sticky;top:0;z-index:9999;background:#1a1a2e;padding:7px 16px;text-align:right;font-size:13px;line-height:1.6;box-shadow:0 1px 4px rgba(0,0,0,.4)}
 #lang-bar a{color:#a8d8ea;text-decoration:none;margin:0 4px;padding:2px 7px;border-radius:3px}
 #lang-bar a:hover{background:#16213e;color:#fff}
+/* Accessibility: ensure links in text blocks are underlined for non-color cues */
+.markdown-body p a,.markdown-body li a,.markdown-body blockquote a{text-decoration:underline}
 </style>
 <script>
 document.addEventListener('DOMContentLoaded',function(){

@@ -36,6 +36,8 @@ canonical: "https://dysphagia.cn/zh-cn/"
 
 ---
 
+## 知识分类
+
 ### IDDSI 国际吞咽障碍饮食标准
 
 - [IDDSI国际吞咽障碍饮食标准化倡议完全指南：0-7级详解](/zh-cn/iddsi/iddsi-完全指南-简体中文/)
