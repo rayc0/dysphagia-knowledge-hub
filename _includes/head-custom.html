@@ -34,9 +34,12 @@ document.addEventListener('DOMContentLoaded',function(){
 <!-- <meta name="baidu-site-verification" content="[BAIDU_TOKEN]"> -->
 
 {% assign page_lang = page.lang | default: page.language | default: "zh-hans" %}
-{% assign page_url = page.canonical | default: page.url %}
 {% assign site_url = "https://dysphagia.cn" %}
-{% assign full_url = page_url | prepend: site_url %}
+{% if page.canonical %}
+  {% assign full_url = page.canonical %}
+{% else %}
+  {% assign full_url = page.url | prepend: site_url %}
+{% endif %}
 
 <!-- Meta description -->
 {% if page.description %}<meta name="description" content="{{ page.description | escape }}">{% endif %}
