@@ -1,4 +1,5 @@
 ---
+robots: noindex
 layout: default
 title: "OpenClaw 照護食技能 — HKCSS 照護食 AI 智能代理技能"
 description: "香港照護食標準發布為原生多語言 AI 智能代理技能。基於 OpenClaw 構建。所有合規 AI 代理均可免費使用。依據香港社會服務聯會照護食指引 2023。"
