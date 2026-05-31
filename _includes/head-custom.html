@@ -7,7 +7,7 @@
 document.addEventListener('DOMContentLoaded',function(){
   var bar=document.createElement('div');
   bar.id='lang-bar';
-  bar.innerHTML='<a href="/zh-hans/">简体中文</a> <span style='color:#666'>|</span> <a href="/zh-hant/">繁體中文</a> <span style='color:#666'>|</span> <a href="/zh-hant-hk/">繁體中文(港)</a> <span style='color:#666'>|</span> <a href="/en/">English</a>';
+  bar.innerHTML='<a href="/zh-hans/">简体中文</a> <span style="color:#666">|</span> <a href="/zh-hant/">繁體中文</a> <span style="color:#666">|</span> <a href="/zh-hant-hk/">繁體中文(港)</a> <span style="color:#666">|</span> <a href="/en/">English</a>';
   document.body.insertBefore(bar,document.body.firstChild);
   // auto-redirect on first visit
   if(sessionStorage.getItem('lang-redirected')) return;
@@ -27,6 +27,8 @@ document.addEventListener('DOMContentLoaded',function(){
 </script>
 
 {% comment %}=== Meta, OG, Schema injected by AI-native update 2026-05-09 ==={% endcomment %}
+
+{% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
 
 <!-- Google Search Console verification — uncomment and replace [GOOGLE_VERIFICATION_TOKEN] with token from GSC -->
 <!-- <meta name="google-site-verification" content="[GOOGLE_VERIFICATION_TOKEN]"> -->
@@ -62,8 +64,15 @@ document.addEventListener('DOMContentLoaded',function(){
 <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
 <meta name="twitter:image" content="{{ site_url }}/assets/img/og-default.png">
 
-<!-- hreflang -->
-<link rel="alternate" hreflang="{{ page_lang }}" href="{{ full_url }}">
+<!-- hreflang: all locale variants cross-linked (required for Google to honour hreflang) -->
+{% assign hreflang_locales = "zh-hans:zh-Hans,zh-hant:zh-Hant,zh-hant-hk:zh-Hant-HK,zh-hant-tw:zh-Hant-TW,zh-cn:zh-CN,en:en,ja:ja,ko:ko,ms:ms,id:id,fil:fil,th:th,tl:tl,vi:vi" | split: "," %}
+{% for locale_pair in hreflang_locales %}
+  {% assign locale_parts = locale_pair | split: ":" %}
+  {% assign loc_dir = locale_parts[0] %}
+  {% assign loc_code = locale_parts[1] %}
+  {% assign loc_path = page.url | replace: page_lang, loc_dir %}
+  <link rel="alternate" hreflang="{{ loc_code }}" href="{{ site_url }}{{ loc_path }}">
+{% endfor %}
 <link rel="alternate" hreflang="x-default" href="{{ site_url }}/zh-hans/">
 
 <!-- Schema: Article -->

@@ -4,6 +4,7 @@ title: "OpenClaw 照护食技能集 — 符合 HKCSS 标准的多语言 AI Agent
 description: "香港照护食标准发布为原生多语言 AI Agent 技能。基于 OpenClaw 构建。所有合规 AI Agent 均可免费调用。依据 HKCSS 照护食指引 2023。"
 lang: zh-hans
 canonical: "https://dysphagia.cn/zh-hans/openclaw/"
+robots: noindex
 ---
 
 <script type="application/ld+json">
