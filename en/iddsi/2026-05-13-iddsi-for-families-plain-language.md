@@ -15,6 +15,15 @@ tags:
   - Hong Kong
   - caregiving
   - meal preparation
+faq:
+  - q: "What is IDDSI and why does it exist?"
+    a: "IDDSI stands for the International Dysphagia Diet Standardisation Initiative. It is a system created by healthcare experts from around the world to ensure that when a doctor or therapist prescribes a specific food texture or drink thickness, everyone — hospital kitchen, home carer, care home cook, family member — prepares exactly the same thing. IDDSI gives every food texture and drink thickness a number from 0 to 7, with clear physical tests to confirm correct preparation."
+  - q: "What do the IDDSI level numbers mean?"
+    a: "IDDSI uses 8 levels (0–7). For drinks: Level 0 is thin (normal water, tea); Level 1 slightly thick; Level 2 mildly thick; Level 3 moderately thick; Level 4 extremely thick (pudding-like). For foods: Level 3 is liquidised (completely smooth); Level 4 pureed (holds a soft mound); Level 5 minced and moist (small soft pieces up to 4 mm); Level 6 soft and bite-sized (squashable pieces up to 1.5 cm); Level 7 regular or easy-to-chew."
+  - q: "Do thickened drinks need to be used at every meal?"
+    a: "Yes. If a speech therapist has prescribed thickened drinks, both parts of the prescription — food texture level and drink thickness level — apply at every meal and every time your family member drinks, including water, tea, soup broth, and medicine dissolved in water. Not just when they seem to be struggling."
+  - q: "When should I call the speech therapist about my family member's swallowing?"
+    a: "Contact the speech therapy outpatient clinic if your family member has had three or more coughing episodes during meals in the past week, has lost significant weight in the past month, has refused to eat for more than two consecutive days, has a new chest infection or possible aspiration pneumonia, or if their condition has changed (new stroke, worsening Parkinson's symptoms, new weakness). Do not wait until the next scheduled appointment if you are concerned."
 ---
 
 # IDDSI Explained for Families: A Plain-Language Guide to Modified Diet Levels
