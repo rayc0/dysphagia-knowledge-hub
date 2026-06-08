@@ -71,7 +71,16 @@ document.addEventListener('DOMContentLoaded',function(){
   {% assign locale_parts = locale_pair | split: ":" %}
   {% assign loc_dir = locale_parts[0] %}
   {% assign loc_code = locale_parts[1] %}
-  {% assign loc_path = page.url | replace: actual_loc_dir, loc_dir %}
+  {% comment %}
+    Rebuild the path by replacing ONLY the first path segment (the locale dir).
+    url_parts = ["", "en", "clinical", "aspiration-management.html"]
+    We skip index 0 (empty string before leading slash) and index 1 (old locale),
+    then rejoin indices 2..N with "/" to get the rest of the path.
+    Result: /{{ loc_dir }}/{{ rest_of_path }}
+  {% endcomment %}
+  {% assign url_tail_parts = url_parts | shift | shift %}
+  {% assign url_tail = url_tail_parts | join: "/" %}
+  {% assign loc_path = "/" | append: loc_dir | append: "/" | append: url_tail %}
   <link rel="alternate" hreflang="{{ loc_code }}" href="{{ site_url }}{{ loc_path }}">
 {% endfor %}
 <link rel="alternate" hreflang="x-default" href="{{ site_url }}/zh-hans/">
