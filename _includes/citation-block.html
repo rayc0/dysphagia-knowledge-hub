@@ -8,7 +8,13 @@
 
 {% if page.title %}
 {% assign site_url_cb = "https://dysphagia.cn" %}
-{% assign cb_url = page.canonical | default: page.url | prepend: site_url_cb %}
+{% if page.canonical contains "://" %}
+  {% assign cb_url = page.canonical %}
+{% elsif page.canonical %}
+  {% assign cb_url = page.canonical | prepend: site_url_cb %}
+{% else %}
+  {% assign cb_url = page.url | prepend: site_url_cb %}
+{% endif %}
 {% assign cb_year = page.last_updated | default: page.date | date: "%Y" %}
 {% assign cb_date_full = page.last_updated | default: page.date | date: "%Y-%m-%d" %}
 {% assign cb_author = page.author | default: "dysphagia.cn Editorial Team" %}
