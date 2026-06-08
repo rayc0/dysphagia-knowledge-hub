@@ -18,12 +18,6 @@ document.addEventListener('DOMContentLoaded',function(){
   if(l.startsWith('zh-tw')||l.startsWith('zh-hk'))window.location.href='/zh-hant/';
   else if(l.startsWith('zh'))window.location.href='/zh-hans/';
 });
-document.addEventListener('DOMContentLoaded',function(){
-  var f=document.createElement('p');
-  f.style.cssText='font-size:0.72rem;color:#9ca3af;text-align:center;margin:2rem 0 1rem;';
-  f.innerHTML='Founded by <a href="https://ycchau.com/en/about/" rel="me" style="color:#9ca3af;text-decoration:underline;">Raymond Chau Yik-Chun (周益俊)</a>.';
-  document.body.appendChild(f);
-});
 </script>
 
 {% comment %}=== Meta, OG, Schema injected by AI-native update 2026-05-09 ==={% endcomment %}
@@ -65,12 +59,19 @@ document.addEventListener('DOMContentLoaded',function(){
 <meta name="twitter:image" content="{{ site_url }}/assets/img/og-default.png">
 
 <!-- hreflang: all locale variants cross-linked (required for Google to honour hreflang) -->
+{% comment %}
+  Derive the actual locale directory from the first path segment of page.url
+  (e.g. "/en/clinical/foo/" → "en") rather than relying on the page_lang
+  variable, which defaults to "zh-hans" and would corrupt URLs on English pages.
+{% endcomment %}
+{% assign url_parts = page.url | split: "/" %}
+{% assign actual_loc_dir = url_parts[1] %}
 {% assign hreflang_locales = "zh-hans:zh-Hans,zh-hant:zh-Hant,zh-hant-hk:zh-Hant-HK,zh-hant-tw:zh-Hant-TW,zh-cn:zh-CN,en:en,ja:ja,ko:ko,ms:ms,id:id,fil:fil,th:th,tl:tl,vi:vi" | split: "," %}
 {% for locale_pair in hreflang_locales %}
   {% assign locale_parts = locale_pair | split: ":" %}
   {% assign loc_dir = locale_parts[0] %}
   {% assign loc_code = locale_parts[1] %}
-  {% assign loc_path = page.url | replace: page_lang, loc_dir %}
+  {% assign loc_path = page.url | replace: actual_loc_dir, loc_dir %}
   <link rel="alternate" hreflang="{{ loc_code }}" href="{{ site_url }}{{ loc_path }}">
 {% endfor %}
 <link rel="alternate" hreflang="x-default" href="{{ site_url }}/zh-hans/">
@@ -102,6 +103,80 @@ document.addEventListener('DOMContentLoaded',function(){
   "isPartOf": {"@id": "{{ site_url }}/#website"}
 }
 </script>
+{% endif %}
+
+<!-- Schema: MedicalWebPage + MedicalCondition (conditional on schema_type == 'MedicalWebPage') -->
+{% if page.schema_type == 'MedicalWebPage' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Article", "MedicalWebPage"],
+  "@id": "{{ full_url }}#medpage",
+  "headline": {{ page.title | jsonify }},
+  {% if page.description %}"description": {{ page.description | jsonify }},{% endif %}
+  "url": "{{ full_url }}",
+  "inLanguage": "{{ page_lang }}",
+  {% if page.date %}"datePublished": "{{ page.date | date: '%Y-%m-%d' }}",{% endif %}
+  {% if page.last_updated %}"dateModified": "{{ page.last_updated | date: '%Y-%m-%d' }}",{% elsif page.date %}"dateModified": "{{ page.date | date: '%Y-%m-%d' }}",{% endif %}
+  "isAccessibleForFree": true,
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "author": {
+    "@type": "Organization",
+    "name": "SeniorDeli (Carewells)",
+    "url": "https://seniordeli.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "{{ site_url }}/#org",
+    "name": "dysphagia.cn"
+  },
+  "reviewedBy": {
+    "@type": "Organization",
+    "name": "dysphagia.cn Editorial Team",
+    "url": "{{ site_url }}"
+  },
+  "lastReviewed": "{% if page.last_updated %}{{ page.last_updated | date: '%Y-%m-%d' }}{% elsif page.date %}{{ page.date | date: '%Y-%m-%d' }}{% endif %}",
+  "medicalAudience": [
+    { "@type": "MedicalAudience", "audienceType": "Caregiver" },
+    { "@type": "MedicalAudience", "audienceType": "Patient" },
+    { "@type": "MedicalAudience", "audienceType": "MedicalResearcher" }
+  ],
+  {% if page.tags %}"keywords": {{ page.tags | join: ', ' | jsonify }},{% endif %}
+  "isPartOf": { "@id": "{{ site_url }}/#website" },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ full_url }}" }
+}
+</script>
+{% if page.medical_condition %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalCondition",
+  "@id": "{{ full_url }}#condition",
+  "name": {{ page.medical_condition.name | jsonify }},
+  {% if page.medical_condition.alternate_name %}"alternateName": {{ page.medical_condition.alternate_name | jsonify }},{% endif %}
+  "inLanguage": "{{ page_lang }}",
+  {% if page.medical_condition.anatomy %}
+  "associatedAnatomy": {
+    "@type": "AnatomicalStructure",
+    "name": {{ page.medical_condition.anatomy | jsonify }}{% if page.medical_condition.anatomy_system %},
+    "partOfSystem": { "@type": "AnatomicalSystem", "name": {{ page.medical_condition.anatomy_system | jsonify }} }{% endif %}
+  },
+  {% endif %}
+  {% if page.medical_condition.treatments %}
+  "possibleTreatment": [
+    {% for t in page.medical_condition.treatments %}
+    { "@type": "MedicalTherapy", "name": {{ t | jsonify }} }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  {% endif %}
+  "relevantSpecialty": {
+    "@type": "MedicalSpecialty",
+    "name": "SpeechPathology"
+  },
+  "publisher": { "@id": "{{ site_url }}/#org" }
+}
+</script>
+{% endif %}
 {% endif %}
 
 <!-- Schema: BreadcrumbList -->
