@@ -211,9 +211,38 @@ document.addEventListener('DOMContentLoaded',function(){
   "@id": "{{ site_url }}/#org",
   "name": "dysphagia.cn",
   "url": "{{ site_url }}",
+  "description": "Multilingual clinical dysphagia knowledge hub covering IDDSI standards, assessment, nutrition, and caregiving across 14 languages.",
+  "founder": {
+    "@type": "Person",
+    "@id": "https://ycchau.com/#person",
+    "name": "Raymond Chau",
+    "alternateName": "周益俊"
+  },
   "sameAs": ["https://seniordeli.com","https://kangleling.com","https://softmeal.org"]
 }
 </script>
+
+<!-- Schema: FAQPage (conditional on page.faq being a non-empty list) -->
+{% if page.faq and page.faq.size > 0 %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item.a | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
 
 <!-- Schema: WebSite (every page) -->
 <script type="application/ld+json">
