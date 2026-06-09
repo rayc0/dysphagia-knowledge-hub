@@ -103,8 +103,10 @@ document.addEventListener('DOMContentLoaded',function(){
     Result: /{{ loc_dir }}/{{ rest_of_path }}
     If actual_loc_dir is blank (root page "/" → url_parts = ["",""]) the tail
     after two shifts is also blank, so loc_path correctly becomes /{{ loc_dir }}/.
+    NOTE: `shift` is not available in Liquid 4.0.4 (GitHub Pages). Use `slice: 2, 100`
+    which is supported since Liquid 4.0 and skips the leading empty segment + locale dir.
   {% endcomment %}
-  {% assign url_tail_parts = url_parts | shift | shift %}
+  {% assign url_tail_parts = url_parts | slice: 2, 100 %}
   {% assign url_tail = url_tail_parts | join: "/" %}
   {% if url_tail == "" %}
     {% assign loc_path = "/" | append: loc_dir | append: "/" %}
