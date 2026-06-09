@@ -5,16 +5,19 @@
 </style>
 <script>
 document.addEventListener('DOMContentLoaded',function(){
+  if(!document.body) return;
   var bar=document.createElement('div');
   bar.id='lang-bar';
   bar.innerHTML='<a href="/zh-hans/">简体中文</a> <span style="color:#666">|</span> <a href="/zh-hant/">繁體中文</a> <span style="color:#666">|</span> <a href="/zh-hant-hk/">繁體中文(港)</a> <span style="color:#666">|</span> <a href="/en/">English</a>';
   document.body.insertBefore(bar,document.body.firstChild);
-  // auto-redirect on first visit
-  if(sessionStorage.getItem('lang-redirected')) return;
-  sessionStorage.setItem('lang-redirected','1');
-  var l=(navigator.language||'').toLowerCase();
+  // auto-redirect on first visit (only from root)
   var p=window.location.pathname;
-  if(p!='/'&&p!='') return;
+  if(p!='/') return;
+  try{
+    if(sessionStorage.getItem('lang-redirected')) return;
+    sessionStorage.setItem('lang-redirected','1');
+  }catch(e){ return; }
+  var l=(navigator.language||'').toLowerCase();
   if(l.startsWith('zh-tw')||l.startsWith('zh-hk'))window.location.href='/zh-hant/';
   else if(l.startsWith('zh'))window.location.href='/zh-hans/';
 });
@@ -29,10 +32,25 @@ document.addEventListener('DOMContentLoaded',function(){
 <!-- Baidu webmaster verification — uncomment and replace [BAIDU_TOKEN] with token from ziyuan.baidu.com -->
 <!-- <meta name="baidu-site-verification" content="[BAIDU_TOKEN]"> -->
 
-{% assign page_lang = page.lang | default: page.language | default: "zh-hans" %}
+{% comment %}
+  page_lang: prefer explicit page.lang/language; fall back to the locale directory
+  extracted from the URL path so English/Japanese/etc pages get the right lang
+  instead of inheriting the "zh-hans" default.
+{% endcomment %}
+{% assign _url_seg1 = page.url | split: "/" %}
+{% assign _loc_from_url = _url_seg1[1] %}
+{% assign _lang_map = "zh-hans:zh-Hans,zh-hant:zh-Hant,zh-hant-hk:zh-Hant-HK,zh-hant-tw:zh-Hant-TW,zh-cn:zh-CN,en:en,ja:ja,ko:ko,ms:ms,id:id,fil:fil,th:th,tl:tl,vi:vi" | split: "," %}
+{% assign _resolved_lang = "" %}
+{% for _pair in _lang_map %}
+  {% assign _pv = _pair | split: ":" %}
+  {% if _pv[0] == _loc_from_url %}
+    {% assign _resolved_lang = _pv[1] %}
+  {% endif %}
+{% endfor %}
+{% assign page_lang = page.lang | default: page.language | default: _resolved_lang | default: "zh-Hans" %}
 {% assign site_url = "https://dysphagia.cn" %}
 {% if page.canonical %}
-  {% assign full_url = page.canonical %}
+  {% assign full_url = page.canonical | escape %}
 {% else %}
   {% assign full_url = page.url | prepend: site_url %}
 {% endif %}
@@ -41,7 +59,7 @@ document.addEventListener('DOMContentLoaded',function(){
 {% if page.description %}<meta name="description" content="{{ page.description | escape }}">{% endif %}
 
 <!-- Canonical -->
-{% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}">{% endif %}
+{% if page.canonical %}<link rel="canonical" href="{{ page.canonical | escape }}">{% endif %}
 
 <!-- OpenGraph -->
 <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
@@ -50,6 +68,11 @@ document.addEventListener('DOMContentLoaded',function(){
 <meta property="og:url" content="{{ full_url }}">
 <meta property="og:image" content="{{ site_url }}/assets/img/og-default.png">
 <meta property="og:site_name" content="dysphagia.cn">
+{% comment %}
+  og:locale must use underscore-separated BCP-47 in Facebook/OG format but with
+  correct capitalisation, e.g. zh_Hant_HK not zh_hant_hk. Build it from
+  page_lang (already correctly cased above) replacing hyphens with underscores.
+{% endcomment %}
 <meta property="og:locale" content="{{ page_lang | replace: '-', '_' }}">
 
 <!-- Twitter Card -->
@@ -62,7 +85,8 @@ document.addEventListener('DOMContentLoaded',function(){
 {% comment %}
   Derive the actual locale directory from the first path segment of page.url
   (e.g. "/en/clinical/foo/" → "en") rather than relying on the page_lang
-  variable, which defaults to "zh-hans" and would corrupt URLs on English pages.
+  variable, which defaults to "zh-Hans" and would corrupt URLs on English pages.
+  Guard: if actual_loc_dir is blank (root "/" page), emit each locale's own root.
 {% endcomment %}
 {% assign url_parts = page.url | split: "/" %}
 {% assign actual_loc_dir = url_parts[1] %}
@@ -77,10 +101,16 @@ document.addEventListener('DOMContentLoaded',function(){
     We skip index 0 (empty string before leading slash) and index 1 (old locale),
     then rejoin indices 2..N with "/" to get the rest of the path.
     Result: /{{ loc_dir }}/{{ rest_of_path }}
+    If actual_loc_dir is blank (root page "/" → url_parts = ["",""]) the tail
+    after two shifts is also blank, so loc_path correctly becomes /{{ loc_dir }}/.
   {% endcomment %}
   {% assign url_tail_parts = url_parts | shift | shift %}
   {% assign url_tail = url_tail_parts | join: "/" %}
-  {% assign loc_path = "/" | append: loc_dir | append: "/" | append: url_tail %}
+  {% if url_tail == "" %}
+    {% assign loc_path = "/" | append: loc_dir | append: "/" %}
+  {% else %}
+    {% assign loc_path = "/" | append: loc_dir | append: "/" | append: url_tail %}
+  {% endif %}
   <link rel="alternate" hreflang="{{ loc_code }}" href="{{ site_url }}{{ loc_path }}">
 {% endfor %}
 <link rel="alternate" hreflang="x-default" href="{{ site_url }}/zh-hans/">
@@ -144,7 +174,8 @@ document.addEventListener('DOMContentLoaded',function(){
     "name": "dysphagia.cn Editorial Team",
     "url": "{{ site_url }}"
   },
-  "lastReviewed": "{% if page.last_updated %}{{ page.last_updated | date: '%Y-%m-%d' }}{% elsif page.date %}{{ page.date | date: '%Y-%m-%d' }}{% endif %}",
+  {% comment %}Only emit lastReviewed when a date is actually available; an empty string is invalid Schema.{% endcomment %}
+  {% if page.last_updated or page.date %}"lastReviewed": "{% if page.last_updated %}{{ page.last_updated | date: '%Y-%m-%d' }}{% elsif page.date %}{{ page.date | date: '%Y-%m-%d' }}{% endif %}",{% endif %}
   "medicalAudience": [
     { "@type": "MedicalAudience", "audienceType": "Caregiver" },
     { "@type": "MedicalAudience", "audienceType": "Patient" },
@@ -189,14 +220,20 @@ document.addEventListener('DOMContentLoaded',function(){
 {% endif %}
 
 <!-- Schema: BreadcrumbList -->
+{% comment %}
+  Use actual_loc_dir (the real directory segment from the URL, e.g. "en", "zh-hans")
+  for the category breadcrumb href so it matches the actual path structure.
+  page_lang has different casing (e.g. "zh-Hans") and must not be used as a path.
+{% endcomment %}
 {% if page.category and page.title %}
+{% assign _bc_loc = actual_loc_dir | default: "zh-hans" %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
     {"@type": "ListItem", "position": 1, "name": "首页", "item": "{{ site_url }}/"},
-    {"@type": "ListItem", "position": 2, "name": "{{ page.category }}", "item": "{{ site_url }}/{{ page_lang }}/{{ page.category }}/"},
+    {"@type": "ListItem", "position": 2, "name": {{ page.category | jsonify }}, "item": "{{ site_url }}/{{ _bc_loc }}/{{ page.category }}/"},
     {"@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ full_url }}"}
   ]
 }

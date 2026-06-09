@@ -15,8 +15,12 @@
 {% else %}
   {% assign cb_url = page.url | prepend: site_url_cb %}
 {% endif %}
-{% assign cb_year = page.last_updated | default: page.date | date: "%Y" %}
-{% assign cb_date_full = page.last_updated | default: page.date | date: "%Y-%m-%d" %}
+{% assign _cb_raw_year = page.last_updated | default: page.date | date: "%Y" %}
+{% assign cb_year = _cb_raw_year | default: site.time | date: "%Y" %}
+{% if cb_year == "" %}{% assign cb_year = site.time | date: "%Y" %}{% endif %}
+{% assign _cb_raw_date = page.last_updated | default: page.date | date: "%Y-%m-%d" %}
+{% assign cb_date_full = _cb_raw_date | default: site.time | date: "%Y-%m-%d" %}
+{% if cb_date_full == "" %}{% assign cb_date_full = site.time | date: "%Y-%m-%d" %}{% endif %}
 {% assign cb_author = page.author | default: "dysphagia.cn Editorial Team" %}
 
 <aside class="citation-block" style="margin:2.5rem 0 1.5rem;padding:1rem 1.25rem;background:#f6f8fa;border-left:4px solid #0366d6;font-size:0.82rem;line-height:1.6;color:#24292e;">
@@ -24,23 +28,23 @@
 
   <details open>
     <summary style="cursor:pointer;font-weight:600;margin-bottom:0.4rem;">APA</summary>
-    <code style="display:block;white-space:pre-wrap;word-break:break-word;background:#fff;padding:0.5rem 0.75rem;border-radius:4px;margin-top:0.25rem;">{{ cb_author }} ({{ cb_year }}). {{ page.title }}. dysphagia.cn. Retrieved {{ site.time | date: "%Y-%m-%d" }}, from {{ cb_url }}</code>
+    <code style="display:block;white-space:pre-wrap;word-break:break-word;background:#fff;padding:0.5rem 0.75rem;border-radius:4px;margin-top:0.25rem;">{{ cb_author | escape }} ({{ cb_year }}). {{ page.title | escape }}. dysphagia.cn. Retrieved {{ site.time | date: "%Y-%m-%d" }}, from {{ cb_url | escape }}</code>
   </details>
 
   <details style="margin-top:0.6rem;">
     <summary style="cursor:pointer;font-weight:600;margin-bottom:0.4rem;">BibTeX</summary>
     <code style="display:block;white-space:pre;overflow-x:auto;background:#fff;padding:0.5rem 0.75rem;border-radius:4px;margin-top:0.25rem;">@misc{dysphagia{{ cb_year }},
-  author    = { {{- cb_author -}} },
-  title     = { {{- page.title -}} },
+  author    = { {{- cb_author | escape -}} },
+  title     = { {{- page.title | escape -}} },
   year      = { {{- cb_year -}} },
-  url       = { {{- cb_url -}} },
+  url       = { {{- cb_url | escape -}} },
   note      = {Accessed: {{ site.time | date: "%Y-%m-%d" }}}
 }</code>
   </details>
 
   <details style="margin-top:0.6rem;">
     <summary style="cursor:pointer;font-weight:600;margin-bottom:0.4rem;">Markdown</summary>
-    <code style="display:block;white-space:pre-wrap;word-break:break-word;background:#fff;padding:0.5rem 0.75rem;border-radius:4px;margin-top:0.25rem;">[{{ page.title }}]({{ cb_url }}) — {{ cb_author }}, {{ cb_year }}. dysphagia.cn. CC BY 4.0.</code>
+    <code style="display:block;white-space:pre-wrap;word-break:break-word;background:#fff;padding:0.5rem 0.75rem;border-radius:4px;margin-top:0.25rem;">[{{ page.title | escape }}]({{ cb_url | escape }}) — {{ cb_author | escape }}, {{ cb_year }}. dysphagia.cn. CC BY 4.0.</code>
   </details>
 </aside>
 {% endif %}
