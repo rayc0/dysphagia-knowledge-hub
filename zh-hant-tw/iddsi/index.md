@@ -3,7 +3,7 @@ layout: default
 title: "IDDSI 國際吞嚥障礙飲食標準化倡議 — 台灣繁體中文"
 description: "IDDSI台灣實施指南——台灣常見食物分級對照、醫院與長照機構推廣現況、滷肉飯到蚵仔麵線的質地分級，結合台灣本地飲食文化。"
 lang: zh-hant-tw
-canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/"
+canonical: "https://softmeal.org/zh-hant-tw/iddsi/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首頁", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "繁體中文（台灣）", "item": "https://dysphagia.cn/zh-hant-tw/"},
-    {"@type": "ListItem", "position": 3, "name": "IDDSI", "item": "https://dysphagia.cn/zh-hant-tw/iddsi/"}
+    {"@type": "ListItem", "position": 1, "name": "首頁", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "繁體中文（台灣）", "item": "https://softmeal.org/zh-hant-tw/"},
+    {"@type": "ListItem", "position": 3, "name": "IDDSI", "item": "https://softmeal.org/zh-hant-tw/iddsi/"}
   ]
 }
 </script>
@@ -24,12 +24,12 @@ canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/"
   "@type": "CollectionPage",
   "name": "IDDSI 國際吞嚥障礙飲食標準化倡議（台灣）",
   "description": "IDDSI台灣實施指南——台灣常見食物分級對照、醫院與長照機構推廣現況，結合台灣本地飲食文化。",
-  "url": "https://dysphagia.cn/zh-hant-tw/iddsi/",
+  "url": "https://softmeal.org/zh-hant-tw/iddsi/",
   "inLanguage": "zh-Hant-TW",
   "hasPart": [
-    {"@type": "Article", "name": "IDDSI在台灣的推廣現況：醫院、長照機構與臨床實踐", "url": "https://dysphagia.cn/zh-hant-tw/iddsi/2025-01-21-iddsi-taiwan-adoption/"},
-    {"@type": "Article", "name": "台灣常見食物IDDSI等級對照：從滷肉飯到蚵仔麵線的質地分級", "url": "https://dysphagia.cn/zh-hant-tw/iddsi/2025-01-22-taiwanese-food-iddsi-mapping/"},
-    {"@type": "Article", "name": "IDDSI在台灣醫院與長照機構的實施現況：從政策推廣到落地執行", "url": "https://dysphagia.cn/zh-hant-tw/iddsi/2026-05-09-iddsi-taiwan-implementation/"}
+    {"@type": "Article", "name": "IDDSI在台灣的推廣現況：醫院、長照機構與臨床實踐", "url": "https://softmeal.org/zh-hant-tw/iddsi/2025-01-21-iddsi-taiwan-adoption/"},
+    {"@type": "Article", "name": "台灣常見食物IDDSI等級對照：從滷肉飯到蚵仔麵線的質地分級", "url": "https://softmeal.org/zh-hant-tw/iddsi/2025-01-22-taiwanese-food-iddsi-mapping/"},
+    {"@type": "Article", "name": "IDDSI在台灣醫院與長照機構的實施現況：從政策推廣到落地執行", "url": "https://softmeal.org/zh-hant-tw/iddsi/2026-05-09-iddsi-taiwan-implementation/"}
   ]
 }
 </script>

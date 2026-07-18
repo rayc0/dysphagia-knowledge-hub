@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/nutrition/2026-05-09-thickener-powder-vs-gel.html"
+canonical: "https://softmeal.org/zh-hans/nutrition/2026-05-09-thickener-powder-vs-gel.html"
 ---
 
 # 增稠粉与增稠凝胶对比：为不同患者选择正确的增稠剂形态

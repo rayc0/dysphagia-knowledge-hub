@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-23"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/malnutrition-screening-hk"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/malnutrition-screening-hk"
 ---
 
 # 香港長者營養篩查：MNA-SF、MUST量表及院舍與居家實用指引

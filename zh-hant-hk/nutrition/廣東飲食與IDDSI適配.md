@@ -6,7 +6,7 @@ language: "zh-Hant-HK"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/廣東飲食與IDDSI適配"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/廣東飲食與IDDSI適配"
 ---
 
 # 廣東傳統飲食與IDDSI質地適配全指南

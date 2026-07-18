@@ -6,7 +6,7 @@ language: "fil"
 category: "conditions"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/fil/conditions/stroke-at-dysphagia"
+canonical: "https://softmeal.org/fil/conditions/stroke-at-dysphagia"
 ---
 
 # Stroke at Dysphagia — Ano ang Dapat Malaman ng Kasambahay

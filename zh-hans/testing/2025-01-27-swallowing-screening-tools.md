@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "testing"
 last_updated: "2025-01-27"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/testing/swallowing-screening-tools"
+canonical: "https://softmeal.org/zh-hans/testing/swallowing-screening-tools"
 ---
 
 # 吞咽障碍筛查量表详解：EAT-10、MASA、Gugging量表在临床和居家的应用

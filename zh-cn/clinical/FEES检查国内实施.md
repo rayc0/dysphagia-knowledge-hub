@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "clinical"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/clinical/FEES检查国内实施"
+canonical: "https://softmeal.org/zh-cn/clinical/FEES检查国内实施"
 ---
 
 # 软式内窥镜吞咽功能检查(FEES)在国内

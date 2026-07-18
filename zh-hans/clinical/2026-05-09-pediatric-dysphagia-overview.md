@@ -1,7 +1,7 @@
 ---
 title: "儿童吞咽障碍：病因、症状识别与诊疗路径——中国儿童医院就诊指南"
 description: "系统介绍儿童吞咽障碍的常见病因、早期症状识别方法及在中国儿童医院的就诊与转诊流程，帮助家长做到早发现、早干预。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

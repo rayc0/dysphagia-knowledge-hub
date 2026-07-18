@@ -6,7 +6,7 @@ language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/fil/caregiving/paghahanda-ng-pagkain-iddsi"
+canonical: "https://softmeal.org/fil/caregiving/paghahanda-ng-pagkain-iddsi"
 ---
 
 # Paano Maghanda ng IDDSI-Compliant na Pagkain sa Bahay

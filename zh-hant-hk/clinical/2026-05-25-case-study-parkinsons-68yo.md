@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/case-study-parkinsons-68yo"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/case-study-parkinsons-68yo"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "68歲柏金遜症女性表現為吞嚥啟動困難加重、食物袋積及體重下降。VFSS顯示吞嚥啟動延遲及薄液誤吸。管理：藥物時間調整、IDDSI 5級加2級液體、LSVT言語/吞嚥治療。"
 ---

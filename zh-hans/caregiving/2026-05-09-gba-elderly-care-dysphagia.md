@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/2026-05-09-gba-elderly-care-dysphagia.html"
+canonical: "https://softmeal.org/zh-hans/caregiving/2026-05-09-gba-elderly-care-dysphagia.html"
 ---
 
 # 大湾区吞咽障碍照护资源：粤港澳主要城市医院言语治疗对比与跨境就医指引

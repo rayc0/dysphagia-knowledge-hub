@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/dysphagia-dementia-staging"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/dysphagia-dementia-staging"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "吞嚥困難在認知障礙中遵循與FAST量表進展相關的可預測分級模式。輕度：進餐管理受損；中度：口腔期缺陷；重度：咽期功能障礙；末期：完全餵食依賴伴誤吸風險。"
 ---

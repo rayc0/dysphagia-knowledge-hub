@@ -6,7 +6,7 @@ language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/caregiving/emerhensiyang-pagtugon-pagkain-nangapos-choking.html"
+canonical: "https://softmeal.org/tl/caregiving/emerhensiyang-pagtugon-pagkain-nangapos-choking.html"
 ---
 
 # Emergency: Ano ang Gagawin Kapag Nangapos ang Inyong Employer (Choking Response para sa mga DH sa HK)

@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["IDDSI", "Level 3", "液化食物", "注射筒測試", "食物製備", "吞嚥障礙"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/iddsi-level-3-taiwan-guide"
+canonical: "https://softmeal.org/zh-hant-tw/iddsi/iddsi-level-3-taiwan-guide"
 ---
 
 # IDDSI三級液化食物台灣照護指南：食物製備、測試方法與市售選擇

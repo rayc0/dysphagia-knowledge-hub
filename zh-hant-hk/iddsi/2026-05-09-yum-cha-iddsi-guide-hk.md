@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/iddsi/yum-cha-iddsi-guide-hk"
+canonical: "https://softmeal.org/zh-hant-hk/iddsi/yum-cha-iddsi-guide-hk"
 ---
 
 # 飲茶點心IDDSI等級完全指南：哪些點心安全、哪些危險、如何與家人共享飲茶

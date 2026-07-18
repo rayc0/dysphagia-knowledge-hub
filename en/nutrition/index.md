@@ -3,7 +3,7 @@ layout: default
 title: "Dysphagia Nutrition: Complete Guide Collection"
 description: "Nutrition management guides for dysphagia patients — hydration strategies, malnutrition screening, meal planning, protein optimization, oral nutritional supplements, thickener selection, and weight management."
 lang: en
-canonical: "https://dysphagia.cn/en/nutrition/"
+canonical: "https://softmeal.org/en/nutrition/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/en/nutrition/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://dysphagia.cn/en/"},
-    {"@type": "ListItem", "position": 3, "name": "Nutrition", "item": "https://dysphagia.cn/en/nutrition/"}
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://softmeal.org/en/"},
+    {"@type": "ListItem", "position": 3, "name": "Nutrition", "item": "https://softmeal.org/en/nutrition/"}
   ]
 }
 </script>
@@ -24,16 +24,16 @@ canonical: "https://dysphagia.cn/en/nutrition/"
   "@type": "CollectionPage",
   "name": "Dysphagia Nutrition: Complete Guide Collection",
   "description": "Evidence-based nutrition guides for dysphagia patients covering hydration, malnutrition, meal planning, protein, ONS, thickeners, and weight management.",
-  "url": "https://dysphagia.cn/en/nutrition/",
+  "url": "https://softmeal.org/en/nutrition/",
   "inLanguage": "en",
   "hasPart": [
-    {"@type": "Article", "name": "Hydration Strategies for Dysphagia Patients", "url": "https://dysphagia.cn/en/nutrition/hydration-strategies-for-dysphagia-patients/"},
-    {"@type": "Article", "name": "Malnutrition in Dysphagia", "url": "https://dysphagia.cn/en/nutrition/malnutrition-screening-and-management-in-dysphagia/"},
-    {"@type": "Article", "name": "Meal Planning for Dysphagia", "url": "https://dysphagia.cn/en/nutrition/meal-planning-guide/"},
-    {"@type": "Article", "name": "Micronutrient Deficiencies in Dysphagia Patients", "url": "https://dysphagia.cn/en/nutrition/micronutrient-deficiencies-in-dysphagia-patients-guide/"},
-    {"@type": "Article", "name": "Oral Nutritional Supplements for Dysphagia", "url": "https://dysphagia.cn/en/nutrition/oral-nutrition-supplements/"},
-    {"@type": "Article", "name": "Protein Optimization for Dysphagia Patients", "url": "https://dysphagia.cn/en/nutrition/protein-optimization-for-dysphagia-patients/"},
-    {"@type": "Article", "name": "Thickeners for Dysphagia", "url": "https://dysphagia.cn/en/nutrition/thickener-guide/"}
+    {"@type": "Article", "name": "Hydration Strategies for Dysphagia Patients", "url": "https://softmeal.org/en/nutrition/hydration-strategies-for-dysphagia-patients/"},
+    {"@type": "Article", "name": "Malnutrition in Dysphagia", "url": "https://softmeal.org/en/nutrition/malnutrition-screening-and-management-in-dysphagia/"},
+    {"@type": "Article", "name": "Meal Planning for Dysphagia", "url": "https://softmeal.org/en/nutrition/meal-planning-guide/"},
+    {"@type": "Article", "name": "Micronutrient Deficiencies in Dysphagia Patients", "url": "https://softmeal.org/en/nutrition/micronutrient-deficiencies-in-dysphagia-patients-guide/"},
+    {"@type": "Article", "name": "Oral Nutritional Supplements for Dysphagia", "url": "https://softmeal.org/en/nutrition/oral-nutrition-supplements/"},
+    {"@type": "Article", "name": "Protein Optimization for Dysphagia Patients", "url": "https://softmeal.org/en/nutrition/protein-optimization-for-dysphagia-patients/"},
+    {"@type": "Article", "name": "Thickeners for Dysphagia", "url": "https://softmeal.org/en/nutrition/thickener-guide/"}
   ]
 }
 </script>

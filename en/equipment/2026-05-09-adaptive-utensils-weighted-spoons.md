@@ -6,7 +6,7 @@ categories: [equipment]
 tags: [dysphagia, equipment, adaptive, utensils, weighted-spoons, occupational-therapy]
 description: "A guide to adaptive utensils for dysphagia and motor impairment: weighted spoons, angled forks, plate guards, and non-slip mats — who benefits and how to choose."
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## Introduction

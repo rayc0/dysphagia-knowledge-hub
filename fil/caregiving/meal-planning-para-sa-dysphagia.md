@@ -6,7 +6,7 @@ language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/fil/caregiving/meal-planning-para-sa-dysphagia"
+canonical: "https://softmeal.org/fil/caregiving/meal-planning-para-sa-dysphagia"
 ---
 
 # Lingguhang Meal Plan para sa Matatandang may Dysphagia

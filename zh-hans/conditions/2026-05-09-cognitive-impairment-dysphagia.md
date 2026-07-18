@@ -1,7 +1,7 @@
 ---
 title: "认知障碍患者的吞咽障碍管理：从轻度认知障碍到失智症的饮食照护策略"
 description: "针对轻度认知障碍至失智症患者的吞咽障碍特点，系统介绍评估方法、饮食质地选择、行为喂食技巧与中国照护场景下的实践建议。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: conditions
 last_updated: 2026-05-09

@@ -6,7 +6,7 @@ categories: [equipment]
 tags: [dysphagia, equipment, clinical, tracheostomy, speaking-valve, Passy-Muir]
 description: "A clinician's guide to the Passy-Muir speaking valve: mechanism, dysphagia benefits, candidacy, contraindications, and weaning protocol."
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## Overview

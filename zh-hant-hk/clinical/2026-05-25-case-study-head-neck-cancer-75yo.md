@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/case-study-head-neck-cancer-75yo"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/case-study-head-neck-cancer-75yo"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "75歲喉癌倖存者，放射治療後3年，出現進行性吞嚥困難、吞嚥疼痛及體重下降8kg。FEES顯示聲門上狹窄及誤吸。管理：食道擴張、IDDSI 3/4級及康復治療。"
 ---

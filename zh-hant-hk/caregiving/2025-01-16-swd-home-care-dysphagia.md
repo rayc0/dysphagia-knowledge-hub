@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-16"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/swd-home-care-dysphagia"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/swd-home-care-dysphagia"
 ---
 
 # 社會福利署居家照顧服務申請指南：吞嚥困難長者適用

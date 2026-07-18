@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/water-swallow-test"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/water-swallow-test"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "飲水測試通過觀察患者吞嚥標準量的水來篩查吞嚥困難。涵蓋Kubota（50mL）和Daniels（3盎司）方案。誤吸靈敏度約70–80%；與EAT-10結合提高特異度。"
 ---

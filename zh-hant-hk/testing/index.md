@@ -3,7 +3,7 @@ layout: default
 title: "吞嚥評估與測試指南 — 香港繁體中文"
 description: "香港吞嚥功能評估指南——VFSS吞嚥攝影、FEES內視鏡評估、廣東菜質感測試、言語治療師評估流程，涵蓋公私立醫療系統資訊。"
 lang: zh-hant-hk
-canonical: "https://dysphagia.cn/zh-hant-hk/testing/"
+canonical: "https://softmeal.org/zh-hant-hk/testing/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/zh-hant-hk/testing/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首頁", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "繁體中文（香港）", "item": "https://dysphagia.cn/zh-hant-hk/"},
-    {"@type": "ListItem", "position": 3, "name": "吞嚥評估", "item": "https://dysphagia.cn/zh-hant-hk/testing/"}
+    {"@type": "ListItem", "position": 1, "name": "首頁", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "繁體中文（香港）", "item": "https://softmeal.org/zh-hant-hk/"},
+    {"@type": "ListItem", "position": 3, "name": "吞嚥評估", "item": "https://softmeal.org/zh-hant-hk/testing/"}
   ]
 }
 </script>
@@ -24,11 +24,11 @@ canonical: "https://dysphagia.cn/zh-hant-hk/testing/"
   "@type": "CollectionPage",
   "name": "吞嚥評估與測試指南（香港）",
   "description": "香港吞嚥功能評估指南——VFSS吞嚥攝影、FEES內視鏡評估、廣東菜質感測試、言語治療師評估流程。",
-  "url": "https://dysphagia.cn/zh-hant-hk/testing/",
+  "url": "https://softmeal.org/zh-hant-hk/testing/",
   "inLanguage": "zh-Hant-HK",
   "hasPart": [
-    {"@type": "Article", "name": "廣東菜吞嚥困難測試指南：常見港式食物IDDSI等級參考", "url": "https://dysphagia.cn/zh-hant-hk/testing/2025-01-17-texture-testing-cantonese-food/"},
-    {"@type": "Article", "name": "香港公私立言語治療評估吞嚥功能的流程與注意事項", "url": "https://dysphagia.cn/zh-hant-hk/testing/2025-01-18-clinical-swallowing-assessment-hk/"}
+    {"@type": "Article", "name": "廣東菜吞嚥困難測試指南：常見港式食物IDDSI等級參考", "url": "https://softmeal.org/zh-hant-hk/testing/2025-01-17-texture-testing-cantonese-food/"},
+    {"@type": "Article", "name": "香港公私立言語治療評估吞嚥功能的流程與注意事項", "url": "https://softmeal.org/zh-hant-hk/testing/2025-01-18-clinical-swallowing-assessment-hk/"}
   ]
 }
 </script>

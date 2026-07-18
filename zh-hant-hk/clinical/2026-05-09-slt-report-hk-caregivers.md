@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/slt-report-hk-caregivers"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/slt-report-hk-caregivers"
 ---
 
 # 如何閱讀香港言語治療師報告：關鍵術語解釋與飲食建議理解

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "testing"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/testing/fees-nasoendoscopy-hk"
+canonical: "https://softmeal.org/zh-hant-hk/testing/fees-nasoendoscopy-hk"
 ---
 
 # 香港纖維光學內窺鏡吞嚥評估（FEES）

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-22"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/fortified-soft-food-recipes-hk"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/fortified-soft-food-recipes-hk"
 ---
 
 # 香港常用食材營養強化技巧：為軟餐增加蛋白質、熱量及微量元素

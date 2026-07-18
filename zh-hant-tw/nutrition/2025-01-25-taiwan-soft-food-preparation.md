@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "nutrition"
 last_updated: "2025-01-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/taiwan-soft-food-preparation"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/taiwan-soft-food-preparation"
 ---
 
 # 台灣家庭自製吞嚥障礙軟食：實作技巧與廚房工具指南

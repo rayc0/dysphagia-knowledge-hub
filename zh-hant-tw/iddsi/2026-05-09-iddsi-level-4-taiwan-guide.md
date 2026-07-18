@@ -7,7 +7,7 @@ category: "iddsi"
 date: 2026-05-09
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/iddsi-level-4-taiwan-guide"
+canonical: "https://softmeal.org/zh-hant-tw/iddsi/iddsi-level-4-taiwan-guide"
 ---
 
 # IDDSI四級泥狀食物台灣照護指南：食物製備、質地測試與市售增稠產品

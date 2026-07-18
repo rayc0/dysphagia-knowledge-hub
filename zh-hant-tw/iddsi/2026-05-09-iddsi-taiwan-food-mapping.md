@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/iddsi-taiwan-food-mapping"
+canonical: "https://softmeal.org/zh-hant-tw/iddsi/iddsi-taiwan-food-mapping"
 ---
 
 # 台灣傳統食物IDDSI質地等級對照表：米食、麵食、湯品、點心

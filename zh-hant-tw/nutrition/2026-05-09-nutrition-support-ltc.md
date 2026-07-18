@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "nutrition"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/nutrition-support-ltc"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/nutrition-support-ltc"
 ---
 
 # 長照2.0體系下吞嚥障礙者的營養支持策略：從評估到落地執行

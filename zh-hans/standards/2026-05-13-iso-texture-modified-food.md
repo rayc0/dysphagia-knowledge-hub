@@ -6,7 +6,7 @@ categories: [standards]
 tags: [ISO, 吞咽障碍食品, TC34, IDDSI, 国际标准, 中国参与]
 description: "介绍ISO TC34/WG15吞咽障碍食品工作组的最新进展、IDDSI与ISO的关系、中国参与国际标准制定情况及对国内行业的战略影响。"
 date: 2026-05-13
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## ISO吞咽障碍食品国际标准进展：中国参与与国内行业影响

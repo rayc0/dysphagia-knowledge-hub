@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "conditions"
 last_updated: "2025-01-22"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/head-neck-cancer-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/head-neck-cancer-taiwan"
 ---
 
 # 頭頸癌術後吞嚥困難：台灣患者的飲食重建指南

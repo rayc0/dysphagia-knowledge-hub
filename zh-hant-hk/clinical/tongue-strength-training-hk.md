@@ -1,12 +1,12 @@
 ---
 title: "舌肌力量訓練：Iowa Oral PI參考值、增齡性變化、系統訓練方案及香港院舍應用"
 description: "舌肌力量訓練的臨床實證、Iowa Oral PI正常參考值、老化對舌壓的影響、系統訓練方案設計，以及在香港院舍環境配合言語治療師的實務方法。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/tongue-strength-training-hk"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/tongue-strength-training-hk"
 ---
 
 # 舌肌力量訓練：Iowa Oral PI參考值、增齡性變化與香港院舍應用

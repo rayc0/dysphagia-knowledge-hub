@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/mencegah-tersedak-majikan-lansia.html"
+canonical: "https://softmeal.org/id/caregiving/mencegah-tersedak-majikan-lansia.html"
 ---
 
 # Pencegahan Tersedak pada Lansia: Protokol Darurat untuk Pengasuh

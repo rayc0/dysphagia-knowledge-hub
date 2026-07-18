@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/case-study-post-stroke-85yo"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/case-study-post-stroke-85yo"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "85歲男性急性右側MCA中風，嚴重吞嚥困難。GUSS 4分（嚴重）。FEES顯示薄液隱性誤吸。鼻胃管餵食；出院時進食IDDSI 4級飲食和調整液體。"
 ---

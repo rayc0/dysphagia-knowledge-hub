@@ -2,7 +2,7 @@
 title: "Mga Recipe para sa Dysphagia — Tagalog"
 description: "Mga recipe sa Tagalog para sa mga may dysphagia — lugaw, arroz caldo, at iba pang pagkaing Filipino na na-adapt sa IDDSI standards. Para sa mga domestic helper at tagapag-alaga sa Hong Kong. CC BY 4.0."
 lang: tl
-canonical: "https://dysphagia.cn/tl/recipes/"
+canonical: "https://softmeal.org/tl/recipes/"
 ---
 
 # Mga Recipe para sa Dysphagia — Tagalog

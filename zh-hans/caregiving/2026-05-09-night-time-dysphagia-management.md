@@ -11,7 +11,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/night-time-dysphagia-management"
+canonical: "https://softmeal.org/zh-hans/caregiving/night-time-dysphagia-management"
 ---
 
 # 夜间吞咽安全管理

@@ -6,7 +6,7 @@ language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/fil/caregiving/iddsi-antas-para-sa-fdh"
+canonical: "https://softmeal.org/fil/caregiving/iddsi-antas-para-sa-fdh"
 ---
 
 # IDDSI Mga Antas ng Pagkain at Inumin — Gabay para sa mga Kasambahay

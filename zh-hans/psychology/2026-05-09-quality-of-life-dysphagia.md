@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/psychology/2026-05-09-quality-of-life-dysphagia.html"
+canonical: "https://softmeal.org/zh-hans/psychology/2026-05-09-quality-of-life-dysphagia.html"
 ---
 
 # 带着吞咽障碍活得有尊严：饮食愉悦感与社会参与的维护

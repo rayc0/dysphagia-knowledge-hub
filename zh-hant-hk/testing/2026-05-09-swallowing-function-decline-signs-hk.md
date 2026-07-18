@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "testing"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/testing/swallowing-function-decline-signs-hk"
+canonical: "https://softmeal.org/zh-hant-hk/testing/swallowing-function-decline-signs-hk"
 ---
 
 # 香港長者吞嚥功能退化的早期警示：照顧者識別指南

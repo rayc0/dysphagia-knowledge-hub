@@ -1,7 +1,7 @@
 ---
 title: "微量营养素与吞咽功能：锌和维生素D的作用及补充建议"
 description: "锌缺乏影响味觉和黏膜完整性，维生素D不足与肌肉无力和神经退行性变相关，两者均可加重吞咽障碍。本文结合中国营养学会指南提供临床建议。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: nutrition
 last_updated: 2026-05-09

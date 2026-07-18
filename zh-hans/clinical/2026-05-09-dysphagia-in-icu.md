@@ -1,7 +1,7 @@
 ---
 title: "重症监护室相关吞咽障碍：插管后损伤、早期评估与口腔运动训练"
 description: "系统介绍ICU及拔管后患者吞咽障碍的发生机制、早期筛查流程、仪器评估方法及口腔运动康复策略，面向中国重症与康复临床团队。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "conditions"
 last_updated: "2025-01-23"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/stroke-dysphagia-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/stroke-dysphagia-taiwan"
 ---
 
 # 腦中風後吞嚥障礙：台灣患者從急性期到社區復健的完整指南

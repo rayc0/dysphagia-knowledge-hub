@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "testing"
 last_updated: "2025-02-02"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/testing/high-resolution-manometry"
+canonical: "https://softmeal.org/zh-hans/testing/high-resolution-manometry"
 ---
 
 # 高分辨率测压（HRM）：食管动力学评估与吞咽障碍诊断

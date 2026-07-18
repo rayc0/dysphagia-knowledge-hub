@@ -3,7 +3,7 @@ layout: default
 title: "Dysphagia Testing Methods: Complete Guide Collection"
 description: "Dysphagia assessment and testing guides — EAT-10 screening tool, FEES vs MBSS comparison, food texture testing with IDDSI methods, and clinical assessment protocols."
 lang: en
-canonical: "https://dysphagia.cn/en/testing/"
+canonical: "https://softmeal.org/en/testing/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/en/testing/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://dysphagia.cn/en/"},
-    {"@type": "ListItem", "position": 3, "name": "Testing", "item": "https://dysphagia.cn/en/testing/"}
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://softmeal.org/en/"},
+    {"@type": "ListItem", "position": 3, "name": "Testing", "item": "https://softmeal.org/en/testing/"}
   ]
 }
 </script>
@@ -24,12 +24,12 @@ canonical: "https://dysphagia.cn/en/testing/"
   "@type": "CollectionPage",
   "name": "Dysphagia Testing Methods: Complete Guide Collection",
   "description": "Clinical and home-based dysphagia testing guides covering EAT-10, FEES vs MBSS, IDDSI food texture testing methods, and bedside screening.",
-  "url": "https://dysphagia.cn/en/testing/",
+  "url": "https://softmeal.org/en/testing/",
   "inLanguage": "en",
   "hasPart": [
-    {"@type": "Article", "name": "The Eating Assessment Tool (EAT-10)", "url": "https://dysphagia.cn/en/testing/eating-assessment-tool-eat10-clinician-patient-guide/"},
-    {"@type": "Article", "name": "FEES vs MBSS — Comparing the Two Gold-Standard Dysphagia Instrumental Exams", "url": "https://dysphagia.cn/en/testing/fees-vs-mbss-comparison/"},
-    {"@type": "Article", "name": "How to Test Food Texture for Dysphagia — IDDSI Tests Step by Step", "url": "https://dysphagia.cn/en/testing/food-texture-testing-methods/"}
+    {"@type": "Article", "name": "The Eating Assessment Tool (EAT-10)", "url": "https://softmeal.org/en/testing/eating-assessment-tool-eat10-clinician-patient-guide/"},
+    {"@type": "Article", "name": "FEES vs MBSS — Comparing the Two Gold-Standard Dysphagia Instrumental Exams", "url": "https://softmeal.org/en/testing/fees-vs-mbss-comparison/"},
+    {"@type": "Article", "name": "How to Test Food Texture for Dysphagia — IDDSI Tests Step by Step", "url": "https://softmeal.org/en/testing/food-texture-testing-methods/"}
   ]
 }
 </script>

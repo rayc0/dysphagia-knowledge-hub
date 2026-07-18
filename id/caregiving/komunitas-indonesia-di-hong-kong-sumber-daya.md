@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/komunitas-indonesia-di-hong-kong-sumber-daya.html"
+canonical: "https://softmeal.org/id/caregiving/komunitas-indonesia-di-hong-kong-sumber-daya.html"
 ---
 
 # Sumber Daya Komunitas Indonesia di Hong Kong untuk ART — Kesehatan, Bantuan Hukum, dan Dukungan Sosial
@@ -135,7 +135,7 @@ Di sini Anda bisa:
 - Untuk pasien rawat jalan: rujukan melalui polyclinic setempat
 
 **Informasi dalam Bahasa Indonesia:**
-- Website dysphagia.cn (situs ini) — sumber terlengkap dalam Bahasa Indonesia
+- Website softmeal.org (situs ini) — sumber terlengkap dalam Bahasa Indonesia
 - Grup WhatsApp komunitas ART di Minggu sering berbagi pengalaman praktis
 - IMWU kadang mengadakan sesi edukasi kesehatan untuk anggota
 

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-24"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/iddsi/festive-food-safety-hk"
+canonical: "https://softmeal.org/zh-hant-hk/iddsi/festive-food-safety-hk"
 ---
 
 # 香港傳統節慶食品嘅吞嚥安全：農曆新年、中秋、端午嘅食物指引

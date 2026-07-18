@@ -3,7 +3,7 @@ layout: default
 title: "吞咽障碍知识库 — 简体中文（中国大陆）"
 description: "吞咽障碍 · IDDSI国际标准 · 软食增稠 · 长护险 · 大陆养老机构资源"
 lang: zh-CN
-canonical: "https://dysphagia.cn/zh-cn/"
+canonical: "https://softmeal.org/zh-cn/"
 ---
 
 <script type="application/ld+json">
@@ -11,8 +11,8 @@ canonical: "https://dysphagia.cn/zh-cn/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "简体中文（中国大陆）", "item": "https://dysphagia.cn/zh-cn/"}
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "简体中文（中国大陆）", "item": "https://softmeal.org/zh-cn/"}
   ]
 }
 </script>
@@ -23,7 +23,7 @@ canonical: "https://dysphagia.cn/zh-cn/"
   "@type": "CollectionPage",
   "name": "吞咽障碍知识库（中国大陆）",
   "description": "为中国大陆患者家属、居家照护人员及养老机构专业人员提供吞咽障碍实用指南，结合IDDSI国际标准与大陆医疗体系、长护险制度及本地资源。",
-  "url": "https://dysphagia.cn/zh-cn/",
+  "url": "https://softmeal.org/zh-cn/",
   "inLanguage": "zh-CN"
 }
 </script>

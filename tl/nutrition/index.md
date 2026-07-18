@@ -2,7 +2,7 @@
 title: "Nutrisyon para sa Dysphagia — Gabay sa Tagalog"
 description: "Gabay sa Tagalog tungkol sa nutrisyon at thickeners para sa mga may dysphagia. Para sa mga domestic helper at tagapag-alaga sa Hong Kong. CC BY 4.0."
 lang: tl
-canonical: "https://dysphagia.cn/tl/nutrition/"
+canonical: "https://softmeal.org/tl/nutrition/"
 ---
 
 # Nutrisyon para sa Dysphagia — Gabay sa Tagalog

@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/case-study-parkinsons-68yo"
+canonical: "https://softmeal.org/en/clinical/case-study-parkinsons-68yo"
 tags: [case study, Parkinson's disease, dysphagia, neurodegenerative, rehabilitation]
 summary: "A 68-year-old woman with Parkinson's disease presents with increasing difficulty initiating swallows, pocketing of food, and weight loss. VFSS shows delayed swallow initiation and aspiration of thin liquids. Management: medication timing, IDDSI Level 5 + Level 2 liquids, LSVT-based voice/swallow therapy."
 ---

@@ -6,7 +6,7 @@ language: "vi"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/vi/huong-dan-chamsoc/nguon-luc-cong-dong-viet-hong-kong.html"
+canonical: "https://softmeal.org/vi/huong-dan-chamsoc/nguon-luc-cong-dong-viet-hong-kong.html"
 ---
 
 # Nguồn Lực Cộng Đồng Người Việt tại Hồng Kông — Dành cho Người Giúp Việc (ODJT)
@@ -139,7 +139,7 @@ Nếu bạn gặp vấn đề về hợp đồng lao động, không được tr
 
 ## Tài Nguyên Chăm Sóc Nuốt Khó Bằng Tiếng Việt
 
-**Website dysphagia.cn (trang này):**
+**Website softmeal.org (trang này):**
 Đây là nguồn tài liệu tiếng Việt toàn diện nhất về nuốt khó, IDDSI, và chăm sóc người cao tuổi dành cho bối cảnh Hồng Kông và Việt Nam.
 
 **Tìm thêm thông tin:**

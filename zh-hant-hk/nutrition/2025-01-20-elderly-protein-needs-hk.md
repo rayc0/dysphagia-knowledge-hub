@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-20"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/elderly-protein-needs-hk"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/elderly-protein-needs-hk"
 ---
 
 # 香港長者蛋白質需求：吞嚥困難對蛋白質攝取的影響及改善策略

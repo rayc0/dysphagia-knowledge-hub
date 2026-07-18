@@ -1,29 +1,88 @@
+<link rel="stylesheet" href="{{ '/assets/css/theme.css' | relative_url }}">
 <style>
-#lang-bar{position:sticky;top:0;z-index:9999;background:#1a1a2e;padding:7px 16px;text-align:right;font-size:13px;line-height:1.6;box-shadow:0 1px 4px rgba(0,0,0,.4)}
-#lang-bar a{color:#a8d8ea;text-decoration:none;margin:0 4px;padding:2px 7px;border-radius:3px}
-#lang-bar a:hover{background:#16213e;color:#fff}
 /* Accessibility: ensure links in text blocks are underlined for non-color cues */
 .markdown-body p a,.markdown-body li a,.markdown-body blockquote a{text-decoration:underline}
 </style>
 <script>
 document.addEventListener('DOMContentLoaded',function(){
+  // ---------- Language switcher bar (single source of truth site-wide) ----------
   var bar=document.createElement('div');
   bar.id='lang-bar';
-  bar.innerHTML='<a href="/zh-hans/">简体中文</a> <span style="color:#666">|</span> <a href="/zh-hant/">繁體中文</a> <span style="color:#666">|</span> <a href="/zh-hant-hk/">繁體中文(港)</a> <span style="color:#666">|</span> <a href="/en/">English</a>';
-  document.body.insertBefore(bar,document.body.firstChild);
-  // auto-redirect on first visit
-  if(sessionStorage.getItem('lang-redirected')) return;
-  sessionStorage.setItem('lang-redirected','1');
-  var l=(navigator.language||'').toLowerCase();
+  var langs=[['/zh-hans/','简体中文'],['/zh-hant/','繁體中文'],['/zh-hant-hk/','繁體中文(港)'],['/en/','English']];
   var p=window.location.pathname;
-  if(p!='/'&&p!='') return;
-  if(l.startsWith('zh-tw')||l.startsWith('zh-hk'))window.location.href='/zh-hant/';
-  else if(l.startsWith('zh'))window.location.href='/zh-hans/';
-});
-document.addEventListener('DOMContentLoaded',function(){
+  bar.innerHTML=langs.map(function(pair,i){
+    var active=p.indexOf(pair[0])===0?' class="active"':'';
+    var sep=i>0?'<span class="sep">·</span>':'';
+    return sep+'<a href="'+pair[0]+'"'+active+'>'+pair[1]+'</a>';
+  }).join('');
+  document.body.insertBefore(bar,document.body.firstChild);
+  // NOTE: first-visit language auto-redirect lives in the root index.md (it also
+  // covers ja/ko) — not duplicated here to avoid double-redirect races.
+
+  // ---------- Homepage topic cards: wrap each h3+ul pair, IDDSI palette cycle ----------
+  var body=document.querySelector('.markdown-body');
+  if(body){
+    var heads=body.querySelectorAll('h3');
+    if(heads.length>=3){
+      var anchor=document.createComment('cat-grid-anchor');
+      heads[0].parentNode.insertBefore(anchor,heads[0]);
+      var grid=document.createElement('div');
+      grid.className='cat-grid';
+      var colorIdx=0;
+      heads.forEach(function(h){
+        var list=h.nextElementSibling;
+        if(!list||list.tagName!=='UL')return;
+        var card=document.createElement('div');
+        card.className='cat-card';
+        card.setAttribute('data-c',(colorIdx%7));
+        colorIdx++;
+        var tab=document.createElement('div');
+        tab.className='cat-card__tab';
+        var bodyDiv=document.createElement('div');
+        bodyDiv.className='cat-card__body';
+        var dot=document.createElement('span');
+        dot.className='cat-dot';
+        h.insertBefore(dot,h.firstChild);
+        bodyDiv.appendChild(h);
+        bodyDiv.appendChild(list);
+        card.appendChild(tab);
+        card.appendChild(bodyDiv);
+        grid.appendChild(card);
+      });
+      if(grid.children.length>0){
+        anchor.parentNode.insertBefore(grid,anchor);
+      }
+      anchor.parentNode.removeChild(anchor);
+    }
+  }
+
+  // ---------- Article pages: auto-detect IDDSI level from the H1 and add a header band ----------
+  // NOTE: the layout renders a site-title H1 link ahead of the content when
+  // site.title != page.title, so the article's OWN title is the LAST h1, not the first.
+  var h1s=body?body.querySelectorAll('h1'):[];
+  var h1=h1s.length?h1s[h1s.length-1]:null;
+  if(h1){
+    var text=h1.textContent||'';
+    var lvl=null;
+    var m=text.match(/level\s*([0-7])\b/i);
+    if(m){ lvl=m[1]; }
+    if(lvl===null){ m=text.match(/(?:iddsi\s*)?第\s*([0-7])\s*级/); if(m){ lvl=m[1]; } }
+    if(lvl===null){ m=text.match(/([0-7])\s*級/); if(m){ lvl=m[1]; } }
+    if(lvl===null){ m=text.match(/([0-7])\s*级(?!\d)/); if(m && /iddsi/i.test(text)){ lvl=m[1]; } }
+    var names={'0':'Thin','1':'Slightly Thick','2':'Mildly Thick','3':'Moderately Thick','4':'Pureed','5':'Minced & Moist','6':'Soft & Bite-Sized','7':'Regular / Easy to Chew'};
+    if(lvl!==null && names[lvl]){
+      var band=document.createElement('div');
+      band.className='iddsi-band';
+      band.setAttribute('data-level',lvl);
+      band.innerHTML='<span class="iddsi-badge">'+lvl+'</span><span class="iddsi-band__label">IDDSI Level '+lvl+' — '+names[lvl]+'</span>';
+      h1.parentNode.insertBefore(band,h1.nextSibling);
+    }
+  }
+
+  // ---------- Founder footer ----------
   var f=document.createElement('p');
-  f.style.cssText='font-size:0.72rem;color:#9ca3af;text-align:center;margin:2rem 0 1rem;';
-  f.innerHTML='Founded by <a href="https://ycchau.com/en/about/" rel="me" style="color:#9ca3af;text-decoration:underline;">Raymond Chau Yik-Chun (周益俊)</a>.';
+  f.style.cssText='font-size:0.8rem;color:var(--ink-soft,#9ca3af);text-align:center;margin:2.5rem 0 1.5rem;';
+  f.innerHTML='Founded by <a href="https://ycchau.com/en/about/" rel="me" style="color:inherit;text-decoration:underline;">Raymond Chau Yik-Chun (周益俊)</a>.';
   document.body.appendChild(f);
 });
 </script>

@@ -6,7 +6,7 @@ language: "id"
 category: "equipment"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/equipment/cara-menggunakan-pengental-makanan-dengan-benar.html"
+canonical: "https://softmeal.org/id/equipment/cara-menggunakan-pengental-makanan-dengan-benar.html"
 ---
 
 # Cara Menggunakan Pengental Makanan dengan Benar: Panduan Praktis untuk Pengasuh

@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/iddsi/iddsi-changjian-wuqu"
+canonical: "https://softmeal.org/zh-cn/iddsi/iddsi-changjian-wuqu"
 ---
 
 # IDDSI实施十大误区——增稠过度、混合质地与标签缺失的纠正指南

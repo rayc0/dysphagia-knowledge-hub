@@ -6,7 +6,7 @@ language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/iddsi/iddsi-level-6-soft-bite-sized.html"
+canonical: "https://softmeal.org/tl/iddsi/iddsi-level-6-soft-bite-sized.html"
 ---
 
 # IDDSI Level 6 Soft at Bite-Sized — Paglipat Mula sa Ospital Patungo sa Tahanan sa HK

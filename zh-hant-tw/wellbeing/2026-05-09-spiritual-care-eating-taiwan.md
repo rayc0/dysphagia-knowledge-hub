@@ -6,7 +6,7 @@ categories: [wellbeing]
 tags: [吞嚥障礙, 台灣, 身心健康, 靈性照護, 飲食尊嚴]
 description: "從台灣多元文化與宗教傳統的角度探討吞嚥障礙患者的靈性照護，說明如何在飲食限制中維護患者的文化認同與心靈尊嚴。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 # 靈性照護與飲食尊嚴——台灣多元文化觀點

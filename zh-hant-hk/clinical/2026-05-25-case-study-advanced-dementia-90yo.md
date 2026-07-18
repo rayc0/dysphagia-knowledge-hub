@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/case-study-advanced-dementia-90yo"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/case-study-advanced-dementia-90yo"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "90歲晚期阿茲海默症男性，極少言語溝通，嚴重吞嚥困難，在護理院照護。護理目標討論：舒適餵食對比管飼。選擇舒適餵食方案。"
 ---

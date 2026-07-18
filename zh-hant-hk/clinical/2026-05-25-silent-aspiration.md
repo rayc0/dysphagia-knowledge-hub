@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/silent-aspiration"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/silent-aspiration"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "隱性誤吸——無咳嗽的氣道侵入——影響40–70%的中風誤吸患者。床邊篩查無法檢測。需要FEES或VFSS。關鍵人群：中風、柏金遜、晚期認知障礙、放療後。與吸入性肺炎死亡相關。"
 ---

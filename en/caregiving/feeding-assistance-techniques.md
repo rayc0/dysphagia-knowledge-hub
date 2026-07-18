@@ -6,7 +6,7 @@ language: "en"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/caregiving/feeding-assistance-techniques"
+canonical: "https://softmeal.org/en/caregiving/feeding-assistance-techniques"
 ---
 
 # Feeding Assistance Techniques for People with Dysphagia

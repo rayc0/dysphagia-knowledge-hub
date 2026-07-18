@@ -1,7 +1,7 @@
 ---
 title: "罕见病相关吞咽障碍：中国罕见病用药保障与吞咽康复途径，涵盖脊肌萎缩症与肌营养不良"
 description: "系统介绍脊肌萎缩症、肌营养不良等罕见病相关吞咽障碍的特征，以及中国罕见病用药保障政策（NRDLP）与吞咽康复可及性。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

@@ -6,7 +6,7 @@ language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/caregiving/gabay-para-sa-mga-domestic-helper-hong-kong-dysphagia.html"
+canonical: "https://softmeal.org/tl/caregiving/gabay-para-sa-mga-domestic-helper-hong-kong-dysphagia.html"
 ---
 
 # Gabay para sa mga Domestic Helper sa Hong Kong: Pag-aalaga ng Matatandang may Hirap sa Paglunok (Dysphagia)
@@ -219,7 +219,7 @@ Ang log na ito ay mahalaga para sa doktor at pamilya ng employer. Kung may makit
 
 ## Bahagi 7: Mga Libreng Resources para sa mga DH sa Hong Kong
 
-- **[dysphagia.cn](https://dysphagia.cn)** — Ang website na ito, libre, CC BY 4.0. Mga gabay sa Filipino, Indonesian, at iba pang wika.
+- **[softmeal.org](https://softmeal.org)** — Ang website na ito, libre, CC BY 4.0. Mga gabay sa Filipino, Indonesian, at iba pang wika.
 - **[carefood.org.hk](https://carefood.org.hk)** — HKCSS 照護食 Standard. Listahan ng mga certified na produkto.
 - **Hospital Authority Patient Education** — Ang mga HA hospital ay may libreng materials tungkol sa dysphagia — humingi sa speech therapy department.
 - **Philippine Consulate General Hong Kong**: +852 2823 8500 — Para sa mga isyu ng empleasyon at konsular.

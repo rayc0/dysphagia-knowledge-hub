@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/royal-adelaide-swallowing-test"
+canonical: "https://softmeal.org/zh-hans/clinical/royal-adelaide-swallowing-test"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "RAPIDS是一份预测卒中后6个月吞咽困难的5变量预后指数，包括年龄、卒中严重程度、既往吞咽困难、病灶部位和基线吞咽功能。"
 ---

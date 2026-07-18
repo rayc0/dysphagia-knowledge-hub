@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["胃食道逆流", "GERD", "吞嚥障礙", "增稠劑", "體位管理"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/gastroesophageal-reflux-dysphagia"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/gastroesophageal-reflux-dysphagia"
 ---
 
 # 台灣胃食道逆流與吞嚥障礙的鑑別與共病管理

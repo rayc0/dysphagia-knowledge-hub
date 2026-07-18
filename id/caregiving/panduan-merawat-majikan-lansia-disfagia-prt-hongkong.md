@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/panduan-merawat-majikan-lansia-disfagia-prt-hongkong.html"
+canonical: "https://softmeal.org/id/caregiving/panduan-merawat-majikan-lansia-disfagia-prt-hongkong.html"
 ---
 
 # Panduan Lengkap untuk PRT Hong Kong: Merawat Majikan Lansia dengan Gangguan Menelan

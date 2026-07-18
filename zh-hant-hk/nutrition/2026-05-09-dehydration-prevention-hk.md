@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞嚥困難, 營養, 香港, 脫水, 補水, 增稠劑]
 description: "針對香港吞嚥困難患者的脫水預防及補水策略，涵蓋增稠液體選擇、本地飲品應用及醫療風險管理。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## 為何吞嚥困難患者特別容易脫水

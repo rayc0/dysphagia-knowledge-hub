@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["IDDSI", "夏季飲食", "刨冰", "愛玉", "芒果布丁", "冷飲", "吞嚥障礙"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/taiwanese-food-iddsi-summer"
+canonical: "https://softmeal.org/zh-hant-tw/iddsi/taiwanese-food-iddsi-summer"
 ---
 
 # 夏季台灣食物IDDSI質地分析：吞嚥障礙患者的清涼飲食指南

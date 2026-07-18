@@ -7,7 +7,7 @@ category: "conditions"
 date: 2026-05-09
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/parkinson-dysphagia-taiwan-2026"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/parkinson-dysphagia-taiwan-2026"
 ---
 
 # 台灣巴金森氏症吞嚥障礙：疾病進程、服藥時機與IDDSI質地調整

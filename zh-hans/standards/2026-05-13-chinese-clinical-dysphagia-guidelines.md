@@ -6,7 +6,7 @@ categories: [standards]
 tags: [临床指南, 吞咽障碍, 筛查, SLT资质, 中国标准]
 description: "解读《中国吞咽障碍评估与治疗专家共识（2017年版）》主要推荐意见，涵盖吞咽筛查流程、质地改良饮食标准及国内言语治疗师资质要求。"
 date: 2026-05-13
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## 中国吞咽障碍临床诊断与治疗指南（2017版）解读

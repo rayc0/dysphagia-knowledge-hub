@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "iddsi"
 last_updated: "2025-01-22"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/taiwanese-food-iddsi-mapping"
+canonical: "https://softmeal.org/zh-hant-tw/iddsi/taiwanese-food-iddsi-mapping"
 ---
 
 # 台灣常見食物IDDSI等級對照：從滷肉飯到蚵仔麵線的質地分級

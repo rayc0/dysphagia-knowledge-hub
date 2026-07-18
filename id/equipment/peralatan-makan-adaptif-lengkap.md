@@ -6,7 +6,7 @@ language: "id"
 category: "equipment"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/equipment/peralatan-makan-adaptif-lengkap.html"
+canonical: "https://softmeal.org/id/equipment/peralatan-makan-adaptif-lengkap.html"
 ---
 
 # Panduan Lengkap Peralatan Makan Adaptif untuk Pasien Disfagia: Dari Cangkir Khusus hingga Sendok Berlapis

@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "recipes"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/recipes/beifang-ruanshi-shijian"
+canonical: "https://softmeal.org/zh-cn/recipes/beifang-ruanshi-shijian"
 ---
 
 # 北方吞咽友好食谱精选——10道适合IDDSI 4-6级的面食与炖菜

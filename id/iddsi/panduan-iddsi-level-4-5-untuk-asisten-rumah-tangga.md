@@ -6,7 +6,7 @@ language: "id"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/iddsi/panduan-iddsi-level-4-5-untuk-asisten-rumah-tangga.html"
+canonical: "https://softmeal.org/id/iddsi/panduan-iddsi-level-4-5-untuk-asisten-rumah-tangga.html"
 ---
 
 # Panduan IDDSI Level 4 dan 5 untuk Asisten Rumah Tangga Indonesia di Hong Kong

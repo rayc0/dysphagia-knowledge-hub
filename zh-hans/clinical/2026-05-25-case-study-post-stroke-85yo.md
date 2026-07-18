@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/case-study-post-stroke-85yo"
+canonical: "https://softmeal.org/zh-hans/clinical/case-study-post-stroke-85yo"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "85岁男性急性右侧MCA卒中，严重吞咽困难。GUSS 4分（严重）。FEES显示薄液隐性误吸。鼻胃管喂食；出院时进食IDDSI 4级饮食和调整液体。"
 ---

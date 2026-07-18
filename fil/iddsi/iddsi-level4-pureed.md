@@ -6,7 +6,7 @@ language: "fil"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/fil/iddsi/iddsi-level4-pureed"
+canonical: "https://softmeal.org/fil/iddsi/iddsi-level4-pureed"
 ---
 
 # IDDSI Antas 4 — Pureed (Dinurog) na Pagkain

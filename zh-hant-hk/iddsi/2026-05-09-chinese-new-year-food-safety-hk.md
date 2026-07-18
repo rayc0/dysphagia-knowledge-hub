@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/iddsi/chinese-new-year-food-safety-hk"
+canonical: "https://softmeal.org/zh-hant-hk/iddsi/chinese-new-year-food-safety-hk"
 ---
 
 # 農曆新年飲食安全：吞嚥困難患者的節日餐桌攻略

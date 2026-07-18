@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/2026-05-09-cross-border-medical-elderly-china.html"
+canonical: "https://softmeal.org/zh-hans/caregiving/2026-05-09-cross-border-medical-elderly-china.html"
 ---
 
 # 粤港跨境养老与就医：香港长者回乡养老的医疗保障与吞咽障碍照护安排

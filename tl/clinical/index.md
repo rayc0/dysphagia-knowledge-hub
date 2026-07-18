@@ -2,7 +2,7 @@
 title: "Kliniko — Dysphagia at mga Kondisyon sa Tagalog"
 description: "Mga gabay sa Tagalog tungkol sa relasyon ng dysphagia sa stroke, demensya, Parkinson's disease, at aspiration pneumonia. Para sa mga tagapag-alaga sa Hong Kong. CC BY 4.0."
 lang: tl
-canonical: "https://dysphagia.cn/tl/clinical/"
+canonical: "https://softmeal.org/tl/clinical/"
 ---
 
 # Kliniko — Dysphagia at mga Kondisyon sa Tagalog

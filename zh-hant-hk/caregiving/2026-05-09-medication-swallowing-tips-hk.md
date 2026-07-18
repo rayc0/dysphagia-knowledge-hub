@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/medication-swallowing-tips-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/medication-swallowing-tips-hk"
 ---
 
 # 香港吞嚥困難患者服藥指南：哪些藥可磨碎、哪些不能、液體替代品及藥劑師諮詢

@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-02-02"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/cross-city-care-china"
+canonical: "https://softmeal.org/zh-hans/caregiving/cross-city-care-china"
 ---
 
 # 异地照护吞咽障碍老人：跨省、跨城市照护协调实战指南

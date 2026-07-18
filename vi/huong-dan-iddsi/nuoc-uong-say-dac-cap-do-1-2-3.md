@@ -6,7 +6,7 @@ language: "vi"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/vi/huong-dan-iddsi/nuoc-uong-say-dac-cap-do-1-2-3.html"
+canonical: "https://softmeal.org/vi/huong-dan-iddsi/nuoc-uong-say-dac-cap-do-1-2-3.html"
 ---
 
 # Nước Uống Sánh Đặc IDDSI Cấp Độ 1, 2 và 3 — Hướng Dẫn Thực Hành cho Người Giúp Việc Việt Nam tại HK

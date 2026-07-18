@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-17"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/caregiver-financial-support-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/caregiver-financial-support-hk"
 ---
 
 # 香港吞嚥困難照顧者經濟支援：政府資助、補貼及社區資源全攻略

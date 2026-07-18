@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["口腔衛生", "吸入性肺炎", "長照機構", "長照2.0", "口腔照護"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/dysphagia-oral-hygiene-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/dysphagia-oral-hygiene-taiwan"
 ---
 
 # 台灣長照機構口腔衛生照護與預防吸入性肺炎：實證指引與本土實踐

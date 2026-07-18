@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2025-02-03"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/2025-02-03-pediatric-dysphagia-china.html"
+canonical: "https://softmeal.org/zh-hans/clinical/2025-02-03-pediatric-dysphagia-china.html"
 ---
 
 # 儿童吞咽障碍：内地儿科照护者必知的识别、评估与干预指南

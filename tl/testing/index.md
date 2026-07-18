@@ -2,7 +2,7 @@
 title: "Pagsusuri ng Dysphagia — Mga Screening Tool sa Tagalog"
 description: "Mga screening tool sa Tagalog para sa dysphagia — kasama ang EAT-10. Para sa mga domestic helper at tagapag-alaga sa Hong Kong na gustong suriin ang kanilang employer. CC BY 4.0."
 lang: tl
-canonical: "https://dysphagia.cn/tl/testing/"
+canonical: "https://softmeal.org/tl/testing/"
 ---
 
 # Pagsusuri ng Dysphagia — Mga Screening Tool sa Tagalog

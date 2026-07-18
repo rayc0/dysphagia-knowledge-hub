@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-01-26"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/nutrition/vitamin-d-calcium-dysphagia"
+canonical: "https://softmeal.org/zh-hans/nutrition/vitamin-d-calcium-dysphagia"
 ---
 
 # 吞咽障碍患者的维生素D与钙补充：预防骨质疏松与跌倒

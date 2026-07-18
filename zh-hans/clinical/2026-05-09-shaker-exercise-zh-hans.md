@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [吞咽障碍, 康复治疗, 言语治疗]
 description: "面向内地言语治疗师的Shaker等长/等张头部抬升训练操作指南，涵盖适应证筛查、训练剂量、安全监测与循证依据，结合中国吞咽障碍康复管理规范。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 # Shaker运动与吞咽康复：临床操作规范与循证依据

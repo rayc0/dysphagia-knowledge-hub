@@ -6,7 +6,7 @@ language: "tl"
 category: "recipes"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/recipes/lugaw-arroz-caldo-para-sa-dysphagia-iddsi-level-4-5.html"
+canonical: "https://softmeal.org/tl/recipes/lugaw-arroz-caldo-para-sa-dysphagia-iddsi-level-4-5.html"
 ---
 
 # Lugaw at Arroz Caldo para sa mga may Dysphagia — IDDSI Level 4-5 Filipino Recipes

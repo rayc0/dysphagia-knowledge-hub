@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/case-study-advanced-dementia-90yo"
+canonical: "https://softmeal.org/zh-hans/clinical/case-study-advanced-dementia-90yo"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "90岁晚期阿尔茨海默症男性，极少言语沟通，严重吞咽困难，在护理院照护。护理目标讨论：舒适喂食对比管饲。选择舒适喂食方案。"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "家庭照护者心理健康：吞咽障碍患者主要照护者的压力识别与支持"
 description: "系统介绍吞咽障碍患者家庭照护者面临的心理压力、倦怠风险评估及循证支持策略，帮助照护者在照护患者的同时维护自身心理健康。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: caregiving
 last_updated: 2026-05-09
@@ -11,7 +11,7 @@ lang: zh-hans
 categories: [caregiving]
 tags: [照护者心理健康, 照护倦怠, 吞咽障碍, 家庭照护, 心理支持]
 license: CC BY 4.0
-canonical: "https://dysphagia.cn/zh-hans/caregiving/2026-05-09-family-caregiver-mental-health.html"
+canonical: "https://softmeal.org/zh-hans/caregiving/2026-05-09-family-caregiver-mental-health.html"
 ---
 
 # 家庭照护者心理健康：吞咽障碍患者主要照护者的压力识别与支持

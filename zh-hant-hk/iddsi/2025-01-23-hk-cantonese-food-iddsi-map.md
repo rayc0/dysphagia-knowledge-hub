@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-23"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/iddsi/hk-cantonese-food-iddsi-map"
+canonical: "https://softmeal.org/zh-hant-hk/iddsi/hk-cantonese-food-iddsi-map"
 ---
 
 # 香港廣東菜IDDSI等級對照表：粵菜與港式食物嘅質感分級指引

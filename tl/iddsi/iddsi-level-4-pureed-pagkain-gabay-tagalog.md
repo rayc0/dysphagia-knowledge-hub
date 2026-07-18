@@ -6,7 +6,7 @@ language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/iddsi/iddsi-level-4-pureed-pagkain-gabay-tagalog.html"
+canonical: "https://softmeal.org/tl/iddsi/iddsi-level-4-pureed-pagkain-gabay-tagalog.html"
 ---
 
 # IDDSI Level 4 Pureed — Gabay sa Tagalog: Dinerog na Pagkain para sa mga may Dysphagia

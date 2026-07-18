@@ -12,7 +12,7 @@ tags:
   - quality of life
 description: "Depression and anxiety are common but under-recognised in dysphagia patients. Learn to identify symptoms, access support, and protect your mental wellbeing alongside physical care."
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## When Swallowing Changes More Than Mealtimes

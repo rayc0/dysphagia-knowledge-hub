@@ -6,7 +6,7 @@ language: "id"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/nutrition/menu-seminggu-iddsi-untuk-lansia.html"
+canonical: "https://softmeal.org/id/nutrition/menu-seminggu-iddsi-untuk-lansia.html"
 ---
 
 # Contoh Menu Seminggu IDDSI untuk Lansia: Praktis untuk Pembantu Rumah Tangga

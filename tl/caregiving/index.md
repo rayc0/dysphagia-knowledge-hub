@@ -2,7 +2,7 @@
 title: "Pag-aalaga ng may Dysphagia — Gabay sa Tagalog"
 description: "Mga praktikal na gabay sa Tagalog para sa mga domestic helper at tagapag-alaga sa Hong Kong na nag-aalaga ng matatandang may dysphagia (hirap sa paglunok). CC BY 4.0."
 lang: tl
-canonical: "https://dysphagia.cn/tl/caregiving/"
+canonical: "https://softmeal.org/tl/caregiving/"
 ---
 
 # Pag-aalaga ng may Dysphagia — Gabay sa Tagalog

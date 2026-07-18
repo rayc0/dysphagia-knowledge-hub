@@ -7,7 +7,7 @@ category: "iddsi"
 date: 2026-05-09
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/iddsi-level-6-taiwan-guide"
+canonical: "https://softmeal.org/zh-hant-tw/iddsi/iddsi-level-6-taiwan-guide"
 ---
 
 # IDDSI六級軟質食物台灣照護指南：適合食材、刀切測試與烹調方法

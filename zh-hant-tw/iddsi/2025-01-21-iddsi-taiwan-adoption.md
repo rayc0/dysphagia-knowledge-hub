@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "iddsi"
 last_updated: "2025-01-21"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/iddsi-taiwan-adoption"
+canonical: "https://softmeal.org/zh-hant-tw/iddsi/iddsi-taiwan-adoption"
 ---
 
 # IDDSI在台灣的推廣現況：醫院、長照機構與臨床實踐

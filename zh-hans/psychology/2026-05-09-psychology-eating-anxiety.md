@@ -1,7 +1,7 @@
 ---
 title: "进食焦虑与心理干预：吞咽障碍患者的恐惧管理"
 description: "探讨吞咽障碍患者常见的进食焦虑成因、评估方法及循证心理干预策略，帮助患者重建对进食的信心与掌控感。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: psychology
 last_updated: 2026-05-09
@@ -11,7 +11,7 @@ lang: zh-hans
 categories: [psychology]
 tags: [吞咽障碍, 进食焦虑, 心理干预, 认知行为治疗, 恐惧进食]
 license: CC BY 4.0
-canonical: "https://dysphagia.cn/zh-hans/psychology/2026-05-09-psychology-eating-anxiety.html"
+canonical: "https://softmeal.org/zh-hans/psychology/2026-05-09-psychology-eating-anxiety.html"
 ---
 
 # 进食焦虑与心理干预：吞咽障碍患者的恐惧管理

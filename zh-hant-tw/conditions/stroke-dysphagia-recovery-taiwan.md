@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["中風", "吞嚥障礙", "復健", "語言治療", "台灣健保"]
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/stroke-dysphagia-recovery-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/stroke-dysphagia-recovery-taiwan"
 ---
 
 # 中風後吞嚥困難康復：復健療程與飲食管理（台灣醫療資源版）

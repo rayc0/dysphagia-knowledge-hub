@@ -6,7 +6,7 @@ language: "en"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/nutrition/2026-05-13-vitamin-d-dysphagia-muscle"
+canonical: "https://softmeal.org/en/nutrition/2026-05-13-vitamin-d-dysphagia-muscle"
 ---
 
 # Vitamin D Deficiency and Swallowing Muscle Function

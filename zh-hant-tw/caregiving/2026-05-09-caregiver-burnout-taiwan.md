@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["照護者耗竭", "身心健康", "喘息服務", "支持團體", "長照2.0"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/caregiver-burnout-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/caregiver-burnout-taiwan"
 ---
 
 # 台灣吞嚥障礙照護者身心耗竭：識別症狀與尋求支援資源

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/end-of-life-dysphagia-care"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/end-of-life-dysphagia-care"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "臨終吞嚥困難管理的臨床指南——包括護理目標原則、針對終末期疾病管飼的反面證據、舒適餵食方法、臨終患者口腔衛生、家屬溝通及倫理框架。"
 ---

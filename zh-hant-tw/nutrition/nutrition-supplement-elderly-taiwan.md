@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["口服營養補充品", "ONS", "營養支持", "長照", "老人營養"]
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/nutrition-supplement-elderly-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/nutrition-supplement-elderly-taiwan"
 ---
 
 # 吞嚥困難老人的營養補充：台灣可取得的口服營養補充品指南

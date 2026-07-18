@@ -6,7 +6,7 @@ language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/iddsi/iddsi-level-2-katamtamang-malapot-inumin-tagalog.html"
+canonical: "https://softmeal.org/tl/iddsi/iddsi-level-2-katamtamang-malapot-inumin-tagalog.html"
 ---
 
 # IDDSI Level 2 Mildly Thick — Gabay sa Tagalog: Katamtamang Malapot na Inumin para sa mga may Dysphagia

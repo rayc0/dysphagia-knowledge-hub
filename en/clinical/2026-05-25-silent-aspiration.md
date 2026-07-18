@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/silent-aspiration"
+canonical: "https://softmeal.org/en/clinical/silent-aspiration"
 tags: [silent aspiration, aspiration, FEES, VFSS, dysphagia detection]
 summary: "Silent aspiration — airway invasion without cough — affects 40–70% of aspirating stroke patients. It cannot be detected by bedside screening alone. FEES or VFSS is required. Key populations: stroke, Parkinson's, advanced dementia, post-radiation. Associated with aspiration pneumonia mortality."
 ---

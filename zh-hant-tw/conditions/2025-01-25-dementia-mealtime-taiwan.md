@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "conditions"
 last_updated: "2025-01-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/dementia-mealtime-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/dementia-mealtime-taiwan"
 ---
 
 # 失智症患者的吞嚥與進食困難：台灣照護者實戰指南

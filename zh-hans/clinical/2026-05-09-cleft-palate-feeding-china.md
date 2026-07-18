@@ -1,7 +1,7 @@
 ---
 title: "唇腭裂儿童的喂养困难：腭裂奶嘴选择、手术前后饮食管理与北京上海儿童医院资源"
 description: "唇腭裂患儿因口腔结构异常导致吸吮无力，本文介绍腭裂专用喂养工具选择、术前术后饮食调整策略及国内主要诊疗中心资源。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

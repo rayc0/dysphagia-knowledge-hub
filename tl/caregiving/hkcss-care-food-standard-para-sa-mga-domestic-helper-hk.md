@@ -6,7 +6,7 @@ language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/caregiving/hkcss-care-food-standard-para-sa-mga-domestic-helper-hk.html"
+canonical: "https://softmeal.org/tl/caregiving/hkcss-care-food-standard-para-sa-mga-domestic-helper-hk.html"
 ---
 
 # Ano ang HKCSS 照護食 (Care Food Standard) ng Hong Kong at Bakit Ito Mahalaga para sa mga DH
@@ -105,7 +105,7 @@ Bilang DH na nag-aalaga ng matatandang may dysphagia, mahalaga ang pag-unawa sa 
 **Ikatlo: Mas madaling pamimili.** Sa halip na mag-alala kung ang isang produkto ay "sapat na malambot" o "sapat na malapot," ang certification system ay nag-aalis ng pagkakamali. Hanapin lang ang tamang logo at level.
 
 **Praktikal na halimbawa:** Kung sinabi ng SLT sa family meeting na kailangan ng iyong employer ng "IDDSI L4 pureed food" para sa lahat ng solid meals:
-1. I-screenshot ang IDDSI Level 4 description mula sa dysphagia.cn
+1. I-screenshot ang IDDSI Level 4 description mula sa softmeal.org
 2. Hanapin ang mga produktong may 照護食 certification at "Level 4" sa label
 3. Kapag nagluto ka ng sariwang pagkain, gamitin ang fork pressure test para masigurado ang tamang consistency
 
@@ -119,7 +119,7 @@ Bilang DH sa HK, mayroon kang access sa maraming libreng resources:
 - **carefood.org.hk** — opisyal na website ng HKCSS Care Food Standard. May listahan ng certified products, testing guides, at educational materials sa Chinese at English.
 
 **Para sa IDDSI information:**
-- **dysphagia.cn** — ang site na ito. May Tagalog, Indonesian, at Chinese na artikulo tungkol sa dysphagia care, recipes, at screening tools.
+- **softmeal.org** — ang site na ito. May Tagalog, Indonesian, at Chinese na artikulo tungkol sa dysphagia care, recipes, at screening tools.
 - **iddsi.org** — opisyal na IDDSI website (English). May libreng testing method guides na puwedeng i-download.
 
 **Para sa HK-specific care food knowledge:**

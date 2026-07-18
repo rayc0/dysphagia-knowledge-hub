@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/end-of-life-dysphagia-care"
+canonical: "https://softmeal.org/zh-hans/clinical/end-of-life-dysphagia-care"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "临终吞咽困难管理的临床指南——包括护理目标原则、针对终末期疾病管饲的反面证据、舒适喂食方法、临终患者口腔卫生、家属沟通及伦理框架。"
 ---

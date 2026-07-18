@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "nutrition"
 last_updated: "2025-01-20"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/taiwan-soft-food-market"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/taiwan-soft-food-market"
 ---
 
 # 台灣吞嚥障礙照護食市場與產品選購指南

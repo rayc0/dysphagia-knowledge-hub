@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-22"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/mealtime-incident-reporting-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/mealtime-incident-reporting-hk"
 ---
 
 # 用餐意外事故處理及記錄：香港院舍及居家照護者指南

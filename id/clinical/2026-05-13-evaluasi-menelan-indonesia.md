@@ -6,7 +6,7 @@ language: "id"
 category: "clinical"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/clinical/2026-05-13-evaluasi-menelan-indonesia"
+canonical: "https://softmeal.org/id/clinical/2026-05-13-evaluasi-menelan-indonesia"
 ---
 
 # Evaluasi Menelan — Tes dan Layanan di Indonesia

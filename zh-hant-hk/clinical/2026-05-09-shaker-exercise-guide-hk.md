@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/shaker-exercise-guide-hk"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/shaker-exercise-guide-hk"
 ---
 
 # Shaker等長收縮運動完全指南：香港患者居家訓練須知

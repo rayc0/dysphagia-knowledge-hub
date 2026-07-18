@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/multiple-sclerosis-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/multiple-sclerosis-dysphagia-hk"
 ---
 
 # 多發性硬化症與吞嚥困難：香港進展期管理指南

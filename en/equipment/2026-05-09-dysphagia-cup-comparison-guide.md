@@ -6,7 +6,7 @@ categories: [equipment]
 tags: [dysphagia, equipment, adaptive, drinking-aids, cup-comparison, clinical]
 description: "A practical comparison of dysphagia-adapted cups: cut-out, nosey, FlexiCup, and one-way valve designs — indications, strengths, and limitations for each."
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## Why Cup Design Matters in Dysphagia

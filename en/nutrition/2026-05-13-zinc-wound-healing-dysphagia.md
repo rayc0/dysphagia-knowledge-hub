@@ -6,7 +6,7 @@ language: "en"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/nutrition/2026-05-13-zinc-wound-healing-dysphagia"
+canonical: "https://softmeal.org/en/nutrition/2026-05-13-zinc-wound-healing-dysphagia"
 ---
 
 # Zinc Supplementation for Pressure Ulcers in Dysphagia Patients

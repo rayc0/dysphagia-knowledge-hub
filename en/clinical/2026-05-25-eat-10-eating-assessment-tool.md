@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/eat-10-eating-assessment-tool"
+canonical: "https://softmeal.org/en/clinical/eat-10-eating-assessment-tool"
 tags: [screening, EAT-10, dysphagia, assessment, self-report]
 summary: "The EAT-10 is a 10-item patient-reported outcome measure for dysphagia. A total score ≥3 indicates swallowing risk and warrants clinical referral. This guide covers administration, scoring, limitations, and clinical integration."
 ---

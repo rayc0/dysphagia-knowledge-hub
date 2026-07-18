@@ -1,12 +1,12 @@
 ---
 title: "神經肌肉電刺激治療（NMES/VitalStim）：吞嚥困難的電療選擇與香港應用"
 description: "解析神經肌肉電刺激（NMES）及VitalStim在吞嚥困難治療中的原理、實證爭議、適應症及香港醫療體系的應用情況。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/neuromuscular-electrical-stimulation-hk"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/neuromuscular-electrical-stimulation-hk"
 ---
 
 # 神經肌肉電刺激治療（NMES/VitalStim）：吞嚥困難的電療選擇與香港應用

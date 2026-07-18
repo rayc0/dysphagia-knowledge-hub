@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/mengenali-tanda-disfagia-pada-majikan.html"
+canonical: "https://softmeal.org/id/caregiving/mengenali-tanda-disfagia-pada-majikan.html"
 ---
 
 # Mengenali Tanda-Tanda Disfagia pada Lansia: Kapan Harus Memanggil Dokter

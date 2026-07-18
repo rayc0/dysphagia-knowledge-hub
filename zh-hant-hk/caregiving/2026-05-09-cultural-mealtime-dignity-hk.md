@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/cultural-mealtime-dignity-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/cultural-mealtime-dignity-hk"
 ---
 
 # 維護吞嚥困難長者的飲食文化尊嚴：保留港式飲食傳統的照護策略

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2025-01-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/copd-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/copd-dysphagia-hk"
 ---
 
 # 慢性阻塞性肺病（COPD）與吞嚥困難：香港患者的雙重挑戰

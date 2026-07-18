@@ -1,7 +1,7 @@
 ---
 title: "台灣IDDSI實施現況與展望：2026年進度全面解析"
 description: "解析台灣IDDSI國際飲食質地標準2026年的實施現況，涵蓋醫院導入率、長照2.0政策銜接、食藥署標示規範，以及未來五年推廣展望。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-tw"
 category: "iddsi"
 date: 2026-05-09
@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["吞嚥障礙", "台灣", "IDDSI", "長照2.0", "飲食質地"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/iddsi/taiwan-iddsi-implementation"
+canonical: "https://softmeal.org/zh-hant-tw/iddsi/taiwan-iddsi-implementation"
 ---
 
 # 台灣IDDSI實施現況與展望：2026年進度全面解析

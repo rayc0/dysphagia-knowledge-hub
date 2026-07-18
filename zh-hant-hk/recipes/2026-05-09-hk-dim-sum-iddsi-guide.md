@@ -6,7 +6,7 @@ categories: [recipes]
 tags: [吞嚥困難, 香港, 食譜, IDDSI, 飲茶, 點心, 廣東飲食]
 description: "分析香港飲茶點心的IDDSI安全級別，包括蝦餃、燒賣、腸粉、蘿蔔糕等，並提供適合吞嚥困難患者的改良建議與家居製作食譜。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 飲茶是香港最具代表性的文化習俗之一，每逢周末，一家人圍坐酒樓，推車仔點心，熱鬧非凡。對於吞嚥困難患者而言，飲茶聚餐是重要的社交場合，但酒樓點心大多未必適合吞嚥困難患者直接進食。本文逐一分析香港常見點心的IDDSI適用性，並提供實際可行的安全飲茶策略和家居改良食譜。

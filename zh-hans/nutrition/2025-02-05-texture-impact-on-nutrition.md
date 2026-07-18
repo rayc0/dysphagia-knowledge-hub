@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-02-05"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/nutrition/texture-impact-on-nutrition"
+canonical: "https://softmeal.org/zh-hans/nutrition/texture-impact-on-nutrition"
 ---
 
 # 质地改良对营养素的影响：蒸煮、搅拌和过筛过程中的营养流失与保留

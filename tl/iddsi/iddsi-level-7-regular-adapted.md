@@ -6,7 +6,7 @@ language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/iddsi/iddsi-level-7-regular-adapted.html"
+canonical: "https://softmeal.org/tl/iddsi/iddsi-level-7-regular-adapted.html"
 ---
 
 # IDDSI Level 7 Regular at Inangkop na Pagkain — Pag-iwas sa Dysphagia para sa Matatanda sa HK

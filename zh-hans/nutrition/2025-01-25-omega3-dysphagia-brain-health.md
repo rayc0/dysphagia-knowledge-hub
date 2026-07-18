@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-01-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/nutrition/omega3-dysphagia-brain-health"
+canonical: "https://softmeal.org/zh-hans/nutrition/omega3-dysphagia-brain-health"
 ---
 
 # Omega-3脂肪酸与吞咽障碍：改善脑健康、减少炎症的营养策略

@@ -6,7 +6,7 @@ language: "tl"
 category: "clinical"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/clinical/aspiration-pneumonia-pag-iwas-gabay-tagalog.html"
+canonical: "https://softmeal.org/tl/clinical/aspiration-pneumonia-pag-iwas-gabay-tagalog.html"
 ---
 
 # Pag-iwas sa Aspiration Pneumonia — Bakit Ang Posisyon at Texture ng Pagkain ay Nakakapagligtas ng Buhay

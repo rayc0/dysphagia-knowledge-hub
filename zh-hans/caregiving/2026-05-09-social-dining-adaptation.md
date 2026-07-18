@@ -1,7 +1,7 @@
 ---
 title: "社交饮食适应策略：吞咽障碍患者的外出就餐与聚会指南"
 description: "为吞咽障碍患者及照护者提供外出就餐、节日聚会、工作餐等社交场合的实用适应策略，帮助患者在安全饮食的前提下维持社会参与。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: caregiving
 last_updated: 2026-05-09
@@ -11,7 +11,7 @@ lang: zh-hans
 categories: [caregiving]
 tags: [社交饮食, 吞咽障碍, 外出就餐, 聚会, 社会参与, 质构改良]
 license: CC BY 4.0
-canonical: "https://dysphagia.cn/zh-hans/caregiving/2026-05-09-social-dining-adaptation.html"
+canonical: "https://softmeal.org/zh-hans/caregiving/2026-05-09-social-dining-adaptation.html"
 ---
 
 # 社交饮食适应策略：吞咽障碍患者的外出就餐与聚会指南

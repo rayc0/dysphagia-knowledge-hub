@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/guss-gugging-swallowing-screen"
+canonical: "https://softmeal.org/zh-hans/clinical/guss-gugging-swallowing-screen"
 tags: [筛查, GUSS, 卒中, 床边, 吞咽困难]
 summary: "GUSS是在急性卒中中验证的两部分床边吞咽筛查工具，严重程度分级0–20，直接对应饮食质地建议。误吸灵敏度约100%；特异度约50%。本文涵盖完整方案及临床整合。"
 ---

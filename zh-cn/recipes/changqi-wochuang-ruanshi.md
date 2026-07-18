@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "recipes"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/recipes/changqi-wochuang-ruanshi"
+canonical: "https://softmeal.org/zh-cn/recipes/changqi-wochuang-ruanshi"
 ---
 
 # 长期卧床患者软食食谱——床边进食安全与营养的两全方案

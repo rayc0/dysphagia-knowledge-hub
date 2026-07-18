@@ -3,7 +3,7 @@ layout: default
 title: "Dysphagia Recipes: Complete Guide Collection"
 description: "Dysphagia-friendly recipe collections — high-protein pureed meals, Cantonese soft meal recipes, IDDSI Level 4 and 5 meal plans, diabetic-friendly pureed meals, and holiday recipes."
 lang: en
-canonical: "https://dysphagia.cn/en/recipes/"
+canonical: "https://softmeal.org/en/recipes/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/en/recipes/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://dysphagia.cn/en/"},
-    {"@type": "ListItem", "position": 3, "name": "Recipes", "item": "https://dysphagia.cn/en/recipes/"}
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://softmeal.org/en/"},
+    {"@type": "ListItem", "position": 3, "name": "Recipes", "item": "https://softmeal.org/en/recipes/"}
   ]
 }
 </script>
@@ -24,15 +24,15 @@ canonical: "https://dysphagia.cn/en/recipes/"
   "@type": "CollectionPage",
   "name": "Dysphagia Recipes: Complete Guide Collection",
   "description": "Recipe collections for dysphagia patients at IDDSI Levels 4–7, including high-protein pureed meals, Cantonese soft dishes, diabetic-friendly options, and seasonal menus.",
-  "url": "https://dysphagia.cn/en/recipes/",
+  "url": "https://softmeal.org/en/recipes/",
   "inLanguage": "en",
   "hasPart": [
-    {"@type": "Article", "name": "Cantonese Soft Meal Recipes", "url": "https://dysphagia.cn/en/recipes/cantonese-soft-meal-recipes/"},
-    {"@type": "Article", "name": "Diabetic-Friendly IDDSI Level 4 Pureed Meals", "url": "https://dysphagia.cn/en/recipes/diabetic-friendly-iddsi-level-4-pureed-meals/"},
-    {"@type": "Article", "name": "High-Protein Pureed Meals", "url": "https://dysphagia.cn/en/recipes/high-protein-pureed-meals/"},
-    {"@type": "Article", "name": "IDDSI Level 5 Minced and Moist 7-Day Meal Plan", "url": "https://dysphagia.cn/en/recipes/iddsi-level-5-meal-plan-7-day-rotation/"},
-    {"@type": "Article", "name": "IDDSI Level 6 Soft and Bite-Sized Recipes", "url": "https://dysphagia.cn/en/recipes/iddsi-level-6-soft-bite-sized-recipes/"},
-    {"@type": "Article", "name": "Renal-Friendly Pureed Meals", "url": "https://dysphagia.cn/en/recipes/renal-friendly-pureed-meals/"}
+    {"@type": "Article", "name": "Cantonese Soft Meal Recipes", "url": "https://softmeal.org/en/recipes/cantonese-soft-meal-recipes/"},
+    {"@type": "Article", "name": "Diabetic-Friendly IDDSI Level 4 Pureed Meals", "url": "https://softmeal.org/en/recipes/diabetic-friendly-iddsi-level-4-pureed-meals/"},
+    {"@type": "Article", "name": "High-Protein Pureed Meals", "url": "https://softmeal.org/en/recipes/high-protein-pureed-meals/"},
+    {"@type": "Article", "name": "IDDSI Level 5 Minced and Moist 7-Day Meal Plan", "url": "https://softmeal.org/en/recipes/iddsi-level-5-meal-plan-7-day-rotation/"},
+    {"@type": "Article", "name": "IDDSI Level 6 Soft and Bite-Sized Recipes", "url": "https://softmeal.org/en/recipes/iddsi-level-6-soft-bite-sized-recipes/"},
+    {"@type": "Article", "name": "Renal-Friendly Pureed Meals", "url": "https://softmeal.org/en/recipes/renal-friendly-pureed-meals/"}
   ]
 }
 </script>

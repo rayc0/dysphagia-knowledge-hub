@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞咽障碍, 营养, 维生素, 微量元素, 老年护理]
 description: "系统梳理与吞咽障碍风险相关的关键维生素缺乏问题，包括维生素D、B族维生素等，提供监测与饮食干预建议。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## 维生素缺乏与吞咽障碍风险

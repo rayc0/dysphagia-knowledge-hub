@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2025-01-20"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/parkinson-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/parkinson-dysphagia-hk"
 ---
 
 # 柏金遜症與吞嚥困難：香港患者及照顧者完整指南

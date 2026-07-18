@@ -4,7 +4,7 @@ description: "传统广式马蹄糕去除马蹄丁，仅保留马蹄粉基底，
 lang: zh-hans
 category: recipes
 date: 2025-02-06
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 tags:
   - 软食食谱
   - IDDSI Level 4

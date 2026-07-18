@@ -6,7 +6,7 @@ language: "id"
 category: "recipes"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/recipes/resep-sup-tahu-sayur-iddsi-l4.html"
+canonical: "https://softmeal.org/id/recipes/resep-sup-tahu-sayur-iddsi-l4.html"
 ---
 
 # Resep Sup Tahu Sayur IDDSI L4: Lembut, Bergizi, Mudah Dibuat

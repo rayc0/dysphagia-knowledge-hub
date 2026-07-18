@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/iddsi/iddsi-practical-hk-guide"
+canonical: "https://softmeal.org/zh-hant-hk/iddsi/iddsi-practical-hk-guide"
 ---
 
 # IDDSI質地標準實用指南：香港護理院及家居照顧者版

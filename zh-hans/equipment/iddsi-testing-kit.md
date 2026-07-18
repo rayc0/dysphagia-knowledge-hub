@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "equipment"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/equipment/iddsi-testing-kit.html"
+canonical: "https://softmeal.org/zh-hans/equipment/iddsi-testing-kit.html"
 ---
 
 # IDDSI 测试工具包：家庭版自测指南

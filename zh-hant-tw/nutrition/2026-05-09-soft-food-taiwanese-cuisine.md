@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["台灣料理", "質地調整", "IDDSI", "軟食", "吞嚥障礙"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/soft-food-taiwanese-cuisine"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/soft-food-taiwanese-cuisine"
 ---
 
 # 台灣傳統料理的質地調整指南：從滷肉飯到湯圓的IDDSI實作

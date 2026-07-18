@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-21"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/hydration-strategies-hk"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/hydration-strategies-hk"
 ---
 
 # 吞嚥困難長者嘅補水策略：香港氣候下嘅特殊挑戰

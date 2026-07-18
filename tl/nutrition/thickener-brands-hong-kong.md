@@ -6,7 +6,7 @@ language: "tl"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/nutrition/thickener-brands-hong-kong.html"
+canonical: "https://softmeal.org/tl/nutrition/thickener-brands-hong-kong.html"
 ---
 
 # Mga Brand ng Thickener sa Hong Kong — EasiThick, Nutilis, Thick-It: Presyo, Pagbili, at Tamang Paghahalo

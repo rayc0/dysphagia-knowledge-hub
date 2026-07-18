@@ -1,12 +1,12 @@
 ---
 title: "老年性吞嚥退化（Presbyphagia）：正常老化與吞嚥障礙的區別、香港高齡趨勢與預防策略"
 description: "Presbyphagia（老年性吞嚥退化）的定義、正常老化vs病理性吞嚥障礙的臨床區別、香港高齡人口趨勢、預防吞嚥退化的生活策略及定期篩查建議。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/presbyphagia-aging-swallowing"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/presbyphagia-aging-swallowing"
 ---
 
 # 老年性吞嚥退化（Presbyphagia）：正常老化與吞嚥障礙的區別

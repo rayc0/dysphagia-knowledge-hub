@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-15"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/hk-pharmacies-dysphagia-products"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/hk-pharmacies-dysphagia-products"
 ---
 
 # 香港藥房及醫療用品店吞嚥困難產品採購指南

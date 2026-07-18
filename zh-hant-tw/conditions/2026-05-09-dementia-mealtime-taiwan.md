@@ -7,7 +7,7 @@ category: "conditions"
 date: 2026-05-09
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/dementia-mealtime-taiwan-2026"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/dementia-mealtime-taiwan-2026"
 ---
 
 # 台灣失智症進食困難：以人為中心的用餐策略與長照資源

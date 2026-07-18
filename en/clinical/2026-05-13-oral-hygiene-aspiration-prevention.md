@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/2026-05-13-oral-hygiene-aspiration-prevention"
+canonical: "https://softmeal.org/en/clinical/2026-05-13-oral-hygiene-aspiration-prevention"
 ---
 
 # Evidence-Based Oral Hygiene Protocols to Prevent Aspiration Pneumonia

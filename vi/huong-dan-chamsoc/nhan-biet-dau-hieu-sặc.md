@@ -6,7 +6,7 @@ language: "vi"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/vi/huong-dan-chamsoc/nhan-biet-dau-hieu-sặc.html"
+canonical: "https://softmeal.org/vi/huong-dan-chamsoc/nhan-biet-dau-hieu-sặc.html"
 ---
 
 # Nhận Biết Dấu Hiệu Sặc ở Người Cao Tuổi — Hướng Dẫn cho Người Giúp Việc Việt Nam tại HK

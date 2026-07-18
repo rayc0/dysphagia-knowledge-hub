@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-24"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/omega3-vitamin-d-hk"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/omega3-vitamin-d-hk"
 ---
 
 # 香港長者吞嚥困難患者的Omega-3及維生素D補充策略

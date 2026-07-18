@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/iddsi/iddsi-kuangjia-jiangjie"
+canonical: "https://softmeal.org/zh-cn/iddsi/iddsi-kuangjia-jiangjie"
 ---
 
 # IDDSI国际吞咽饮食标准化倡议——0至7级体系完全指南

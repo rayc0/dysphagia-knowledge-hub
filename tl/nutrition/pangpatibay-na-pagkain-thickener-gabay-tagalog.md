@@ -6,7 +6,7 @@ language: "tl"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/nutrition/pangpatibay-na-pagkain-thickener-gabay-tagalog.html"
+canonical: "https://softmeal.org/tl/nutrition/pangpatibay-na-pagkain-thickener-gabay-tagalog.html"
 ---
 
 # Pangpatibay ng Inumin (Food Thickeners) para sa Dysphagia — Paano Gamitin at Pumili ng Tamang Uri

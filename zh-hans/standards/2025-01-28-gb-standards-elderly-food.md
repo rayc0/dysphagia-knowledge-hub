@@ -1,7 +1,7 @@
 ---
 title: "国家标准与行业标准：中国老年食品相关标准体系梳理"
 description: "系统梳理中国大陆老年食品与吞咽障碍饮食相关标准体系，涵盖 GB 2762、GB 2763 食品安全国家标准、GB/T 31601 老年营养标准、WS/T 552 卫生行业标准，以及团体标准 T/SATA 系列，厘清强制与自愿标准的区别及查询渠道。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: standards
 last_updated: 2025-01-28

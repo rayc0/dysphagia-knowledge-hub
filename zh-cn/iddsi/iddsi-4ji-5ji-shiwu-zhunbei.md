@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/iddsi/iddsi-4ji-5ji-shiwu-zhunbei"
+canonical: "https://softmeal.org/zh-cn/iddsi/iddsi-4ji-5ji-shiwu-zhunbei"
 ---
 
 # IDDSI 4级泥状与5级细碎湿润食物的中式厨房制备指南

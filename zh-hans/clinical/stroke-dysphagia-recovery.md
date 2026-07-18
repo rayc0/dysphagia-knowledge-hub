@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/stroke-dysphagia-recovery.html"
+canonical: "https://softmeal.org/zh-hans/clinical/stroke-dysphagia-recovery.html"
 ---
 
 # 中风后吞咽障碍康复：居家护理完整指南

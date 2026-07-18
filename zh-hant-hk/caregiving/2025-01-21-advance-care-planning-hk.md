@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-21"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/advance-care-planning-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/advance-care-planning-hk"
 ---
 
 # 預設照顧計劃：吞嚥困難患者的人工灌食決策指引

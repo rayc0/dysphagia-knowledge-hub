@@ -6,7 +6,7 @@ language: "tl"
 category: "testing"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/testing/eat-10-screening-tool-tagalog.html"
+canonical: "https://softmeal.org/tl/testing/eat-10-screening-tool-tagalog.html"
 ---
 
 # EAT-10 Dysphagia Screening Tool sa Tagalog — Para Malaman Kung Kailangan ng Pagsuri ng Doktor

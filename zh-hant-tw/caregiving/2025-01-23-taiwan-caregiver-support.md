@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2025-01-23"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/taiwan-caregiver-support"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/taiwan-caregiver-support"
 ---
 
 # 台灣吞嚥障礙照顧者支持資源：長照、協會、喘息服務全指南

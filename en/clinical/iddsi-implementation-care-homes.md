@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/iddsi-implementation-care-homes"
+canonical: "https://softmeal.org/en/clinical/iddsi-implementation-care-homes"
 ---
 
 # Implementing IDDSI in Hong Kong Care Homes: A Practical Guide

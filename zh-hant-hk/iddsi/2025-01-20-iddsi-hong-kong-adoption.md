@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-20"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/iddsi/iddsi-hong-kong-adoption"
+canonical: "https://softmeal.org/zh-hant-hk/iddsi/iddsi-hong-kong-adoption"
 ---
 
 # IDDSI在香港的推行現況：醫院、院舍及社區採用進展

@@ -6,7 +6,7 @@ language: "en"
 category: "standards"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/standards/gba-care-food-standards"
+canonical: "https://softmeal.org/en/standards/gba-care-food-standards"
 ---
 
 # GBA Care Food Standards: T/SATA 084, 085, 094 Explained for International Buyers

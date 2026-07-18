@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/penetration-aspiration-scale"
+canonical: "https://softmeal.org/zh-hans/clinical/penetration-aspiration-scale"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "PAS是描述VFSS和FEES中气道侵入深度和患者反应的标准8级量表。1–2级=正常；5–8级=误吸；隐性误吸=8级。VFSS/FEES报告必备工具。"
 ---

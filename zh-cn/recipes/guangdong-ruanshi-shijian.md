@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "recipes"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/recipes/guangdong-ruanshi-shijian"
+canonical: "https://softmeal.org/zh-cn/recipes/guangdong-ruanshi-shijian"
 ---
 
 # 粤式吞咽友好食谱精选——10道适合IDDSI 4-6级的广东软食

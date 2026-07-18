@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/jadwal-harian-merawat-lansia-disfagia.html"
+canonical: "https://softmeal.org/id/caregiving/jadwal-harian-merawat-lansia-disfagia.html"
 ---
 
 # Jadwal Harian yang Efektif untuk Merawat Lansia dengan Disfagia

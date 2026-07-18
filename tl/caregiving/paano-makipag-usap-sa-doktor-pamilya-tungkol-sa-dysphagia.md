@@ -6,7 +6,7 @@ language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/caregiving/paano-makipag-usap-sa-doktor-pamilya-tungkol-sa-dysphagia.html"
+canonical: "https://softmeal.org/tl/caregiving/paano-makipag-usap-sa-doktor-pamilya-tungkol-sa-dysphagia.html"
 ---
 
 # Paano Makipag-usap sa Doktor at sa Pamilya ng Inyong Employer Tungkol sa Dysphagia

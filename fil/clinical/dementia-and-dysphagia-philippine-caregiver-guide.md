@@ -6,7 +6,7 @@ category: clinical
 date: 2026-05-19
 author: SeniorDeli Dysphagia Knowledge Hub
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/fil/clinical/dementia-and-dysphagia-philippine-caregiver-guide"
+canonical: "https://softmeal.org/fil/clinical/dementia-and-dysphagia-philippine-caregiver-guide"
 ---
 
 # Dementia at Dysphagia — Gabay sa Pagpapakain at Comfort Care para sa Pamilyang Pilipino

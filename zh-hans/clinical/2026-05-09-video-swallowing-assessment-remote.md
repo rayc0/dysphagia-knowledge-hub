@@ -11,7 +11,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/video-swallowing-assessment-remote"
+canonical: "https://softmeal.org/zh-hans/clinical/video-swallowing-assessment-remote"
 ---
 
 # 视频远程吞咽筛查：后疫情时代的应用实践与局限

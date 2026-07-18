@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/penetration-aspiration-scale"
+canonical: "https://softmeal.org/en/clinical/penetration-aspiration-scale"
 tags: [PAS, penetration, aspiration, VFSS, FEES, instrumental assessment]
 summary: "The PAS classifies airway invasion into 8 levels based on depth (penetration vs aspiration) and patient response (expelled vs retained). Levels 1–2 = normal/trace penetration; Levels 5–8 = aspiration; silent aspiration = Level 8. Essential for VFSS/FEES reporting."
 ---

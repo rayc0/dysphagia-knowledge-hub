@@ -6,7 +6,7 @@ language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/fil/caregiving/emerhensiya-choking-first-aid"
+canonical: "https://softmeal.org/fil/caregiving/emerhensiya-choking-first-aid"
 ---
 
 # Unang Tulong sa Choking (Pag-tinik) — Step-by-Step

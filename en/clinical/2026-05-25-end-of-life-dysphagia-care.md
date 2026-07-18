@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/end-of-life-dysphagia-care"
+canonical: "https://softmeal.org/en/clinical/end-of-life-dysphagia-care"
 tags: [end of life, palliative care, dysphagia, comfort feeding, tube feeding]
 summary: "At end of life, dysphagia is universal. Tube feeding does not improve survival or quality of life in terminal illness. Comfort feeding — small amounts of preferred textures for pleasure — is evidence-aligned and ethically robust. Oral hygiene remains the highest-impact intervention."
 ---

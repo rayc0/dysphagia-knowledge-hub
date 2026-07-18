@@ -1,7 +1,7 @@
 ---
 title: "养老机构软烂食物制作的食品安全标准：GB 14881、GB 31654及地方标准"
 description: "梳理养老机构软烂食物生产适用的核心食品安全国家标准，包括GB 14881通用卫生规范、GB 31654餐饮服务通则及各地方标准，为机构食品安全合规提供指引。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: standards
 last_updated: 2026-05-09

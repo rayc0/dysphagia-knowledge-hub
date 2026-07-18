@@ -1,7 +1,7 @@
 ---
 title: "新生儿吞咽障碍与管饲喂养：NICU管理规范、早产儿母乳强化、口腔运动干预"
 description: "介绍中国NICU新生儿吞咽障碍的发生机制、管饲喂养规范、早产儿母乳强化策略及口腔运动干预，帮助家庭理解新生儿喂养支持流程。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

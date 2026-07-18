@@ -3,7 +3,7 @@ layout: default
 title: "Dysphagia Clinical Resources: Complete Guide Collection"
 description: "Clinical management guides for dysphagia — stroke, Parkinson's, ALS, dementia, head and neck cancer, aspiration pneumonia, thickened fluids, tube feeding, and swallowing rehabilitation."
 lang: en
-canonical: "https://dysphagia.cn/en/clinical/"
+canonical: "https://softmeal.org/en/clinical/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/en/clinical/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://dysphagia.cn/en/"},
-    {"@type": "ListItem", "position": 3, "name": "Clinical Resources", "item": "https://dysphagia.cn/en/clinical/"}
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://softmeal.org/en/"},
+    {"@type": "ListItem", "position": 3, "name": "Clinical Resources", "item": "https://softmeal.org/en/clinical/"}
   ]
 }
 </script>
@@ -24,14 +24,14 @@ canonical: "https://dysphagia.cn/en/clinical/"
   "@type": "CollectionPage",
   "name": "Dysphagia Clinical Resources: Complete Guide Collection",
   "description": "Evidence-based clinical guides for dysphagia management across neurological conditions, rehabilitation protocols, and ethical decision-making.",
-  "url": "https://dysphagia.cn/en/clinical/",
+  "url": "https://softmeal.org/en/clinical/",
   "inLanguage": "en",
   "hasPart": [
-    {"@type": "Article", "name": "ALS and Dysphagia: Clinical Management", "url": "https://dysphagia.cn/en/clinical/als-and-dysphagia-clinical-management/"},
-    {"@type": "Article", "name": "Aspiration Pneumonia Prevention", "url": "https://dysphagia.cn/en/clinical/aspiration-pneumonia-prevention/"},
-    {"@type": "Article", "name": "Stroke and Dysphagia Recovery", "url": "https://dysphagia.cn/en/clinical/stroke-and-dysphagia-recovery/"},
-    {"@type": "Article", "name": "Parkinson's Disease and Dysphagia", "url": "https://dysphagia.cn/en/clinical/parkinsons-disease-dysphagia-management/"},
-    {"@type": "Article", "name": "Swallowing Therapy Exercises", "url": "https://dysphagia.cn/en/clinical/swallowing-therapy-exercises/"}
+    {"@type": "Article", "name": "ALS and Dysphagia: Clinical Management", "url": "https://softmeal.org/en/clinical/als-and-dysphagia-clinical-management/"},
+    {"@type": "Article", "name": "Aspiration Pneumonia Prevention", "url": "https://softmeal.org/en/clinical/aspiration-pneumonia-prevention/"},
+    {"@type": "Article", "name": "Stroke and Dysphagia Recovery", "url": "https://softmeal.org/en/clinical/stroke-and-dysphagia-recovery/"},
+    {"@type": "Article", "name": "Parkinson's Disease and Dysphagia", "url": "https://softmeal.org/en/clinical/parkinsons-disease-dysphagia-management/"},
+    {"@type": "Article", "name": "Swallowing Therapy Exercises", "url": "https://softmeal.org/en/clinical/swallowing-therapy-exercises/"}
   ]
 }
 </script>

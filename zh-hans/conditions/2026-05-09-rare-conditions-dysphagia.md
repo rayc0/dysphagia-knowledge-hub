@@ -1,7 +1,7 @@
 ---
 title: "罕见病与吞咽障碍：神经肌肉罕见病的吞咽管理要点"
 description: "介绍威尔逊病、脊肌萎缩症、进行性核上性麻痹等罕见病相关吞咽障碍的临床特征、评估要点及中国大陆罕见病诊疗资源，适合患者家属和基层医师参考。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: conditions
 last_updated: 2026-05-09
@@ -11,7 +11,7 @@ lang: zh-hans
 categories: [conditions]
 tags: [罕见病, 吞咽障碍, 神经肌肉病, 威尔逊病, 脊肌萎缩症, 进行性核上性麻痹]
 license: CC BY 4.0
-canonical: "https://dysphagia.cn/zh-hans/conditions/2026-05-09-rare-conditions-dysphagia.html"
+canonical: "https://softmeal.org/zh-hans/conditions/2026-05-09-rare-conditions-dysphagia.html"
 ---
 
 # 罕见病与吞咽障碍：神经肌肉罕见病的吞咽管理要点

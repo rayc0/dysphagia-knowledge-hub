@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞咽障碍, 营养, 肠道微生物, 益生菌, 老年护理]
 description: "探讨肠道微生物组如何通过肠-脑轴影响神经肌肉功能和吞咽行为，以及膳食干预对改善吞咽障碍患者肠道健康的意义。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## 肠道微生物组与吞咽功能的关联

@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/pediatric-dysphagia"
+canonical: "https://softmeal.org/en/clinical/pediatric-dysphagia"
 tags: [pediatric, children, dysphagia, feeding difficulties, cerebral palsy]
 summary: "Pediatric dysphagia is clinically distinct from adult dysphagia. Key causes include prematurity, cerebral palsy, structural anomalies, and neurodevelopmental conditions. Assessment requires age-appropriate tools and a multidisciplinary team. IDDSI applies with paediatric modifications."
 ---

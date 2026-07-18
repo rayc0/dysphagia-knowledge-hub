@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/vocal-fold-dysfunction-dysphagia"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/vocal-fold-dysfunction-dysphagia"
 ---
 
 # 聲帶功能障礙與吞嚥困難：沙啞聲音與誤吸的關係及轉介路徑

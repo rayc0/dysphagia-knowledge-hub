@@ -6,7 +6,7 @@ categories: [caregiving]
 tags: [吞咽障碍, 照护, 安全, 急救, 噎食]
 description: "噎食是吞咽障碍患者的高危紧急情况。本文介绍如何识别噎食信号、实施海姆立克急救及日常预防措施，帮助照护者沉着应对。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 噎食是吞咽障碍患者面临的最危险紧急情况之一。食物或液体完全堵塞气道可在数分钟内造成窒息。作为家庭照护者，掌握正确的急救方法和预防策略，可能在关键时刻挽救生命。

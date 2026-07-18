@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [dysphagia, nutrition, weight maintenance, calorie dense, soft foods, malnutrition]
 description: "How to maintain a healthy weight on a texture-modified diet using calorie-dense soft foods. Practical strategies for caregivers managing underweight in dysphagia patients."
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 Unintentional weight loss is one of the most serious consequences of dysphagia. When swallowing is unsafe or effortful, people eat less — not because they lack appetite, but because eating has become uncomfortable, slow, or frightening. Over weeks and months, reduced intake leads to malnutrition, muscle loss, weakened immunity, and poorer recovery outcomes from the underlying condition causing dysphagia.

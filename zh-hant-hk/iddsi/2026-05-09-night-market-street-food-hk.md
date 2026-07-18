@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/iddsi/night-market-street-food-hk"
+canonical: "https://softmeal.org/zh-hant-hk/iddsi/night-market-street-food-hk"
 ---
 
 # 香港街頭小食與吞嚥困難：哪些可安全享用，哪些要避免

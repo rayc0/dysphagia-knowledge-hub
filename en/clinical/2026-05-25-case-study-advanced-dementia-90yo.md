@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/case-study-advanced-dementia-90yo"
+canonical: "https://softmeal.org/en/clinical/case-study-advanced-dementia-90yo"
 tags: [case study, dementia, advanced dementia, palliative, comfort feeding]
 summary: "A 90-year-old man with advanced dementia, minimal communication, and severe dysphagia. Goals-of-care discussion centres on comfort feeding vs. tube feeding. Decision: comfort feeding with IDDSI Level 4 purée and mildly thick liquids. Dignity, pleasure, and aspiration risk are balanced."
 ---

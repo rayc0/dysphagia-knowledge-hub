@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/aspiration-pneumonia-clinical-features"
+canonical: "https://softmeal.org/en/clinical/aspiration-pneumonia-clinical-features"
 tags: [aspiration pneumonia, clinical features, prevention, dysphagia, infection]
 summary: "Aspiration pneumonia affects 5–20% of stroke patients with dysphagia and is a leading cause of death. Clinical features include fever, cough, sputum, and infiltrates in dependent lung segments. Key prevention: oral hygiene, upright positioning, appropriate texture modification, and prompt dysphagia screening."
 ---

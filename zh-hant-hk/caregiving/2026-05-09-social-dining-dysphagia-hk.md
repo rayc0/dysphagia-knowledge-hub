@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/social-dining-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/social-dining-dysphagia-hk"
 ---
 
 # 吞嚥困難患者的社交飲食：如何維繫香港家庭聚餐與社交生活

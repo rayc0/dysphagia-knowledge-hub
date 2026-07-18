@@ -12,7 +12,7 @@ tags:
   - planning
 description: "A step-by-step planning guide for international travel with dysphagia: medical documentation, airline meals, thickener supplies, hotel strategies, and managing the unexpected abroad."
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## Travel Is Still Possible

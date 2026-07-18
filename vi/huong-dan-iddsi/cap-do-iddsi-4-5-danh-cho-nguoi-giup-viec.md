@@ -6,7 +6,7 @@ language: "vi"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/vi/huong-dan-iddsi/cap-do-iddsi-4-5-danh-cho-nguoi-giup-viec.html"
+canonical: "https://softmeal.org/vi/huong-dan-iddsi/cap-do-iddsi-4-5-danh-cho-nguoi-giup-viec.html"
 ---
 
 # IDDSI Cấp Độ 4 và 5 Dành cho Người Giúp Việc Việt Nam tại Hồng Kông

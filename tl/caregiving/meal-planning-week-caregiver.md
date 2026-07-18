@@ -6,7 +6,7 @@ language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/caregiving/meal-planning-week-caregiver.html"
+canonical: "https://softmeal.org/tl/caregiving/meal-planning-week-caregiver.html"
 ---
 
 # 7-Araw na Meal Plan para sa FDH na Nag-aalaga ng Pasyenteng may Dysphagia (IDDSI L4-L5)

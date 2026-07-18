@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/taiwan-health-insurance-dysphagia"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/taiwan-health-insurance-dysphagia"
 ---
 
 # 台灣健保給付吞嚥障礙治療與營養支持：2026年最新給付範圍解析

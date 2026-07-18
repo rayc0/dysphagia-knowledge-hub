@@ -6,7 +6,7 @@ language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/caregiving/emergency-dysphagia-kit.html"
+canonical: "https://softmeal.org/tl/caregiving/emergency-dysphagia-kit.html"
 ---
 
 # Emergency Dysphagia Kit para sa Bahay — Thickener, Suction Device, at Pag-alam Kung Kailan Tumawag ng 999

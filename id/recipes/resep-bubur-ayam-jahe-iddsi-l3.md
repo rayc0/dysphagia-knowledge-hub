@@ -6,7 +6,7 @@ language: "id"
 category: "recipes"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/recipes/resep-bubur-ayam-jahe-iddsi-l3.html"
+canonical: "https://softmeal.org/id/recipes/resep-bubur-ayam-jahe-iddsi-l3.html"
 ---
 
 # Resep Bubur Ayam Jahe IDDSI L3: Bergizi, Mudah Ditelan, Cocok untuk Lansia

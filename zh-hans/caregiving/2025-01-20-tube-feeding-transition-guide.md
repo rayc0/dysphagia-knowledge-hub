@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-20"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/tube-feeding-transition-guide"
+canonical: "https://softmeal.org/zh-hans/caregiving/tube-feeding-transition-guide"
 ---
 
 # 从鼻饲管到经口进食：吞咽康复过渡期照护指南

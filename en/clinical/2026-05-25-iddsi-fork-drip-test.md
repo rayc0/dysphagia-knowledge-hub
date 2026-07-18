@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/iddsi-fork-drip-test"
+canonical: "https://softmeal.org/en/clinical/iddsi-fork-drip-test"
 tags: [IDDSI, fork drip test, texture testing, pureed, food preparation]
 summary: "The IDDSI Fork Drip Test verifies that pureed foods (IDDSI Level 4) drip slowly and continuously through fork tines, while minced foods (Level 5) do not drip through. A practical quality control tool for hospital kitchens, care homes, and home cooks."
 ---

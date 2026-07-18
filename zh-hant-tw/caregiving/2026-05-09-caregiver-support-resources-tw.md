@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["照護者支持", "長照2.0", "1966", "家庭照顧者", "吞嚥障礙"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/caregiver-support-resources-tw"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/caregiver-support-resources-tw"
 ---
 
 # 台灣吞嚥照護者支持資源大全：專線、協會、縣市資源一次掌握

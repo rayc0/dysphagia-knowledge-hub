@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/eat10-screening-guide"
+canonical: "https://softmeal.org/en/clinical/eat10-screening-guide"
 ---
 
 # EAT-10 Dysphagia Screening: How to Use It in Care Home Settings

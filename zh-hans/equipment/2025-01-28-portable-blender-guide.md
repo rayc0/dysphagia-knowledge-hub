@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍照护必备破壁机选购指南：从家用到便携款全评测"
 description: "面向吞咽障碍患者照护者的破壁机选购指南，涵盖电机功率、刀头设计、噪音控制，大陆主流品牌（小米、九阳、Vitamix）及便携USB款对比，价格区间、电商购买技巧与消毒保养要点。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: equipment
 last_updated: 2025-01-28

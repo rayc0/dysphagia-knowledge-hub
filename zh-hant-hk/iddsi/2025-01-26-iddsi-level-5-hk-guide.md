@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-26"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/iddsi/iddsi-level-5-hk-guide"
+canonical: "https://softmeal.org/zh-hant-hk/iddsi/iddsi-level-5-hk-guide"
 ---
 
 # IDDSI 5級軟碎餐：香港照護者選食與製作完整指引

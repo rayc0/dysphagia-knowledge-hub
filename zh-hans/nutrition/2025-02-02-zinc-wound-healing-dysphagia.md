@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-02-02"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/nutrition/zinc-wound-healing-dysphagia"
+canonical: "https://softmeal.org/zh-hans/nutrition/zinc-wound-healing-dysphagia"
 ---
 
 # 锌与伤口愈合：吞咽障碍患者的压疮营养支持

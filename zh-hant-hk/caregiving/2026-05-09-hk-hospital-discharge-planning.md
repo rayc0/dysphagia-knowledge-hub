@@ -1,13 +1,13 @@
 ---
 title: "出院後的吞嚥護理過渡計劃：香港患者與照顧者實用指引"
 description: "協助香港吞嚥困難患者順利過渡從醫院到家居的全面指引，涵蓋出院前準備、醫管局社康服務申請、社區言語治療跟進及居家護理安全設置。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "caregiving"
 tags: [吞嚥困難, 出院計劃, 香港, 醫管局, 社康護理, 過渡照護]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/hk-hospital-discharge-planning"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/hk-hospital-discharge-planning"
 ---
 
 # 出院後的吞嚥護理過渡計劃：香港患者與照顧者實用指引

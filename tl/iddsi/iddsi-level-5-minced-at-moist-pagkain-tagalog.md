@@ -6,7 +6,7 @@ language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/iddsi/iddsi-level-5-minced-at-moist-pagkain-tagalog.html"
+canonical: "https://softmeal.org/tl/iddsi/iddsi-level-5-minced-at-moist-pagkain-tagalog.html"
 ---
 
 # IDDSI Level 5 Minced at Moist — Gabay sa Tagalog: Giniling na Pagkain para sa mga may Dysphagia

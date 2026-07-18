@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/advance-directive-hk-caregivers"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/advance-directive-hk-caregivers"
 ---
 
 # 香港吞嚥困難患者的預設醫療指示：法律框架、填寫指引與家庭討論

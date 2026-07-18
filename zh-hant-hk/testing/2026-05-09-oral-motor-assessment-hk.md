@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "testing"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/testing/oral-motor-assessment-hk"
+canonical: "https://softmeal.org/zh-hant-hk/testing/oral-motor-assessment-hk"
 ---
 
 # 香港吞嚥障礙口腔運動評估：言語治療師評估內容與照顧者觀察要點

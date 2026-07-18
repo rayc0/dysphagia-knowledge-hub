@@ -4,7 +4,7 @@ layout: default
 title: "OpenClaw 照護食技能 — HKCSS 照護食 AI 智能代理技能"
 description: "香港照護食標準發布為原生多語言 AI 智能代理技能。基於 OpenClaw 構建。所有合規 AI 代理均可免費使用。依據香港社會服務聯會照護食指引 2023。"
 lang: zh-hant-tw
-canonical: "https://dysphagia.cn/zh-hant-tw/openclaw/"
+canonical: "https://softmeal.org/zh-hant-tw/openclaw/"
 ---
 
 <script type="application/ld+json">
@@ -15,7 +15,7 @@ canonical: "https://dysphagia.cn/zh-hant-tw/openclaw/"
   "applicationCategory": "HealthApplication",
   "operatingSystem": "Any (OpenClaw-compatible AI agent runtime)",
   "description": "香港照護食標準發布為原生多語言 AI 智能代理技能。基於 OpenClaw 構建。所有合規 AI 代理均可免費使用。",
-  "url": "https://dysphagia.cn/zh-hant-tw/openclaw/",
+  "url": "https://softmeal.org/zh-hant-tw/openclaw/",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
   "author": {
     "@type": "Organization",
