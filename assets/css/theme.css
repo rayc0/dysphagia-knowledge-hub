@@ -173,10 +173,25 @@ a:focus:not(:focus-visible){ outline: none; }
   font-size: .9em;
 }
 
-/* ---------- Site logo / home link ---------- */
+/* ---------- Site logo / home link ----------
+   The layout renders a "site title" H1 link ahead of the page's own H1
+   whenever site.title != page.title (true on almost every content page).
+   That produced two stacked giant headings. De-emphasize the first one
+   into a small eyebrow/breadcrumb so the real page title carries the
+   visual hierarchy. Only applies when a second H1 actually follows it. */
+.markdown-body:has(> h1 + h1) > h1:first-child{
+  font-size: .85rem;
+  font-weight: 700;
+  letter-spacing: .02em;
+  color: var(--ink-soft);
+  border-bottom: none;
+  margin: 0 0 1.1rem;
+  padding-bottom: 0;
+  text-transform: uppercase;
+}
 .markdown-body > h1:first-child a{
   text-decoration: none;
-  color: var(--ink);
+  color: inherit;
   border-bottom: none;
 }
 
