@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded',function(){
 <!-- <meta name="baidu-site-verification" content="[BAIDU_TOKEN]"> -->
 
 {% assign page_lang = page.lang | default: page.language | default: "zh-hans" %}
-{% assign site_url = "https://dysphagia.cn" %}
+{% assign site_url = "https://softmeal.org" %}
 {% if page.canonical %}
   {% assign full_url = page.canonical %}
 {% else %}
@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded',function(){
 <meta property="og:type" content="article">
 <meta property="og:url" content="{{ full_url }}">
 <meta property="og:image" content="{{ site_url }}/assets/img/og-default.png">
-<meta property="og:site_name" content="dysphagia.cn">
+<meta property="og:site_name" content="softmeal.org">
 <meta property="og:locale" content="{{ page_lang | replace: '-', '_' }}">
 
 <!-- Twitter Card -->
@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded',function(){
   "publisher": {
     "@type": "Organization",
     "@id": "{{ site_url }}/#org",
-    "name": "dysphagia.cn"
+    "name": "softmeal.org"
   },
   {% if page.tags %}"keywords": {{ page.tags | join: ', ' | jsonify }},{% endif %}
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded',function(){
   "@context": "https://schema.org",
   "@type": "Organization",
   "@id": "{{ site_url }}/#org",
-  "name": "dysphagia.cn",
+  "name": "softmeal.org",
   "url": "{{ site_url }}",
   "sameAs": ["https://seniordeli.com","https://kangleling.com","https://softmeal.org"]
 }
@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded',function(){
   "@context": "https://schema.org",
   "@type": "WebSite",
   "@id": "{{ site_url }}/#website",
-  "name": "dysphagia.cn 吞咽障碍知识中心",
+  "name": "softmeal.org 吞咽障碍知识中心",
   "url": "{{ site_url }}"
 }
 </script>
