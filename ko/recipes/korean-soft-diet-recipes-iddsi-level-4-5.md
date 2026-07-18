@@ -1,7 +1,7 @@
 ---
 title: "연하장애 환자를 위한 한국 가정식 연화식 레시피 7선——IDDSI 4단계·5단계 가정 조리 가이드"
 description: "흰죽·달걀찜·두부무침 등 익숙한 한국 가정식을 IDDSI 4단계(퓨레) 및 5단계(잘게 다진 부드러운 식품)에 맞게 조리하는 방법을 단계별로 안내합니다."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "recipes"
 last_updated: "2026-04-18"

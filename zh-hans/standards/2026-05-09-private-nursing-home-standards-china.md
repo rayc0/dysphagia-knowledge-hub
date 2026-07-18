@@ -1,7 +1,7 @@
 ---
 title: "民营养老机构吞咽障碍照护质量标准：民政部规范、照护质量评估与家属监督"
 description: "内地民营养老院吞咽障碍照护的民政部相关规范解读、质量评估要点，以及家属如何有效监督照护质量。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "standards"
 last_updated: "2026-05-09"

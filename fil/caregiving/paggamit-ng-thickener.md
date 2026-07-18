@@ -1,7 +1,7 @@
 ---
 title: "Paano Gumamit ng Thickener (Pangpalapot) nang Tama"
 description: "Gabay para sa mga FDH sa HK tungkol sa mga brand ng thickener, tamang dosis, mixing technique, at paano makipag-usap sa employer tungkol sa gastos."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"

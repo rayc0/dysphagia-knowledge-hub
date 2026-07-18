@@ -1,7 +1,7 @@
 ---
 title: "颈部听诊法：辅助识别误吸风险的床旁听诊技术"
 description: "介绍颈部听诊法的原理（用听诊器监听喉部吞咽音）、正常与异常吞咽音的特征、该方法的优势（无创、床旁可操作）与明确局限性（不能替代VFSS/FEES确诊误吸）、在中国大陆资源有限环境中的筛查价值，以及如何教导照护者识别"湿润/咕噜声"并判断何时需要升级评估"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "testing"
 last_updated: "2025-02-03"

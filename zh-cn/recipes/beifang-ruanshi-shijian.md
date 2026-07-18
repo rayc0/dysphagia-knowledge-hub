@@ -1,7 +1,7 @@
 ---
 title: "北方吞咽友好食谱精选——10道适合IDDSI 4-6级的面食与炖菜"
 description: "10道北方地区吞咽友好食谱：疙瘩汤、烂糊面、软面条、东北嫩豆腐炖蛋、鸡蛋羹三变、土豆烂炖、东北乱炖吞咽版、小米粥、八宝粥及元宵馅泥，含IDDSI等级、营养信息及制作要点。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "recipes"
 last_updated: "2026-05-13"

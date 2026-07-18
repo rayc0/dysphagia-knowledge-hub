@@ -1,7 +1,7 @@
 ---
 title: "EAT-10 연하장애 선별 도구 완전 가이드: 실시 방법·판정 기준·임상 활용"
 description: "EAT-10(Eating Assessment Tool-10) 연하장애 선별 완전 가이드 — EAT-10의 10문항과 실시 방법, 점수 3점 이상 의료 의뢰 기준, EAT-10 감도·특이도(86%/73%), 질환별 점수 분포(뇌졸중/파킨슨병/두경부암/치매), 다른 선별 도구(GUSS/3온스 물 마시기 검사)와의 비교, 재가 요양보호사·간호사 실시 절차"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "testing"
 last_updated: "2026-04-19"

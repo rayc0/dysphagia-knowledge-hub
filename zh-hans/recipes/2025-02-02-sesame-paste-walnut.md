@@ -4,7 +4,7 @@ description: "黑芝麻与核桃研磨成糊，传统中医补肾益脑食疗方
 lang: zh-hans
 category: recipes
 date: 2025-02-02
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 软食食谱
   - IDDSI Level 3

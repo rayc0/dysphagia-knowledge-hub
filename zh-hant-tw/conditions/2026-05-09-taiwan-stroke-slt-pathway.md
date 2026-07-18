@@ -1,7 +1,7 @@
 ---
 title: "台灣腦中風吞嚥障礙語言治療轉介路徑完整指南"
 description: "說明台灣腦中風患者從急性期、復健期到社區照護的語言治療轉介流程，涵蓋健保給付、吞嚥篩檢標準、VFSS/FEES申請要點及長照2.0銜接。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 date: 2026-05-09

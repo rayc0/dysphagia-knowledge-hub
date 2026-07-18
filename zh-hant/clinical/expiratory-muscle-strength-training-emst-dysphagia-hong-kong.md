@@ -4,7 +4,7 @@ description: "香港吞嚥困難患者及照顧者專用指南。涵蓋 EMST 訓
 lang: zh-hant
 category: clinical
 date: 2026-05-06
-author: SeniorDeli 臨床編輯部
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 # 呼氣肌力訓練（EMST）治療吞嚥困難——香港患者及照顧者完整指南

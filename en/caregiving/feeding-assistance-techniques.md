@@ -1,7 +1,7 @@
 ---
 title: "Feeding Assistance Techniques for People with Dysphagia"
 description: "Evidence-based guide to safe feeding assistance for people with dysphagia — optimal positioning, bite size, pace, verbal cues, reading distress signals, and knowing when to stop a meal. Written for care home staff and family caregivers."
-author: "SeniorDeli (Carewells) <raymond@seniordeli.com>"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-05-09"

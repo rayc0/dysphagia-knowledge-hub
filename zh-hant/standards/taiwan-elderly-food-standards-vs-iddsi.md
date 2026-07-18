@@ -1,7 +1,7 @@
 ---
 title: "台灣老年食品標準對比 IDDSI — Eatender 銀髮友善食品、衛福部與食藥署指引全解析"
 description: "完整比對台灣 Eatender 銀髮友善食品四級質地分級、衛福部高齡營養飲食質地衛教手冊與國際 IDDSI 八級標準的異同，協助照顧者與業者正確選擇與開發吞嚥友善食品。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "tw-standards"
 last_updated: "2026-04-14"

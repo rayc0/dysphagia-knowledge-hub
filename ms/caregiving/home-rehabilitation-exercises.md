@@ -1,7 +1,7 @@
 ---
 title: "Senaman Pemulihan Menelan di Rumah: Latihan yang Disyorkan Ahli Patologi Pertuturan"
 description: "Panduan senaman pemulihan menelan di rumah untuk pesakit disfagia (Bahasa Melayu) — senaman Shaker, Effortful Swallow, Masako, senaman pengukuhan lidah, kekerapan yang disyorkan, cara merekod kemajuan, bila perlu kembali berjumpa SLP"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "caregiving"
 canonical: "https://softmeal.org/ms/caregiving/home-rehabilitation-exercises"

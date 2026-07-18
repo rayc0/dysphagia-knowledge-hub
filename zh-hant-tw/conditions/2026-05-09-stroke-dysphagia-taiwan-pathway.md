@@ -1,7 +1,7 @@
 ---
 title: "台灣中風後吞嚥障礙標準化照護路徑：急性期篩查到社區復健"
 description: "系統介紹台灣腦中風後吞嚥障礙的完整照護路徑，涵蓋急性期48小時內篩查協議、語言治療師介入時程、住院IDDSI飲食進展、轉銜復健、門診健保限制與長照2.0社區資源。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 last_updated: "2026-05-09"

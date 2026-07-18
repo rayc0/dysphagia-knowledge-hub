@@ -1,7 +1,7 @@
 ---
 title: "การเจาะคอและภาวะกลืนลำบาก — คู่มือการประเมินและดูแลการกลืนในผู้ป่วยเจาะคอ (ฉบับประเทศไทย)"
 description: "ผลของการเจาะคอต่อการกลืน หลักฐานเรื่องการปล่อยลม cuff, Passy-Muir valve, FEES, Blue-dye test และแนวทางถอดท่อเจาะคอในบริบทระบบสุขภาพไทย"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "clinical"
 last_updated: "2026-04-20"

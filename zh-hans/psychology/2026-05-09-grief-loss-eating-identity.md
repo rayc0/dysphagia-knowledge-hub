@@ -1,7 +1,7 @@
 ---
 title: "慢性吞咽障碍中的哀伤与饮食身份认同的丧失：心理调适指南"
 description: "帮助慢性吞咽障碍患者理解和处理因丧失正常饮食能力而产生的哀伤反应，以及重建饮食身份认同的心理调适路径。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-09"

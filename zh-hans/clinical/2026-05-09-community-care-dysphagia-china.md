@@ -1,7 +1,7 @@
 ---
 title: "基层医疗机构吞咽障碍筛查与管理：社区卫生服务中心实践指南"
 description: "面向中国社区卫生服务中心和乡镇卫生院的吞咽障碍筛查与基础管理指南，涵盖资源受限场景下的实用工具、转介机制和家庭照护支持策略。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

@@ -1,7 +1,7 @@
 ---
 title: "EAT-10 Dysphagia Screening: How to Use It in Care Home Settings"
 description: "Practical guide to the EAT-10 dysphagia screening tool for care home nurses and managers — the 10 questions explained, scoring, cutoff score interpretation, when to refer to a speech-language pathologist, limitations, and free downloadable resources."
-author: "SeniorDeli (Carewells) <raymond@seniordeli.com>"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-09"

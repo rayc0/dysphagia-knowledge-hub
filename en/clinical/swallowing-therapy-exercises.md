@@ -1,7 +1,7 @@
 ---
 title: "Swallowing Therapy Exercises: Evidence-Based Rehabilitation for Dysphagia"
 description: "A complete guide to swallowing therapy exercises — Mendelsohn maneuver, Shaker exercise, effortful swallow, EMST, and more. Evidence base, techniques, and when each exercise is appropriate."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"

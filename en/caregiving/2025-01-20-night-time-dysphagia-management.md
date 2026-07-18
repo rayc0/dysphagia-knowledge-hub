@@ -1,7 +1,7 @@
 ---
 title: "Managing Dysphagia at Night: Preventing Nocturnal Aspiration in Elderly Patients"
 description: "A practical guide for caregivers on preventing nocturnal aspiration — why nighttime aspiration is more dangerous, head elevation and positioning strategies, oral hygiene before sleep, the role of sleep apnoea and CPAP, warning signs, monitoring options, and when to seek urgent care for dysphagia patients."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2025-01-20"

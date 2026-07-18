@@ -1,7 +1,7 @@
 ---
 title: "維他命D缺乏與吞嚥肌肉功能——香港長者的特別關注"
 description: "香港長者維他命D缺乏率超過六成，與吞嚥肌肉退化密切相關。本文詳解咽喉肌肉機制、日照不足問題、補充劑量建議及本港篩查途徑。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-Hant-HK"
 category: "nutrition"
 last_updated: "2026-05-13"

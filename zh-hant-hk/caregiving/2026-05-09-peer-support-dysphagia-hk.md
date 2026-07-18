@@ -1,7 +1,7 @@
 ---
 title: "香港吞嚥困難互助網絡：同伴支持、照顧者茶聚與社區資源"
 description: "在香港尋找吞嚥困難同伴支持：醫管局病人互助組織、非政府機構計劃、網上社群，以及照顧者茶聚和社區資源的詳細指南，協助患者與照顧者建立支援網絡。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"

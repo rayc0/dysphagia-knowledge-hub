@@ -6,7 +6,7 @@ categories: [recipes]
 tags: [吞嚥困難, 香港, 食譜, IDDSI, 煲湯, 廣東湯水]
 description: "分析香港廣東煲湯的IDDSI級別，包括老火湯、清湯、羹湯的適用性，以及為吞嚥困難患者提供安全的湯水改良建議。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 廣東人自古有「寧可食無菜，不可食無湯」的說法，煲湯文化在香港根深柢固。無論是老火靚湯、快煮清湯，還是羹湯，湯水在香港家庭的餐桌上佔有不可或缺的地位。然而，對於吞嚥困難患者，不同種類的湯水在IDDSI框架下的安全性差異甚大，需要仔細分析。

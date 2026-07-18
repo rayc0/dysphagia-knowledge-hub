@@ -1,7 +1,7 @@
 ---
 title: "多发性硬化症吞咽障碍：疲劳管理、Uhthoff现象与复发缓解型特征"
 description: "多发性硬化症（MS）的吞咽障碍因病程类型和病灶部位不同而表现各异，疲劳和Uhthoff现象是独特的临床挑战。本文涵盖复发缓解型与继发进展型的管理差异、少量多餐策略、温度敏感性及国内MS协会资源。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-05-13"

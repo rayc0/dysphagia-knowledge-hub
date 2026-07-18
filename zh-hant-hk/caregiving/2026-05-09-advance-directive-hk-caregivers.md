@@ -1,7 +1,7 @@
 ---
 title: "香港吞嚥困難患者的預設醫療指示：法律框架、填寫指引與家庭討論"
 description: "香港預設醫療指示（非法定AD）、DNACPR及臨終照顧規劃的實用指南：了解法律框架、填寫步驟、無AD時的後果、家庭討論技巧，以及醫管局紓緩照顧服務。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"

@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [吞咽障碍, 康复治疗, 言语治疗]
 description: "内地SLT实操指南：Mendelsohn手法的神经肌肉机制、标准操作步骤、适应证筛查、训练剂量设计及与仪器评估的整合路径，参照2023版中国指南。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 # Mendelsohn手法操作指南：机制、适应证与临床训练方案

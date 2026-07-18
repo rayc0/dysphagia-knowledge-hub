@@ -6,7 +6,7 @@ lang: zh-hans
 categories: [nutrition]
 tags: [营养APP, 薄荷健康, 丁香医生, AI营养, IDDSI, 质地改良食物, 热量记录]
 description: "内地薄荷健康、丁香医生等AI营养APP对吞咽障碍管理的适用性分析：功能优势、质地改良食物局限，及拍照计卡的使用技巧。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-05-09"

@@ -1,7 +1,7 @@
 ---
 title: "Gugging Swallowing Screen (GUSS) — Complete Bedside Dysphagia Screening Guide"
 description: "Step-by-step GUSS bedside testing procedure, scoring interpretation, sensitivity/specificity data, and IDDSI level recommendations for post-stroke and post-extubation dysphagia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "testing"
 last_updated: "2026-05-21"

@@ -1,7 +1,7 @@
 ---
 title: "Meal Frequency and Portions for Dysphagia Patients: Why 5–6 Small Meals Work Better"
 description: "Why frequent small meals outperform three large meals for dysphagia patients, portion sizing guidance by IDDSI level, daily calorie targets for elderly with dysphagia, and practical strategies to stimulate appetite when meal volume is reduced."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2026-05-13"

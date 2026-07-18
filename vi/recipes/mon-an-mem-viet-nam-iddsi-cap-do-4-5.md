@@ -1,7 +1,7 @@
 ---
 title: "Thực đơn mềm Việt Nam cho người rối loạn nuốt — 7 món ăn truyền thống điều chỉnh theo chuẩn IDDSI cấp độ 4 và 5"
 description: "7 món ăn Việt Nam quen thuộc được điều chỉnh kết cấu theo tiêu chuẩn IDDSI cấp độ 4 (xay nhuyễn) và cấp độ 5 (băm nhỏ và ẩm), kèm hướng dẫn từng bước cho người chăm sóc."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "recipes"
 last_updated: "2026-04-21"

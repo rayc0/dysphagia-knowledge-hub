@@ -1,7 +1,7 @@
 ---
 title: "Parkinson's Disease at mga Problema sa Pagkain"
 description: "Gabay para sa mga FDH sa HK — pag-handle ng tremor habang kumakain, timing ng gamot, drooling, LOUD voice technique, at HK Parkinson's resources."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "conditions"
 last_updated: "2026-05-13"

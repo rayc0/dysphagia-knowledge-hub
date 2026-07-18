@@ -4,7 +4,7 @@ description: "Clinical guide to safely upgrading and downgrading patients betwee
 lang: en
 category: iddsi
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - level transition

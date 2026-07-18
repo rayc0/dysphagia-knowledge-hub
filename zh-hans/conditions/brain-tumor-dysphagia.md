@@ -1,7 +1,7 @@
 ---
 title: "脑肿瘤相关吞咽障碍：肿瘤部位影响、放化疗后变化与康复目标"
 description: "脑肿瘤（胶质瘤、脑膜瘤、转移瘤）的吞咽障碍因肿瘤部位不同而呈现差异显著的功能损害模式。本文涵盖不同解剖部位对吞咽的影响、放化疗后吞咽功能变化、根治性与姑息性康复目标差异，及国内神经外科与SLT协作现状。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-05-13"

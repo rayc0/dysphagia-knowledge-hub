@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞咽障碍, 营养, 蛋白质, 老年护理, 肌少症]
 description: "系统介绍老年吞咽障碍患者的蛋白质需求量、优质蛋白来源及质地适配方法，依据中国营养学会和ESPEN指南。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 老年吞咽障碍患者的蛋白质需求

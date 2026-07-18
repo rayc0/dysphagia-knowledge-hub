@@ -1,7 +1,7 @@
 ---
 title: "内地吞咽障碍患者的医疗决策与法律问题：知情同意、监护人与预立指示"
 description: "内地吞咽障碍患者医疗决策法律框架 — 知情同意制度概述，失能患者的成年监护人制度（民法典），预立医疗指示的现行法律地位，家庭共识文化与个人意愿的平衡，ALS及晚期失智症的鼻饲决策，如何在病历中记录家庭决策，以及无家属患者的民政监护途径"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-02-04"

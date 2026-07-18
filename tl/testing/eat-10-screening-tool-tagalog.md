@@ -1,7 +1,7 @@
 ---
 title: "EAT-10 Dysphagia Screening Tool sa Tagalog — Para Malaman Kung Kailangan ng Pagsuri ng Doktor"
 description: "Ang EAT-10 ay isang simpleng 10-katanungang survey na tumutulong na matukoy kung may problema sa paglunok ang isang tao. Gabay para sa mga domestic helper at pamilya sa HK."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "testing"
 last_updated: "2026-05-13"

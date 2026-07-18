@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 0 Minuman Cair — Panduan Lengkap untuk Pasien Disfagia di Indonesia"
 description: "Level 0 IDDSI adalah minuman cair tanpa pengental untuk pasien dengan disfagia ringan atau dalam pemulihan stroke. Panduan lengkap dengan contoh minuman Indonesia, tes rumahan, dan strategi nutrisi di iklim tropis."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-04-27"

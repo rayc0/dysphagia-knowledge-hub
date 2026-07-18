@@ -1,7 +1,7 @@
 ---
 title: "Mendelsohn Maneuver — Complete Guide to Swallowing Exercises for Dysphagia"
 description: "Plain-language guide to the Mendelsohn Maneuver swallowing therapy: what it is, how to perform it safely, and how it helps dysphagia patients regain swallowing strength."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "clinical"
 last_updated: "2026-07-09"

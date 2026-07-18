@@ -1,7 +1,7 @@
 ---
 title: "IDDSI流動測試：用10mL注射器測量液體濃稠度"
 description: "IDDSI流動測試：用10mL注射器測量液體濃稠度 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

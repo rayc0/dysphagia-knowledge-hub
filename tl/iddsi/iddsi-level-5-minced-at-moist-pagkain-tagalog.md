@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 5 Minced at Moist — Gabay sa Tagalog: Giniling na Pagkain para sa mga may Dysphagia"
 description: "Detalyadong gabay sa IDDSI Level 5 Minced and Moist sa Tagalog. Kasama ang pamantayan ng laki ng piraso, mga halimbawa ng pagkaing Filipino, paghahanda ng giniling, at mga tanda na handa na ang pasyente para sa Level 5."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"

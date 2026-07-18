@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong 護食標準 — A Comprehensive Guide to Care Food in HK and the Greater Bay Area"
 description: "Plain-language guide to how Hong Kong applies IDDSI through the HKCSS Care Food Directory, the joint HKMA/HKCSS-proposed Greater Bay Area standards T/SATA 084-2025 and T/SATA 085-2025, and what this means for caregivers, care homes, hospitals, and food manufacturers."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "hk-standards"
 last_updated: "2026-04-11"

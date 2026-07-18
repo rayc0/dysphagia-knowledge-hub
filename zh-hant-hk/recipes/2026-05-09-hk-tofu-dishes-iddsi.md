@@ -6,7 +6,7 @@ categories: [recipes]
 tags: [吞嚥困難, 香港, 食譜, IDDSI, 豆腐, 蛋白質]
 description: "全面分析香港常見豆腐菜式的IDDSI級別，包括嫩豆腐、硬豆腐、豆腐花等，為吞嚥困難患者提供優質蛋白質來源建議。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 豆腐是香港廚房中最多功能的食材之一，從家常小菜到酒樓菜式均有其蹤跡。對於吞嚥困難患者而言，豆腐是一種天然優質的軟食選擇——高蛋白質、低脂肪、質地柔軟，且烹調方式多樣。本文將逐一分析香港常見豆腐菜式的IDDSI適用性，協助患者和照顧者在享受熟悉的香港風味同時確保飲食安全。

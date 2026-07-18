@@ -1,7 +1,7 @@
 ---
 title: "Jadwal Harian yang Efektif untuk Merawat Lansia dengan Disfagia"
 description: "Contoh jadwal harian terstruktur untuk pengasuh lansia dengan disfagia — rutinitas pagi, jadwal makan, perawatan mulut, pemantauan, dan waktu istirahat pasien dan pengasuh."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

@@ -4,7 +4,7 @@ description: "IDDSI Level 7 (Easy to Chew) 正常易咀嚼飲食完整解說 —
 lang: zh-hant
 category: iddsi
 date: 2026-04-15
-author: 吞嚥困難知識庫
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags:
   - IDDSI
   - Level 7

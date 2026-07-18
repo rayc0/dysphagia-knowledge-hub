@@ -1,7 +1,7 @@
 ---
 title: "Videofluoroscopic Swallow Study (VFSS) — Complete Guide for Filipino Patients and Caregivers"
 description: "Plain-language guide to VFSS (modified barium swallow study) for dysphagia diagnosis, what to expect, and how results guide safe eating."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "clinical"
 last_updated: "2026-07-09"

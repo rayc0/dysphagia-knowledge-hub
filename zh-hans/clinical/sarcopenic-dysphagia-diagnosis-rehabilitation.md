@@ -1,7 +1,7 @@
 ---
 title: "肌少症性吞咽障碍——诊断算法与康复营养指南（简中版）"
 description: "肌少症性吞咽障碍由全身骨骼肌萎缩引发吞咽肌群无力，本文涵盖Wakabayashi框架、Mori五步诊断算法与康复营养三联疗法。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-18"

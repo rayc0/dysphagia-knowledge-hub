@@ -1,7 +1,7 @@
 ---
 title: "Disfagia dalam Sklerosis Lateral Amiotrofik (ALS/MND): Pengurusan Menelan dan Perancangan Pemakanan Jangka Panjang"
 description: "Panduan disfagia ALS/MND (Bahasa Melayu) — kadar disfagia dalam ALS (80% dalam 2 tahun), fasa bulbar dan pernafasan yang terjejas, strategi menelan dalam ALS, masa pemasangan PEG (gastrostomi), perancangan nutrisi apabila kapasiti paru-paru menurun, ventilasi bukan invasif (BiPAP) dan kesannya kepada makan, komunikasi dengan keluarga mengenai keputusan pemakanan hujung hayat"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-18"

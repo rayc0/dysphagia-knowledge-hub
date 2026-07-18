@@ -1,7 +1,7 @@
 ---
 title: "Khung IDDSI — Hướng dẫn hoàn chỉnh 8 cấp độ chế độ ăn quốc tế dành cho người rối loạn nuốt (Việt Nam)"
 description: "Giải thích chi tiết 8 cấp độ IDDSI, phương pháp kiểm tra kết cấu thức ăn và ứng dụng tại Việt Nam cho người chăm sóc và chuyên viên y tế."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-04-21"

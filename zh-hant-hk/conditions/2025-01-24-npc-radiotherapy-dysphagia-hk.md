@@ -1,7 +1,7 @@
 ---
 title: "鼻咽癌放射治療後吞嚥困難：香港患者康復飲食指南"
 description: "鼻咽癌（NPC）放射治療後吞嚥困難的急性及後期毒性管理：口腔黏膜炎、纖維化、口乾症、牙關緊閉的應對方法，預防性吞嚥訓練的重要性，香港醫管局腫瘤科言語治療服務（伊利沙伯醫院、威爾斯親王醫院），以及高熱量軟質飲食建議。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2025-01-24"

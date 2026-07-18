@@ -1,7 +1,7 @@
 ---
 title: "소아 연하장애: 영유아 섭식 문제의 경고 징후, 평가, 섭식 치료"
 description: "소아 연하장애 완전 가이드(한국어) — 영유아 섭식 문제 조기 경고 징후, 영아 연하장애 vs 소아 연하장애 차이, 원인 질환(뇌성마비/다운증후군/구개열/조산), 소아 언어치료사(SLP) 의뢰, 적응적 섭식 전략, 수유 어려움 영아용 특수 젖꼭지/수유병, ARFID, 가족 심리 지원"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "conditions"
 last_updated: "2026-04-18"

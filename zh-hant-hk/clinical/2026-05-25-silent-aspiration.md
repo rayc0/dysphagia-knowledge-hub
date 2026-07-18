@@ -1,7 +1,7 @@
 ---
 title: "隱性誤吸：為何被忽視及如何檢測"
 description: "隱性誤吸：為何被忽視及如何檢測 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

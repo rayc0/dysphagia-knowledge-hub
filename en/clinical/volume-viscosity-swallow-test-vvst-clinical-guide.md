@@ -4,7 +4,7 @@ description: "A practical, evidence-based guide to the Clavé Volume-Viscosity S
 lang: en
 category: clinical
 date: 2026-05-21
-author: SeniorDeli Clinical Team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Volume-Viscosity Swallow Test (V-VST) — Complete Clinical Guide for Bedside Dysphagia Screening

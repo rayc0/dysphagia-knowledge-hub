@@ -1,7 +1,7 @@
 ---
 title: "進食輔助技巧：正確餵食方法、食物放置位置、下顎控制與手法輔助吞嚥"
 description: "適合香港院舍及家居照顧的進食輔助技巧指南，涵蓋湯匙餵食正確方法、食物放入口腔的位置、下顎控制技術及手法輔助吞嚥，以減低誤吸風險。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-13"

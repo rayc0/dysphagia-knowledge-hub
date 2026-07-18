@@ -1,7 +1,7 @@
 ---
 title: "失智症長者進食策略完整指南 — 餵食技巧、舒適餵食與照顧原則（台灣臨床版）"
 description: "從失智初期到末期的進食困難與照顧策略，整合台灣衛福部、台北市聯醫、中國醫藥大學附設醫院與台大醫院臨床指引，照顧者一次看懂。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-14"

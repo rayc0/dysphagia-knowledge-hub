@@ -1,7 +1,7 @@
 ---
 title: "飲水測試（WST）：床邊吞嚥困難篩查方案"
 description: "飲水測試（WST）：床邊吞嚥困難篩查方案 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

@@ -1,7 +1,7 @@
 ---
 title: "とろみ水の有効性論争：IDDSI増粘液の誤嚥予防エビデンスと脱水リスクのバランス"
 description: "嚥下障害への増粘液（とろみ水）使用の有効性と安全性に関する論争の完全ガイド — IDDSI増粘液使用の根拠（誤嚥・窒息防止）、THICK-IT証拠の現状（RCT ACTRN12614000949640）、とろみ水が引き起こす脱水・栄養低下リスク、患者QOLへの影響（飲水拒否・服薬困難）、CHIN DOWN代替戦略との比較、「最小有効とろみ」原則、言語聴覚士による定期的再評価の重要性"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "長照2.0體系下吞嚥障礙者的營養支持策略：從評估到落地執行"
 description: "系統介紹台灣長照2.0體系中吞嚥障礙者的營養評估、質地調整飲食規劃、居家管灌配方選擇及營養補充策略，協助照顧者與照護機構提升吞嚥障礙者的營養照護品質。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 last_updated: "2026-05-09"

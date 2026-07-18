@@ -1,7 +1,7 @@
 ---
 title: "Cara Memantau Berat Badan dan Tanda Kurang Gizi pada Lansia Disfagia"
 description: "Panduan praktis untuk pengasuh dalam memantau status gizi lansia disfagia — cara mengukur berat badan, lingkar lengan, dan betis, mengidentifikasi tanda malnutrisi awal, dan kapan harus melapor ke tim medis."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "nutrition"
 last_updated: "2026-05-13"

@@ -4,7 +4,7 @@ description: "T/SATA 094-2025 is the first Greater Bay Area group standard speci
 lang: en
 category: hk-standards
 date: 2026-04-14
-author: Dr. Lisa Chen
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # GBA Dysphagia Food Standard T/SATA 094-2025 — General Requirements for Dysphagia Food in Elderly Care

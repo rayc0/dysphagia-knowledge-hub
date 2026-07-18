@@ -1,7 +1,7 @@
 ---
 title: "Aspirasi Diam (Silent Aspiration) di Indonesia — Deteksi, Faktor Risiko, dan Panduan untuk Keluarga"
 description: "Aspirasi diam terjadi saat makanan atau cairan masuk ke saluran napas tanpa memicu batuk. Panduan deteksi dini, faktor risiko, dan tanda bahaya untuk keluarga dan pengasuh di Indonesia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "clinical"
 last_updated: "2026-04-23"

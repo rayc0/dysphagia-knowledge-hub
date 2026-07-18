@@ -6,7 +6,7 @@ lang: zh-hans
 categories: [caregiving]
 tags: [吸入性肺炎, 误吸, 肺炎预防, 危险因素, 早期识别, 急救, 照护知识]
 description: "吸入性肺炎完整照护者指南：发病机制、高危因素、早期预警信号（发热、分泌物增加、血氧下降）、何时呼叫急救及预防策略。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

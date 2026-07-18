@@ -1,7 +1,7 @@
 ---
 title: "国家卫生健康委员会老年营养指南与吞咽障碍管理建议"
 description: "国家卫生健康委员会发布的老年营养相关指南与行业标准（含 WS/T 552、WS/T 557 等）对吞咽障碍管理的具体建议解读，涵盖蛋白质目标、液体管理、照护食等级选择及与 IDDSI 标准的对接。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: standards
 last_updated: 2025-01-22

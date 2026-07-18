@@ -1,7 +1,7 @@
 ---
 title: "IDDSI国际吞咽障碍饮食标准化倡议完全指南：0-7级详解"
 description: "全面介绍IDDSI框架的0-7级分类体系、颜色代码、每级示例食物，并与中国传统饮食质地分类进行对比，帮助大陆养老机构及居家照护人员建立统一标准。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"

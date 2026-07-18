@@ -1,7 +1,7 @@
 ---
 title: "Evidence-Based Oral Hygiene Protocols to Prevent Aspiration Pneumonia"
 description: "Oral hygiene evidence for dysphagia patients: oropharyngeal colonisation, chlorhexidine 0.12% data, professional care frequency, tooth brushing vs. swabs, denture care, HK care home implementation."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "喺老人院同醫院之間轉換 — 點樣保持吞嚥飲食一致（香港照顧者指南）"
 description: "長者喺醫院同老人院之間轉換嘅時候，吞嚥飲食點樣先唔會亂？教你用 IDDSI 等級、出院紙同照護食標準，做好交接，避免嗆咳同吸入性肺炎。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "caregiving"
 last_updated: "2026-04-17"

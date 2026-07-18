@@ -1,7 +1,7 @@
 ---
 title: "兒童吞嚥困難：IDDSI 4mm規則、常見原因與家長指南"
 description: "兒童吞嚥困難（小兒吞嚥障礙）完整指南 — IDDSI兒童版4mm規則、醫學複雜兒童飲食管理、早期識別、香港醫療資源。家長必讀。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-17"

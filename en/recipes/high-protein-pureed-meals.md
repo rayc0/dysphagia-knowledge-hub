@@ -1,7 +1,7 @@
 ---
 title: "High-Protein Puréed Meals: Preventing Muscle Loss in Dysphagia Patients"
 description: "How to maintain adequate protein intake on a puréed diet — IDDSI Level 4 high-protein recipes, fortification strategies, and sarcopenia prevention for elderly dysphagia patients."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "recipes"
 last_updated: "2026-04-17"

@@ -6,7 +6,7 @@ categories: [equipment]
 tags: [dysphagia, equipment, adaptive, clinical, nosey-cup, drinking-aids]
 description: "A practical guide to the nosey (cut-out) cup for dysphagia management: who benefits, correct technique, and how to source one in Hong Kong."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 ## What Is a Nosey Cup?

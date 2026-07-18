@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [吞咽障碍, 康复治疗, 言语治疗]
 description: "VitalStim经皮电刺激吞咽治疗的内地临床实践指南：设备认证、标准操作流程、参数调整策略、与国产NMES设备的对比及医院合规要求。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 # 经皮电刺激（VitalStim）临床应用：设备操作、参数优化与内地实践

@@ -1,7 +1,7 @@
 ---
 title: "Case Study 4: 90-Year-Old Male with Advanced Dementia and End-Stage Dysphagia"
 description: "A case-based learning article following a 90-year-old man with advanced dementia and severe dysphagia in a nursing home setting. Covers goals-of-care discussions, comfort feeding, IDDSI prescription for palliative intent, dignity in eating, and family support."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

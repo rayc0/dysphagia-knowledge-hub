@@ -1,7 +1,7 @@
 ---
 title: "กลยุทธ์การให้น้ำสำหรับผู้ป่วยกลืนลำบากที่ใช้น้ำข้น — คู่มือป้องกันภาวะขาดน้ำในประเทศไทย"
 description: "คู่มือปฏิบัติจริงสำหรับการดูแลการได้รับน้ำในผู้ป่วยภาวะกลืนลำบากที่ต้องดื่มน้ำข้น (thickened fluids) เน้นบริบทอากาศร้อนของประเทศไทย พร้อมหลักฐานทางคลินิก"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "caregiving"
 last_updated: "2026-04-19"

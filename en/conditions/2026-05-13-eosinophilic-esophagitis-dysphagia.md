@@ -1,7 +1,7 @@
 ---
 title: "Eosinophilic Oesophagitis (EoE) and Swallowing Difficulties"
 description: "Clinical guide to EoE and dysphagia: immune-mediated mechanism, food impaction, endoscopy with biopsy, elemental diet, PPI treatment, steroid therapy, food reintroduction, and HK allergy referral."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-13"

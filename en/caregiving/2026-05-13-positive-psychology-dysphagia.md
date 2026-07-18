@@ -5,7 +5,7 @@ description: "Applying positive psychology to dysphagia: finding meaning and pos
 lang: en
 category: caregiving
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - positive psychology
   - wellbeing

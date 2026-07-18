@@ -1,7 +1,7 @@
 ---
 title: "Mealtime Positioning for Dysphagia Patients: The Caregiver's Complete Protocol"
 description: "A comprehensive, evidence-based guide for caregivers on positioning dysphagia patients safely during mealtimes — from the 90-90-90 rule and head-of-bed elevation to chin tuck technique, red flags, and the 30-minute post-meal upright rule."
-author: Susan Tam
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 slug: "caregiving/mealtime-positioning-protocol"

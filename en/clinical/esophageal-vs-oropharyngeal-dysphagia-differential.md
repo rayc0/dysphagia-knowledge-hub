@@ -1,7 +1,7 @@
 ---
 title: "Esophageal vs Oropharyngeal Dysphagia: How to Tell Them Apart and Who Treats What"
 description: "Clear differential guide to esophageal and oropharyngeal dysphagia — symptoms, red flags, tests, and which specialist to see. Evidence-based patient and caregiver reference."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-18"

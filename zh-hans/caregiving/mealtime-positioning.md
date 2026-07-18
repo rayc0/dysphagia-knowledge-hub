@@ -1,7 +1,7 @@
 ---
 title: "进餐体位摆放：预防误吸的正确姿势"
 description: "吞咽障碍患者进餐体位完整操作指南：坐姿直立要求、头颈位置、床上进餐调整、轮椅进餐技巧、常见姿势错误纠正及偏瘫患者体位管理。护工与家属实用手册。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

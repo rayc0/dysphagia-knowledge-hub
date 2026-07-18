@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙復健治療資源：醫院門診、居家復健、長照2.0復能服務"
 description: "全面介紹台灣吞嚥障礙復健管道，涵蓋醫學中心門診語言治療、健保給付規則、居家復能申請流程及長照2.0照管專員評估，協助患者與家屬規劃復健路徑。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2026-05-09"

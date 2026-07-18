@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Cấp độ 4 — Thức ăn xay nhuyễn: Hướng dẫn hoàn chỉnh cho Việt Nam"
 description: "Hướng dẫn chi tiết IDDSI Level 4 (thức ăn xay nhuyễn/糊狀) cho bệnh nhân rối loạn nuốt, gia đình và người chăm sóc tại Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-04-21"

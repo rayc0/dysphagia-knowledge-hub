@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Swallowing Process: A Guide for Caregivers"
 description: "Plain-language explanation of the four phases of swallowing (oral prep, oral, pharyngeal, esophageal), what goes wrong in stroke, Parkinson's and dementia, why IDDSI levels correspond to each phase, and clinical terms explained simply."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-09"

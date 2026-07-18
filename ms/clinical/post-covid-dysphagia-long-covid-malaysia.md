@@ -1,7 +1,7 @@
 ---
 title: "Disfagia Selepas COVID-19 dan Long COVID — Panduan Klinikal dan Pemulihan Menelan di Malaysia"
 description: "COVID-19 menyebabkan masalah menelan pada 55–93% pesakit ICU. Panduan lengkap: mekanisme kerosakan saraf vagus, faktor risiko intubasi, Long COVID di Malaysia, rehabilitasi menelan, dan IDDSI untuk pemulihan."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-24"

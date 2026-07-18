@@ -1,7 +1,7 @@
 ---
 title: "社交饮食适应策略：吞咽障碍患者的外出就餐与聚会指南"
 description: "为吞咽障碍患者及照护者提供外出就餐、节日聚会、工作餐等社交场合的实用适应策略，帮助患者在安全饮食的前提下维持社会参与。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: caregiving
 last_updated: 2026-05-09

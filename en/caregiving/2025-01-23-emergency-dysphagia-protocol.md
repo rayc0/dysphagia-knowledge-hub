@@ -1,7 +1,7 @@
 ---
 title: "Emergency Protocols for Dysphagia Patients: When to Call 999 and What to Do First"
 description: "Signs of choking, modified Heimlich manoeuvre for seated and wheelchair-bound patients, when aspiration requires A&E versus GP, recognising aspiration pneumonia, HA A&E triage for elderly, how to describe incidents to paramedics, and post-incident documentation."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2025-01-23"

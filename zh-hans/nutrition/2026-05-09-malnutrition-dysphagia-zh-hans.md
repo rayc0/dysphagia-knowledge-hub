@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍与营养不良的恶性循环：识别、评估与干预策略"
 description: "吞咽障碍与营养不良相互促进，形成恶性循环。本文系统介绍两者的双向关系、营养筛查工具的选用及适合中国场景的干预策略。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: nutrition
 last_updated: 2026-05-09

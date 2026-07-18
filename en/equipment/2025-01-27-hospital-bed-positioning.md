@@ -4,7 +4,7 @@ description: "A practical guide for Hong Kong caregivers and care home staff on 
 lang: en
 category: equipment
 date: 2025-01-27
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags: [dysphagia, positioning, caregiver, hong-kong, stroke, hemiplegia, bed-positioning, wheelchair, swallowing-safety]
 ---
 

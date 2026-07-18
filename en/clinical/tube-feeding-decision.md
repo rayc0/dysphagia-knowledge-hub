@@ -1,7 +1,7 @@
 ---
 title: "Tube Feeding Decision in Dysphagia: When Oral Feeding Becomes Unsafe"
 description: "A clinical guide to the tube feeding decision for dysphagia patients — NG tube vs PEG, evidence base, ethical considerations, comfort feeding in dementia, and return-to-oral criteria."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"

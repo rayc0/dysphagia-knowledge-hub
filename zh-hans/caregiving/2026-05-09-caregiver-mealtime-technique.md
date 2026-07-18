@@ -6,7 +6,7 @@ lang: zh-hans
 categories: [caregiving]
 tags: [辅助进食, 照护技术, 进食体位, 食物质地, 误吸识别, 照护规范]
 description: "照护者辅助吞咽障碍患者进食的分步操作规范：体位摆放、节奏控制、份量管理、进食前质地核查与窒息危机识别。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

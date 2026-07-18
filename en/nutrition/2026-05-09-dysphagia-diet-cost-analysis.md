@@ -5,7 +5,7 @@ description: "Economic analysis of texture-modified dysphagia diets: hidden cost
 lang: en
 category: nutrition
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - cost analysis
   - texture-modified diet

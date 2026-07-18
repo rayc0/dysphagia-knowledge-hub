@@ -6,7 +6,7 @@ categories: [conditions]
 tags: [dysphagia, pediatric, infant, feeding, neonatal, referral]
 description: "Recognising early signs of feeding difficulty in infants and understanding when to refer to speech-language therapy in HK and paediatric settings."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 Feeding is among the most complex motor tasks a newborn performs. It requires the precise coordination of sucking, swallowing, and breathing — three processes that must cycle rapidly and in synchrony from the very first feed. When this coordination breaks down, the consequences extend beyond nutrition: feeding difficulties in infancy are associated with prolonged mealtimes, caregiver distress, poor weight gain, aspiration, and long-term aversion to eating.

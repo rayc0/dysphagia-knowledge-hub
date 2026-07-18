@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Cấp độ 1 — Nước uống Lỏng rất nhẹ: Hướng dẫn hoàn chỉnh cho Việt Nam"
 description: "IDDSI Level 1 (Lỏng rất nhẹ / Slightly Thick): kiểm tra ống tiêm 1–4ml, chỉ định lâm sàng nhi khoa GER và người lớn giảm bậc, thickener và thức uống Việt phù hợp."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-04-22"

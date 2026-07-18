@@ -1,7 +1,7 @@
 ---
 title: "Pag-aalaga ng Bibig (Oral Care) para sa mga Pasyenteng may Dysphagia — Pag-iwas sa Aspiration Pneumonia"
 description: "Paano ang tamang pag-aalaga ng bibig para sa matatandang may dysphagia. Ang maayos na oral hygiene ay nagpapababa ng panganib ng aspiration pneumonia ng 40%."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"

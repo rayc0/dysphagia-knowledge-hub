@@ -1,7 +1,7 @@
 ---
 title: "Vitamin D Deficiency and Swallowing Muscle Function"
 description: "Evidence-based guide to Vitamin D deficiency and dysphagia: HK elderly prevalence, type II muscle fibre effects, sarcopenic dysphagia, 800-2000 IU supplementation, 25(OH)D monitoring, and IM vs. oral routes."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2026-05-13"

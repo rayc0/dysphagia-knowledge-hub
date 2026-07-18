@@ -1,7 +1,7 @@
 ---
 title: "台灣傳統食物IDDSI質地等級對照表：米食、麵食、湯品、點心"
 description: "以IDDSI國際吞嚥食物標準化倡議為框架，系統整理台灣米食、麵食、湯品、傳統點心的質地等級分類，協助吞嚥障礙患者與家屬安全選擇熟悉的台灣料理。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "iddsi"
 last_updated: "2026-05-09"

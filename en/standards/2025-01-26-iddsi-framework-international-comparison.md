@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Around the World: How Australia, UK, Canada and Asia Implement Dysphagia Food Standards"
 description: "A country-by-country comparison of how the international IDDSI framework has been adopted, adapted, or parallelled across Australia, UK, Canada, USA, Japan, Taiwan, Hong Kong, and mainland China — covering regulatory status, healthcare system integration, labelling requirements, and the implications for cross-border dysphagia food products."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "standards"
 last_updated: "2025-01-26"

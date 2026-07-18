@@ -1,7 +1,7 @@
 ---
 title: "McNeill吞嚥治療計劃（MDTP）介紹：結構化吞嚥康復的循證方法"
 description: "詳介McNeill吞嚥治療計劃（MDTP）的原理、訓練結構、適應症及香港言語治療的應用概況。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"

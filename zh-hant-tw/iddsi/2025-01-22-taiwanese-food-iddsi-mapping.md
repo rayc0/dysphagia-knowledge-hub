@@ -1,7 +1,7 @@
 ---
 title: "台灣常見食物IDDSI等級對照：從滷肉飯到蚵仔麵線的質地分級"
 description: "系統性對照台灣日常飲食與IDDSI質地分級標準，涵蓋常見台式料理的等級分析、應避免的危險食物，以及節慶食品的替代方案，協助吞嚥障礙患者及照顧者安全規劃飲食。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "iddsi"
 last_updated: "2025-01-22"

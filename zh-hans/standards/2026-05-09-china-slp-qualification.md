@@ -6,7 +6,7 @@ categories: [standards]
 tags: [言语治疗, 资质认证, SLP, 吞咽障碍, 执业]
 description: "全面介绍中国大陆言语治疗师（SLP）的学历培养、资质认证体系、执业路径及吞咽障碍专科能力要求，供从业者及机构参考。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 中国言语治疗师资质认证与执业指南

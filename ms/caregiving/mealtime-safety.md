@@ -1,7 +1,7 @@
 ---
 title: "Keselamatan Waktu Makan untuk Pesakit Disfagia: Amaran Bahaya dan Prosedur Kecemasan"
 description: "Panduan keselamatan waktu makan untuk pesakit disfagia (Bahasa Melayu) — tanda-tanda amaran tersedak dan aspirasi, prosedur Heimlich Maneuver untuk dewasa, perbezaan tersedak (choking) vs aspirasi senyap (silent aspiration), persekitaran makan yang selamat, protokol kecemasan, bila perlu hubungi ambulans"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "caregiving"
 canonical: "https://softmeal.org/ms/caregiving/mealtime-safety"

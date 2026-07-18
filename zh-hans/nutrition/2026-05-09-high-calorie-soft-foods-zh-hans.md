@@ -1,7 +1,7 @@
 ---
 title: "高热量软食配方：吞咽障碍患者的体重维持与热量强化策略"
 description: "针对吞咽障碍导致热量摄入不足的患者，本文提供高热量软食的配方原则、食材选择与制备技巧，帮助在质地限制下维持体重和肌肉量。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: nutrition
 last_updated: 2026-05-09

@@ -1,7 +1,7 @@
 ---
 title: "7-Day IDDSI Meal Plan for Dysphagia Patients: A Practical Guide"
 description: "A complete 7-day IDDSI Level 5 (minced and moist) meal plan with breakfast, lunch and dinner. Shopping list, cost estimates in HKD, nutrition tips, and prep strategies for Hong Kong family caregivers."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2026-05-09"

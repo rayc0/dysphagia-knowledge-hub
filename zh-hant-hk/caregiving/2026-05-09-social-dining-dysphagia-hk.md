@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者的社交飲食：如何維繫香港家庭聚餐與社交生活"
 description: "吞嚥困難不應令患者與社交飲食生活脫節。本文提供在香港環境中維持家庭聚餐、外出用膳、節慶飲食與社交聯繫的實用策略，以及與家人朋友的溝通技巧。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"

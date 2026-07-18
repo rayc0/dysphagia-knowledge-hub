@@ -1,7 +1,7 @@
 ---
 title: "香港吞嚥障礙口腔運動評估：言語治療師評估內容與照顧者觀察要點"
 description: "香港言語治療師進行口腔運動評估的內容詳解，包括嘴唇、舌頭、下顎、軟顎等功能評估，以及照顧者在家中可進行的觀察要點與需立即求醫的紅旗警示。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "testing"
 last_updated: "2026-05-09"

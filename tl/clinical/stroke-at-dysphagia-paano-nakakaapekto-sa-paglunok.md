@@ -1,7 +1,7 @@
 ---
 title: "Stroke at Dysphagia — Paano Nakakaapekto ang Stroke sa Paglunok at Paano Makatutulong ang mga DH"
 description: "Gabay para sa mga domestic helper sa HK: bakit ang stroke ang pangunahing sanhi ng dysphagia sa mga matatanda, ang proseso ng recovery, at kung paano suportahan ang employer sa bawat yugto."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "clinical"
 last_updated: "2026-05-13"

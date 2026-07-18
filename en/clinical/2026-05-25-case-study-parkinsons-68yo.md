@@ -1,7 +1,7 @@
 ---
 title: "Case Study 3: 68-Year-Old Female with Parkinson's Disease and Progressive Dysphagia"
 description: "A case-based learning article following a 68-year-old woman with Parkinson's disease and progressively worsening dysphagia. Covers the neurodegenerative pattern of swallowing decline, VFSS findings, rehabilitation approach, medication timing, and safe eating strategies."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者的铁缺乏与贫血：软食中的铁吸收优化策略"
 description: "分析吞咽障碍患者铁缺乏的风险机制，介绍中国软食中的血红素铁与非血红素铁来源，以及通过配餐技巧、抑制因子规避和药物补充优化铁吸收的实用方案"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-02-01"

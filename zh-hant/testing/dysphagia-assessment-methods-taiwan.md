@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙評估方法完整指南：台灣臨床常用的 10 種評估工具"
 description: "台灣臨床吞嚥障礙評估方法完整指南——從 EAT-10 自我篩檢、GUSS-T 床邊篩檢，到 VFSS、FEES 儀器檢查，一篇講清楚。"
-author: "Editorial Team 編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "testing"
 last_updated: "2026-04-14"

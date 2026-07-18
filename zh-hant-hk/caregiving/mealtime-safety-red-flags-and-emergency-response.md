@@ -1,7 +1,7 @@
 ---
 title: "進食安全紅旗警示及緊急應對：嗆噎、吸入及急症處理完整指南"
 description: "吞嚥困難患者進食時五大危險警示、嗆噎與吸入的區別、背部叩擊及哈姆立克腹部推擠急救程序、CPR應對、延遲吸入4小時監測，以及香港999報警流程及醫管局急症室分流標準。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-04-19"

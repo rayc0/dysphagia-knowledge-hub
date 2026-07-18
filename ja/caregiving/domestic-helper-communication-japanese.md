@@ -1,7 +1,7 @@
 ---
 title: "外国人家政婦への嚥下障害ケア指導——香港での実践と多言語コミュニケーション"
 description: "香港のフィリピン人・インドネシア人家政婦（外傭）への嚥下障害ケア指導方法を解説。食事介助の基本、多言語コミュニケーション表（日本語・英語・タガログ語・インドネシア語）、緊急時の対応フローを提供。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-05-13"

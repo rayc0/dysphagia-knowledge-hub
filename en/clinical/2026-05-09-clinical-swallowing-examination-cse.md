@@ -5,7 +5,7 @@ description: "A complete guide to the Clinical Swallowing Examination (CSE): pro
 lang: en
 category: clinical
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - clinical swallowing examination
   - CSE

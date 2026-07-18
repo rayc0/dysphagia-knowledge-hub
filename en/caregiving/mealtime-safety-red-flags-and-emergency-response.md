@@ -4,7 +4,7 @@ description: "Comprehensive guide for family and professional caregivers on reco
 lang: en
 category: caregiving
 date: 2026-04-15
-author: Margaret Wong
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - mealtime safety
   - choking

@@ -1,7 +1,7 @@
 ---
 title: "Night-Time Care for Dysphagia Patients: Nocturnal Aspiration, Positioning for Sleep, and When to Call for Help"
 description: "What dysphagia caregivers need to know about the night hours: nocturnal aspiration risk mechanisms, safe sleeping positions, nighttime oral hygiene, managing secretions, and specific warning signs that require emergency response."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-05-13"

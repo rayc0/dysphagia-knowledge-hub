@@ -1,7 +1,7 @@
 ---
 title: "คู่มือผลิตภัณฑ์เสริมโภชนาการทางปาก (ONS) สำหรับผู้ป่วยกลืนลำบาก — ฉบับประเทศไทย"
 description: "คู่มือฉบับสมบูรณ์เรื่องผลิตภัณฑ์เสริมโภชนาการทางปาก (ONS) สำหรับผู้ป่วยกลืนลำบากในประเทศไทย — การคัดกรอง MNA-SF ประเภทผลิตภัณฑ์ และการจับคู่กับระดับ IDDSI"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "caregiving"
 last_updated: "2026-04-19"

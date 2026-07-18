@@ -1,7 +1,7 @@
 ---
 title: "Bài tập nuốt phục hồi chức năng — Hướng dẫn 6 kỹ thuật bằng chứng lâm sàng cho bệnh nhân rối loạn nuốt tại Việt Nam"
 description: "Hướng dẫn chi tiết 6 bài tập nuốt phục hồi chức năng (Mendelsohn, Shaker, Masako, CTAR, EMST, nuốt lực) có bằng chứng lâm sàng cấp độ 1, dành cho bệnh nhân rối loạn nuốt tại Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-04-22"

@@ -1,7 +1,7 @@
 ---
 title: "香港社聯照護食目錄 — 照顧者點樣搵啱嘅護食產品"
 description: "實用指南：用社聯 carefood.org.hk 照護食目錄搵適合吞嚥困難長者嘅預先包裝食品、增稠粉、軟餐到會同培訓服務。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "hk-standards"
 last_updated: "2026-04-16"

@@ -1,7 +1,7 @@
 ---
 title: "Resep Sup Tahu Sayur IDDSI L4: Lembut, Bergizi, Mudah Dibuat"
 description: "Resep sup tahu sayur untuk lansia disfagia sesuai standar IDDSI Level 4 (Puréed) — lengkap dengan cara mengolah, tes tekstur, nilai gizi, dan variasi rasa yang sesuai selera Asia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "recipes"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "香港纖維光學內窺鏡吞嚥評估（FEES）：床邊操作、轉介路徑與FEES及VFSS比較"
 description: "全面介紹香港FEES（纖維光學內窺鏡吞嚥評估）的操作流程、醫管局轉介路徑、床邊評估優勢，以及FEES與VFSS的適用情況比較，供患者及照顧者參考。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "testing"
 last_updated: "2026-05-09"

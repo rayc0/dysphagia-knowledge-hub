@@ -6,7 +6,7 @@ categories: [caregiving]
 tags: [吞咽障碍, 照护, 安全, 用药管理]
 description: "吞咽障碍患者服药风险高，本文介绍药物形态调整、服药体位、常见误区及与医生沟通的实用方法，帮助家庭照护者安全给药。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 吞咽障碍患者在服药时面临特殊挑战：药片可能误入气管，液体药物可能被吸入肺部，而擅自研碎药物又可能破坏药效甚至带来危险。了解正确的用药管理方法，是家庭照护者必须掌握的核心技能。

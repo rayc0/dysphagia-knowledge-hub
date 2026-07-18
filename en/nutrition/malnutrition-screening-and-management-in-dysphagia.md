@@ -4,7 +4,7 @@ description: "A comprehensive clinical reference on malnutrition in patients wit
 lang: en
 category: nutrition
 date: 2026-04-15
-author: Raymond
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - malnutrition
   - dysphagia

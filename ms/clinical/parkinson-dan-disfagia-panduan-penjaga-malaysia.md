@@ -1,7 +1,7 @@
 ---
 title: "Penyakit Parkinson dan Disfagia — Panduan Lengkap untuk Penjaga di Malaysia"
 description: "Panduan klinikal tentang masalah menelan (disfagia) dalam penyakit Parkinson: punca, tahap IDDSI, strategi penjagaan, masa ubat levodopa, dan tanda amaran untuk penjaga Malaysia."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-18"

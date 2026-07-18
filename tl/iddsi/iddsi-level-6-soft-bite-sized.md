@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 6 Soft at Bite-Sized — Paglipat Mula sa Ospital Patungo sa Tahanan sa HK"
 description: "Kumpletong gabay sa IDDSI Level 6 Soft and Bite-Sized sa Tagalog: mga kinakailangan sa pagnganga, paglipat mula sa ospital patungo sa home care sa Hong Kong, at mga halimbawa ng pagkain sa kontekstong HK at Filipino."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"

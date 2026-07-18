@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia in End-of-Life Care: Comfort Feeding, Risk Feeding, and the Tube Feeding Debate"
 description: "A sensitive guide to dysphagia management at end of life — comfort feeding philosophy, evidence against tube feeding in advanced dementia, careful hand feeding, family communication, and advance care planning."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"

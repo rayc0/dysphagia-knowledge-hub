@@ -6,7 +6,7 @@ categories: [conditions]
 tags: [吞嚥障礙, 台灣, COPD, 慢性阻塞性肺病, 疾病管理]
 description: "台灣COPD患者的吞嚥障礙照護指引，涵蓋健保給付、呼吸吞嚥協調訓練及衛福部相關政策。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 ## 前言

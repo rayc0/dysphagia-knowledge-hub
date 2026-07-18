@@ -1,7 +1,7 @@
 ---
 title: "點樣喺屋企測試食物質地 — IDDSI 四個測試一步一步教"
 description: "香港照顧者居家 IDDSI 食物質地測試完整教學：流動測試、叉子滴落測試、叉子擠壓測試、匙羹傾斜測試，工具清單、步驟圖解及常見錯誤。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "testing"
 last_updated: "2026-04-16"

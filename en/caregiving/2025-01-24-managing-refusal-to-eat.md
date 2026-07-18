@@ -1,7 +1,7 @@
 ---
 title: "When a Dysphagia Patient Refuses to Eat: Understanding Causes and Strategies for Caregivers"
 description: "Distinguishing medical from behavioural causes of food refusal in dysphagia patients, dementia-specific strategies, communication approaches for patients with aphasia, when refusal is a legally protected autonomous decision, advance care planning, and caregiver grief."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2025-01-24"

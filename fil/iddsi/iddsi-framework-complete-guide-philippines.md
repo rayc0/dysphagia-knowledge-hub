@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Framework — Complete Guide to All 8 Diet Levels for Filipino Patients with Dysphagia"
 description: "International standard for safe eating when swallowing is difficult. All 8 levels with Filipino food examples and home testing methods."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "iddsi"
 last_updated: "2026-05-17"

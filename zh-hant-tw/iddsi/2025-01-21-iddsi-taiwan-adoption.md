@@ -1,7 +1,7 @@
 ---
 title: "IDDSI在台灣的推廣現況：醫院、長照機構與臨床實踐"
 description: "深入介紹國際吞嚥障礙飲食標準化倡議（IDDSI）在台灣的推廣歷程，涵蓋台灣吞嚥障礙學會的角色、各醫學中心的導入現況、長照機構的採用進度，以及食品業界的回應，並與台灣傳統飲食質地分類進行比較。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "iddsi"
 last_updated: "2025-01-21"

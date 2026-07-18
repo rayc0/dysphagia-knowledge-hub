@@ -1,7 +1,7 @@
 ---
 title: "熱覺刺激療法與吞嚥訓練：原理、方法及香港應用"
 description: "介紹熱覺觸覺刺激（TTS）療法在吞嚥困難康復中的作用原理、臨床實證、操作方法及其在香港言語治療中的應用現況。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI实施十大误区——增稠过度、混合质地与标签缺失的纠正指南"
 description: "系统梳理IDDSI实施中十大常见误区：增稠过度危害链、高危混合质地中式食物清单、护理记录标准化要求、质地等级重评估流程，及长护险服务记录规范，帮助机构提升吞咽饮食安全管理水平。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "台灣家庭自製吞嚥障礙軟食：實作技巧與廚房工具指南"
 description: "為台灣居家照顧者提供的自製軟食實作指南，涵蓋果汁機品牌選購、常見台式料理的打泥技巧、批量製備與冷凍保存方法，以及台灣氣候下的食品安全注意事項。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 last_updated: "2025-01-25"

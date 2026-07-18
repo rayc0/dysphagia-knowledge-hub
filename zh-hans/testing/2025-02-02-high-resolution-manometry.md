@@ -1,7 +1,7 @@
 ---
 title: "高分辨率测压（HRM）：食管动力学评估与吞咽障碍诊断"
 description: "介绍高分辨率测压（HRM）的测量原理、适应证（食管性吞咽障碍、贲门失弛缓症、术后评估）、与VFSS的区别、芝加哥分类系统简介、中国大陆开展HRM的医院及费用参考，以及HRM结果对饮食管理的指导意义"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "testing"
 last_updated: "2025-02-02"

@@ -4,7 +4,7 @@ description: "GUSS床旁吞咽筛查完整临床指南：20分评分系统、分
 lang: zh-hans
 category: testing
 date: 2026-05-21
-author: SeniorDeli临床团队
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 # Gugging吞咽功能筛查（GUSS）：脑卒中后床旁吞咽障碍筛查完整临床指南

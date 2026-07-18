@@ -6,7 +6,7 @@ lang: zh-hans
 categories: [caregiving]
 tags: [居家厨房, 搅拌机, 质地改良, 食品安全, 厨房改造, 储存容器, 标签管理]
 description: "居家厨房质地改良食品备餐改造指南：搅拌机选购要点、过滤筛、食物温度计、硅胶模具、储存容器与标签系统的实用建议。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

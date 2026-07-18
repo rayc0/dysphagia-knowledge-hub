@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Antas 3 — Liquidised (Ginawang Likido) na Pagkain"
 description: "Gabay sa IDDSI Level 3 para sa mga FDH sa HK — pagkakaiba mula Level 2, syringe flow test, lugaw bilang Level 3, at paano mag-blend nang walang bukol."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "iddsi"
 last_updated: "2026-05-13"

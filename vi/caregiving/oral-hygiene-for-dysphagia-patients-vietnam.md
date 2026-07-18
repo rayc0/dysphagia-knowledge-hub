@@ -1,7 +1,7 @@
 ---
 title: "Vệ sinh răng miệng cho người bệnh rối loạn nuốt — Hướng dẫn phòng ngừa viêm phổi hít sặc (Việt Nam)"
 description: "Hướng dẫn chi tiết vệ sinh răng miệng đúng cách cho người bệnh rối loạn nuốt tại Việt Nam — quy trình 7 bước, bằng chứng khoa học, phòng ngừa viêm phổi hít sặc."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "caregiving"
 last_updated: "2026-04-21"

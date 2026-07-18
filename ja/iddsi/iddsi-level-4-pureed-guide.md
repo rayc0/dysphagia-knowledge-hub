@@ -1,7 +1,7 @@
 ---
 title: "IDDSI レベル4（ピューレ状）完全ガイド：日本の嚥下調整食との対応と調理の実践"
 description: "IDDSI レベル4（ピューレ状）の定義、テスト方法、日本の嚥下調整食分類2021との対応関係、和食ベースの調理テクニック、市販介護食品の活用法を体系的に解説"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "iddsi"
 last_updated: "2026-04-18"

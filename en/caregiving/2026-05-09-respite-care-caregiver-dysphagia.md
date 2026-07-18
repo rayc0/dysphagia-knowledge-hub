@@ -5,7 +5,7 @@ description: "A practical guide to HA Geriatric Day Hospital, SWD respite beds, 
 lang: en
 category: caregiving
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - respite care
   - caregiver support

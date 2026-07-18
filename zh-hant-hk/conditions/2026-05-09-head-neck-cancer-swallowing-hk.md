@@ -1,7 +1,7 @@
 ---
 title: "頭頸癌治療後的吞嚥康復：香港服務指南"
 description: "口腔癌、喉癌及下咽癌手術與放療後的吞嚥障礙評估與康復，涵蓋香港醫管局腫瘤科言語治療服務、造口護理、義喉使用及社區支援資源。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"

@@ -1,7 +1,7 @@
 ---
 title: "Silent Aspiration: Why It's Missed and How to Detect It"
 description: "A clinical guide to silent aspiration — aspiration of food, liquid, or saliva below the vocal folds without cough or visible signs. Covers mechanisms, prevalence, high-risk populations, clinical clues, detection methods (FEES, VFSS), and management implications."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

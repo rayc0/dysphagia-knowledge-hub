@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 4级泥状与5级细碎湿润食物的中式厨房制备指南"
 description: "中式厨房制备IDDSI 4级泥状与5级细碎湿润食物的实操指南：鱼泥、肉泥、蔬菜泥制备标准，模具塑形进食尊严，中式早中晚餐菜单示例，批量制备冷冻保存及国内模具采购渠道。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"

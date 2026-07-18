@@ -1,7 +1,7 @@
 ---
 title: "호흡근 강화 훈련(EMST)——연하장애 환자를 위한 완전 가이드"
 description: "EMST(호흡근 강화 훈련)의 개념, 근거, EMST150 기기 선택, 한국 연하장애 환자 임상 응용 완전 지침."
-author: "SeniorDeli Clinical Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-05-06"

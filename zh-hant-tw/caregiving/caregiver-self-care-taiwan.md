@@ -1,7 +1,7 @@
 ---
 title: "照顧者身心健康：台灣在地支持資源與喘息服務"
 description: "為吞嚥障礙患者家庭照顧者提供的身心照護指南——照顧者耗竭的識別、台灣喘息服務申請方式、心理健康資源，以及建立可持續照顧模式的實用策略。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-13

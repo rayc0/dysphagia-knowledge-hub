@@ -6,7 +6,7 @@ categories: [standards]
 tags: [GB标准, 食品安全, 吞咽障碍, 照护食, 特殊医学用途食品]
 description: "梳理与吞咽障碍饮食相关的食品安全国家标准（GB），包括特医食品、增稠剂、老年食品等核心法规，解析合规要点。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 食品安全国家标准（GB）与吞咽障碍饮食

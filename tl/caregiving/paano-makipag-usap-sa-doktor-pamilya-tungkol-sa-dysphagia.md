@@ -1,7 +1,7 @@
 ---
 title: "Paano Makipag-usap sa Doktor at sa Pamilya ng Inyong Employer Tungkol sa Dysphagia"
 description: "Praktikal na gabay para sa mga domestic helper sa HK: paano i-report ang mga alalahanin sa dysphagia sa pamilya ng employer, sa HA clinic, at sa A&E. May vocabulary table at dokumentasyon template."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"

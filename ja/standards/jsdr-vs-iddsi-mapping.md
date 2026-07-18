@@ -1,7 +1,7 @@
 ---
 title: "日本の嚥下調整食分類（JSDR）vs IDDSI — 完全対応マッピングガイド"
 description: "JSDR嚥下調整食分類2021の全コードとIDDSI国際基準の詳細対応表。UDFとの比較も含む。管理栄養士・言語聴覚士・介護スタッフ向け。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "standards"
 last_updated: "2026-04-17"

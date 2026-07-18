@@ -1,7 +1,7 @@
 ---
 title: "台灣多發性硬化症患者吞嚥障礙：疾病特點、台灣MS學會資源與健保復健給付"
 description: "說明多發性硬化症（MS）患者吞嚥障礙的特點、疾病波動對吞嚥的影響、台灣多發性硬化症學會資源，以及健保復健給付申請路徑。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 date: 2026-05-09

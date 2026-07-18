@@ -1,7 +1,7 @@
 ---
 title: "进食焦虑与心理干预：吞咽障碍患者的恐惧管理"
 description: "探讨吞咽障碍患者常见的进食焦虑成因、评估方法及循证心理干预策略，帮助患者重建对进食的信心与掌控感。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: psychology
 last_updated: 2026-05-09

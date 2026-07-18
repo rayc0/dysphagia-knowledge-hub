@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Kitchen Blenders for Puréed Meals — 2026 Head-to-Head Comparison"
 description: "A head-to-head comparison of five leading kitchen blenders for IDDSI-compliant puréed meals. Scored on smoothness, motor torque, cleaning, noise, and total cost of ownership."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-17"

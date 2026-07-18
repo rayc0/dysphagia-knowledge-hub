@@ -1,7 +1,7 @@
 ---
 title: "高能量软食的制作技巧：为食量减少的吞咽障碍患者增加热量密度"
 description: "介绍吞咽障碍患者高能量软食的目标热量密度、强化技巧（植物油、全脂椰奶、花生粉）、中国传统高能量软食选择、6小餐策略以及体重监测方法"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-02-03"

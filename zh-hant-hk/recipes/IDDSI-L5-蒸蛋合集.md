@@ -1,7 +1,7 @@
 ---
 title: "IDDSI第5級蒸蛋類食譜——最適合吞嚥障礙的香港家常菜"
 description: "蒸蛋是香港家庭最易製作的IDDSI第5級食品。本文提供茶碗蒸蛋、豆腐蒸蛋、鹹魚肉餅蒸的詳細食譜，包含叉壓質地測試標準及常見失敗原因分析。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-Hant-HK"
 category: "recipes"
 last_updated: "2026-05-13"

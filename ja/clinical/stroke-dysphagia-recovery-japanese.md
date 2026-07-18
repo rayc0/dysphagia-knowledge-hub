@@ -1,7 +1,7 @@
 ---
 title: "脳卒中後の嚥下障害リハビリ——急性期・回復期・生活期の食事管理と香港の実際"
 description: "脳卒中後の嚥下障害の病態・発症率・回復経過から、急性期・回復期・生活期それぞれの食事管理・嚥下リハビリを解説。香港の公立病院での実際の流れと退院後の在宅管理も含む。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-05-13"

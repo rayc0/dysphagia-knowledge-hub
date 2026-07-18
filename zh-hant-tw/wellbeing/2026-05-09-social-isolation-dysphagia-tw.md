@@ -6,7 +6,7 @@ categories: [wellbeing]
 tags: [吞嚥障礙, 台灣, 身心健康, 照顧者, 社交孤立]
 description: "探討台灣吞嚥障礙患者及照顧者面臨的社交孤立問題，提供具體的應對策略與台灣在地資源，協助維持社會連結與心理健康。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 # 吞嚥障礙與社交孤立——台灣照顧者的應對策略

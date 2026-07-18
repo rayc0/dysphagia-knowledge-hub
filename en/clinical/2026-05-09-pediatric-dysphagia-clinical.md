@@ -4,7 +4,7 @@ description: "Clinical assessment of pediatric dysphagia using NOMAS and SOMA to
 lang: en
 category: clinical
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - pediatric dysphagia
   - NOMAS

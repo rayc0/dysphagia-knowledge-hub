@@ -1,7 +1,7 @@
 ---
 title: "Spinal Cord Injury and Dysphagia: Cervical SCI, Tracheostomy, IDDSI Considerations, and HK Rehabilitation"
 description: "How cervical spinal cord injury causes dysphagia, the specific contribution of tracheostomy to swallowing impairment, IDDSI management during acute rehabilitation, the evidence-based approach to tracheostomy weaning and oral feeding restoration, and Hong Kong SCI rehabilitation resources."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-13"

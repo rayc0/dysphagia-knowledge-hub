@@ -6,7 +6,7 @@ categories: [iddsi]
 tags: [IDDSI, 吞咽障碍, 叉子测试, 汤匙测试, 质地测试]
 description: "完整图解IDDSI叉子滴落测试、叉子压力测试与汤匙倾斜测试的标准操作流程、判读方法及常见误差，适用于临床人员与家庭照护者。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 为什么需要叉子与汤匙测试？

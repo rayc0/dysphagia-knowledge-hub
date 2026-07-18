@@ -1,7 +1,7 @@
 ---
 title: "病例研究4：90歲男性晚期認知障礙末期吞嚥困難"
 description: "病例研究4：90歲男性晚期認知障礙末期吞嚥困難 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

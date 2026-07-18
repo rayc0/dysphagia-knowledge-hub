@@ -1,7 +1,7 @@
 ---
 title: "FOIS 功能性口腔攝食評量表：臨床指南與康復追蹤"
 description: "FOIS（功能性口腔攝食評量表）的臨床指南，一份7級有序量表，測量吞嚥困難患者的實際口腔攝食量。涵蓋各級別描述、信度、變化靈敏度，以及在康復目標設定和結果測量中的應用。"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

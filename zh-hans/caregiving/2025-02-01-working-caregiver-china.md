@@ -1,7 +1,7 @@
 ---
 title: "职场照顾者：内地在职人员照顾吞咽障碍家人的实用策略"
 description: "在职人员照顾吞咽障碍家人的全套策略 — 双职工家庭的现实困境，带薪年假与非正式假期安排，钟点工与住家保姆的培训要点，日间照料中心的使用，外卖食品的IDDSI局限性，以及远程监控技术与雇主沟通建议"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-02-01"

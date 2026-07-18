@@ -8,7 +8,7 @@ tags: [吞嚥障礙, 台灣, 口腔動作訓練, 居家復健, 語言治療]
 description: "適合台灣吞嚥障礙患者居家練習的口腔動作訓練操，涵蓋嘴唇、舌頭、臉頰與喉嚨動作訓練，搭配長照2.0居家復健申請說明。"
 date: 2026-05-09
 last_updated: "2026-05-09"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 license: "CC BY 4.0"
 canonical: "https://softmeal.org/zh-hant-tw/caregiving/taiwan-oral-motor-exercises"
 ---

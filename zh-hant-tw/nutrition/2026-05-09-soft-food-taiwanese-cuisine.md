@@ -1,7 +1,7 @@
 ---
 title: "台灣傳統料理的質地調整指南：從滷肉飯到湯圓的IDDSI實作"
 description: "依IDDSI等級示範如何調整滷肉飯、蚵仔麵線、擔仔麵、肉圓、湯圓等台灣傳統料理，讓吞嚥障礙患者仍能享用家鄉味，維護飲食尊嚴。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-09

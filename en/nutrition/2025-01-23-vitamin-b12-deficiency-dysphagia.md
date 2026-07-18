@@ -1,7 +1,7 @@
 ---
 title: "Vitamin B12 Deficiency in Elderly Dysphagia Patients: Risks, Symptoms and Solutions"
 description: "Why dysphagia patients are at high risk of vitamin B12 deficiency, the neurological consequences, how to recognise the signs, safe supplementation options available in Hong Kong, B12-rich soft foods, and how often to monitor levels."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2025-01-23"

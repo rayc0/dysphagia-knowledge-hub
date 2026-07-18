@@ -1,7 +1,7 @@
 ---
 title: "Quyết định đặt ống nuôi ăn — Khi nào việc ăn bằng miệng không còn an toàn: Hướng dẫn cho người bệnh và gia đình (Việt Nam)"
 description: "Khi nào nên đặt ống thông mũi - dạ dày (NG) hay mở dạ dày qua da (PEG)? Bằng chứng từ thử nghiệm FOOD, hướng dẫn ESPEN 2024 về đột quỵ và sa sút trí tuệ, cùng vai trò của việc đút ăn cẩn thận và nuôi ăn vì sự dễ chịu."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-05-18"

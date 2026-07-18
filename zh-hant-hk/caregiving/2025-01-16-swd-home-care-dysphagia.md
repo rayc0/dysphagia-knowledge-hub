@@ -1,7 +1,7 @@
 ---
 title: "社會福利署居家照顧服務申請指南：吞嚥困難長者適用"
 description: "詳解香港社會福利署居家照顧服務申請流程：IHCS第一及第二類別服務、體弱長者綜合家居照顧服務、院舍照顧服務券申請、DSCC評估、等候現實、評估面試技巧及非政府機構補充資源。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-16"

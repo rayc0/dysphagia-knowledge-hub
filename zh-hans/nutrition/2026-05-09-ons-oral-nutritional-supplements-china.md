@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞咽障碍, 营养, ONS, 口服营养补充剂, 老年护理]
 description: "详解口服营养补充剂（ONS）在中国吞咽障碍患者中的适应症、选择原则和使用方法，参考国家临床营养指南。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 口服营养补充剂（ONS）在中国的使用指南

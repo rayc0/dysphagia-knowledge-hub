@@ -1,7 +1,7 @@
 ---
 title: "IDDSI注射器流量测试：在家测量液体稠度的标准方法"
 description: "完整介绍IDDSI 10mL注射器流量测试的步骤、各等级对应流量标准、在中国大陆购买测试注射器的渠道、温度对增稠剂的影响及记录模板"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "testing"
 last_updated: "2025-01-25"

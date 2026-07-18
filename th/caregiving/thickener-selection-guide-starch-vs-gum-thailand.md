@@ -1,7 +1,7 @@
 ---
 title: "คู่มือเลือกสารเพิ่มความข้น (Thickener) สำหรับผู้ป่วยกลืนลำบาก — เปรียบเทียบชนิดแป้งกับชนิดแซนแทนกัม"
 description: "คู่มือฉบับสมบูรณ์ในการเลือกสารเพิ่มความข้นสำหรับผู้ป่วยกลืนลำบากในประเทศไทย เปรียบเทียบชนิดแป้งและชนิดแซนแทนกัม ความคงตัว ความใส รสชาติ และการใช้งานตามมาตรฐาน IDDSI"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "caregiving"
 last_updated: "2026-04-19"

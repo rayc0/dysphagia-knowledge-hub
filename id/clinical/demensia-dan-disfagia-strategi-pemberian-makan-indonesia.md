@@ -1,7 +1,7 @@
 ---
 title: "Demensia dan Disfagia — Strategi Pemberian Makan dan Perawatan untuk Pasien dan Keluarga di Indonesia"
 description: "Panduan klinis lengkap tentang disfagia pada penderita demensia: penyebab, tanda peringatan, strategi pemberian makan, modifikasi tekstur IDDSI, dan keputusan selang makan untuk keluarga di Indonesia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "clinical"
 last_updated: "2026-04-23"

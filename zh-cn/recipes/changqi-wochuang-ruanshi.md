@@ -1,7 +1,7 @@
 ---
 title: "长期卧床患者软食食谱——床边进食安全与营养的两全方案"
 description: "专为长期卧床患者设计的软食指南：卧床进食特殊挑战分析、6类适合床边进食食物、不适合卧床进食食物清单、床上进餐工具推荐，及含IDDSI等级与护理操作提示的完整食谱。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "recipes"
 last_updated: "2026-05-13"

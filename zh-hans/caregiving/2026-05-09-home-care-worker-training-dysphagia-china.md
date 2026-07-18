@@ -1,7 +1,7 @@
 ---
 title: "中国居家照护员吞咽障碍管理培训：技能标准、考核路径与家政公司培训现状"
 description: "内地居家照护员（家政工）吞咽障碍相关技能培训标准、国家考核体系概述，以及家政公司和家属如何提升照护质量。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

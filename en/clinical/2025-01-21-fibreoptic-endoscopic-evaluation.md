@@ -1,7 +1,7 @@
 ---
 title: "FEES: Fibreoptic Endoscopic Evaluation of Swallowing — A Patient Guide"
 description: "A patient-focused guide to FEES (fibreoptic endoscopic evaluation of swallowing) — how it differs from VFSS, the procedure itself, what it reveals about swallowing, availability in Hong Kong, when FEES is preferred over videofluoroscopy, and how results guide diet prescription and secretion management."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2025-01-21"

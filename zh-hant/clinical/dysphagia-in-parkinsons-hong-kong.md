@@ -1,7 +1,7 @@
 ---
 title: "柏金遜症與吞嚥困難：症狀進程、飲食調整與照顧策略"
 description: "柏金遜症患者吞嚥困難嘅症狀、進程、飲食調整方法。IDDSI等級選擇、進餐技巧、照顧者實用指南。香港醫療資源參考。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-17"

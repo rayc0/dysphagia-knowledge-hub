@@ -1,7 +1,7 @@
 ---
 title: "小児嚥下障害の臨床管理ガイド：早産児・神経発達障害・口蓋裂への対応"
 description: "小児（乳幼児〜学童期）の嚥下障害の臨床管理完全ガイド — 小児嚥下障害の主要原因（早産低出生体重児/脳性麻痺/ダウン症/ASD/口蓋裂/食道閉鎖術後）、正常嚥下発達マイルストーン（離乳食開始〜固形食移行）との比較、小児VF/VEの特殊考慮事項、言語聴覚士と小児科・口腔外科の多職種連携、保護者へのフィーディング指導、経管栄養からの経口移行"
-author: Margaret Wong
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"

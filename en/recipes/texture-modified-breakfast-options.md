@@ -1,7 +1,7 @@
 ---
 title: "Texture-Modified Breakfast Options for Dysphagia: Congee, Steamed Egg, and Oatmeal"
 description: "Practical IDDSI-aligned breakfast recipes for dysphagia — congee, steamed egg, and oatmeal variations, with Taiwan and Hong Kong kitchen techniques."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "recipes"
 last_updated: "2026-04-14"

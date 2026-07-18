@@ -1,7 +1,7 @@
 ---
 title: "Cara Berkomunikasi dengan Keluarga Majikan tentang Kondisi Menelan"
 description: "Panduan komunikasi efektif untuk PRT dan pengasuh dalam menyampaikan kekhawatiran tentang disfagia kepada keluarga majikan — cara melaporkan, mencatat, dan berkolaborasi dengan tim medis."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

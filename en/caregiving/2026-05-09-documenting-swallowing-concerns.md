@@ -4,7 +4,7 @@ description: "Keep a food and symptom diary, record video for SLT appointments, 
 lang: en
 category: caregiving
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - documentation
   - food diary

@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙患者的社交飲食：如何繼續享受台灣美食文化"
 description: "針對台灣吞嚥障礙患者提供外出用餐、夜市應對、家庭聚餐溝通及辦桌宴席策略，維護患者的社交參與感與飲食尊嚴。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-09

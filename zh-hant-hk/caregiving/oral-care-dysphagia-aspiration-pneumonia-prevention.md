@@ -1,7 +1,7 @@
 ---
 title: "口腔護理預防吸入性肺炎：香港長者實用指南"
 description: "以Yoneyama 2002年RCT實證為基礎的吞嚥困難患者口腔護理指南，涵蓋口腔厭氧菌、電動vs手動牙刷、口腔保濕凝膠、假牙護理、80–120 mmHg吸痰技巧、餐前口腔刺激運動，及香港醫管局口腔衛生服務及長者牙科資助計劃。"
-author: Editorial Team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-04-19"

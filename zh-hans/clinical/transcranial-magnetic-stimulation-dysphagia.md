@@ -1,7 +1,7 @@
 ---
 title: "经颅磁刺激（TMS）治疗吞咽障碍：脑可塑性机制与临床证据"
 description: "重复经颅磁刺激（rTMS）通过调节大脑皮质可塑性改善卒中后吞咽障碍。本文涵盖神经可塑性机制、高频与低频rTMS方案、Cochrane meta-analysis证据等级、国内开展情况及适应症禁忌。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-13"

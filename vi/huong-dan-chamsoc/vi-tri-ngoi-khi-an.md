@@ -1,7 +1,7 @@
 ---
 title: "Tư Thế Ngồi Khi Ăn Cho Bệnh Nhân Nuốt Khó — Hướng Dẫn Nhanh cho ODJT tại Hồng Kông"
 description: "Hướng dẫn tư thế ngồi 90°, cúi cằm, xoay đầu, và tư thế sau bữa ăn cho người chăm sóc (ODJT) Việt Nam tại HK — dạng checklist thực hành có thể dán ở bếp hoặc phòng bệnh nhân."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "caregiving"
 last_updated: "2026-05-13"

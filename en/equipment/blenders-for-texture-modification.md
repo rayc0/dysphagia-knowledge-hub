@@ -4,7 +4,7 @@ description: "A clinical buyer's guide to high-power blenders, immersion blender
 lang: en
 category: equipment
 date: 2026-04-15
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags: [blender, texture-modification, IDDSI, kitchen-equipment, pureed-diet, minced-moist, vitamix, thermomix]
 ---
 

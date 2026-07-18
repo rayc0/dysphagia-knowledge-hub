@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者的营养监测：体重、BMI和营养状态定期评估指南"
 description: "解释为何定期称重对吞咽障碍患者至关重要（早期发现营养不良），推荐监测频率、有意义体重下降的判断标准（1个月5%、6个月10%），中国老年人BMI目标范围（22-27 kg/m²），MUST和MNA-SF筛查工具的中文评分方法，替代指标（小腿围、上臂肌围），何时转介营养师，以及简单的居家记录方法"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "testing"
 last_updated: "2025-02-04"

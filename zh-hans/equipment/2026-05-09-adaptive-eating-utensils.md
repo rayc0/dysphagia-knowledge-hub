@@ -6,7 +6,7 @@ lang: zh-hans
 categories: [equipment]
 tags: [辅助餐具, 加重勺, 弯角餐具, 防滑垫, 进食辅具, 淘宝, 京东]
 description: "吞咽障碍患者辅助进食工具选购指南：加重勺、弯角餐具、防滑餐垫的功能原理、适用人群与国内购买渠道价格参考。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "equipment"
 last_updated: "2026-05-09"

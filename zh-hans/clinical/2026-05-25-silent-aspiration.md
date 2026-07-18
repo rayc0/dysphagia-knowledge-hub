@@ -1,7 +1,7 @@
 ---
 title: "隐性误吸：为何被忽视及如何检测"
 description: "隐性误吸：为何被忽视及如何检测 — 吞咽困难临床指南"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

@@ -1,7 +1,7 @@
 ---
 title: "Rối loạn nuốt ở người bệnh sa sút trí tuệ — Chiến lược hỗ trợ ăn uống và chăm sóc thoải mái (Việt Nam)"
 description: "Hướng dẫn toàn diện về rối loạn nuốt ở người bệnh sa sút trí tuệ: dấu hiệu nhận biết, chế độ ăn IDDSI, kỹ thuật hỗ trợ ăn uống và chăm sóc thoải mái giai đoạn cuối."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-04-21"

@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者的体重下降与营养不良预警"
 description: "系统解析吞咽困难导致的隐匿性营养不良、体重下降的早期识别指标、MNA等筛查工具及干预策略"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-04-18"

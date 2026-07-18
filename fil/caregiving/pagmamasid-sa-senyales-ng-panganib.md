@@ -1,7 +1,7 @@
 ---
 title: "10 Mapanganib na Senyales na Kailangan ng Doktor Agad"
 description: "Mga babala na dapat bantayan ng mga FDH sa HK kapag nagpapakain ng matatandang may dysphagia — at kung ano ang dapat gawin sa bawat sitwasyon."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"

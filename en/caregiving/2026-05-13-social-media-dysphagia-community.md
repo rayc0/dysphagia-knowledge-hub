@@ -5,7 +5,7 @@ description: "How to find reliable online dysphagia information versus misinform
 lang: en
 category: caregiving
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - social media
   - online community

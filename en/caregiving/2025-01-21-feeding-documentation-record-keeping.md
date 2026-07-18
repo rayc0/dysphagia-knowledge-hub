@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia Feeding Records: How to Document Meals, Intake, and Incidents for Your Care Team"
 description: "A practical guide for caregivers and care homes on documenting dysphagia feeding — why records matter for HA clinical review and audit, what to record, a reproducible daily log template, incident recording, how to present information to SLT and dietitian, digital versus paper tools for HK caregivers, and escalation criteria."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2025-01-21"

@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙家庭照顧者資源指南：從申請補助到心理支持"
 description: "為台灣吞嚥障礙患者家庭照顧者整理的完整資源指南，涵蓋長照2.0申請、照顧技巧培訓、心理支持專線、照顧者假期及各縣市在地資源聯絡資訊。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-09

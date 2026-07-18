@@ -1,7 +1,7 @@
 ---
 title: "食物過敏與吞嚥困難並存的管理：避免交叉污染、替代質地、香港食品標籤法規"
 description: "吞嚥困難患者同時患有食物過敏的管理指南：質地調整飲食下的過敏原識別、交叉污染預防、替代食材選擇，以及香港《食物及藥物（成分組合及標籤）規例》的實用解讀。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-05-09"

@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [dysphagia, nutrition, IDDSI, Asian food, Cantonese, Chinese food, cultural food]
 description: "A practical guide to adapting traditional Asian foods — Cantonese, Japanese, Malay, and others — to IDDSI texture levels for dysphagia patients."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 One of the most common concerns among families managing dysphagia in Hong Kong and across Asia is whether traditional foods can still be part of a patient's diet. The short answer is yes — many traditional Asian foods are already naturally suited to texture-modified diets, and others can be adapted with the right techniques. Maintaining cultural food preferences is important not only for nutrition but for dignity, enjoyment, and psychological wellbeing.

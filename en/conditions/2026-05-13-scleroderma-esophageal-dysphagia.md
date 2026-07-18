@@ -1,7 +1,7 @@
 ---
 title: "Scleroderma and Esophageal Dysphagia: GERD, Motility, Positioning, and Small Meal Management"
 description: "How scleroderma (systemic sclerosis) causes oesophageal dysphagia through fibrosis and motility failure, managing severe GERD as the dominant complication, positioning requirements, meal size and frequency, nutritional risk in scleroderma, and when to consider enteral nutrition."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-13"

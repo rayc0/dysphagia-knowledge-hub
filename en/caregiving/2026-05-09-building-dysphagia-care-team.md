@@ -4,7 +4,7 @@ description: "Understand the roles of SLT, dietitian, OT, nurse, doctor, and car
 lang: en
 category: caregiving
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - dysphagia care team
   - SLT

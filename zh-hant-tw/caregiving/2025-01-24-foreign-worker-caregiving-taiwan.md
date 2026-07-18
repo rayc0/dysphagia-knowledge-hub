@@ -1,7 +1,7 @@
 ---
 title: "外籍看護工與吞嚥障礙照護：聘雇說明、訓練資源與溝通技巧"
 description: "針對台灣家庭聘僱外籍看護工（印尼、越南籍為主）照顧吞嚥障礙患者的完整指南，涵蓋勞動部訓練規定、吞嚥照護重點教學、語言溝通輔助工具，以及聘雇管道說明。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2025-01-24"

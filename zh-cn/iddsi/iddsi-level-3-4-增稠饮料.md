@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 3-4级增稠饮料指南：糊状与极稠液体配制方法"
 description: "详解IDDSI 3级（中稠）与4级（极稠）饮料的标准定义、市售增稠剂选择要点、家庭配置方法及常见错误，适用于大陆居家照护与养老机构。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"

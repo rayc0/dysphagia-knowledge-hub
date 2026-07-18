@@ -1,7 +1,7 @@
 ---
 title: "運動神經元病與吞嚥困難：香港患者實用護理指南"
 description: "運動神經元病（MND）各亞型的吞嚥障礙特徵、香港醫管局跨專科服務流程、家居安全進食策略及預設醫療指示安排，適用於患者、家屬及護理員。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"

@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞咽障碍, 营养, 老年护理, Omega-3, 肌肉健康]
 description: "探讨Omega-3脂肪酸如何支持吞咽相关肌肉的功能与修复，结合中国营养学会建议，帮助吞咽障碍患者制定营养方案。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## Omega-3脂肪酸与吞咽肌肉维护

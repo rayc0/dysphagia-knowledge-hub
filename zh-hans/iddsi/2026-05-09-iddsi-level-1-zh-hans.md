@@ -6,7 +6,7 @@ categories: [iddsi]
 tags: [IDDSI, 吞咽障碍, 稍稠液体, Level 1, 增稠剂]
 description: "深度解析IDDSI 1级稍稠液体的流动特性、注射器测试标准、临床适应症及中国常见食材替代方案，含T/SATA对应等级说明。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## IDDSI 1级概述

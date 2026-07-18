@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙患者的體重管理與營養不良預防：實用指南"
 description: "吞嚥障礙患者的體重減輕和營養不良風險、評估工具（MNA-SF、SGA）、高能量密度食物策略、香港及台灣常見口服營養補充品選擇，以及腸內營養的決策原則"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "nutrition"
 last_updated: "2026-04-18"

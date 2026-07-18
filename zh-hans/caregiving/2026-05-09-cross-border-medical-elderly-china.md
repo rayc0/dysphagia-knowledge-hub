@@ -1,7 +1,7 @@
 ---
 title: "粤港跨境养老与就医：香港长者回乡养老的医疗保障与吞咽障碍照护安排"
 description: "香港长者在内地养老院居住或回乡退休时，如何安排吞咽障碍的医疗保障、社会保险衔接与院舍照护选择。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

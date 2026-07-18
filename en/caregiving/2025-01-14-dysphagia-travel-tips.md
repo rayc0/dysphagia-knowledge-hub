@@ -1,7 +1,7 @@
 ---
 title: "Travelling with Dysphagia: Practical Tips for HK and Asia Trips"
 description: "Practical guide for travelling with a dysphagia patient from Hong Kong. Airport food options, airline meal requests, hotel cooking strategies, what to pack, restaurant tactics, dim sum hall guide, and mainland China travel tips."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-05-09"

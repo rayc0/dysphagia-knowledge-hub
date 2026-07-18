@@ -1,7 +1,7 @@
 ---
 title: "台灣長照機構口腔衛生照護與預防吸入性肺炎：實證指引與本土實踐"
 description: "以Yoneyama等研究為基礎，說明台灣長照機構如何透過結構化口腔照護降低吸入性肺炎風險，涵蓋健保給付、SOP建立與照服員訓練。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-09

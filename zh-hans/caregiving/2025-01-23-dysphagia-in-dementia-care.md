@@ -1,7 +1,7 @@
 ---
 title: "认知症晚期吞咽障碍的居家照护：实用指南"
 description: "认知症（失智症）晚期吞咽障碍居家照护全指南 — 认知症如何特异性地影响吞咽功能，用餐时的行为管理策略（减少干扰、体位、日常化），预立医疗照护计划时机，内地家庭长辈照护的文化背景，以及终末期管饲决策的伦理考量"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-23"

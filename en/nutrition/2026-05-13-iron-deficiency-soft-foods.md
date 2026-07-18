@@ -4,7 +4,7 @@ description: "Why iron deficiency is common in dysphagia patients, soft and pure
 lang: en
 category: nutrition
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - iron deficiency
   - dysphagia

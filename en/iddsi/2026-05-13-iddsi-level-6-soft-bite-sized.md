@@ -5,7 +5,7 @@ description: "IDDSI Level 6 Soft and Bite-Sized explained: 1.5cm cube rule, tong
 lang: en
 category: iddsi
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - Level 6

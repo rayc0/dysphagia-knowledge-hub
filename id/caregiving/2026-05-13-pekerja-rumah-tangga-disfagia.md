@@ -1,7 +1,7 @@
 ---
 title: "Pekerja Rumah Tangga (PRT) sebagai Pengasuh Disfagia — Panduan Pelatihan"
 description: "Peran PRT Indonesia sebagai pengasuh lansia, pelatihan dasar disfagia, teknik Heimlich, komunikasi dengan majikan, serta hak dan kewajiban PRT dalam merawat pasien disfagia."
-author: Pusat Pengetahuan Disfagia
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI湯匙傾斜測試：驗證糊狀及輕度增稠質感"
 description: "IDDSI湯匙傾斜測試：驗證糊狀及輕度增稠質感 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

@@ -1,7 +1,7 @@
 ---
 title: "Stroke and Dysphagia: Recovery Timeline, Retraining the Swallow, and When to Upgrade Diet Levels"
 description: "A clinical deep-dive into post-stroke dysphagia — why stroke causes swallowing impairment, brainstem versus hemispheric profiles, the 1-week/3-month/6-month recovery curve, acute screening protocols, aspiration pneumonia risk, instrumental assessment, rehabilitative exercises, IDDSI diet progression criteria, and the caregiver's role from discharge to six months."
-author: Dr. Lisa Chen
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-11"

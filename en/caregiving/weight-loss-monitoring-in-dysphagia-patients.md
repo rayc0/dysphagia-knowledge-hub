@@ -4,7 +4,7 @@ description: "Unintentional weight loss affects 40-70% of dysphagia patients and
 lang: en
 category: caregiving
 date: 2026-04-15
-author: Dr. Lisa Chen
+author: "SeniorDeli (Carewells) Editorial Team"
 tags: [dysphagia, malnutrition, weight-loss, caregiving, nutrition, tube-feeding]
 ---
 

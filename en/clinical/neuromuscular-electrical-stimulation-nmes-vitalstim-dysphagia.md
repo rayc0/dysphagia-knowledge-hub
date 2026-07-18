@@ -4,7 +4,7 @@ description: "Comprehensive clinical guide to NMES and VitalStim therapy for dys
 lang: en
 category: clinical
 date: 2026-05-04
-author: SeniorDeli Clinical Team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Neuromuscular Electrical Stimulation (NMES) for Dysphagia — VitalStim Evidence, Protocols, and Clinical Decision-Making

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 6 Makanan Lembut dan Sesuai Gigitan — Panduan Lengkap untuk Pasien Disfagia di Indonesia"
 description: "Panduan komprehensif IDDSI Level 6 untuk Indonesia: uji garpu, hidangan tradisional yang aman, persiapan makanan, kapan upgrade ke Level 7, dan panduan caregiver."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-04-30"

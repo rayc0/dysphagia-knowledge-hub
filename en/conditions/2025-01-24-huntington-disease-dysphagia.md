@@ -1,7 +1,7 @@
 ---
 title: "Huntington's Disease and Dysphagia: Caring for Chorea-Affected Eating in Hong Kong"
 description: "How choreic movements affect oral and pharyngeal swallowing in Huntington's disease, managing impulsive eating behaviour, caregiver mealtime safety, IDDSI texture progression across HD stages, PEG decision ethics, and HK neurology resources for rare neurological diseases."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2025-01-24"

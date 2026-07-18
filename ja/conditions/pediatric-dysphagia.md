@@ -1,7 +1,7 @@
 ---
 title: "小児嚥下障害：乳幼児の摂食問題の警告サイン、評価、摂食療法"
 description: "小児嚥下障害完全ガイド（日本語）— 乳幼児の摂食問題の早期警告サイン、乳児嚥下障害と幼児嚥下障害の違い、原因疾患（脳性麻痺/ダウン症/口蓋裂/早産）、小児ST（言語聴覚士）への紹介、適応的摂食戦略、哺乳困難乳児向け特殊哺乳瓶・乳首、ARFID、家族向け心理的サポート"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "conditions"
 last_updated: "2026-04-18"

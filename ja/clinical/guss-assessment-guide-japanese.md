@@ -1,7 +1,7 @@
 ---
 title: "GUSS嚥下評価ガイド——Gugging Swallowing Screenの実施方法と臨床活用"
 description: "GUSS（Gugging Swallowing Screen）の4つのセクション、実施手順、スコア解釈（0〜20点）、誤嚥リスク分類、ベッドサイドでの実践方法を解説。急性脳卒中・高齢者施設での活用事例を含む。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-05-13"

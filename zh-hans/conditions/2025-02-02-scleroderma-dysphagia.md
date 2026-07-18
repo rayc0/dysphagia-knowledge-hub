@@ -1,7 +1,7 @@
 ---
 title: "硬皮病（系统性硬化症）食管吞咽障碍：照护者与患者管理指南"
 description: "硬皮病（SSc）吞咽障碍完整指南（简体中文）— 食管平滑肌纤维化与下食管括约肌张力降低机制、与口咽期吞咽障碍的区别、胃肠科与风湿科联合管理、胃肠动力药物、抗反流体位（餐后勿平卧）、食管症状下的质地调整（避免大块食物、偏好液体与软质内聚食物）、小口咽伴口腔卫生管理"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2025-02-02"

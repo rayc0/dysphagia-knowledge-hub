@@ -1,7 +1,7 @@
 ---
 title: "心脏手术后吞咽障碍：CABG与瓣膜手术后的评估与康复"
 description: "心脏手术（CABG、瓣膜置换/修复）后吞咽障碍发生率约2–10%，主要原因包括喉返神经损伤、长时间气管插管损伤和ICU相关吞咽功能退化。本文涵盖发病机制、术后评估时机、ICU脱机后管理及康复方案。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-05-13"

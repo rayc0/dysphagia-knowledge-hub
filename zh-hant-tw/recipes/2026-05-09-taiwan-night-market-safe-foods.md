@@ -6,7 +6,7 @@ categories: [recipes]
 tags: [吞嚥障礙, 台灣, 食譜, 夜市, 社交飲食]
 description: "分析台灣夜市常見小吃的質地與吞嚥安全性，協助吞嚥障礙患者及照顧者在外出用餐時做出適合的選擇，維持社交生活品質。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 # 台灣夜市小吃的吞嚥友好選擇

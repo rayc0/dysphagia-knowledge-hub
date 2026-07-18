@@ -5,7 +5,7 @@ description: "What FEES is, how it differs from VFSS, what the camera sees durin
 lang: en
 category: equipment
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - FEES
   - fibreoptic endoscopy

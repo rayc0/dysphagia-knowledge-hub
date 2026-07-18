@@ -1,7 +1,7 @@
 ---
 title: "Sumber Daya Komunitas Indonesia di Hong Kong untuk ART — Kesehatan, Bantuan Hukum, dan Dukungan Sosial"
 description: "Panduan lengkap sumber daya komunitas Indonesia di Hong Kong untuk ART: Konsulat RI, IMWU, ATKI-HK, kumpul Minggu di Victoria Park, akses layanan kesehatan, dan bantuan darurat."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

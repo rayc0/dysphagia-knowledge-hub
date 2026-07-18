@@ -1,7 +1,7 @@
 ---
 title: "預設照顧計劃：吞嚥困難患者的人工灌食決策指引"
 description: "香港吞嚥困難患者的預設照顧計劃（ACP）全面指南：香港預設醫療指示（非法定），人工灌食（鼻胃管vs胃造口）的決策依據，晚期認知障礙症中管飼的實證，文化障礙，社工與言語治療師在ACP的角色，以及香港紓緩治療資源。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-21"

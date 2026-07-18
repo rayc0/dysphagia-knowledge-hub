@@ -1,7 +1,7 @@
 ---
 title: "Evaluasi Menelan — Tes dan Layanan di Indonesia"
 description: "Tes air 3oz sederhana, GUSS untuk skrining, VFSS/FEES di Indonesia, biaya dan BPJS coverage, cara mendapatkan rujukan terapis wicara, dan konsultasi telemedicine."
-author: Pusat Pengetahuan Disfagia
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "clinical"
 last_updated: "2026-05-13"

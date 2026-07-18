@@ -4,7 +4,7 @@ description: "Seven Cantonese family dishes reworked for IDDSI Level 4 (Pureed) 
 lang: en
 category: recipes
 date: 2026-04-14
-author: Margaret Wong
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Cantonese Soft Meal Recipes — IDDSI Level 4 and 5 Versions of Home-Cooked Classics

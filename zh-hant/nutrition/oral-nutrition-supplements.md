@@ -1,7 +1,7 @@
 ---
 title: "吞嚥障礙患者口服營養補充品（ONS）完全指南：選擇原則、產品比較與IDDSI適用性"
 description: "吞嚥障礙患者使用口服營養補充品指南 — 營養不良風險評估指標（MNA-SF）、何時開始ONS、濃縮型與一般型對比、Resource Protein/Ensure Gold/Fortijuce等產品比較表、黏度調整方法，以及台灣與香港市場的ONS產品資訊"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "nutrition"
 last_updated: "2026-04-18"

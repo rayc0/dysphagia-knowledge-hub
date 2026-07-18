@@ -4,7 +4,7 @@ description: "A practical guide for Hong Kong caregivers and care home kitchens 
 lang: en
 category: equipment
 date: 2025-01-26
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags: [blender, dysphagia, hong-kong, pureed-diet, IDDSI, kitchen-equipment, texture-modification, food-safety]
 ---
 

@@ -4,7 +4,7 @@ description: "IDDSI 國際吞嚥障礙飲食標準將飲品分為 Level 0 至 Le
 lang: zh-hant
 category: iddsi
 date: 2026-04-15
-author: 吞嚥知識中樞
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags: [IDDSI, 吞嚥障礙, 飲品稠度, 增稠劑, 台灣, 照顧者, 居家照護]
 ---
 

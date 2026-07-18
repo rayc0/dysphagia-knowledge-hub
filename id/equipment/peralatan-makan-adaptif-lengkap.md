@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Peralatan Makan Adaptif untuk Pasien Disfagia: Dari Cangkir Khusus hingga Sendok Berlapis"
 description: "Panduan komprehensif peralatan makan adaptif untuk pasien disfagia — jenis peralatan, fungsinya, cara memilih yang sesuai kondisi pasien, dan di mana membeli di Indonesia maupun Hong Kong."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "equipment"
 last_updated: "2026-05-13"

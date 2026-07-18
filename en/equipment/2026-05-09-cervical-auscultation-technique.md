@@ -6,7 +6,7 @@ categories: [equipment]
 tags: [dysphagia, clinical, assessment, cervical-auscultation, technique, SLP]
 description: "A clinician's guide to cervical auscultation in dysphagia assessment: technique, acoustic interpretation, equipment, evidence base, and limitations."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 ## What Is Cervical Auscultation?

@@ -1,7 +1,7 @@
 ---
 title: "增稠剂选购指南：淀粉基 vs 黄原胶基比较"
 description: "吞咽障碍患者增稠剂选购完整攻略：淀粉基（改性淀粉）与黄原胶基增稠剂深度对比，涵盖稠度稳定性、口感、适用人群、大陆市售产品参考及IDDSI测试方法。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "equipment"
 last_updated: "2026-05-09"

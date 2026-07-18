@@ -1,7 +1,7 @@
 ---
 title: "認知障礙與進食行為：痴呆症、腦退化症照護者的用餐挑戰解決方案"
 description: "本文針對不同類型認知障礙症（阿茲海默症、額葉顳葉認知障礙症、路易體認知障礙症、血管性認知障礙症）引起的不同進食行為問題，提供配對的實用用餐策略，包括善用香港飲食文化偏好、手持食物策略及用餐環境改造建議。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2025-01-22"

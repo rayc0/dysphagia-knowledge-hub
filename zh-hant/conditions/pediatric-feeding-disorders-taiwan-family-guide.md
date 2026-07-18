@@ -4,7 +4,7 @@ description: "小兒吞嚥困難與餵食障礙（Pediatric Feeding Disorder, PF
 lang: zh-hant
 category: conditions
 date: 2026-04-15
-author: Dysphagia Hub
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags:
   - 小兒吞嚥
   - 兒童餵食困難

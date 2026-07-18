@@ -1,7 +1,7 @@
 ---
 title: "สัญญาณเตือนภาวะกลืนลำบาก — คู่มือฉบับครอบครัวและผู้ดูแลในประเทศไทย"
 description: "รวมสัญญาณเตือน 10 ข้อของภาวะกลืนลำบาก (Dysphagia) พร้อมแบบประเมิน EAT-10 เกณฑ์การส่งต่อแพทย์ และสิ่งที่ควรแจ้งทีมรักษา ฉบับภาษาไทย"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "caregiving"
 last_updated: "2026-04-19"

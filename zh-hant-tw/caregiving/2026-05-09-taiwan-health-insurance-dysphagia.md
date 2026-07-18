@@ -1,7 +1,7 @@
 ---
 title: "台灣健保給付吞嚥障礙治療與營養支持：2026年最新給付範圍解析"
 description: "詳解台灣全民健保對吞嚥障礙相關醫療的給付項目，涵蓋語言治療、吞嚥復健、管灌配方、特殊醫療用途食品及長照整合補助，協助患者與家屬精準運用醫療資源。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2026-05-09"

@@ -1,7 +1,7 @@
 ---
 title: "気管切開と嚥下障害——気管切開患者の嚥下機能評価と管理 完全ガイド"
 description: "気管切開患者の嚥下障害について、カフ圧管理、スピーチバルブ（PMV）、FEES評価、抜管アルゴリズムを日本の臨床現場に即して解説。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-20"

@@ -4,7 +4,7 @@ description: "Longitudinal management of post-stroke dysphagia — acute screeni
 lang: en
 category: conditions
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - post-stroke dysphagia
   - stroke rehabilitation

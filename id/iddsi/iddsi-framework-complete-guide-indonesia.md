@@ -1,7 +1,7 @@
 ---
 title: "Kerangka IDDSI — Panduan Lengkap 8 Tingkat Diet Internasional untuk Pasien Disfagia di Indonesia"
 description: "Panduan lengkap kerangka IDDSI 2.0: 8 tingkat makanan dan minuman bertekstur modifikasi untuk pasien disfagia, dengan konteks sistem kesehatan Indonesia dan data lokal."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-04-22"

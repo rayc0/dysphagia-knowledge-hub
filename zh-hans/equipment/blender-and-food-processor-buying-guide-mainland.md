@@ -4,7 +4,7 @@ description: "针对中国内地吞咽障碍家庭的搅拌设备选购指南。
 lang: zh-hans
 category: equipment
 date: 2026-04-15
-author: Raymond
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 破壁机
   - 料理机

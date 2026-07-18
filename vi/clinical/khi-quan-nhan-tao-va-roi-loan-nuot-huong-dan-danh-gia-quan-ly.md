@@ -1,7 +1,7 @@
 ---
 title: "Khí quản nhân tạo và rối loạn nuốt — Hướng dẫn đánh giá và quản lý chức năng nuốt ở bệnh nhân mở khí quản (Việt Nam)"
 description: "Tại sao mở khí quản gây rối loạn nuốt, thực hư về cuff phồng, van Passy-Muir, FEES, và quy trình rút ống khí quản an toàn — phù hợp bối cảnh lâm sàng Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-04-22"

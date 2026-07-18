@@ -1,7 +1,7 @@
 ---
 title: "中風後吞嚥困難康復：復健療程與飲食管理（台灣醫療資源版）"
 description: "中風後吞嚥困難的完整康復指南——從急性期到社區復健的時程規劃、台灣醫院語言治療資源、IDDSI飲食調整策略，以及家屬在各階段的支持角色。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 date: 2026-05-13

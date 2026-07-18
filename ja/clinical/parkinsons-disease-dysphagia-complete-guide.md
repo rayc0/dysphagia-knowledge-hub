@@ -1,7 +1,7 @@
 ---
 title: "パーキンソン病と嚥下障害——症状・進行・食事調整の完全ガイド"
 description: "パーキンソン病患者の80%以上が嚥下障害を発症。原因・症状・JSDR嚥下調整食対応・LSVT療法・介護者向け実践ガイドを解説します。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"

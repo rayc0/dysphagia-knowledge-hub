@@ -1,7 +1,7 @@
 ---
 title: "Hướng dẫn chọn chất làm đặc cho người bệnh rối loạn nuốt — so sánh tinh bột biến tính vs guar gum vs xanthan"
 description: "So sánh chi tiết giữa chất làm đặc tinh bột, guar gum và xanthan gum cho người bệnh rối loạn nuốt. Hướng dẫn lựa chọn phù hợp từ góc độ tính chất, hiệu quả lâm sàng, giá cả và tính sẵn có tại Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "equipment"
 last_updated: "2026-04-21"

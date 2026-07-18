@@ -1,7 +1,7 @@
 ---
 title: "農曆新年飲食安全：吞嚥困難患者的節日餐桌攻略"
 description: "農曆新年期間吞嚥困難患者的實用餐桌攻略，詳解年菜的IDDSI安全評估、盆菜進食策略、圍爐吃法調整及與家人共享節慶的溝通建議。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2026-05-09"

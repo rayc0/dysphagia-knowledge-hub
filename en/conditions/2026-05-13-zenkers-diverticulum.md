@@ -1,7 +1,7 @@
 ---
 title: "Zenker's Diverticulum: Symptoms, Diagnosis, and Treatment"
 description: "Complete guide to Zenker's diverticulum: hypopharyngeal pouching mechanism, classic triad, barium swallow diagnosis, endoscopic vs. open surgery, post-surgical SLT rehab, and HK ENT options."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-13"

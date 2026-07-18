@@ -1,7 +1,7 @@
 ---
 title: "成人腦性麻痺患者的吞嚥困難管理：香港指南"
 description: "成人腦性麻痺患者吞嚥困難的特徵、香港醫管局成人腦麻痺服務、IDDSI飲食建議、痙攣及流涎管理，以及院舍與家居照顧者的實用指引。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"

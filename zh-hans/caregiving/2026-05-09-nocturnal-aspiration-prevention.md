@@ -6,7 +6,7 @@ categories: [caregiving]
 tags: [吞咽障碍, 照护, 安全, 夜间误吸, 误吸预防]
 description: "夜间误吸发生时患者常无感知，是吸入性肺炎的重要诱因。本文介绍夜间误吸的成因、识别信号及家庭环境中的预防与监测方法。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 夜间误吸是吞咽障碍照护中最容易被忽视的风险之一。与进食时的误吸不同，夜间误吸往往在患者睡眠中悄然发生，既无咳嗽的惊醒，也无明显症状，但日积月累可造成严重的吸入性肺炎，甚至危及生命。

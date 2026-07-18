@@ -1,7 +1,7 @@
 ---
 title: "Makanan Indonesia Tradisional Disesuaikan dengan IDDSI"
 description: "Bubur, nasi tim, sup sayur, tahu tempe lembut, kolak, dan cara mengentalkan sayur lodeh — panduan adaptasi makanan Indonesia berdasarkan tingkat IDDSI."
-author: Pusat Pengetahuan Disfagia
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "nutrition"
 last_updated: "2026-05-13"

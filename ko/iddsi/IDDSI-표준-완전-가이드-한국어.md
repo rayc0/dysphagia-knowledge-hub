@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 표준 완전 가이드: 한국 간병인을 위한 실용 지침"
 description: "IDDSI(국제 연하장애 식이 표준화 이니셔티브) 완전 가이드: 0~7단계 전체 설명, 가정에서의 점도 측정 방법, 한국 음식 적용 사례 및 흔한 오류 정정."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "iddsi"
 last_updated: "2026-05-13"

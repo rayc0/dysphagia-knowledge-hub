@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 2 Mildly Thick — Gabay sa Tagalog: Katamtamang Malapot na Inumin para sa mga may Dysphagia"
 description: "Detalyadong gabay sa IDDSI Level 2 Mildly Thick sa Tagalog. Kasama ang syringe test, paraan ng paghahanda gamit ang thickener, babala tungkol sa dehydration, at mga pagkaing natural na Level 2."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"

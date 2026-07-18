@@ -1,7 +1,7 @@
 ---
 title: "病例研究1：72岁女性轻度吞咽困难"
 description: "病例研究1：72岁女性轻度吞咽困难 — 吞咽困难临床指南"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

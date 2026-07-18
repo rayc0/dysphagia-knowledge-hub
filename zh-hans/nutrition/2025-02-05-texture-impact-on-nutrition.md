@@ -1,7 +1,7 @@
 ---
 title: "质地改良对营养素的影响：蒸煮、搅拌和过筛过程中的营养流失与保留"
 description: "分析质地改良烹调过程对热敏感维生素、水溶性营养素和膳食纤维的影响，以及均质化增加部分营养素生物利用度的机制，并提供实用的营养保留操作建议"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-02-05"

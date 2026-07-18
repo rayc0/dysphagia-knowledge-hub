@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Antas 5 — Minced and Moist (Tinadtad at Basa) na Pagkain"
 description: "Gabay sa IDDSI Level 5 para sa mga FDH sa HK — 4mm particle size, spoon tilt test, compatible Filipino dishes, at paano i-modify ang regular na lutuin."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "iddsi"
 last_updated: "2026-05-13"

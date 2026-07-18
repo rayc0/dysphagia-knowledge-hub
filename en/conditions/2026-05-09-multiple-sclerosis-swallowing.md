@@ -4,7 +4,7 @@ description: "Practical guide to identifying, assessing, and managing dysphagia 
 lang: en
 category: conditions
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - multiple sclerosis
   - dysphagia

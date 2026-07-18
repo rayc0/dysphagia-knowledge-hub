@@ -1,7 +1,7 @@
 ---
 title: "Post-COVID Dysphagia and Long COVID Swallowing Difficulties — Clinical Evidence and Recovery Guide"
 description: "Why COVID-19 causes swallowing difficulties, how intubation duration predicts severity, long COVID persistence rates, rehabilitation evidence, and IDDSI diet guidance for recovery."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-19"

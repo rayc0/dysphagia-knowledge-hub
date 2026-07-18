@@ -1,7 +1,7 @@
 ---
 title: "呼氣肌力訓練（EMST）治療吞嚥障礙——循證方案、設備選擇與台灣臨床應用指南"
 description: "完整介紹呼氣肌力訓練（EMST）在台灣吞嚥障礙患者的應用。涵蓋EMST150裝置、5×5訓練方案、帕金森氏症與中風患者的實證依據、台灣言語治療師培訓標準、健保給付資訊與居家訓練指引。"
-author: "SeniorDeli (Carewells) clinical editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 date: "2026-05-05"

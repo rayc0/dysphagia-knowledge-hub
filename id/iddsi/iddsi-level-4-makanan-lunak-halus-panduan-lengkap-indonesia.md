@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 4 Makanan Lunak Halus (Pureed) — Panduan Lengkap untuk Pasien Disfagia di Indonesia"
 description: "Panduan lengkap IDDSI Level 4 Makanan Lunak Halus: definisi klinis, 3 uji tekstur resmi, tabel makanan Indonesia yang sesuai, risiko gizi, dan tips persiapan di rumah."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-04-23"

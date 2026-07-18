@@ -1,7 +1,7 @@
 ---
 title: "香港傳統節慶食品嘅吞嚥安全：農曆新年、中秋、端午嘅食物指引"
 description: "香港傳統節慶食品的吞嚥安全指引：農曆新年（年糕、湯圓、蘿蔔糕）、中秋節（月餅、芋頭糕）、端午節（粽子）的IDDSI評估，以及如何向家人解釋飲食限制和提供情感包容的替代方案。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-24"

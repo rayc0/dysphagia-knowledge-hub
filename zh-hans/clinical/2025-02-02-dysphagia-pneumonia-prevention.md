@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍相关性肺炎：内地院感管理与居家预防完整方案"
 description: "吸入性肺炎是吞咽障碍最严重的并发症，也是最可预防的并发症。本文涵盖发病机制、证据最强的口腔护理干预（Lancet 2002）、体位管理规范、内地院感流程与居家照护者操作指引，以及早期识别与就医时机。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2025-02-02"

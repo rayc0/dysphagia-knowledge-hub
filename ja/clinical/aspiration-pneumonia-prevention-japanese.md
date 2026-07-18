@@ -1,7 +1,7 @@
 ---
 title: "誤嚥性肺炎予防の3本柱——口腔ケア・体位管理・IDDSI対応食のエビデンス"
 description: "誤嚥性肺炎予防の3大介入——食前食後の口腔ケア、適切な体位管理、IDDSI対応食の実践を、エビデンス（PMID: 18753469含む）に基づき解説。香港・日本の臨床現場での実装を支援。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "RAPIDS：卒中后吞咽困难的皇家阿德莱德预后指数"
 description: "RAPIDS：卒中后吞咽困难的皇家阿德莱德预后指数 — 吞咽困难临床指南"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

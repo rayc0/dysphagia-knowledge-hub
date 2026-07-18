@@ -1,7 +1,7 @@
 ---
 title: "锌与伤口愈合：吞咽障碍患者的压疮营养支持"
 description: "阐述吞咽障碍患者压疮高风险的成因，锌在伤口愈合和免疫功能中的作用，含锌软食推荐，补充剂量的上限警示，以及蛋白质、维生素C协同配方与转介建议"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-02-02"

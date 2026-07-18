@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia Testing — 10+ Clinical Assessment Methods (EAT-10, GUSS, V-VST, MASA, FOIS, 3-oz Water Test, VFSS, FEES, Penetration-Aspiration Scale, TOR-BSST)"
 description: "A comprehensive guide to every major dysphagia screening and assessment tool — from bedside screens to gold-standard instrumental tests — for caregivers, SLPs, and geriatric nurses."
-author: Margaret Wong
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-11"

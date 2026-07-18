@@ -1,7 +1,7 @@
 ---
 title: "环咽肌功能障碍——诊断、球囊扩张、肉毒毒素与环咽肌切开术临床指南（简中版）"
 description: "环咽肌（上食管括约肌）失弛缓是神经源性吞咽障碍的常见原因。本文系统梳理诊断流程与三大治疗手段——球囊扩张、肉毒毒素注射与环咽肌切开术的循证疗效与选择策略。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-20"

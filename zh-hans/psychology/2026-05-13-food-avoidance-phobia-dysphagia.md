@@ -1,7 +1,7 @@
 ---
 title: "食物回避与进食恐惧：Phagophobia与ARFID在吞咽障碍中的心理机制与干预"
 description: "进食恐惧（Phagophobia）与回避性/限制性进食障碍（ARFID）是吞咽障碍患者中常见的心理共病。本文介绍心理机制、分级暴露疗法及与言语治疗的协作模式。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-13"

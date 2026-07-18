@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Mga Antas ng Pagkain at Inumin — Gabay para sa mga Kasambahay"
 description: "Simpleng paliwanag ng 8 IDDSI levels para sa mga FDH sa HK — kung anong pagkain at inumin ang ligtas para sa matatandang may dysphagia."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"

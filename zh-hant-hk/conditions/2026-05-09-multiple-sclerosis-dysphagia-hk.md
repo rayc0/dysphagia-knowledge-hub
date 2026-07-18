@@ -1,7 +1,7 @@
 ---
 title: "多發性硬化症與吞嚥困難：香港進展期管理指南"
 description: "多發性硬化症患者吞嚥困難的進展特徵、復發緩解期與進展期的管理差異、香港醫管局MS服務、IDDSI飲食建議及疲勞對進食的影響。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"

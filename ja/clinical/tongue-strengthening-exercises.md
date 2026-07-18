@@ -1,7 +1,7 @@
 ---
 title: "舌筋力トレーニング完全ガイド：嚥下障害予防・リハビリのための舌圧訓練法"
 description: "舌の筋力強化による嚥下障害予防・リハビリの完全ガイド — 舌圧測定（JMS舌圧測定器の正常値・低下基準）、舌圧トレーニング器具（舌トレー/IOPI/ペコパンダ）の使い方とエビデンス、段階的トレーニングプログラム（週3回×8週間の標準プロトコル）、舌の各部位ターゲット訓練法（舌前部/後部/側縁）、サルコペニア性嚥下障害への予防的舌圧訓練、老嚥（プレスビファジア）への対策"
-author: Dr. Lisa Chen
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"

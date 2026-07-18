@@ -1,7 +1,7 @@
 ---
 title: "口腔癌治疗中的吞咽康复：手术与放疗后的饮食重建策略"
 description: "口腔癌患者经手术或放化疗后面临严重吞咽障碍，本文系统介绍康复时间轴、饮食质地分级、口腔干燥与纤维化的管理及中国临床实践建议。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: conditions
 last_updated: 2026-05-09

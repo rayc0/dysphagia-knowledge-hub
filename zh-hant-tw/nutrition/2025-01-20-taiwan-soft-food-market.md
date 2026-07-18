@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙照護食市場與產品選購指南"
 description: "全面介紹台灣吞嚥障礙照護食（Care Food）市場現況，涵蓋各大通路購買管道、IDDSI標示產品比較、價格參考，以及與香港、中國大陸產品的差異分析，協助照顧者做出明智的選購決策。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 last_updated: "2025-01-20"

@@ -1,7 +1,7 @@
 ---
 title: "Strok dan Disfagia — Pemulihan dan Latihan Semula Menelan"
 description: "Panduan lengkap disfagia selepas strok: jangka masa pemulihan, latihan menelan, pengubahsuaian tekstur makanan IDDSI, dan bila untuk naik tahap — untuk pesakit dan penjaga di Malaysia."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-18"

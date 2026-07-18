@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 5级与6级界限：如何判断食物质地"
 description: "IDDSI 5级（细泥状）与6级（软质切小块）界限详解：两级定义对比、居家判断方法、容易混淆的食物案例分析及大陆常见食材的质地等级参考。照护者与护工实用指南。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"

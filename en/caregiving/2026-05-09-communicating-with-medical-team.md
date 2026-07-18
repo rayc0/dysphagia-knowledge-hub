@@ -4,7 +4,7 @@ description: "Practical advice for HK caregivers on advocating for dysphagia ass
 lang: en
 category: caregiving
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - caregiver advocacy
   - medical communication

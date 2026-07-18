@@ -1,7 +1,7 @@
 ---
 title: "如何与医疗团队有效沟通：吞咽障碍照护者指南"
 description: "吞咽障碍照护者与医疗团队沟通指南 — 向主治医生、言语治疗师和营养师提问的要点，症状记录方法，需立即上报的危险信号，内地三甲医院转诊体系导航，照护者权利须知，以及就诊必备模板问题清单"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-22"

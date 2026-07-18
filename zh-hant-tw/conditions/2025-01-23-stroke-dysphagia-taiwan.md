@@ -1,7 +1,7 @@
 ---
 title: "腦中風後吞嚥障礙：台灣患者從急性期到社區復健的完整指南"
 description: "涵蓋台灣急性腦中風病房吞嚥篩檢協議、語言治療師介入時程、住院IDDSI飲食進展、轉銜復健醫院標準、門診健保復健次數限制、1966居家復能，以及台灣腦中風學會與伊甸基金會等支援資源。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 last_updated: "2025-01-23"

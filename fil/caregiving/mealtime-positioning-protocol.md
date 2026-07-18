@@ -1,7 +1,7 @@
 ---
 title: "Mealtime Positioning Protocol for Dysphagia Patients — Philippine Caregiver Guide"
 description: "Safe eating position setup for swallowing disorders: 90° chair angle, head tilt, supervision rules, and post-meal care for Filipino home settings."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-18"

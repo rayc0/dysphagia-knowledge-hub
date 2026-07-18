@@ -1,7 +1,7 @@
 ---
 title: "Mengenali Tanda-Tanda Aspirasi pada Lansia — Panduan untuk ART Indonesia di Hong Kong"
 description: "Cara mengenali tanda aspirasi (makanan masuk ke paru-paru) pada lansia disfagia: suara basah, batuk terus-menerus, demam mendadak, dan kapan harus menghubungi dokter. Khusus ART Indonesia di Hong Kong."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

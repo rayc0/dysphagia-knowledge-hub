@@ -5,7 +5,7 @@ description: "Comprehensive guide to adaptive eating equipment for dysphagia: we
 lang: en
 category: equipment
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - adaptive equipment
   - dysphagia

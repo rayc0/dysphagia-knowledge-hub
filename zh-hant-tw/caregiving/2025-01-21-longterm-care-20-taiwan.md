@@ -1,7 +1,7 @@
 ---
 title: "長照2.0與吞嚥障礙照護：居家服務申請與資源整合指南"
 description: "詳細說明台灣長照2.0體系中與吞嚥障礙照護相關的服務項目，包括居家照顧、居家復能、輔具補助、喘息服務的申請流程，以及CMS失能評估技巧、補充NGO資源，協助家庭照顧者有效整合社區照護資源。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2025-01-21"

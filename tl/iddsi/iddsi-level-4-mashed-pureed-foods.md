@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 4 Minced at Moist — Fork Pressure Test at mga Halimbawa ng Pagkaing Filipino"
 description: "Detalyadong gabay sa IDDSI Level 4 Minced and Moist sa Tagalog: fork pressure test, mga pagkaing Filipino tulad ng sinigang, lugaw na may piraso, at mashed camote. Kasama ang mga babala at praktikal na tips para sa mga caregiver sa Hong Kong."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"

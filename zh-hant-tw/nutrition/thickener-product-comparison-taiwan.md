@@ -1,7 +1,7 @@
 ---
 title: "台灣市售食物增稠劑比較：品牌選購指南"
 description: "台灣市場常見增稠劑的完整比較分析——澱粉基與膠基配方、穩定性差異、各品牌實測優缺點，以及按IDDSI等級的使用建議，協助照顧者選購最適合的產品。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-13

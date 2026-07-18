@@ -1,7 +1,7 @@
 ---
 title: "Saringan Kekurangan Zat Makanan pada Pesakit Disfagia: Cara Mengesan Awal dan Langkah Intervensi"
 description: "Panduan saringan kekurangan zat makanan untuk pesakit disfagia (Bahasa Melayu) — alat saringan MNA-SF dan MUST, tanda-tanda klinikal kekurangan zat, petanda makmal (albumin/prealbumin), strategi pengayaan kalori, peranan dietisyen dalam pengurusan pemakanan disfagia"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "nutrition"
 last_updated: "2026-04-18"

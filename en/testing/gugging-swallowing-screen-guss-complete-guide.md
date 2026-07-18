@@ -4,7 +4,7 @@ description: "Comprehensive clinical guide to the GUSS bedside dysphagia screen:
 lang: en
 category: testing
 date: 2026-05-21
-author: SeniorDeli Clinical Team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Gugging Swallowing Screen (GUSS): Complete Clinical Guide for Post-Stroke Bedside Dysphagia Screening

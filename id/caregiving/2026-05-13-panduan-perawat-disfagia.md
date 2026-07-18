@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Pengasuh untuk Merawat Pasien Disfagia di Rumah"
 description: "Tanda bahaya disfagia, posisi makan yang benar, makanan Indonesia yang cocok, cara menggunakan pengental, dan sumber daya medis di Indonesia untuk pasien disfagia."
-author: Pusat Pengetahuan Disfagia
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

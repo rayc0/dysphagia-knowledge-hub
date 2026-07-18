@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 3 Moderately Thick — Gabay sa Tagalog: Katamtaman ang Kalapot na Inumin para sa Dysphagia"
 description: "Detalyadong gabay sa IDDSI Level 3 Moderately Thick sa Tagalog. Kasama ang fork drip test, mga natural na Filipino na inumin na Level 3, epekto ng temperatura sa kapal, at mga karaniwang pagkakamali."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"

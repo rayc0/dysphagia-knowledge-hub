@@ -1,7 +1,7 @@
 ---
 title: "Videofluoroscopic Swallowing Study (VFSS): What Patients and Caregivers Need to Know"
 description: "A complete guide to the videofluoroscopic swallowing study (modified barium swallow) — when it is ordered, what happens during the procedure, how to prepare, what the speech-language therapist and radiologist look for, how results shape diet prescription, availability and cost in Hong Kong, and alternatives including FEES and clinical swallowing examination."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2025-01-20"

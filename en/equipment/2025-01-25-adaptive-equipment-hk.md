@@ -4,7 +4,7 @@ description: "A practical guide to adaptive eating equipment for dysphagia patie
 lang: en
 category: equipment
 date: 2025-01-25
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags: [dysphagia, adaptive-equipment, hong-kong, OT, cups, spoons, mealtime-aids, assistive-devices]
 ---
 

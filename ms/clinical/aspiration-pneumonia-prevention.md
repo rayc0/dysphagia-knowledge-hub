@@ -1,7 +1,7 @@
 ---
 title: "Pencegahan Pneumonia Aspirasi: Panduan Lengkap untuk Pesakit Disfagia dan Penjaga"
 description: "Panduan klinikal lengkap tentang pneumonia aspirasi — definisi, kumpulan berisiko tinggi, peranan pengubahsuaian tekstur makanan IDDSI, kebersihan mulut, posisi badan, dan tanda amaran awal bagi penjaga di Malaysia."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-18"

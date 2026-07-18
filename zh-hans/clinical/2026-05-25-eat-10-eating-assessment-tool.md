@@ -1,7 +1,7 @@
 ---
 title: "EAT-10 进食评估工具：吞咽困难筛查临床指南"
 description: "EAT-10（进食评估工具）是一份经过验证的10题自填吞咽困难筛查问卷。本文涵盖施测方法、评分、结果解读、灵敏度与特异度、与床边测试的整合应用，以及在神经科和肿瘤科患者中的使用。"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

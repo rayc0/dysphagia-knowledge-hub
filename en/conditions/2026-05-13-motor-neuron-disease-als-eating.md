@@ -1,7 +1,7 @@
 ---
 title: "ALS/MND and Eating: Anticipatory Planning, PEG Timing, and Palliative Decisions in Hong Kong"
 description: "Updated guidance on eating management in ALS/MND focused on anticipatory planning: recognising early bulbar signs, when to begin IDDSI progression, PEG tube decision criteria relative to FVC, comfort feeding in advanced disease, palliative care integration, and HK MND Association support."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-13"

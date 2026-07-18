@@ -1,7 +1,7 @@
 ---
 title: "IDDSI ระดับ 3 ของเหลวข้น / อาหารเหลวข้น (Liquidised / Moderately Thick) — คู่มือฉบับสมบูรณ์สำหรับประเทศไทย"
 description: "คู่มือฉบับสมบูรณ์เกี่ยวกับ IDDSI ระดับ 3: การทดสอบอย่างเป็นทางการ ข้อบ่งชี้ทางคลินิก การเตรียมที่บ้าน และการป้องกันการสำลัก สำหรับผู้ดูแลและบุคลากรสุขภาพในไทย"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "iddsi"
 last_updated: "2026-04-20"

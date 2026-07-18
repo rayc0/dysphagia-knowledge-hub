@@ -1,7 +1,7 @@
 ---
 title: "ภาวะกลืนลำบากจากมวลกล้ามเนื้อน้อย (Sarcopenic Dysphagia) — คู่มือวินิจฉัยและฟื้นฟูฉบับสำหรับผู้ป่วยและผู้ดูแลในประเทศไทย"
 description: "คู่มือ Sarcopenic Dysphagia ฉบับไทย อธิบายกรอบแนวคิด Wakabayashi เกณฑ์วินิจฉัย Mori 5 ขั้นตอน ค่าแรงลิ้น 20 kPa และแนวทางฟื้นฟูสามเสาหลัก"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "clinical"
 last_updated: "2026-04-20"

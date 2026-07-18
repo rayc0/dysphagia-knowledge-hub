@@ -1,7 +1,7 @@
 ---
 title: "Pangpatibay ng Inumin (Food Thickeners) para sa Dysphagia — Paano Gamitin at Pumili ng Tamang Uri"
 description: "Kumpletong gabay sa paggamit ng food thickeners para sa mga matatandang may dysphagia sa HK. Kasama ang mga uri ng thickener, tamang pagsukat, at mga dapat iwasang pagkakamali."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "nutrition"
 last_updated: "2026-05-13"

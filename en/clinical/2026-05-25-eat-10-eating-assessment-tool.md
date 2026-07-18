@@ -1,7 +1,7 @@
 ---
 title: "EAT-10: The Eating Assessment Tool — Clinical Guide to Dysphagia Screening"
 description: "A complete clinical guide to the EAT-10 (Eating Assessment Tool), a validated 10-item self-report dysphagia screening questionnaire. Covers administration, scoring, interpretation, sensitivity and specificity, integration with bedside testing, and use across neurological and oncological populations."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

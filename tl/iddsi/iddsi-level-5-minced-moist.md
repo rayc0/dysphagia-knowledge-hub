@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 5 Minced at Moist — Pagpaplano ng Pagkain para sa mga Pilipinong Caregiver sa Hong Kong"
 description: "Kumpletong gabay sa IDDSI Level 5 Minced and Moist sa Tagalog: laki ng piraso (4mm), moisture requirements, bite-size meal planning gamit ang mga pagkaing Filipino, at mga tip para sa mga FDH sa Hong Kong."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"

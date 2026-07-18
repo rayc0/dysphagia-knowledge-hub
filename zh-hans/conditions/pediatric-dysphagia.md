@@ -1,7 +1,7 @@
 ---
 title: "儿童吞咽障碍：从新生儿到学龄期的全面指南"
 description: "系统介绍儿童吞咽障碍的病因分类、年龄特征性表现、评估流程与干预策略，涵盖早产儿、脑瘫、自闭症等高危群体"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-04-18"

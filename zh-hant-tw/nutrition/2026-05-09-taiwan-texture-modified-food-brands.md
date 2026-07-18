@@ -1,7 +1,7 @@
 ---
 title: "台灣市售增稠產品與購買管道完整指南"
 description: "完整介紹台灣現有增稠劑與質地調整食品品牌、各通路價格（NTD）、購買建議，涵蓋全聯、家樂福、藥妝連鎖與線上平台，協助照顧者快速找到合適產品。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-09

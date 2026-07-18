@@ -1,7 +1,7 @@
 ---
 title: "Shaker等長收縮運動完全指南：香港患者居家訓練須知"
 description: "Shaker等長收縮運動的原理、研究實證、分步操作方法、常見錯誤及香港醫管局言語治療監督安排，供吞嚥困難患者及照顧者參考。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"

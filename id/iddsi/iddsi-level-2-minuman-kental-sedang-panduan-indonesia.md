@@ -2,7 +2,7 @@
 layout: article
 title: "IDDSI Level 2: Minuman Kental Sedang (Mildly Thick) — Panduan Lengkap untuk Pasien Disfagia di Indonesia"
 description: "Panduan klinis IDDSI Level 2 Kental Sedang untuk pasien disfagia di Indonesia. Meliputi uji aliran, indikasi klinis, minuman lokal Indonesia yang sesuai, cara pengentalan, dan manajemen hidrasi."
-author: "CompanyForge AI editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-04-28"

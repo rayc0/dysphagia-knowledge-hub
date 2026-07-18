@@ -1,7 +1,7 @@
 ---
 title: "Cervical Auscultation as a Dysphagia Screening Tool"
 description: "Clinical review of cervical auscultation for dysphagia screening: acoustic swallow sounds, sensitivity/specificity data, pulse oximetry combination, training needs, and limitations."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-13"

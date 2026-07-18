@@ -1,7 +1,7 @@
 ---
 title: "Merek Pengental Minuman untuk Disfagia yang Tersedia di Hong Kong — Panduan untuk ART Indonesia"
 description: "Daftar lengkap merek pengental minuman disfagia yang tersedia di Hong Kong — di mana membelinya, perkiraan harga, cara memesan online, dan perbandingan produk berbasis pati vs xanthan gum."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "equipment"
 last_updated: "2026-05-13"

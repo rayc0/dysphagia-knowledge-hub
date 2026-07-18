@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者进餐体位管理：椅背角度、头部位置与监督规范"
 description: "吞咽障碍患者正确进餐体位完整指南 — 椅背角度、颈部前倾、卧床调整、轮椅进餐。照护者与护理人员必读。循证依据。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-17"

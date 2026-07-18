@@ -1,7 +1,7 @@
 ---
 title: "IDDSI ระดับ 1 ของเหลวข้นนิดหน่อย (Slightly Thick) — คู่มือฉบับสมบูรณ์สำหรับประเทศไทย"
 description: "คู่มือ IDDSI ระดับ 1 ของเหลวข้นนิดหน่อย: Flow Test 1-4 มล. ข้อบ่งชี้ในทารก เด็ก และผู้ใหญ่ การเตรียมที่บ้าน และการเฝ้าระวังในบริบทสุขภาพไทย"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "iddsi"
 last_updated: "2026-04-20"

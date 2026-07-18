@@ -5,7 +5,7 @@ description: "IDDSI in plain language for families: what the levels mean in real
 lang: en
 category: iddsi
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - family guide

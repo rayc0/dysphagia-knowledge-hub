@@ -4,7 +4,7 @@ description: "面向台灣家庭照顧者的完整口腔衛生指南。涵蓋為
 lang: zh-hant
 category: caregiving
 date: 2026-04-15
-author: Raymond
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags:
   - 口腔衛生
   - 吞嚥障礙

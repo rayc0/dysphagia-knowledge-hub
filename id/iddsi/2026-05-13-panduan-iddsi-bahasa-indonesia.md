@@ -1,7 +1,7 @@
 ---
 title: "Panduan IDDSI — Tingkat Makanan dan Minuman untuk Disfagia dalam Bahasa Indonesia"
 description: "8 tingkat IDDSI dalam bahasa Indonesia sederhana, uji garpu/sendok/syringe, makanan Indonesia di setiap tingkat, dan merek pengental yang tersedia di Indonesia."
-author: Pusat Pengetahuan Disfagia
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-05-13"

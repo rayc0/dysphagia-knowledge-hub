@@ -2,7 +2,7 @@
 layout: article
 title: "IDDSI Level 1: Minuman Kental Tipis (Slightly Thick) — Panduan Lengkap untuk Pasien Disfagia di Indonesia"
 description: "Panduan klinis lengkap IDDSI Level 1 Minuman Kental Tipis untuk pasien disfagia di Indonesia. Mencakup karakteristik viskositas, uji aliran, contoh minuman lokal Indonesia, indikasi klinis, dan cara persiapan yang aman."
-author: "CompanyForge AI editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-04-28"

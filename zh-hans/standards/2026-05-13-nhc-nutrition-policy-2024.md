@@ -6,7 +6,7 @@ categories: [standards]
 tags: [卫健委, 营养政策, 健康中国行动, 老年营养, 吞咽障碍, 国家标准]
 description: "解读《健康中国行动》营养相关目标、2024年老年营养改善行动要点，及吞咽障碍营养管理纳入国家政策体系的最新进展与政策机遇。"
 date: 2026-05-13
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 国家卫健委2024年营养政策与吞咽障碍管理的政策机遇

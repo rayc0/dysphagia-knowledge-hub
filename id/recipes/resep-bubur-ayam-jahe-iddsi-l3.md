@@ -1,7 +1,7 @@
 ---
 title: "Resep Bubur Ayam Jahe IDDSI L3: Bergizi, Mudah Ditelan, Cocok untuk Lansia"
 description: "Resep bubur ayam jahe bertekstur IDDSI Level 3 (Liquidised) untuk lansia disfagia — lengkap dengan bahan, langkah memasak, cara menguji tekstur, nilai gizi, dan tips variasi untuk pengasuh di Indonesia maupun Hong Kong."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "recipes"
 last_updated: "2026-05-13"

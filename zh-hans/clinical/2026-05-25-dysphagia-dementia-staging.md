@@ -1,7 +1,7 @@
 ---
 title: "认知障碍中的吞咽困难：临床及护理人员的分级指南"
 description: "认知障碍中的吞咽困难：临床及护理人员的分级指南 — 吞咽困难临床指南"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

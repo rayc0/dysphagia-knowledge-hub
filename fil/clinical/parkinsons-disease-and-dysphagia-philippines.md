@@ -1,7 +1,7 @@
 ---
 title: "Parkinson's Disease and Dysphagia — Philippine Patient & Caregiver Guide"
 description: "Complete guide to recognizing and managing swallowing difficulties in Parkinson's disease for Filipino patients and caregivers."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "clinical"
 last_updated: "2026-05-19"

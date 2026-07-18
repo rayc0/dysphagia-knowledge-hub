@@ -1,7 +1,7 @@
 ---
 title: "Online Training Resources for Dysphagia Caregivers: IDDSI, Free Courses, and HK-Specific Guidance"
 description: "A practical guide to online training for dysphagia caregivers: IDDSI certification pathways, free resources from IDDSI.org and Dysphagiacafe, Hong Kong-specific training options, and how to evaluate training quality before committing time and money."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-05-13"

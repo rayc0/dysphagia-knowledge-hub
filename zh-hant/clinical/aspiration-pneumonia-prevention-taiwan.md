@@ -4,7 +4,7 @@ description: "為台灣照顧者與長照機構準備的吸入性肺炎預防指
 lang: zh-hant
 category: clinical
 date: 2026-04-15
-author: 吞嚥困難知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags:
   - 吸入性肺炎
   - 吞嚥困難

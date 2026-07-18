@@ -4,7 +4,7 @@ description: "Weight management and malnutrition prevention complete guide for d
 lang: en
 category: nutrition
 date: 2026-04-18
-author: Dr. Eric Hui
+author: "SeniorDeli (Carewells) Editorial Team"
 canonical: "https://softmeal.org/en/nutrition/weight-management"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"

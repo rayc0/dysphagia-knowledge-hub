@@ -1,7 +1,7 @@
 ---
 title: "Multiple Sclerosis and Dysphagia in Hong Kong: Managing a Relapsing-Remitting Swallowing Condition"
 description: "How MS causes dysphagia through brainstem demyelination, managing the relapsing-remitting nature of swallowing difficulty, fatigue strategies, Uhthoff phenomenon, HA Neurology at QMH and PWH, MS Society of Hong Kong resources, and when to request SLT reassessment after relapse."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2025-01-23"

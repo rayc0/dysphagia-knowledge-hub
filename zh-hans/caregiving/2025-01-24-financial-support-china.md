@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍照护的经济支持：内地医保与补贴指南"
 description: "内地吞咽障碍照护经济支持全指南 — 城镇职工医保与城乡居民医保的报销范围，长期护理保险（长护险）试点城市与申请流程，民政部养老补贴，残疾人联合会辅助器具补贴，以及如何最大化质地改良食品的保障覆盖"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-24"

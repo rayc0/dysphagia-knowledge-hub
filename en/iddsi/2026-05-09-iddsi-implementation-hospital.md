@@ -5,7 +5,7 @@ description: "How hospitals can implement the IDDSI framework across food servic
 lang: en
 category: iddsi
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - hospital

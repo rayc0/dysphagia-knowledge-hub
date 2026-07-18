@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙患者的營養篩查與營養師轉介流程：MNA-SF、MUST在台灣的應用"
 description: "說明台灣吞嚥障礙患者的營養不良風險篩查工具（MNA-SF、MUST），健保給付下的營養師轉介流程，以及長照機構與居家情境的實務應用要點。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-09

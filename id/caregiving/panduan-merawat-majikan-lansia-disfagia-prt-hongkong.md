@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap untuk PRT Hong Kong: Merawat Majikan Lansia dengan Gangguan Menelan"
 description: "Panduan praktis untuk Pembantu Rumah Tangga (PRT) Indonesia di Hong Kong yang merawat majikan lansia dengan disfagia — mulai dari mengenali gejala, teknik memberi makan, hingga komunikasi dengan keluarga majikan."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

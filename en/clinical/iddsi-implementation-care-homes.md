@@ -1,7 +1,7 @@
 ---
 title: "Implementing IDDSI in Hong Kong Care Homes: A Practical Guide"
 description: "Step-by-step guide to IDDSI implementation in Hong Kong and Greater Bay Area care homes — staff training, resident assessment, documentation, cost-benefit analysis, common mistakes, and quality audit framework for residential care homes and nursing homes."
-author: "SeniorDeli (Carewells) <raymond@seniordeli.com>"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-09"

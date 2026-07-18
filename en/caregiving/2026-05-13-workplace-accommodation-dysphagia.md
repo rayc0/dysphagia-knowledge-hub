@@ -5,7 +5,7 @@ description: "Practical guide to returning to work with dysphagia: Hong Kong Dis
 lang: en
 category: caregiving
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - workplace
   - disability

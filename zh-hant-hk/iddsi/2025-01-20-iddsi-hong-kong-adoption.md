@@ -1,7 +1,7 @@
 ---
 title: "IDDSI在香港的推行現況：醫院、院舍及社區採用進展"
 description: "IDDSI國際吞嚥障礙飲食標準化計劃在香港的推行歷程與現況：醫管局試行、HKSLTA採用、公立醫院各聯網進展、院舍採用障礙、社署監管壓力、HKSLTA培訓計劃，以及與澳洲、英國、加拿大的國際比較。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-20"

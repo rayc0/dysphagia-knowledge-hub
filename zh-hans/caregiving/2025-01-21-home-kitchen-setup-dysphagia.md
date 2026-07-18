@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者的居家厨房改造指南"
 description: "吞咽障碍居家厨房设备与备餐指南 — 搅拌机、过滤筛、食物模具的选购与使用，国内主流品牌推荐，质地改良食品的食品安全要点，分批备餐与储存技巧，以及上班族照护者的省时备餐策略"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-21"

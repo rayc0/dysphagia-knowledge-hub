@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Antas 4 — Pureed (Dinurog) na Pagkain"
 description: "Detalyadong gabay sa IDDSI Level 4 para sa mga FDH sa HK — fork pressure test, Filipino foods sa Level 4, mga karaniwang pagkakamali, at storage tips."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "iddsi"
 last_updated: "2026-05-13"

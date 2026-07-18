@@ -1,7 +1,7 @@
 ---
 title: "Silent Aspiration in Dysphagia — Why Patients Aspirate Without Coughing, Detection Methods, and Red Flags"
 description: "Silent aspiration occurs in up to 71% of older dysphagia patients without coughing. Learn the detection tools (FEES, VFSS, blue-dye test) and caregiver warning signs."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"

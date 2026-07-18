@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Fork Drip Test: Step-by-Step Protocol for Testing Pureed and Minced Foods"
 description: "A step-by-step clinical guide to the IDDSI Fork Drip Test, used to verify that pureed and minced foods meet IDDSI Level 4 (Pureed) and Level 5 (Minced & Moist) standards. Covers equipment, method, pass/fail criteria, common errors, and clinical implications."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

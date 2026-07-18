@@ -1,7 +1,7 @@
 ---
 title: "HKCSS Care Food Directory — How to Use It as a Caregiver"
 description: "A practical guide for Hong Kong caregivers on finding IDDSI-labelled care food products using the HKCSS Care Food Directory at carefood.org.hk."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "hk-standards"
 last_updated: "2026-04-13"

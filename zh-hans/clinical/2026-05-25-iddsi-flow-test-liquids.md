@@ -1,7 +1,7 @@
 ---
 title: "IDDSI流动测试：用10mL注射器测量液体浓稠度"
 description: "IDDSI流动测试：用10mL注射器测量液体浓稠度 — 吞咽困难临床指南"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

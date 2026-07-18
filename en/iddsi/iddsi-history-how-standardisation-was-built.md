@@ -1,7 +1,7 @@
 ---
 title: "How IDDSI Was Developed — The Story of Global Dysphagia Diet Standardisation (2010–2017)"
 description: "How three clinicians, 5,240 survey responses from 57 countries, and a six-year volunteer effort produced the IDDSI framework that now governs dysphagia diets worldwide."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "iddsi"
 last_updated: "2026-04-17"

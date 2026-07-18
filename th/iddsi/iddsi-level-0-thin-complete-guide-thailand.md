@@ -1,7 +1,7 @@
 ---
 title: "IDDSI ระดับ 0 ของเหลวบาง (Thin) — คู่มือฉบับสมบูรณ์สำหรับประเทศไทย"
 description: "คู่มือ IDDSI ระดับ 0 ของเหลวบาง: Flow Test เหลือน้อยกว่า 1 มล. ข้อบ่งชี้ ความเสี่ยงสำลัก การเลือกผู้ป่วยที่เหมาะสม และบริบทสุขภาพไทย"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "iddsi"
 last_updated: "2026-04-20"

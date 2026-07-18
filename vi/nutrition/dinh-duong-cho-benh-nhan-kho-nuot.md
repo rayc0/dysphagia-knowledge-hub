@@ -1,7 +1,7 @@
 ---
 title: "Dinh dưỡng đầy đủ cho người khó nuốt — Chiến lược cho người chăm sóc Việt Nam"
 description: "Hướng dẫn đảm bảo dinh dưỡng đầy đủ cho người bệnh khó nuốt tại Việt Nam: tính nhu cầu năng lượng và đạm, thực phẩm giàu dinh dưỡng phù hợp độ đặc IDDSI, và khi nào cần bổ sung dinh dưỡng uống."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "nutrition"
 last_updated: "2026-05-13"

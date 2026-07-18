@@ -1,7 +1,7 @@
 ---
 title: "Sarcopenic dysphagia — the Wakabayashi framework, diagnostic algorithm, and rehabilitation nutrition"
 description: "Sarcopenic dysphagia is swallowing failure from muscle loss in the tongue and pharynx. This guide covers diagnosis, tongue pressure cutoffs, and the rehab-nutrition-oral triad."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-18"

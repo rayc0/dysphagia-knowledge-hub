@@ -4,7 +4,7 @@ description: "A ready-to-adopt dysphagia management protocol for care homes, nur
 lang: en
 category: caregiving
 date: 2026-04-14
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Care Home Dysphagia Protocol — A Practical Operational Guide for Residential Facilities

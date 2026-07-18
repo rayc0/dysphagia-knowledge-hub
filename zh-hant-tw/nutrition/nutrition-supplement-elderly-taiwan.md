@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難老人的營養補充：台灣可取得的口服營養補充品指南"
 description: "為台灣吞嚥障礙老人照顧者提供的口服營養補充品（ONS）完整指南——產品種類、台灣市場可取得品項、如何搭配IDDSI等級使用，以及健保給付與長照補助說明。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-13

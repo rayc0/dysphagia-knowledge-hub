@@ -4,7 +4,7 @@ description: "A structured framework for clinicians to train family caregivers i
 lang: en
 category: caregiving
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - caregiver training
   - dysphagia management

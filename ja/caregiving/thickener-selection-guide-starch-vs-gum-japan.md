@@ -1,7 +1,7 @@
 ---
 title: "増粘剤の選び方と使い方——でんぷん系・ガム系の徹底比較（日本版）"
 description: "でんぷん系とキサンタンガム系の増粘剤を科学的根拠に基づき比較。唾液アミラーゼ問題・IDDSI対応・学会分類2021との対応を日本の介護現場向けに解説。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

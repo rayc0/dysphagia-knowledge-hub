@@ -1,7 +1,7 @@
 ---
 title: "Huntington's Disease and Eating: Managing Chorea, IDDSI Progression, and Cognitive Mealtime Challenges"
 description: "Updated guidance on eating and swallowing in Huntington's disease: the specific mechanisms by which chorea and cognitive decline affect every phase of swallowing, IDDSI level progression across HD stages, impulsive eating behaviour, caloric demands of choreic movements, and mealtime structure for carers."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-13"

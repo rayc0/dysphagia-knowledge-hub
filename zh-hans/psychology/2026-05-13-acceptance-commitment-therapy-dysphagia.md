@@ -1,7 +1,7 @@
 ---
 title: "接纳与承诺疗法（ACT）在吞咽障碍中的应用"
 description: "接纳与承诺疗法（ACT）为吞咽障碍患者提供了一种不以"消除症状"为前提的心理适应框架。本文介绍ACT核心理念、接纳进食限制的实践方法、价值导向生活的重建，以及国内ACT推广现状。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-13"

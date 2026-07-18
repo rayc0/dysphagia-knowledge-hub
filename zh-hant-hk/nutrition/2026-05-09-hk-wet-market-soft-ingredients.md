@@ -1,7 +1,7 @@
 ---
 title: "香港街市買靚料：最適合吞嚥困難患者的新鮮食材選購指南"
 description: "香港街市選購指南，專為吞嚥困難患者及照顧者而設，涵蓋魚蛋海鮮、豬肉、蔬菜的最佳選擇、質地辨別技巧、時令建議及各類街市攤檔實用貼士。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-05-09"

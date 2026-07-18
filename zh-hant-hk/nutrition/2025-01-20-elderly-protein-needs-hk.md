@@ -1,7 +1,7 @@
 ---
 title: "香港長者蛋白質需求：吞嚥困難對蛋白質攝取的影響及改善策略"
 description: "香港吞嚥困難長者的蛋白質需求詳解：質地調整飲食對蛋白質攝取的影響、肌少症長者的蛋白質目標、香港常見高蛋白軟質食物、口服營養補充品選擇，以及簡易蛋白質強化技巧。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-20"

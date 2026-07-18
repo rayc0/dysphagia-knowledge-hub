@@ -4,7 +4,7 @@ description: "全面对比中国大陆市场可购买的商用增稠剂产品，
 lang: zh-hans
 category: equipment
 date: 2026-04-15
-author: "吞咽知识中心编辑部"
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 增稠剂
   - IDDSI

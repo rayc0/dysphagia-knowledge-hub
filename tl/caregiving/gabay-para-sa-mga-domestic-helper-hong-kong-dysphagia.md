@@ -1,7 +1,7 @@
 ---
 title: "Gabay para sa mga Domestic Helper sa Hong Kong: Pag-aalaga ng Matatandang may Hirap sa Paglunok (Dysphagia)"
 description: "Komprehensibong gabay para sa mga Filipino domestic helper (DH) sa Hong Kong na nag-aalaga ng matatandang may dysphagia. Mula sa pagkilala ng mga sintomas hanggang sa ligtas na pagpapakain at emergency response."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"

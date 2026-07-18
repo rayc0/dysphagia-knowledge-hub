@@ -1,7 +1,7 @@
 ---
 title: "삼킴장애 환자의 구강 위생: 흡인성 폐렴 예방의 핵심"
 description: "삼킴장애 환자의 구강 위생 중요성, 적절한 케어 절차, 도구 선택, 구강 건조증 관리, 전문가 협력을 체계적으로 안내"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-18"

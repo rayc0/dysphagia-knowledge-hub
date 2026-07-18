@@ -1,7 +1,7 @@
 ---
 title: "IDDSI三种质地测试方法完全操作指南——叉压、注射器流速、汤匙倾斜"
 description: "IDDSI质地测试方法实操指南：叉子压力测试、10ml注射器流速测试、汤匙倾斜测试与手指测试的步骤、判断标准及各等级参考值，含国内替代工具换算说明与常见测试误区。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"

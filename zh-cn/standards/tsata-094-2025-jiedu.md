@@ -1,7 +1,7 @@
 ---
 title: "T/SATA 094-2025大湾区吞咽障碍食物质地团体标准完整解读"
 description: "全面解读T/SATA 094-2025大湾区吞咽障碍食物质地标准：七大质地等级、营养密度要求、测试方法规范，与IDDSI对照，内地与香港实施差异，认证路径及康樂齡参编背景。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "standards"
 last_updated: "2026-05-13"

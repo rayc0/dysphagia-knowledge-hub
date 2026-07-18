@@ -1,7 +1,7 @@
 ---
 title: "过渡期食物（IDDSI T级）：儿童吞咽训练与成人吞咽康复的桥梁"
 description: "IDDSI过渡期食物（Transitional Foods）在接触唾液或水后溶化，无需咀嚼即可安全吞咽。本文介绍T级食物的定义、识别方法、儿童与成人康复中的应用，以及内地市场的可用选项。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2025-02-04"

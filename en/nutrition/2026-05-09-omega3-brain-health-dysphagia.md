@@ -5,7 +5,7 @@ description: "Evidence for omega-3 neuroprotection, DHA/EPA sources in texture-m
 lang: en
 category: nutrition
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - omega-3
   - DHA

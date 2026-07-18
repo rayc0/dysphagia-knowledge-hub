@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia in Dementia: A Staging Guide for Clinicians and Caregivers"
 description: "A staging guide to dysphagia across the spectrum of dementia severity — from mild cognitive impairment through end-stage disease. Covers swallowing changes at each stage, FAST scale correlation, appropriate assessment tools, dietary management, and when to initiate goals-of-care discussions."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

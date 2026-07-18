@@ -1,7 +1,7 @@
 ---
 title: "IDDSI質地標準實用指南：香港護理院及家居照顧者版"
 description: "為香港護理院員工及家居照顧者而設的IDDSI實用操作指南，涵蓋各等級食物及飲品的辨別方法、本地食材改造示例、常見錯誤及質地測試技巧。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2026-05-09"

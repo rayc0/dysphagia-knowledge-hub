@@ -1,7 +1,7 @@
 ---
 title: "認知症と嚥下障害——食事介助の技術・快適ケアの哲学（日本版）"
 description: "認知症患者の食事介助に必要な実践技術（姿勢・食形態・ペース・BPSD対応）と、快適ケア哲学・経管栄養の倫理的判断をエビデンスに基づき解説します。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"

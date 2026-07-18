@@ -1,7 +1,7 @@
 ---
 title: "연하장애의 한의학적 관점: 동양의학의 삼킴 장애 병태와 침구·한약 접근"
 description: "연하장애(삼킴 장애)에 대한 한의학·동양의학의 접근 완전 가이드 — 한의학의 연하장애 병태론(신허·비위허약·담음·어혈), 침구 경혈(염천/천돌/풍지/족삼리)과 임상 근거, 연하 개선 한약(반하후박탕/보중익기탕), 서양의학 재활과의 통합적 접근, 한국 한의원 침 치료 현황, 한양방 협진 제도"
-author: Dr. Lisa Chen
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"

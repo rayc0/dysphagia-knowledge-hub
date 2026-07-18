@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Flow Test: Measuring Liquid Thickness with a 10 mL Syringe"
 description: "A complete guide to the IDDSI Flow Test using a 10 mL syringe to classify liquid thickness across IDDSI Levels 0–4. Covers equipment, method, flow volumes, pass/fail criteria, thickener adjustment guidance, and clinical applications."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

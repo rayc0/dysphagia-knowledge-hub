@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 1 微稠液体：临床处方指征与叉子滴落测试操作指南"
 description: "IDDSI 1级微稠液体的处方指征、家庭制备方法、叉子滴落测试实操，以及适合不同患者的增稠剂用量参考。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"

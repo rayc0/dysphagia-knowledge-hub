@@ -1,7 +1,7 @@
 ---
 title: "心臟手術後的吞嚥問題：香港臨床指引"
 description: "冠狀動脈搭橋手術、心瓣置換術後常見吞嚥困難的成因、評估及管理，涵蓋香港醫管局心胸外科言語治療服務及本地臨床實踐。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"

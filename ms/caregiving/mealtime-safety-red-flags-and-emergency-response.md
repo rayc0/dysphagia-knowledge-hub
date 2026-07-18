@@ -1,7 +1,7 @@
 ---
 title: "Tanda Amaran Bahaya Waktu Makan dan Tindak Balas Kecemasan: Panduan untuk Penjaga"
 description: "Panduan penjaga untuk mengenalpasti 5 tanda bahaya utama semasa makan, membezakan tersedak vs aspirasi, dan tindak balas kecemasan termasuk Heimlich, CPR, dan bila menghubungi 999."
-author: Margaret Wong
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

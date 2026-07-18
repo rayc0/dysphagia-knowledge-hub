@@ -1,7 +1,7 @@
 ---
 title: "Nhận Biết Dấu Hiệu Sặc ở Người Cao Tuổi — Hướng Dẫn cho Người Giúp Việc Việt Nam tại HK"
 description: "Các dấu hiệu sặc (hít sặc) ở người cao tuổi bị nuốt khó: giọng ướt, ho khi ăn, sốt bất thường, sặc im lặng. Viết riêng cho người giúp việc (ODJT) Việt Nam chăm sóc người cao tuổi tại Hồng Kông."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "caregiving"
 last_updated: "2026-05-13"

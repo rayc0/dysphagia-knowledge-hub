@@ -1,7 +1,7 @@
 ---
 title: "带着吞咽障碍活得有尊严：饮食愉悦感与社会参与的维护"
 description: "探讨吞咽障碍患者如何在饮食受限的情况下维护生活质量、饮食愉悦感与社会参与，涵盖实用策略与心理调适视角。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-09"

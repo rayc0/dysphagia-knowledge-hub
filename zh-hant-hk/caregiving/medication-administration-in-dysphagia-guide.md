@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者用藥管理指南：不可壓碎藥物列表、啫喱服藥技巧及藥劑師諮詢"
 description: "吞嚥困難患者安全用藥完整指南，包含不可壓碎藥物分類表（緩釋/腸溶/舌下/細胞毒性）、OD啫喱服藥方法、向藥劑師查詢可壓碎性、替代劑型選擇（糖漿/貼片/栓劑），以及華法林與增稠劑的相互作用，適用於香港院舍及醫管局住院患者。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-04-19"

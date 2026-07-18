@@ -1,7 +1,7 @@
 ---
 title: "香港老年科評估中的吞嚥障礙篩查：流程、工具與轉介指引"
 description: "香港醫管局老年科門診及住院評估中的吞嚥障礙篩查標準流程，涵蓋常用篩查工具、轉介言語治療的指標及家屬配合要點。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 tags: [吞嚥困難, 老年科, 香港, 篩查, 醫管局]

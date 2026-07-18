@@ -1,7 +1,7 @@
 ---
 title: "增稠粉与增稠凝胶对比：如何为不同患者选择正确的增稠剂形态"
 description: "增稠粉与即用型增稠凝胶在稳定性、易用性、冷热表现、透明度和适用场景上的系统对比，帮助临床人员和家属做出知情选择。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-05-09"

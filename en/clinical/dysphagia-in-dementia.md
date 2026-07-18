@@ -4,7 +4,7 @@ description: "A practical guide for families and carers. How swallowing changes 
 lang: en
 category: clinical
 date: 2026-04-14
-author: Dr. Lisa Chen
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Dysphagia in Dementia — Feeding Strategies, Comfort Feeding, and the Hard Decisions

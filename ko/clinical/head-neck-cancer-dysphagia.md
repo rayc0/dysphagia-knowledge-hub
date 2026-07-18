@@ -1,7 +1,7 @@
 ---
 title: "두경부암과 삼킴장애: 치료 단계별 재활 전략"
 description: "두경부암(구강암, 인두암, 후두암)에서 발생하는 삼킴장애의 원인, 치료별 영향, 수술 전후 재활, 영양 관리를 체계적으로 해설"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

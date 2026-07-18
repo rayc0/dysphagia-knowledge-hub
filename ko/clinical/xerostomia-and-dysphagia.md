@@ -1,7 +1,7 @@
 ---
 title: "구강 건조증(드라이 마우스)과 연하장애: 타액 감소가 흡인 위험에 미치는 영향과 대책"
 description: "구강 건조증(드라이 마우스·구갈)이 연하장애에 미치는 영향과 대책의 완전 가이드 — 타액의 연하 기능 역할(식괴 형성·윤활·구강 청결), 구강 건조 원인(약제성/방사선 후/쇼그렌 증후군/노화성), 구강 건조 유발 약제 목록(항콜린제/항히스타민제/이뇨제), 타액 대체 제품 비교, 구강 보습 케어 프로토콜, 두경부 방사선 후 연하 재활"
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"

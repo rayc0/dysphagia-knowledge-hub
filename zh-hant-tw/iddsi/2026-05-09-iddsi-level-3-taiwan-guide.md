@@ -1,7 +1,7 @@
 ---
 title: "IDDSI三級液化食物台灣照護指南：食物製備、測試方法與市售選擇"
 description: "台灣照護者的IDDSI Level 3（液化食物）完整指南，涵蓋符合條件的食物定義、台灣料理的製備技巧、注射筒測試方法及市售液化配方選擇。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "iddsi"
 date: 2026-05-09

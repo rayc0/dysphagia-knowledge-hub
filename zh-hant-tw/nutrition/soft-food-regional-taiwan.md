@@ -1,7 +1,7 @@
 ---
 title: "台式軟食料理改良：傳統台灣料理的IDDSI改造指南"
 description: "將台灣傳統家常料理改造為符合IDDSI標準的軟食——滷肉飯、蚵仔麵線、豆花、地瓜稀飯等台灣庶民美食的質地改良方法，讓吞嚥障礙患者也能感受家的味道。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-13

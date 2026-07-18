@@ -6,7 +6,7 @@ categories: [iddsi]
 tags: [IDDSI, 吞咽障碍, 饮食标准, 中国适用]
 description: "全面解读IDDSI 8级饮食分类框架，结合中国饮食文化与T/SATA团体标准，为临床医师、言语治疗师及家庭照护者提供实操指引。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 什么是IDDSI？

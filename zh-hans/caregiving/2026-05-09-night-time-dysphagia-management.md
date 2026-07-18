@@ -6,7 +6,7 @@ lang: zh-hans
 categories: [caregiving]
 tags: [夜间护理, 防误吸, 体位管理, 唾液管理, 管饲护理, 口腔卫生, 夜间安全]
 description: "夜间吞咽障碍安全管理实操指南：防反流体位、唾液管理、管饲夜间注意事项、睡前口腔卫生，降低夜间误吸风险。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

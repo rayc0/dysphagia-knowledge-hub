@@ -1,7 +1,7 @@
 ---
 title: "Renal-Friendly Puréed Meals — Low-Potassium, Low-Phosphorus IDDSI Level 4 for Dysphagia with CKD"
 description: "How to design IDDSI Level 4 puréed meals for people with chronic kidney disease: protein targets, potassium leaching, phosphate additive traps, and a 7-meal renal-safe plan."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "recipes"
 last_updated: "2026-04-17"

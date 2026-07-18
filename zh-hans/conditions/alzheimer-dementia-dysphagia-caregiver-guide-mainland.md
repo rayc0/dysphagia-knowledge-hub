@@ -4,7 +4,7 @@ description: "阿尔茨海默病（Alzheimer's disease）是最常见的痴呆�
 lang: zh-hans
 category: conditions
 date: 2026-04-15
-author: Dysphagia Hub
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 阿尔茨海默病
   - 痴呆

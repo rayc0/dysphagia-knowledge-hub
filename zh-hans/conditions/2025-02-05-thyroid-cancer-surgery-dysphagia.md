@@ -1,7 +1,7 @@
 ---
 title: "甲状腺手术后吞咽困难：喉返神经损伤与声带麻痹管理指南"
 description: "甲状腺术后吞咽障碍完整指南（简体中文）— 喉返神经损伤导致声带麻痹的发生机制、急性期与持续性症状的区别、声音改变作为预警信号、耳鼻喉科与言语治疗师联合管理、单侧声带麻痹吞咽康复训练（用力吞咽/声门上吞咽）、声带内移手术选项、神经恢复时间线（3–6个月）、康复期饮食预防措施、中国大陆耳鼻喉科转介建议"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2025-02-05"

@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者的微量营养素补充指南"
 description: "系统介绍吞咽困难患者常见的微量营养素缺乏（铁、锌、维生素D、B12等）、风险评估、补充策略及质地安全的给药方式"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-04-18"

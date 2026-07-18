@@ -1,7 +1,7 @@
 ---
 title: "Strategi Hidrasi untuk Pasien Disfagia yang Menggunakan Cairan Kental — Mencegah Dehidrasi di Iklim Tropis Indonesia"
 description: "Panduan lengkap bagi pengasuh: cara mencegah dehidrasi pada pasien disfagia yang menggunakan cairan kental, termasuk konteks iklim tropis dan akses BPJS di Indonesia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-04-23"

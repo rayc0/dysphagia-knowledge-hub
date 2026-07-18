@@ -6,7 +6,7 @@ categories: [wellbeing]
 tags: [吞嚥障礙, 台灣, 身心健康, 預立醫療, ACP]
 description: "介紹台灣《病人自主權利法》下的預立醫療照護諮商制度，說明吞嚥障礙患者如何透過ACP表達飲食照護意願，保障自主尊嚴。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 # 台灣預立醫療照護諮商（ACP）與吞嚥照護

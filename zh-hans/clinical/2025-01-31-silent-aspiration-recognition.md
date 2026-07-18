@@ -1,7 +1,7 @@
 ---
 title: "隐性误吸：为什么最危险的吸入没有咳嗽？识别与预防完整指南"
 description: "隐性误吸（Silent Aspiration）是吞咽障碍中最危险的情形之一：食物或液体进入气道却无任何咳嗽或呛咳反应。本文详解隐性误吸的定义、流行率、危险人群、照护者可观察的临床信号、金标准检查（FEES/VFSS）与综合管理策略。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2025-01-31"

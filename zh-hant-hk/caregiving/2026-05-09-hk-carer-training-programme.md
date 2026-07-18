@@ -1,7 +1,7 @@
 ---
 title: "香港照護者吞嚥培訓課程資源：政府、非牟利及大學計劃一覽"
 description: "整合香港醫管局、社署、明愛、HKCSS、CUHK及HKU提供的照護者吞嚥培訓資源，幫助家庭照顧者找到合適的學習途徑，提升吞嚥護理能力。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 tags: [吞嚥困難, 照護者培訓, 香港, 社署, 醫管局]

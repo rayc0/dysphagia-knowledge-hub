@@ -1,7 +1,7 @@
 ---
 title: "筋減少性嚥下障害——診断アルゴリズムとリハビリ栄養三本柱"
 description: "筋減少性嚥下障害の診断基準（若林フレームワーク・森の5ステップアルゴリズム）と、リハビリテーション・栄養・口腔ケアの三本柱による治療戦略を詳解。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-18"

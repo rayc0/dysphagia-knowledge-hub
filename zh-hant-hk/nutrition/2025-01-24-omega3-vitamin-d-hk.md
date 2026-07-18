@@ -1,7 +1,7 @@
 ---
 title: "香港長者吞嚥困難患者的Omega-3及維生素D補充策略"
 description: "本文針對香港吞嚥困難長者，介紹維生素D缺乏的本地流行情況、適合不同IDDSI等級的補充劑形態選擇、25-OH維生素D血液檢測途徑、鈣質共用注意事項、香港藥房常見魚油產品，以及與抗凝血藥物（如華法林）的相互作用提示。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-24"

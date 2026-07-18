@@ -1,7 +1,7 @@
 ---
 title: "院舍吞嚥困難照顧協議：EAT-10篩查、員工培訓及照顧計劃範本"
 description: "香港安老院舍吞嚥困難完整照顧協議，涵蓋EAT-10入住篩查、IDDSI分級員工培訓、餵食安全技巧、靜默吸入識別、社署及醫管局院舍發牌要求，以及轉介急症醫院標準。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-04-19"

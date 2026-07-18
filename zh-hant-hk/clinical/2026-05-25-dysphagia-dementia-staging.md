@@ -1,7 +1,7 @@
 ---
 title: "認知障礙中的吞嚥困難：臨床及護理人員的分級指南"
 description: "認知障礙中的吞嚥困難：臨床及護理人員的分級指南 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

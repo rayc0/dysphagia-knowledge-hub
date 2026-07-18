@@ -1,7 +1,7 @@
 ---
 title: "Presbyphagia vs Pathological Dysphagia — Normal Aging, Sarcopenic Dysphagia, and When to Screen"
 description: "Plain-language guide to presbyphagia: how aging changes the swallow, how it differs from pathological dysphagia, and when older adults should be screened."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"

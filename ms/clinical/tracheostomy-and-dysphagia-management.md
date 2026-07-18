@@ -1,7 +1,7 @@
 ---
 title: "Trakeostomi dan Disfagia — Pengurusan Menelan pada Pesakit Trakeostomi"
 description: "Bagaimana trakeostomi mempengaruhi menelan, bukti tentang penggembungan cuff, injap Passy-Muir, FEES, dan laluan dekanulasi untuk pesakit Malaysia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-20"

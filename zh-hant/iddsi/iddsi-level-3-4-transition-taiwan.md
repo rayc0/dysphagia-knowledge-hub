@@ -4,7 +4,7 @@ description: "為吞嚥障礙患者設計的 IDDSI Level 3–4 過渡期指南�
 lang: zh-hant
 category: iddsi
 date: 2026-04-15
-author: Editorial Team
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags:
   - IDDSI
   - Level 3

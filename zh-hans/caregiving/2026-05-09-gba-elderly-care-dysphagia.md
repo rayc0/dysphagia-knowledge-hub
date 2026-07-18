@@ -1,7 +1,7 @@
 ---
 title: "大湾区吞咽障碍照护资源：粤港澳主要城市医院言语治疗对比与跨境就医指引"
 description: "广州、深圳、东莞、香港、澳门吞咽障碍言语治疗资源对比，以及港澳居民在大湾区内地城市就医的实用指引。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

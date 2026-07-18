@@ -1,7 +1,7 @@
 ---
 title: "聲帶功能障礙與吞嚥困難：沙啞聲音與誤吸的關係及轉介路徑"
 description: "解釋聲帶功能與吞嚥安全的關係，濕聲（wet voice）作為誤吸警示信號的臨床意義，以及香港醫管局耳鼻喉科轉介路徑。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"

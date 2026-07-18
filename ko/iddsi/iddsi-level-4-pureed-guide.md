@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 레벨 4(퓨레) 완전 가이드: 정의, 검사법, 한식 기반 조리법"
 description: "IDDSI 레벨 4(퓨레상) 식이의 정의, 포크 드립 테스트와 스푼 틸트 테스트, 한국 식품 기준과의 대응, 한식 기반 퓨레 조리 실전 가이드를 체계적으로 해설"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "iddsi"
 last_updated: "2026-04-18"

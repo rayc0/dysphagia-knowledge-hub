@@ -1,7 +1,7 @@
 ---
 title: "照护吞咽障碍患者的家属焦虑抑郁：识别、自我干预与专业帮助渠道"
 description: "针对中国大陆吞咽障碍患者家属的心理健康指南：识别焦虑抑郁症状、实用自我调节方法、何时寻求专业心理援助以及国内可用的支持资源。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-09"

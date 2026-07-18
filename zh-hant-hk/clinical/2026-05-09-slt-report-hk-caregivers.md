@@ -1,7 +1,7 @@
 ---
 title: "如何閱讀香港言語治療師報告：關鍵術語解釋與飲食建議理解"
 description: "逐項解釋香港言語治療師（SLT）報告的常見術語，包括IDDSI等級標記、飲食質感建議、液體稠度及跟進計劃，幫助患者及照顧者讀懂報告。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"

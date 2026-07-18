@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍伴发抑郁焦虑的管理：筛查、治疗与药物注意事项"
 description: "吞咽障碍患者中抑郁焦虑发生率高达40-50%。本文介绍PHQ-9筛查工具的临床应用、认知行为治疗策略、抗抑郁药物对吞咽功能的潜在影响，以及社会支持体系的构建。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-13"

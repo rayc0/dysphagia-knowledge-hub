@@ -1,7 +1,7 @@
 ---
 title: "Paano Makakuha ng Dysphagia Assessment sa Hong Kong — SLT Referral, Pribadong Klinika, RCHE, at Oras ng Paghihintay"
 description: "Kumpletong gabay sa Tagalog tungkol sa pagkuha ng dysphagia assessment sa Hong Kong: public hospital SLT referral, pribadong klinika, RCHE assessments, karaniwang oras ng paghihintay, at kung ano ang maaasahan sa pagsubok."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"

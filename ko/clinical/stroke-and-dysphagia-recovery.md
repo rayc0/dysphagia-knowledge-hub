@@ -1,7 +1,7 @@
 ---
 title: "뇌졸중 후 연하장애: 회복 과정, 재활 훈련, 식이 단계 상향 시기"
 description: "뇌졸중 후 연하장애 발생률, 회복 타임라인, 연하재활 훈련법, IDDSI 단계 상향 기준을 상세 해설. 환자 보호자와 재활 전문가를 위한 완전 가이드."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-17"

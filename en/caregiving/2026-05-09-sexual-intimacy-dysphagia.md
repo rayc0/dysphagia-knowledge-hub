@@ -12,7 +12,7 @@ tags:
   - couples
 description: "Dysphagia can affect intimacy and partnership in ways rarely discussed. This guide supports couples in maintaining closeness, communication, and connection through the challenges of swallowing difficulty."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 ## A Topic That Is Rarely Raised — But Should Be

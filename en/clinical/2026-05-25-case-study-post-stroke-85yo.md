@@ -1,7 +1,7 @@
 ---
 title: "Case Study 2: 85-Year-Old Male with Post-Stroke Dysphagia — Acute and Rehabilitation Management"
 description: "A case-based learning article following an 85-year-old man with acute right MCA stroke and severe dysphagia. Covers acute screening, nil-by-mouth decision, FEES findings, enteral nutrition planning, rehabilitation, and 6-week discharge outcome."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

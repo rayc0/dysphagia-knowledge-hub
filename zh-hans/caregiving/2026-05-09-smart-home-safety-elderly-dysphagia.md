@@ -6,7 +6,7 @@ lang: zh-hans
 categories: [caregiving]
 tags: [智能家居, 涂鸦, 小米, 跌倒检测, 用药提醒, 语音助手, 吞咽障碍, 居家安全]
 description: "为吞咽障碍老人配置智能家居安全网络：涂鸦、小米生态的跌倒检测、影响吞咽的药物提醒、语音助手紧急呼叫与进餐时段监护方案。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

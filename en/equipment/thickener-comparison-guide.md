@@ -1,7 +1,7 @@
 ---
 title: "Starch vs Xanthan Gum Thickeners: Complete Comparison for Care Homes"
 description: "Evidence-based comparison of starch and xanthan gum food thickeners for dysphagia care — mechanism of action, IDDSI level accuracy, temperature and time stability, taste and texture impact, cost per portion, and clinical recommendations for care homes and hospitals."
-author: "SeniorDeli (Carewells) <raymond@seniordeli.com>"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "equipment"
 last_updated: "2026-05-09"

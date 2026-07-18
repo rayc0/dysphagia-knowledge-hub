@@ -4,7 +4,7 @@ description: "為台灣吞嚥障礙家庭提供一份完整的照顧者倦怠預
 lang: zh-hant
 category: caregiving
 date: 2026-04-15
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags:
   - 吞嚥障礙
   - 照顧者

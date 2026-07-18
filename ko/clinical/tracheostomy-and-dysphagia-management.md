@@ -1,7 +1,7 @@
 ---
 title: "기관절개와 연하장애 — 기관절개 환자의 연하 기능 평가 및 관리 완전 가이드"
 description: "기관절개 환자의 연하장애 평가, 커프 공기 주입의 오해, Passy-Muir 밸브, FEES 검사, 발관 알고리즘을 한국 임상 환경에 맞춰 정리한 가이드."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-20"

@@ -1,7 +1,7 @@
 ---
 title: "Pencegahan Tersedak pada Lansia: Protokol Darurat untuk Pengasuh"
 description: "Panduan komprehensif pencegahan tersedak pada lansia disfagia — faktor risiko, strategi pencegahan sebelum dan saat makan, teknik pertolongan pertama Heimlich, dan kapan menelepon bantuan darurat."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

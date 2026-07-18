@@ -1,7 +1,7 @@
 ---
 title: "新冠後吞嚥障礙與長新冠吞嚥困難——台灣臨床實證與復原完整指南"
 description: "完整解析 COVID-19 後吞嚥障礙的成因、盛行率、評估工具與復健策略，結合台灣衛福部長新冠整合照護計畫與最新國際文獻。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

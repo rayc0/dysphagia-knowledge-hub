@@ -1,7 +1,7 @@
 ---
 title: "中华传统饮食的IDDSI质地适配指南"
 description: "从粥品、豆腐、南北点心到节庆食品，逐一对应IDDSI分级标准，提供可操作的制备技巧，帮助吞咽障碍患者在保留饮食文化的同时安全进食。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "nutrition"
 last_updated: "2026-05-13"

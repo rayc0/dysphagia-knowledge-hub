@@ -1,7 +1,7 @@
 ---
 title: "亨廷顿病与吞咽障碍：不自主运动下的进食安全管理"
 description: "亨廷顿病（HD）吞咽障碍完整指南（简体中文）— 舞蹈样运动对口腔期与咽期吞咽的影响、冲动性进食行为管理、认知功能下降与饮食安全、进餐环境设置、体位与姿势调整、饮食质地进阶方案、胃造瘘决策的伦理维度、照护者安全、中国大陆罕见病资源"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2025-02-01"

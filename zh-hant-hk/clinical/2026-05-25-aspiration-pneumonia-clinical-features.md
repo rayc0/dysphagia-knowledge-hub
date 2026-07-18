@@ -1,7 +1,7 @@
 ---
 title: "吸入性肺炎：吞嚥困難中的臨床特徵、診斷與預防"
 description: "吸入性肺炎：吞嚥困難中的臨床特徵、診斷與預防 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

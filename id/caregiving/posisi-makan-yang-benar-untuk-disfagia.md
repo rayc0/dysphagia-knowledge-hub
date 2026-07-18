@@ -1,7 +1,7 @@
 ---
 title: "Posisi Makan yang Benar untuk Disfagia — Panduan Cepat untuk ART Indonesia di Hong Kong"
 description: "Ringkasan praktis posisi duduk 90°, chin tuck, rotasi kepala, dan posisi setelah makan untuk pasien disfagia — khusus ART Indonesia yang merawat lansia di Hong Kong, termasuk tips untuk pasien terbaring."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

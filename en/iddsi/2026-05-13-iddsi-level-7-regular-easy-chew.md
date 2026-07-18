@@ -5,7 +5,7 @@ description: "IDDSI Level 7 explained: the difference between Regular and Easy-t
 lang: en
 category: iddsi
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - Level 7

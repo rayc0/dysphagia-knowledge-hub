@@ -1,7 +1,7 @@
 ---
 title: "香港錄影螢光透視吞嚥研究（VFSS）完全指南：醫管局與私家醫院、準備須知、報告解讀"
 description: "詳述香港VFSS（錄影螢光透視吞嚥研究）的檢查流程、醫管局與私家醫院的安排方式、準備事項，以及如何理解報告結果，供患者及照顧者參考。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "testing"
 last_updated: "2026-05-09"

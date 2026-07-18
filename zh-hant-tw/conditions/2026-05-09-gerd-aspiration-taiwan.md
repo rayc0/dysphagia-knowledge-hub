@@ -6,7 +6,7 @@ categories: [conditions]
 tags: [吞嚥障礙, 台灣, 胃食道逆流, GERD, 吸入性肺炎, 疾病管理]
 description: "台灣胃食道逆流患者的吞嚥安全照護指引，涵蓋逆流與吸入的機轉、健保給付及衛福部建議策略。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 ## 前言

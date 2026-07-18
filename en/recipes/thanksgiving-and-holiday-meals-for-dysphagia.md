@@ -4,7 +4,7 @@ description: "Complete guide to adapting Thanksgiving, Christmas, and holiday me
 lang: en
 category: recipes
 date: 2026-04-15
-author: Dr. Lisa Chen
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - holiday meals
   - Thanksgiving

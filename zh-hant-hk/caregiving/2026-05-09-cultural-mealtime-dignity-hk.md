@@ -1,7 +1,7 @@
 ---
 title: "維護吞嚥困難長者的飲食文化尊嚴：保留港式飲食傳統的照護策略"
 description: "吞嚥困難不應剝奪長者的飲食文化身份：如何在質地調整飲食中保留港式傳統食物的風味與儀式感、維護用餐尊嚴，以及照顧者的文化敏感照護實踐指南。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"

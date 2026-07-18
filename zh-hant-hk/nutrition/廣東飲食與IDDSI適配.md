@@ -1,7 +1,7 @@
 ---
 title: "廣東傳統飲食與IDDSI質地適配全指南"
 description: "從粥品到點心、煲湯到糖水、燒味到茶樓點餐——全面指引如何將廣東傳統飲食調整至符合IDDSI國際標準，適合吞嚥障礙患者安全進食。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-Hant-HK"
 category: "nutrition"
 last_updated: "2026-05-13"

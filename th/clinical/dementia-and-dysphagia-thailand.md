@@ -1,7 +1,7 @@
 ---
 title: "ภาวะสมองเสื่อมและภาวะกลืนลำบาก — แนวทางการดูแลสำหรับครอบครัวและผู้ดูแลในประเทศไทย"
 description: "คู่มือการดูแลผู้ป่วยสมองเสื่อมที่มีปัญหาการกลืน รวมเทคนิคการป้อนอาหาร การปรับเนื้อสัมผัสตาม IDDSI และแนวคิด comfort feeding สำหรับผู้ดูแลในประเทศไทย"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "clinical"
 last_updated: "2026-04-19"

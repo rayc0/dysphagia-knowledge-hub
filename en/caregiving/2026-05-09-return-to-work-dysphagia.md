@@ -12,7 +12,7 @@ tags:
   - quality of life
 description: "A practical guide to returning to work with dysphagia: workplace adjustments, disclosure decisions, meal planning at work, and your legal rights in Hong Kong and internationally."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 ## Work After Dysphagia: It Is Possible

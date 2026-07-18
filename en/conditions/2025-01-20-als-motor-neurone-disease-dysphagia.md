@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia in ALS/MND: Progressive Management from Early to Late Stage"
 description: "A comprehensive guide to swallowing management in ALS and motor neurone disease — the trajectory from early bulbar symptoms to tube feeding, optimal PEG timing relative to FVC, dietary progression through IDDSI levels, communication with the multidisciplinary team, HK MND Association support, palliative integration, and advance care planning."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2025-01-20"

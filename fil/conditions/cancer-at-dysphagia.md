@@ -1,7 +1,7 @@
 ---
 title: "Cancer (Lalo na sa Ulo at Leeg) at mga Problema sa Pagkain"
 description: "Gabay para sa mga FDH sa HK — epekto ng cancer treatment sa paglunok, xerostomia, mouth sores, malambot na pagkain sa chemotherapy, at HK cancer support hotlines."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "conditions"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "Perawatan Mulut untuk Pasien Disfagia — Mencegah Pneumonia Aspirasi: Panduan Pengasuh di Indonesia"
 description: "Panduan lengkap perawatan mulut bagi pengasuh pasien disfagia di Indonesia: protokol 7 langkah, bukti klinis Yoneyama 2002, perawatan pasien NGT, dan daftar RS rujukan."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-04-23"

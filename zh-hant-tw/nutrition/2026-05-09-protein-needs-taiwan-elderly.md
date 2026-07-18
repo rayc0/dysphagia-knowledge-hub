@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙長者的蛋白質需求：TWSPEN建議與在地食物來源"
 description: "依TWSPEN指引說明台灣吞嚥障礙長者每日蛋白質需求，介紹在地高蛋白軟食選項，並分析健保給付與自費口服營養品的差異與選擇。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-09

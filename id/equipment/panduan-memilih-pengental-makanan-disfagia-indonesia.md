@@ -1,7 +1,7 @@
 ---
 title: "Panduan Memilih Pengental Makanan untuk Pasien Disfagia di Indonesia — Pati Termodifikasi vs Guar Gum vs Xanthan Gum"
 description: "Perbandingan lengkap tiga jenis pengental minuman untuk pasien disfagia: pati termodifikasi, guar gum, dan xanthan gum — bukti klinis, stabilitas suhu tropis, dan produk yang tersedia di Indonesia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "equipment"
 last_updated: "2026-04-23"

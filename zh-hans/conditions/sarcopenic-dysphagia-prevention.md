@@ -1,7 +1,7 @@
 ---
 title: "肌少症性吞咽障碍预防：运动干预、营养策略与SARC-F筛查"
 description: "肌少症性吞咽障碍（Sarcopenic Dysphagia）是增龄性咽喉肌群萎缩与全身肌少症共同导致的吞咽功能减退。本文涵盖预防性运动干预（Shaker+健身操）、营养干预（蛋白质1.2–1.6g/kg/d+维生素D）、SARC-F筛查工具和早期识别策略。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-05-13"

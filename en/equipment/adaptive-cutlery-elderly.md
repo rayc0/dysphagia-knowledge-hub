@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Cutlery for Elderly — Fork Weights, Spoon Angles, and Cup Designs That Keep Eating Safe"
 description: "A 2026 guide to adaptive cutlery for elderly dysphagia, tremor, and grip-weakness patients — weighted forks, angled spoons, nosey cups, and Provale-style flow-control cups."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-17"

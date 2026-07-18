@@ -1,7 +1,7 @@
 ---
 title: "Thickener Selection Guide for Philippine Patients — Starch vs Gum vs Xanthan"
 description: "Complete guide to choosing dysphagia thickeners in the Philippines: cost comparison, brands, pharmacy locations, tropical storage, and common mistakes."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "equipment"
 last_updated: "2026-05-21"

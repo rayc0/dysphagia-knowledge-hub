@@ -1,7 +1,7 @@
 ---
 title: "Ano ang HKCSS 照護食 (Care Food Standard) ng Hong Kong at Bakit Ito Mahalaga para sa mga DH"
 description: "Ipinapaliwanag kung ano ang Care Food Standard ng Hong Kong (照護食) na inilabas ng HKCSS, bakit mahalaga ito sa pag-aalaga ng matatandang may dysphagia, at paano makikilala ang mga produktong natutugunan ang pamantayang ito."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"

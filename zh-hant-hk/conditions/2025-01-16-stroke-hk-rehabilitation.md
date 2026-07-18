@@ -1,7 +1,7 @@
 ---
 title: "香港腦中風後吞嚥困難康復：由急症到社區的完整路徑"
 description: "香港腦中風後吞嚥困難完整康復路徑：急症病房吞嚥篩查、住院言語治療時間表、分流康復醫院選項（屯門、瑪嘉烈、伊利沙伯醫院路徑）、普通科門診日間康復、社區中風支援組織及吞嚥恢復現實預期。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2025-01-16"

@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍的十大警示信号——家庭照护者必读"
 description: "老人吃饭呛咳、食物残留、体重下降？这十个信号可能提示吞咽障碍。本文帮助家属和护工识别风险并及时就医。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-13"

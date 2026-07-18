@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [dysphagia, rehabilitation, technique, SLT]
 description: "A clinical guide to the Masako tongue-hold maneuver: mechanism, evidence base, patient selection, contraindications, protocol, and HK clinical context."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 The Masako manoeuvre, also known as the tongue-hold or tongue-retaining swallow, is a rehabilitation exercise targeting the posterior pharyngeal wall and tongue base. Unlike compensatory manoeuvres used during meals, it is primarily an exercise performed dry (without food or liquid) to strengthen pharyngeal constrictor function over time.

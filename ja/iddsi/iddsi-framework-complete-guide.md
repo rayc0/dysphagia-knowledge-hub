@@ -1,7 +1,7 @@
 ---
 title: "IDDSIフレームワーク完全ガイド — 日本の嚥下調整食分類との対応関係"
 description: "IDDSI国際嚥下障害食分類の全8段階を日本語で解説。JSDR嚥下調整食分類2021・UDFとの対応表付き。介護者・管理栄養士向け完全ガイド。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "iddsi"
 last_updated: "2026-04-17"

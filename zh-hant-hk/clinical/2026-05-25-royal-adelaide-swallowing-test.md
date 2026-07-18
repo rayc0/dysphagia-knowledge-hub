@@ -1,7 +1,7 @@
 ---
 title: "RAPIDS：中風後吞嚥困難的皇家阿德萊德預後指數"
 description: "RAPIDS：中風後吞嚥困難的皇家阿德萊德預後指數 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

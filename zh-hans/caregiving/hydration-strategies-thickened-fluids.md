@@ -1,7 +1,7 @@
 ---
 title: "增稠液体患者补水策略：预防脱水的完整指南"
 description: "吞咽障碍患者使用增稠液体时如何预防脱水？涵盖每日液体目标、创意补液方法、脱水警示信号、增稠剂选择。照护者实用指南。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-04-17"

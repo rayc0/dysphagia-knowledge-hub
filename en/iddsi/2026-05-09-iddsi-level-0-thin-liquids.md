@@ -4,7 +4,7 @@ description: "Clinical guide to IDDSI Level 0 Thin liquids — who qualifies, wh
 lang: en
 category: iddsi
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - Level 0

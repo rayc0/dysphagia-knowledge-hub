@@ -1,7 +1,7 @@
 ---
 title: "咽部电刺激（PES）：机制、Phagenesis临床数据与国内可及性"
 description: "咽部电刺激（PES）通过经鼻胃管电极向咽部施加感觉电刺激，激活感觉-运动皮质反馈环路，改善卒中后（尤其脑干卒中）吞咽功能。本文涵盖机制、Phagenesis研究数据、与NMES的区别及国内可及性现状。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-13"

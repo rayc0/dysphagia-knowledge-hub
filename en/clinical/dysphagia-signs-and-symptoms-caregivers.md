@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia Signs and Symptoms Every Caregiver Should Watch For"
 description: "A clinical guide for family caregivers on recognising the 10 most common warning signs of dysphagia — including silent aspiration, red flags, symptom documentation, at-home screening, and when to call for help."
-author: Margaret Wong
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-11"

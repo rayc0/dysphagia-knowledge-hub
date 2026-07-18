@@ -1,7 +1,7 @@
 ---
 title: "香港飲食文化中的失落感：吞嚥困難患者重拾飲食愉悅的心理調適"
 description: "吞嚥困難令患者失去對食物的熱愛，在重視飲食文化的香港社會中，這種失落尤為深刻。本文探討飲食身份認同的喪失、情緒調適，以及在質地調整飲食中重拾愉悅的方法。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"

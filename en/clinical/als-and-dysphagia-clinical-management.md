@@ -4,7 +4,7 @@ description: "Amyotrophic Lateral Sclerosis causes progressive bulbar dysfunctio
 lang: en
 category: clinical
 date: 2026-04-15
-author: Raymond
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - ALS
   - motor neuron disease

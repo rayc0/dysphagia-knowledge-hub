@@ -1,7 +1,7 @@
 ---
 title: "台灣胃食道逆流與吞嚥障礙的鑑別與共病管理"
 description: "說明台灣常見的胃食道逆流（GERD）與吞嚥障礙的重疊表現、鑑別要點、藥物與增稠劑交互影響，以及餐後體位管理建議。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 date: 2026-05-09

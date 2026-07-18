@@ -1,7 +1,7 @@
 ---
 title: "วิธีทดสอบเนื้อสัมผัสอาหารที่บ้านตามมาตรฐาน IDDSI — คู่มือสำหรับผู้ดูแลชาวไทย"
 description: "คู่มือทีละขั้นตอนสำหรับการทดสอบเนื้อสัมผัสอาหารและเครื่องดื่มที่บ้านตามมาตรฐาน IDDSI ระดับ 0–7 เพื่อป้องกันการสำลักในผู้สูงอายุและผู้ป่วยกลืนลำบาก"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "testing"
 last_updated: "2026-04-19"

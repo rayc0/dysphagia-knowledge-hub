@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞咽障碍, 营养, 补水, 液体管理, 老年护理]
 description: "针对吞咽障碍患者的脱水风险及安全补水方法，涵盖增稠液体的使用、替代补水途径及日常监测策略。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 吞咽障碍患者的补水策略

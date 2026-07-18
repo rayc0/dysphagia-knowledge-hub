@@ -1,7 +1,7 @@
 ---
 title: "Esophageal Strictures and Post-Radiation Dysphagia: Complete Management Guide for Cancer Survivors"
 description: "Evidence-based guide to esophageal strictures from radiation therapy, chemotherapy, and caustic injury. Covers pathophysiology, diagnosis, endoscopic dilation, dietary management, and quality-of-life strategies."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-06-29"

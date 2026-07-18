@@ -6,7 +6,7 @@ categories: [standards]
 tags: [T/SATA, 照护食, 吞咽障碍, 标准, IDDSI]
 description: "全面解读中国康复辅助技术协会团体标准T/SATA 094-2025《照护食通用技术要求》，涵盖分级体系、质构参数及合规要点。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## T/SATA 094-2025《照护食通用技术要求》全面解读

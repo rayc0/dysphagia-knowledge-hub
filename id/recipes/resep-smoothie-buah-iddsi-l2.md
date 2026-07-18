@@ -1,7 +1,7 @@
 ---
 title: "Resep Smoothie Buah IDDSI L2: Minuman Bergizi untuk Lansia Disfagia"
 description: "Resep smoothie buah untuk lansia disfagia sesuai standar IDDSI Level 2 (Mildly Thick) — cara mencapai konsistensi yang tepat, tes tekstur, variasi buah tropis, dan cara meningkatkan nilai gizi tanpa mengubah tekstur."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "recipes"
 last_updated: "2026-05-13"
