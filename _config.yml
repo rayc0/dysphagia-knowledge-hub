@@ -4,6 +4,17 @@ baseurl: ""
 url: "https://softmeal.org"
 permalink: pretty
 
+# CRITICAL: without this, any page whose front matter omits `layout:` renders
+# as a bare content fragment (no <html>/<head>/<body>, no stylesheet, no JS,
+# no lang switcher). Discovered 2026-07-18: only 227 of 1783 .md files had an
+# explicit layout — the other ~1556 (87%) were shipping completely unstyled.
+# Explicit `layout:` in a page's own front matter still overrides this.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
