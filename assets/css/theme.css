@@ -139,6 +139,31 @@ body{
 }
 a:focus:not(:focus-visible){ outline: none; }
 
+.skip-link{
+  position: absolute;
+  left: .75rem;
+  top: .75rem;
+  z-index: 10000;
+  padding: .55rem .8rem;
+  background: var(--primary);
+  color: #fff;
+  border-radius: 8px;
+  font-size: .95rem;
+  font-weight: 700;
+  text-decoration: none;
+  transform: translateY(-150%);
+  transition: transform .2s ease, box-shadow .2s ease;
+  box-shadow: var(--shadow);
+}
+.skip-link:focus{
+  transform: translateY(0);
+  outline: 3px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+.skip-link:not(:focus){
+  pointer-events: none;
+}
+
 /* ---------- Blockquote / TL;DR callouts ---------- */
 .markdown-body blockquote{
   background: var(--primary-tint);
@@ -152,7 +177,11 @@ a:focus:not(:focus-visible){ outline: none; }
 
 /* ---------- Tables ---------- */
 .markdown-body table{
-  width: 100%;
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   border-collapse: collapse;
   margin: 1.4rem 0;
   font-size: .95rem;
