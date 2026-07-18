@@ -1,12 +1,12 @@
 ---
 title: "電刺激吞嚥治療（VitalStim／NMES）：適應症、禁忌、香港公立醫院開展情況與費用"
 description: "神經肌肉電刺激（NMES）吞嚥治療的臨床適應症、絕對及相對禁忌、VitalStim 的香港公立醫院現況、自費費用估算，及與傳統言語治療結合的最佳實踐。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/electrical-stimulation-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/electrical-stimulation-dysphagia-hk"
 ---
 
 # 電刺激吞嚥治療（VitalStim／NMES）：香港臨床指引

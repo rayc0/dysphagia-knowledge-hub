@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/aspiration-pneumonia-clinical-features"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/aspiration-pneumonia-clinical-features"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "吸入性肺炎影響5–20%的中風吞嚥困難患者，是死亡的主要原因。臨床特徵包括發燒、咳嗽、痰液及依賴性肺段陰影。關鍵預防措施：口腔衛生、直立體位、適當質感調整。"
 ---

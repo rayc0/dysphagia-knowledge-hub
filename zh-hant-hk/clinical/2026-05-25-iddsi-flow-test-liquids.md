@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/iddsi-flow-test-liquids"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/iddsi-flow-test-liquids"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "IDDSI流動測試使用標準10mL注射器，在10秒自由流動後，注射器中剩餘量決定IDDSI分級（0–4）。剩餘>8mL=0級；<1mL=3或4級。"
 ---

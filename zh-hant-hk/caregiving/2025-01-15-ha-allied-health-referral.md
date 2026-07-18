@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-15"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/ha-allied-health-referral"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/ha-allied-health-referral"
 ---
 
 # 香港醫院管理局吞嚥困難相關服務：轉介流程、等候時間及實用建議

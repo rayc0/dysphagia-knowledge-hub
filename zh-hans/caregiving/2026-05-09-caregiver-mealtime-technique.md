@@ -11,7 +11,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/caregiver-mealtime-technique"
+canonical: "https://softmeal.org/zh-hans/caregiving/caregiver-mealtime-technique"
 ---
 
 # 照护者辅助进食技术操作规范

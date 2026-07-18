@@ -6,7 +6,7 @@ categories: [conditions]
 tags: [吞嚥障礙, 台灣, 肌少症, 老年照護, 疾病管理]
 description: "台灣老年肌少症性吞嚥障礙照護指引，涵蓋健保給付、亞洲肌少症工作小組標準及衛福部長照政策。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## 前言
@@ -165,4 +165,4 @@ author: dysphagia.cn editorial team
 
 ---
 
-*本文由 dysphagia.cn 編輯團隊撰寫，依據亞洲肌少症工作小組（AWGS 2019）、台灣老年醫學會（TGSA）、台灣語言治療學會（STATA）及衛生福利部長照2.0相關指引整理，僅供衛教參考，不替代個別醫療建議。*
+*本文由 softmeal.org 編輯團隊撰寫，依據亞洲肌少症工作小組（AWGS 2019）、台灣老年醫學會（TGSA）、台灣語言治療學會（STATA）及衛生福利部長照2.0相關指引整理，僅供衛教參考，不替代個別醫療建議。*

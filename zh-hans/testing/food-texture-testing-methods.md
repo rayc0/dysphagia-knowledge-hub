@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "testing"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/testing/food-texture-testing-methods.html"
+canonical: "https://softmeal.org/zh-hans/testing/food-texture-testing-methods.html"
 ---
 
 # 食物质地检测方法：护工和家属实用手册

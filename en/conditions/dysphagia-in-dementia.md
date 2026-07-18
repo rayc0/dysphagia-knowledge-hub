@@ -6,7 +6,7 @@ language: "en"
 category: "conditions"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/conditions/dysphagia-in-dementia"
+canonical: "https://softmeal.org/en/conditions/dysphagia-in-dementia"
 ---
 
 # Dysphagia in Dementia: Understanding and Managing Swallowing Difficulties

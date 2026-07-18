@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞嚥困難, 營養, 香港, 口服營養補充品, ONS]
 description: "香港吞嚥困難患者口服營養補充品（ONS）使用指引，涵蓋產品選擇、適用人群及醫療資助途徑。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## 什麼是口服營養補充品（ONS）

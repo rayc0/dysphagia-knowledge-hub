@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/iddsi/2026-05-09-iddsi-level-1-mildly-thick.html"
+canonical: "https://softmeal.org/zh-hans/iddsi/2026-05-09-iddsi-level-1-mildly-thick.html"
 ---
 
 # IDDSI Level 1 微稠液体：临床处方指征与家庭制备实操

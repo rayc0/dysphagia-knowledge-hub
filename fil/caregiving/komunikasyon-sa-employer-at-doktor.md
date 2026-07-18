@@ -6,7 +6,7 @@ language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/fil/caregiving/komunikasyon-sa-employer-at-doktor"
+canonical: "https://softmeal.org/fil/caregiving/komunikasyon-sa-employer-at-doktor"
 ---
 
 # Paano Makipag-usap sa Employer at Doktor tungkol sa Dysphagia

@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["增稠劑", "IDDSI", "選購指南", "台灣市場", "吞嚥障礙"]
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/thickener-product-comparison-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/thickener-product-comparison-taiwan"
 ---
 
 # 台灣市售食物增稠劑比較：品牌選購指南

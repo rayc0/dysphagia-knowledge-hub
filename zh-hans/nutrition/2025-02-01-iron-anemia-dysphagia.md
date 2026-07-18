@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-02-01"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/nutrition/iron-anemia-dysphagia"
+canonical: "https://softmeal.org/zh-hans/nutrition/iron-anemia-dysphagia"
 ---
 
 # 吞咽障碍患者的铁缺乏与贫血：软食中的铁吸收优化策略

@@ -6,7 +6,7 @@ language: "id"
 category: "equipment"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/equipment/merek-pengental-tersedia-di-hong-kong.html"
+canonical: "https://softmeal.org/id/equipment/merek-pengental-tersedia-di-hong-kong.html"
 ---
 
 # Merek Pengental Minuman untuk Disfagia yang Tersedia di Hong Kong — Panduan untuk ART Indonesia

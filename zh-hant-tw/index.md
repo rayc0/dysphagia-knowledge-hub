@@ -3,7 +3,7 @@ layout: default
 title: "吞嚥障礙知識庫 — 繁體中文（台灣）"
 description: "吞嚥障礙 · IDDSI · 軟食 · 台灣長照 · 健保資源"
 lang: zh-hant-tw
-canonical: "https://dysphagia.cn/zh-hant-tw/"
+canonical: "https://softmeal.org/zh-hant-tw/"
 ---
 
 <script type="application/ld+json">
@@ -11,8 +11,8 @@ canonical: "https://dysphagia.cn/zh-hant-tw/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首頁", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "繁體中文（台灣）", "item": "https://dysphagia.cn/zh-hant-tw/"}
+    {"@type": "ListItem", "position": 1, "name": "首頁", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "繁體中文（台灣）", "item": "https://softmeal.org/zh-hant-tw/"}
   ]
 }
 </script>

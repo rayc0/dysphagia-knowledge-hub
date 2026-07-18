@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/guss-gugging-swallowing-screen"
+canonical: "https://softmeal.org/en/clinical/guss-gugging-swallowing-screen"
 tags: [screening, GUSS, stroke, bedside, dysphagia]
 summary: "The GUSS is a two-part bedside swallowing screen validated in acute stroke. It grades severity 0–20 and directly recommends diet texture. Sensitivity for aspiration is ~100%; specificity ~50%. This guide covers the full protocol and clinical integration."
 ---

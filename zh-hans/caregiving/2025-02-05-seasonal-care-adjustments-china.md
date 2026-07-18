@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-02-05"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/seasonal-care-adjustments-china"
+canonical: "https://softmeal.org/zh-hans/caregiving/seasonal-care-adjustments-china"
 ---
 
 # 四季照护调整：吞咽障碍患者在内地气候变化中的饮食与安全管理

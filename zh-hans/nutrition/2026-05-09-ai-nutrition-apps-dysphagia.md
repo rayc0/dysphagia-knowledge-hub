@@ -11,7 +11,7 @@ language: "zh-hans"
 category: "nutrition"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/nutrition/ai-nutrition-apps-dysphagia"
+canonical: "https://softmeal.org/zh-hans/nutrition/ai-nutrition-apps-dysphagia"
 ---
 
 # AI营养应用与吞咽障碍管理：内地主流工具的适用性分析

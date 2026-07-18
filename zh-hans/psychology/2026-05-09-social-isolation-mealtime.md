@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/psychology/2026-05-09-social-isolation-mealtime.html"
+canonical: "https://softmeal.org/zh-hans/psychology/2026-05-09-social-isolation-mealtime.html"
 ---
 
 # 吞咽障碍患者的进餐社交隔离：重建家庭共餐的策略与社区支持

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/guss-gugging-swallowing-screen"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/guss-gugging-swallowing-screen"
 tags: [篩查, GUSS, 中風, 床邊, 吞嚥困難]
 summary: "GUSS是在急性中風中驗證的兩部分床邊吞嚥篩查工具，嚴重程度分級0–20，直接對應飲食質感建議。誤吸靈敏度約100%；特異度約50%。本文涵蓋完整方案及臨床整合。"
 ---

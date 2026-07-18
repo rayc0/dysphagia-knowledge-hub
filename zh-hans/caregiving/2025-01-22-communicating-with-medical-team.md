@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-22"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/communicating-with-medical-team"
+canonical: "https://softmeal.org/zh-hans/caregiving/communicating-with-medical-team"
 ---
 
 # 如何与医疗团队有效沟通：吞咽障碍照护者指南

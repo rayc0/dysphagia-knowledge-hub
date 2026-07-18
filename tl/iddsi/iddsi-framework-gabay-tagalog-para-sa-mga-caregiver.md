@@ -6,7 +6,7 @@ language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/iddsi/iddsi-framework-gabay-tagalog-para-sa-mga-caregiver.html"
+canonical: "https://softmeal.org/tl/iddsi/iddsi-framework-gabay-tagalog-para-sa-mga-caregiver.html"
 ---
 
 # IDDSI Framework — Gabay sa Tagalog: Walong Antas ng Pagkain at Inumin para sa mga may Dysphagia

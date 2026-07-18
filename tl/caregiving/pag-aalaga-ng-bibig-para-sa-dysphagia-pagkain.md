@@ -6,7 +6,7 @@ language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/caregiving/pag-aalaga-ng-bibig-para-sa-dysphagia-pagkain.html"
+canonical: "https://softmeal.org/tl/caregiving/pag-aalaga-ng-bibig-para-sa-dysphagia-pagkain.html"
 ---
 
 # Pag-aalaga ng Bibig (Oral Care) para sa mga Pasyenteng may Dysphagia — Pag-iwas sa Aspiration Pneumonia

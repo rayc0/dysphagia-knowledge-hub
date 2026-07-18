@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/iddsi/iddsi-完全指南-简体中文"
+canonical: "https://softmeal.org/zh-cn/iddsi/iddsi-完全指南-简体中文"
 ---
 
 # IDDSI国际吞咽障碍饮食标准化倡议完全指南：0-7级详解

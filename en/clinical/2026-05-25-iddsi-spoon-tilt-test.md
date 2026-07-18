@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/iddsi-spoon-tilt-test"
+canonical: "https://softmeal.org/en/clinical/iddsi-spoon-tilt-test"
 tags: [IDDSI, spoon tilt test, texture testing, pureed, mildly thick]
 summary: "The IDDSI Spoon Tilt Test verifies Level 4 Pureed foods (food slides off a tilted spoon and continues to flow) and Level 3 Liquidised foods. It is a quick, no-equipment screen used alongside the Fork Drip Test to confirm texture compliance."
 ---

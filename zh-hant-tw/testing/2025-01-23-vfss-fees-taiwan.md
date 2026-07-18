@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "testing"
 last_updated: "2025-01-23"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/testing/vfss-fees-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/testing/vfss-fees-taiwan"
 ---
 
 # 台灣吞嚥攝影檢查（VFSS）與內視鏡吞嚥評估（FEES）：就醫指引與費用說明

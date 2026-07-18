@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/head-neck-cancer-swallowing-hk"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/head-neck-cancer-swallowing-hk"
 ---
 
 # 頭頸癌治療後的吞嚥康復：香港服務指南

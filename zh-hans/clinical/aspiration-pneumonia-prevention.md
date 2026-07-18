@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/aspiration-pneumonia-prevention.html"
+canonical: "https://softmeal.org/zh-hans/clinical/aspiration-pneumonia-prevention.html"
 ---
 
 # 吸入性肺炎预防：吞咽困难患者护理要点

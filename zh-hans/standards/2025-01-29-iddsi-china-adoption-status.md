@@ -1,7 +1,7 @@
 ---
 title: "IDDSI国际标准在中国的推广现状：医院、养老院与行业实践进展"
 description: "梳理 IDDSI 国际吞咽障碍饮食分级框架进入中国的历史，分析三甲医院、养老机构的采纳现状，团体标准 T/SATA 094 的角色，内地与港台的差异，以及中式饮食文化、增稠剂市场碎片化等推广挑战与未来监管展望。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: standards
 last_updated: 2025-01-29

@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["社交飲食", "外出用餐", "夜市", "辦桌", "飲食尊嚴", "吞嚥障礙"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/social-eating-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/social-eating-taiwan"
 ---
 
 # 台灣吞嚥障礙患者的社交飲食：如何繼續享受台灣美食文化

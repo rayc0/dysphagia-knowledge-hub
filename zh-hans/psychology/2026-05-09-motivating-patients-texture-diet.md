@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/psychology/2026-05-09-motivating-patients-texture-diet.html"
+canonical: "https://softmeal.org/zh-hans/psychology/2026-05-09-motivating-patients-texture-diet.html"
 ---
 
 # 提高患者对质构调整饮食处方依从性的策略：心理与行为干预

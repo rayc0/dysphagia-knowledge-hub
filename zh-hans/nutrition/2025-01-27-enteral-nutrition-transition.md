@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-01-27"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/nutrition/enteral-nutrition-transition"
+canonical: "https://softmeal.org/zh-hans/nutrition/enteral-nutrition-transition"
 ---
 
 # 从肠内营养（管饲）到经口进食的营养过渡策略

@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["台式料理", "IDDSI改造", "軟食食譜", "台灣美食", "吞嚥障礙飲食"]
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/soft-food-regional-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/soft-food-regional-taiwan"
 ---
 
 # 台式軟食料理改良：傳統台灣料理的IDDSI改造指南

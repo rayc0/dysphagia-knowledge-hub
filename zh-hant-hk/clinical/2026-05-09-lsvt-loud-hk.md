@@ -1,12 +1,12 @@
 ---
 title: "LSVT LOUD計劃與吞嚥功能改善：柏金遜症患者的言語治療選擇"
 description: "介紹LSVT LOUD治療計劃的原理、對柏金遜症患者吞嚥功能的潛在效益，以及香港認證治療師的資源。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/lsvt-loud-hk"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/lsvt-loud-hk"
 ---
 
 # LSVT LOUD計劃與吞嚥功能改善：柏金遜症患者的言語治療選擇

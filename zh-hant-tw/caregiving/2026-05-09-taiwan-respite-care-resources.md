@@ -8,9 +8,9 @@ tags: [吞嚥障礙, 台灣, 喘息服務, 長照2.0, 照護者支援]
 description: "台灣吞嚥障礙患者家屬適用的喘息服務申請指南，涵蓋長照2.0喘息補助、居家喘息、機構短托、衛福部資源及各縣市申請流程。"
 date: 2026-05-09
 last_updated: "2026-05-09"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/taiwan-respite-care-resources"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/taiwan-respite-care-resources"
 ---
 
 # 台灣喘息服務完整指南：吞嚥障礙照護者的支援資源

@@ -6,7 +6,7 @@ language: "id"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/nutrition/suplemen-nutrisi-oral-untuk-lansia-disfagia.html"
+canonical: "https://softmeal.org/id/nutrition/suplemen-nutrisi-oral-untuk-lansia-disfagia.html"
 ---
 
 # Suplemen Nutrisi Oral (ONS) untuk Lansia Disfagia: Panduan Memilih dan Menggunakan

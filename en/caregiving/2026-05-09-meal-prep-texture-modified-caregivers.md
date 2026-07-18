@@ -6,7 +6,7 @@ categories: [caregiving]
 tags: [dysphagia, caregiving, meal prep, texture modified, IDDSI, batch cooking]
 description: "Practical batch-cooking strategies for family caregivers preparing texture-modified meals. Save time, reduce stress, and maintain nutritional quality at home."
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 Preparing texture-modified meals every day is one of the most demanding tasks a family caregiver faces. Unlike standard cooking, each meal must meet specific IDDSI texture requirements, maintain adequate nutrition, and be safe for someone with swallowing difficulties. When this happens three times a day, seven days a week, caregiver fatigue is inevitable.

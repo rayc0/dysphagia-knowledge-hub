@@ -6,7 +6,7 @@ categories: [standards]
 tags: [IDDSI, 吞咽障碍, 本土化, 标准, 照护食]
 description: "梳理国际吞咽障碍饮食标准化计划（IDDSI）在中国大陆的引进、翻译、研究与政策落地历程，分析本土化挑战与未来方向。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## IDDSI在中国的推广与本土化进程

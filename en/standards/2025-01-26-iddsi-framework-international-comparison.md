@@ -6,7 +6,7 @@ language: "en"
 category: "standards"
 last_updated: "2025-01-26"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/standards/iddsi-framework-international-comparison"
+canonical: "https://softmeal.org/en/standards/iddsi-framework-international-comparison"
 ---
 
 # IDDSI Around the World: How Australia, UK, Canada and Asia Implement Dysphagia Food Standards

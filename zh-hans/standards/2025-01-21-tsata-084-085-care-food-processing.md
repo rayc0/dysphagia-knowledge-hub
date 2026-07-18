@@ -1,7 +1,7 @@
 ---
 title: "T/SATA 084/085 团标详解：软烂餐与细碎餐加工规范完整指引"
 description: "T/SATA 084-2025 与 T/SATA 085-2025 是大湾区照护食品的核心团体标准。本文详解两项标准的加工规范要求、质构检验方法、营养标签规定及对食品企业的合规路径，适合内地照护食品生产商和机构厨房参考。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: standards
 last_updated: 2025-01-21

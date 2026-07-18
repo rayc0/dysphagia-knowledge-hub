@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/motor-neuron-disease-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/motor-neuron-disease-dysphagia-hk"
 ---
 
 # 運動神經元病與吞嚥困難：香港患者實用護理指南

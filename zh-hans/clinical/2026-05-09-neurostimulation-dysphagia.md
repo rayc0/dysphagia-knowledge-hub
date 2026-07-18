@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [吞咽障碍, 康复治疗, 言语治疗]
 description: "内地康复科和SLT神经肌肉电刺激（NMES）实操指南：感觉级与运动级方案区别、电极放置、刺激参数、联合主动训练策略与适应证筛查。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 # 神经肌肉电刺激治疗吞咽障碍：临床应用与参数规范

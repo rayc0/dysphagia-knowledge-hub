@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "testing"
 last_updated: "2025-02-03"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/testing/cervical-auscultation"
+canonical: "https://softmeal.org/zh-hans/testing/cervical-auscultation"
 ---
 
 # 颈部听诊法：辅助识别误吸风险的床旁听诊技术

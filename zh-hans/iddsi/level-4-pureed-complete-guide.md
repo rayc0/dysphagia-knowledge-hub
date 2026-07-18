@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/iddsi/level-4-pureed-complete-guide.html"
+canonical: "https://softmeal.org/zh-hans/iddsi/level-4-pureed-complete-guide.html"
 ---
 
 # IDDSI 4级（糊状）完整指南：标准、检测与居家制作

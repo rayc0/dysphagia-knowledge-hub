@@ -11,7 +11,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/smart-home-safety-elderly-dysphagia"
+canonical: "https://softmeal.org/zh-hans/caregiving/smart-home-safety-elderly-dysphagia"
 ---
 
 # 智能家居与老年吞咽障碍安全：跌倒检测、用药提醒与进餐监护

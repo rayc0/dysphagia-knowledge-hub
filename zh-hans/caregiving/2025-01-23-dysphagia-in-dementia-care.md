@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-23"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/dysphagia-in-dementia-care"
+canonical: "https://softmeal.org/zh-hans/caregiving/dysphagia-in-dementia-care"
 ---
 
 # 认知症晚期吞咽障碍的居家照护：实用指南

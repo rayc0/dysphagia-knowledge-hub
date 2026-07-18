@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/chinese-medicine-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/chinese-medicine-dysphagia-hk"
 ---
 
 # 中醫針灸與中藥在香港吞嚥困難康復中的應用：現有實證與注意事項

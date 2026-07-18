@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "testing"
 last_updated: "2025-01-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/testing/iddsi-syringe-flow-test"
+canonical: "https://softmeal.org/zh-hans/testing/iddsi-syringe-flow-test"
 ---
 
 # IDDSI注射器流量测试：在家测量液体稠度的标准方法

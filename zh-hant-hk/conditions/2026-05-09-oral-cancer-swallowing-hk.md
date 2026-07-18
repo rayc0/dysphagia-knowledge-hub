@@ -1,12 +1,12 @@
 ---
 title: "口腔癌治療後的吞嚥復康：香港患者指南"
 description: "口腔癌手術及放射治療後的吞嚥困難成因、評估流程及復康策略，涵蓋香港醫管局言語治療服務、CUHK及HKU相關研究及社區支援資源。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/oral-cancer-swallowing-hk"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/oral-cancer-swallowing-hk"
 ---
 
 # 口腔癌治療後的吞嚥復康：香港患者指南

@@ -1,12 +1,12 @@
 ---
 title: "McNeill吞嚥治療計劃（MDTP）介紹：結構化吞嚥康復的循證方法"
 description: "詳介McNeill吞嚥治療計劃（MDTP）的原理、訓練結構、適應症及香港言語治療的應用概況。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/mcneill-dysphagia-therapy-hk"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/mcneill-dysphagia-therapy-hk"
 ---
 
 # McNeill吞嚥治療計劃（MDTP）介紹：結構化吞嚥康復的循證方法

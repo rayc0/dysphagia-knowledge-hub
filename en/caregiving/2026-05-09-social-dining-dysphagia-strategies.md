@@ -12,7 +12,7 @@ tags:
   - social participation
 description: "Dysphagia need not mean the end of shared meals. Practical strategies for navigating restaurants, family dinners, and social occasions safely and confidently."
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## The Table Is Still Yours

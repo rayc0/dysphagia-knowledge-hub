@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2025-01-24"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/npc-radiotherapy-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/npc-radiotherapy-dysphagia-hk"
 ---
 
 # 鼻咽癌放射治療後吞嚥困難：香港患者康復飲食指南

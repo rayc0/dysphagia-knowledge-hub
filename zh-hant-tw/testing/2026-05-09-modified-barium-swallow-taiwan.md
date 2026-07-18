@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "testing"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/testing/modified-barium-swallow-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/testing/modified-barium-swallow-taiwan"
 ---
 
 # 台灣videofluoroscopic吞嚥攝影（VFSS/MBS）：哪裡做、如何準備、健保給付與報告解讀

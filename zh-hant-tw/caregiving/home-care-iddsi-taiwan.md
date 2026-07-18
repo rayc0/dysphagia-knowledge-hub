@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["IDDSI", "居家照護", "飲食準備", "軟食", "家屬指南"]
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/home-care-iddsi-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/home-care-iddsi-taiwan"
 ---
 
 # 居家照護IDDSI飲食準備：家屬完整操作手冊

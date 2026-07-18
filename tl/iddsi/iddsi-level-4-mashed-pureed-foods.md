@@ -6,7 +6,7 @@ language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/iddsi/iddsi-level-4-mashed-pureed-foods.html"
+canonical: "https://softmeal.org/tl/iddsi/iddsi-level-4-mashed-pureed-foods.html"
 ---
 
 # IDDSI Level 4 Minced at Moist — Fork Pressure Test at mga Halimbawa ng Pagkaing Filipino

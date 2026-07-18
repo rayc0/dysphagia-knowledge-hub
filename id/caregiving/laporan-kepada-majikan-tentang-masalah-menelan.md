@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/laporan-kepada-majikan-tentang-masalah-menelan.html"
+canonical: "https://softmeal.org/id/caregiving/laporan-kepada-majikan-tentang-masalah-menelan.html"
 ---
 
 # Cara Melaporkan Masalah Menelan kepada Majikan dan Mengakses Bantuan Medis di Hong Kong

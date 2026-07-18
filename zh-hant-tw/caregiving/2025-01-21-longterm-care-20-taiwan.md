@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2025-01-21"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/longterm-care-20-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/longterm-care-20-taiwan"
 ---
 
 # 長照2.0與吞嚥障礙照護：居家服務申請與資源整合指南

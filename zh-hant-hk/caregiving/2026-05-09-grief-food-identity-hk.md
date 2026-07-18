@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/grief-food-identity-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/grief-food-identity-hk"
 ---
 
 # 香港飲食文化中的失落感：吞嚥困難患者重拾飲食愉悅的心理調適

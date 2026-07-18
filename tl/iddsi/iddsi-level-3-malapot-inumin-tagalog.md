@@ -6,7 +6,7 @@ language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/iddsi/iddsi-level-3-malapot-inumin-tagalog.html"
+canonical: "https://softmeal.org/tl/iddsi/iddsi-level-3-malapot-inumin-tagalog.html"
 ---
 
 # IDDSI Level 3 Moderately Thick — Gabay sa Tagalog: Katamtaman ang Kalapot na Inumin para sa Dysphagia

@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/psychology/2026-05-09-depression-dysphagia-caregiver.html"
+canonical: "https://softmeal.org/zh-hans/psychology/2026-05-09-depression-dysphagia-caregiver.html"
 ---
 
 # 照护吞咽障碍患者的家属焦虑抑郁：识别、自我干预与专业帮助渠道

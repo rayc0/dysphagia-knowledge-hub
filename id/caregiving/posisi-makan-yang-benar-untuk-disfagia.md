@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/posisi-makan-yang-benar-untuk-disfagia.html"
+canonical: "https://softmeal.org/id/caregiving/posisi-makan-yang-benar-untuk-disfagia.html"
 ---
 
 # Posisi Makan yang Benar untuk Disfagia — Panduan Cepat untuk ART Indonesia di Hong Kong

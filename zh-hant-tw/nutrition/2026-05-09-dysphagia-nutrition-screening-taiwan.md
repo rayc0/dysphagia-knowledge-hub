@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["營養篩查", "MNA-SF", "MUST", "營養師", "長照2.0", "健保"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/dysphagia-nutrition-screening-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/dysphagia-nutrition-screening-taiwan"
 ---
 
 # 台灣吞嚥障礙患者的營養篩查與營養師轉介流程

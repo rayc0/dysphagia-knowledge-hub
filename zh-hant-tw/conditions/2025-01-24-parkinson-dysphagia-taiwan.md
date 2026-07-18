@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "conditions"
 last_updated: "2025-01-24"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/parkinson-dysphagia-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/parkinson-dysphagia-taiwan"
 ---
 
 # 帕金森氏症吞嚥障礙：台灣患者吞嚥管理與運動復健指引

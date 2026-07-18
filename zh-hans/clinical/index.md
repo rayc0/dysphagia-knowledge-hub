@@ -3,7 +3,7 @@ layout: default
 title: "吞咽障碍临床资源：完整指南合集"
 description: "吞咽困难临床管理全套指南——脑卒中、帕金森、ALS、失智症、头颈癌、误吸性肺炎、管饲决策、吞咽康复训练。"
 lang: zh-hans
-canonical: "https://dysphagia.cn/zh-hans/clinical/"
+canonical: "https://softmeal.org/zh-hans/clinical/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/zh-hans/clinical/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "简体中文", "item": "https://dysphagia.cn/zh-hans/"},
-    {"@type": "ListItem", "position": 3, "name": "临床资源", "item": "https://dysphagia.cn/zh-hans/clinical/"}
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "简体中文", "item": "https://softmeal.org/zh-hans/"},
+    {"@type": "ListItem", "position": 3, "name": "临床资源", "item": "https://softmeal.org/zh-hans/clinical/"}
   ]
 }
 </script>
@@ -24,14 +24,14 @@ canonical: "https://dysphagia.cn/zh-hans/clinical/"
   "@type": "CollectionPage",
   "name": "吞咽障碍临床资源：完整指南合集",
   "description": "吞咽困难临床管理全套指南，涵盖脑卒中、帕金森、ALS、失智症、管饲决策、吞咽康复训练等主题。",
-  "url": "https://dysphagia.cn/zh-hans/clinical/",
+  "url": "https://softmeal.org/zh-hans/clinical/",
   "inLanguage": "zh-Hans",
   "hasPart": [
-    {"@type": "Article", "name": "肌萎缩侧索硬化症（ALS）吞咽困难", "url": "https://dysphagia.cn/zh-hans/clinical/als-dysphagia-management/"},
-    {"@type": "Article", "name": "吸入性肺炎预防", "url": "https://dysphagia.cn/zh-hans/clinical/aspiration-pneumonia-prevention/"},
-    {"@type": "Article", "name": "帕金森病吞咽障碍的临床管理", "url": "https://dysphagia.cn/zh-hans/clinical/parkinson-disease-dysphagia-management-china/"},
-    {"@type": "Article", "name": "中风后吞咽障碍康复指南", "url": "https://dysphagia.cn/zh-hans/clinical/post-stroke-dysphagia-rehabilitation-china/"},
-    {"@type": "Article", "name": "吞咽康复训练完全指南", "url": "https://dysphagia.cn/zh-hans/clinical/swallowing-therapy-exercises/"}
+    {"@type": "Article", "name": "肌萎缩侧索硬化症（ALS）吞咽困难", "url": "https://softmeal.org/zh-hans/clinical/als-dysphagia-management/"},
+    {"@type": "Article", "name": "吸入性肺炎预防", "url": "https://softmeal.org/zh-hans/clinical/aspiration-pneumonia-prevention/"},
+    {"@type": "Article", "name": "帕金森病吞咽障碍的临床管理", "url": "https://softmeal.org/zh-hans/clinical/parkinson-disease-dysphagia-management-china/"},
+    {"@type": "Article", "name": "中风后吞咽障碍康复指南", "url": "https://softmeal.org/zh-hans/clinical/post-stroke-dysphagia-rehabilitation-china/"},
+    {"@type": "Article", "name": "吞咽康复训练完全指南", "url": "https://softmeal.org/zh-hans/clinical/swallowing-therapy-exercises/"}
   ]
 }
 </script>

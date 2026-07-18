@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/fois-functional-oral-intake-scale"
+canonical: "https://softmeal.org/zh-hans/clinical/fois-functional-oral-intake-scale"
 tags: [FOIS, 结果测量, 口腔摄食, 吞咽困难, 康复]
 summary: "FOIS是一份7级量表，从完全管饲依赖（1级）到完全口腔饮食无限制（7级）。测量实际口腔摄食量，而非吞咽生理。已在卒中中验证，广泛用作康复结果测量工具。"
 ---

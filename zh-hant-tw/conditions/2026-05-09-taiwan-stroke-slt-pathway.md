@@ -1,7 +1,7 @@
 ---
 title: "台灣腦中風吞嚥障礙語言治療轉介路徑完整指南"
 description: "說明台灣腦中風患者從急性期、復健期到社區照護的語言治療轉介流程，涵蓋健保給付、吞嚥篩檢標準、VFSS/FEES申請要點及長照2.0銜接。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-tw"
 category: "conditions"
 date: 2026-05-09
@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["吞嚥障礙", "台灣", "腦中風", "語言治療", "轉介"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/taiwan-stroke-slt-pathway"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/taiwan-stroke-slt-pathway"
 ---
 
 # 台灣腦中風吞嚥障礙語言治療轉介路徑完整指南

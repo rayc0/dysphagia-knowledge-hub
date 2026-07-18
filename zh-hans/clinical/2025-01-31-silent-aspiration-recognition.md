@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2025-01-31"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/2025-01-31-silent-aspiration-recognition.html"
+canonical: "https://softmeal.org/zh-hans/clinical/2025-01-31-silent-aspiration-recognition.html"
 ---
 
 # 隐性误吸：为什么最危险的吸入没有咳嗽？识别与预防完整指南

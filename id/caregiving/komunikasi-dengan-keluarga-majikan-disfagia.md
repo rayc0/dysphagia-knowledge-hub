@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/komunikasi-dengan-keluarga-majikan-disfagia.html"
+canonical: "https://softmeal.org/id/caregiving/komunikasi-dengan-keluarga-majikan-disfagia.html"
 ---
 
 # Cara Berkomunikasi dengan Keluarga Majikan tentang Kondisi Menelan

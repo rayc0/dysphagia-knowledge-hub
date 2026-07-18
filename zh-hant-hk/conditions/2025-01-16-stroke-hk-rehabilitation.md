@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2025-01-16"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/stroke-hk-rehabilitation"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/stroke-hk-rehabilitation"
 ---
 
 # 香港腦中風後吞嚥困難康復：由急症到社區的完整路徑

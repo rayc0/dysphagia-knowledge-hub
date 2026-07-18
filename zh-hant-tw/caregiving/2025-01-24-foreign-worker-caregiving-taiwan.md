@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2025-01-24"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/foreign-worker-caregiving-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/foreign-worker-caregiving-taiwan"
 ---
 
 # 外籍看護工與吞嚥障礙照護：聘雇說明、訓練資源與溝通技巧

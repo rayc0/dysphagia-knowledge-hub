@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/mna-sf-mini-nutritional-assessment"
+canonical: "https://softmeal.org/en/clinical/mna-sf-mini-nutritional-assessment"
 tags: [nutrition, MNA-SF, elderly, screening, malnutrition]
 summary: "The MNA-SF is a 6-item nutritional screening tool validated for older adults. Score ≤7 indicates malnutrition; 8–11 indicates risk. Critical for elderly dysphagia patients where texture modification reduces caloric intake."
 ---

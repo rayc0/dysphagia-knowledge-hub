@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-02-04"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/legal-healthcare-decisions-china"
+canonical: "https://softmeal.org/zh-hans/caregiving/legal-healthcare-decisions-china"
 ---
 
 # 内地吞咽障碍患者的医疗决策与法律问题：知情同意、监护人与预立指示

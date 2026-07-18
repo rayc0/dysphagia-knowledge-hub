@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "testing"
 last_updated: "2025-01-26"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/testing/food-texture-assessment-tools"
+canonical: "https://softmeal.org/zh-hans/testing/food-texture-assessment-tools"
 ---
 
 # 照护食质地评估工具大全：从叉子测试到专业测试仪器

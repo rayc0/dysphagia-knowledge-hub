@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/enteral-nutrition-tube-feeding-hk"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/enteral-nutrition-tube-feeding-hk"
 ---
 
 # 鼻胃管與胃造口管：香港醫院管理局的置管流程、護理及轉介標準

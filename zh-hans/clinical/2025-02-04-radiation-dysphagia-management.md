@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2025-02-04"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/2025-02-04-radiation-dysphagia-management.html"
+canonical: "https://softmeal.org/zh-hans/clinical/2025-02-04-radiation-dysphagia-management.html"
 ---
 
 # 放射性吞咽障碍：头颈部放疗后的吞咽康复与长期管理

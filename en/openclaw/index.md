@@ -3,7 +3,7 @@ layout: default
 title: "OpenClaw Care Food Skills — HKCSS-Grounded AI Agent Skills"
 description: "Hong Kong's Care Food Standard published as native multilingual AI agent skills. Built OpenClaw-native. Free for any compliant AI agent. Grounded in HKCSS Care Food Standard 2023."
 lang: en
-canonical: "https://dysphagia.cn/en/openclaw/"
+canonical: "https://softmeal.org/en/openclaw/"
 robots: noindex
 ---
 
@@ -15,7 +15,7 @@ robots: noindex
   "applicationCategory": "HealthApplication",
   "operatingSystem": "Any (OpenClaw-compatible AI agent runtime)",
   "description": "Hong Kong's Care Food Standard published as native multilingual AI agent skills. Built OpenClaw-native. Free for any compliant AI agent. Grounded in HKCSS Care Food Standard 2023.",
-  "url": "https://dysphagia.cn/en/openclaw/",
+  "url": "https://softmeal.org/en/openclaw/",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
   "author": {
     "@type": "Organization",

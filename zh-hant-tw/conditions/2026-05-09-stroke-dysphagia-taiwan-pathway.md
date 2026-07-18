@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "conditions"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/stroke-dysphagia-taiwan-pathway"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/stroke-dysphagia-taiwan-pathway"
 ---
 
 # 台灣中風後吞嚥障礙標準化照護路徑：急性期篩查到社區復健

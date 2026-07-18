@@ -6,7 +6,7 @@ language: "id"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/nutrition/2026-05-13-makanan-indonesia-iddsi"
+canonical: "https://softmeal.org/id/nutrition/2026-05-13-makanan-indonesia-iddsi"
 ---
 
 # Makanan Indonesia Tradisional Disesuaikan dengan IDDSI

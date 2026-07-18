@@ -7,7 +7,7 @@ category: nutrition
 categories: [nutrition]
 date: 2026-05-09
 last_updated: 2026-05-09
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 layout: post
 tags:
   - 高蛋白软食

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/hk-wet-market-soft-ingredients"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/hk-wet-market-soft-ingredients"
 ---
 
 # 香港街市買靚料：最適合吞嚥困難患者的新鮮食材選購指南

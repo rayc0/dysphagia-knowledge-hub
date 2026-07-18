@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-02-01"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/working-caregiver-china"
+canonical: "https://softmeal.org/zh-hans/caregiving/working-caregiver-china"
 ---
 
 # 职场照顾者：内地在职人员照顾吞咽障碍家人的实用策略

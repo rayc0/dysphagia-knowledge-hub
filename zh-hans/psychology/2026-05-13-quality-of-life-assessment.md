@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/psychology/2026-05-13-quality-of-life-assessment.html"
+canonical: "https://softmeal.org/zh-hans/psychology/2026-05-13-quality-of-life-assessment.html"
 layout: zh-hans-article
 lang: zh-CN
 date: 2026-05-13

@@ -6,7 +6,7 @@ language: "zh-Hant-HK"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/吞嚥障礙患者維他命D補充"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/吞嚥障礙患者維他命D補充"
 ---
 
 # 維他命D缺乏與吞嚥肌肉功能——香港長者的特別關注

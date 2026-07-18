@@ -1,12 +1,12 @@
 ---
 title: "居家吞嚥訓練計劃：家屬指導、每日20分鐘訓練組合與定期SLT覆診安排"
 description: "為香港吞嚥障礙患者設計的居家訓練指南，包含Shaker運動、舌肌訓練與Mendelsohn手法的每日20分鐘訓練組合、家屬操作要點及定期覆診建議。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/home-swallowing-exercises-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/home-swallowing-exercises-hk"
 ---
 
 # 居家吞嚥訓練計劃：家屬指導與每日20分鐘訓練組合

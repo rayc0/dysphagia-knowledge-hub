@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/psychology/2026-05-09-grief-loss-eating-identity.html"
+canonical: "https://softmeal.org/zh-hans/psychology/2026-05-09-grief-loss-eating-identity.html"
 ---
 
 # 慢性吞咽障碍中的哀伤与饮食身份认同的丧失：心理调适指南

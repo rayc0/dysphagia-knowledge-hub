@@ -6,7 +6,7 @@ language: "id"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/nutrition/memantau-berat-badan-lansia-disfagia.html"
+canonical: "https://softmeal.org/id/nutrition/memantau-berat-badan-lansia-disfagia.html"
 ---
 
 # Cara Memantau Berat Badan dan Tanda Kurang Gizi pada Lansia Disfagia

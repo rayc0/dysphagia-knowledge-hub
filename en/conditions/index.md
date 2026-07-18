@@ -3,7 +3,7 @@ layout: default
 title: "Dysphagia by Condition: Complete Guide Collection"
 description: "Condition-specific dysphagia guides — ALS/MND, dementia, multiple sclerosis, Parkinson's disease, pediatric dysphagia, and stroke. Management across disease stages."
 lang: en
-canonical: "https://dysphagia.cn/en/conditions/"
+canonical: "https://softmeal.org/en/conditions/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/en/conditions/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://dysphagia.cn/en/"},
-    {"@type": "ListItem", "position": 3, "name": "Conditions", "item": "https://dysphagia.cn/en/conditions/"}
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://softmeal.org/en/"},
+    {"@type": "ListItem", "position": 3, "name": "Conditions", "item": "https://softmeal.org/en/conditions/"}
   ]
 }
 </script>
@@ -24,14 +24,14 @@ canonical: "https://dysphagia.cn/en/conditions/"
   "@type": "CollectionPage",
   "name": "Dysphagia by Condition: Complete Guide Collection",
   "description": "Condition-specific dysphagia management guides covering ALS/MND, dementia, MS, Parkinson's disease, pediatric dysphagia, and stroke.",
-  "url": "https://dysphagia.cn/en/conditions/",
+  "url": "https://softmeal.org/en/conditions/",
   "inLanguage": "en",
   "hasPart": [
-    {"@type": "Article", "name": "ALS/MND and Dysphagia", "url": "https://dysphagia.cn/en/conditions/als-dysphagia/"},
-    {"@type": "Article", "name": "Dementia and Dysphagia", "url": "https://dysphagia.cn/en/conditions/dementia-and-dysphagia/"},
-    {"@type": "Article", "name": "Multiple Sclerosis and Dysphagia", "url": "https://dysphagia.cn/en/conditions/ms-and-dysphagia/"},
-    {"@type": "Article", "name": "Parkinson's Disease and Dysphagia", "url": "https://dysphagia.cn/en/conditions/parkinsons-dysphagia/"},
-    {"@type": "Article", "name": "Pediatric Dysphagia", "url": "https://dysphagia.cn/en/conditions/pediatric-dysphagia/"}
+    {"@type": "Article", "name": "ALS/MND and Dysphagia", "url": "https://softmeal.org/en/conditions/als-dysphagia/"},
+    {"@type": "Article", "name": "Dementia and Dysphagia", "url": "https://softmeal.org/en/conditions/dementia-and-dysphagia/"},
+    {"@type": "Article", "name": "Multiple Sclerosis and Dysphagia", "url": "https://softmeal.org/en/conditions/ms-and-dysphagia/"},
+    {"@type": "Article", "name": "Parkinson's Disease and Dysphagia", "url": "https://softmeal.org/en/conditions/parkinsons-dysphagia/"},
+    {"@type": "Article", "name": "Pediatric Dysphagia", "url": "https://softmeal.org/en/conditions/pediatric-dysphagia/"}
   ]
 }
 </script>

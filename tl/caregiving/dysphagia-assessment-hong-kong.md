@@ -6,7 +6,7 @@ language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/caregiving/dysphagia-assessment-hong-kong.html"
+canonical: "https://softmeal.org/tl/caregiving/dysphagia-assessment-hong-kong.html"
 ---
 
 # Paano Makakuha ng Dysphagia Assessment sa Hong Kong — SLT Referral, Pribadong Klinika, RCHE, at Oras ng Paghihintay

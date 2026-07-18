@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "testing"
 last_updated: "2025-02-01"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/testing/bedside-clinical-swallowing-exam"
+canonical: "https://softmeal.org/zh-hans/testing/bedside-clinical-swallowing-exam"
 ---
 
 # 床旁临床吞咽检查（CSE）：言语治疗师的评估流程与照护者配合要点

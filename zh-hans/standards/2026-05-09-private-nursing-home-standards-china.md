@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "standards"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/standards/2026-05-09-private-nursing-home-standards-china.html"
+canonical: "https://softmeal.org/zh-hans/standards/2026-05-09-private-nursing-home-standards-china.html"
 ---
 
 # 民营养老机构吞咽障碍照护质量标准：民政部规范、照护质量评估与家属监督

@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [dysphagia, nutrition, dietitian, clinical]
 description: "Evidence-based food fortification strategies to increase energy and protein density in texture-modified diets for patients with dysphagia."
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## Introduction

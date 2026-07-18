@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "testing"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/testing/fees-fiberoptic-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/testing/fees-fiberoptic-taiwan"
 ---
 
 # 台灣軟式鼻咽喉內視鏡吞嚥檢查（FEES）：健保與自費、流程說明、各院可用性

@@ -6,7 +6,7 @@ language: "vi"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/vi/huong-dan-chamsoc/vi-tri-ngoi-khi-an.html"
+canonical: "https://softmeal.org/vi/huong-dan-chamsoc/vi-tri-ngoi-khi-an.html"
 ---
 
 # Tư Thế Ngồi Khi Ăn Cho Bệnh Nhân Nuốt Khó — Hướng Dẫn Nhanh cho ODJT tại Hồng Kông

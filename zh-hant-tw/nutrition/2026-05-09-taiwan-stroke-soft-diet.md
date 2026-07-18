@@ -8,9 +8,9 @@ tags: [吞嚥障礙, 台灣, 腦中風, 軟食, IDDSI, 飲食計劃]
 description: "針對台灣腦中風患者設計的軟食飲食計劃，涵蓋住院至居家轉銜的IDDSI質地選擇、台灣在地食材建議、健保與長照2.0營養支援資源。"
 date: 2026-05-09
 last_updated: "2026-05-09"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/taiwan-stroke-soft-diet"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/taiwan-stroke-soft-diet"
 ---
 
 # 台灣腦中風軟食飲食計劃：從醫院到居家的質地調整指南

@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["進食環境", "安全進食", "輔具", "防誤嗆", "居家照護"]
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/mealtime-environment-setup"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/mealtime-environment-setup"
 ---
 
 # 安全進食環境設置：防止誤嗆的環境與輔具準備

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/mna-sf-mini-nutritional-assessment"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/mna-sf-mini-nutritional-assessment"
 tags: [營養, MNA-SF, 長者, 篩查, 營養不良]
 summary: "MNA-SF是一份6題、針對老年人驗證過的營養篩查工具。分數≤7表示營養不良；8–11表示存在風險。對於質感調整飲食降低熱量攝取的吞嚥困難長者至關重要。"
 ---

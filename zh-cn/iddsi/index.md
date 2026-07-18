@@ -3,7 +3,7 @@ layout: default
 title: "IDDSI 国际吞咽障碍饮食标准化倡议 — 简体中文（中国大陆）"
 description: "IDDSI中国大陆实施指南——0-7级详解、增稠饮料配制、家庭质地测试方法，结合国内饮食文化与养老机构标准。"
 lang: zh-CN
-canonical: "https://dysphagia.cn/zh-cn/iddsi/"
+canonical: "https://softmeal.org/zh-cn/iddsi/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/zh-cn/iddsi/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "简体中文（中国大陆）", "item": "https://dysphagia.cn/zh-cn/"},
-    {"@type": "ListItem", "position": 3, "name": "IDDSI", "item": "https://dysphagia.cn/zh-cn/iddsi/"}
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "简体中文（中国大陆）", "item": "https://softmeal.org/zh-cn/"},
+    {"@type": "ListItem", "position": 3, "name": "IDDSI", "item": "https://softmeal.org/zh-cn/iddsi/"}
   ]
 }
 </script>

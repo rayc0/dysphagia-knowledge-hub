@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/peer-support-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/peer-support-dysphagia-hk"
 ---
 
 # 香港吞嚥困難互助網絡：同伴支持、照顧者茶聚與社區資源

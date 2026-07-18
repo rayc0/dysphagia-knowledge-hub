@@ -8,9 +8,9 @@ tags: [吞嚥障礙, 台灣, 失智症, 長照2.0, 照護指引]
 description: "台灣失智症吞嚥障礙完整照護指引，涵蓋病程各階段吞嚥問題評估、飲食調整策略、長照2.0資源申請，以及衛福部失智症照護政策。"
 date: 2026-05-09
 last_updated: "2026-05-09"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/taiwan-dementia-dysphagia"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/taiwan-dementia-dysphagia"
 ---
 
 # 失智症與吞嚥障礙：台灣照護指引與長照資源整合

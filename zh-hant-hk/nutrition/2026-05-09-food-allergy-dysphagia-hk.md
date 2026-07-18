@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/nutrition/food-allergy-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/nutrition/food-allergy-dysphagia-hk"
 ---
 
 # 食物過敏與吞嚥困難並存的管理：避免交叉污染、替代質地、香港食品標籤法規

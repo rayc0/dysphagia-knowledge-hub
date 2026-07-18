@@ -6,7 +6,7 @@ language: "en"
 category: "standards"
 last_updated: "2025-01-27"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/standards/hk-food-safety-regulations"
+canonical: "https://softmeal.org/en/standards/hk-food-safety-regulations"
 ---
 
 # Hong Kong Food Safety Regulations for Modified Texture Foods: What Care Homes and Caterers Need to Know

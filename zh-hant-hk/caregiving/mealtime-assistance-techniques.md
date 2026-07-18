@@ -1,12 +1,12 @@
 ---
 title: "進食輔助技巧：正確餵食方法、食物放置位置、下顎控制與手法輔助吞嚥"
 description: "適合香港院舍及家居照顧的進食輔助技巧指南，涵蓋湯匙餵食正確方法、食物放入口腔的位置、下顎控制技術及手法輔助吞嚥，以減低誤吸風險。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/mealtime-assistance-techniques"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/mealtime-assistance-techniques"
 ---
 
 # 進食輔助技巧：湯匙餵食、下顎控制與手法輔助吞嚥

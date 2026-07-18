@@ -6,7 +6,7 @@ language: "en"
 category: "conditions"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/conditions/2026-05-13-multiple-sclerosis-dysphagia"
+canonical: "https://softmeal.org/en/conditions/2026-05-13-multiple-sclerosis-dysphagia"
 ---
 
 # Multiple Sclerosis and Dysphagia: A Comprehensive Guide

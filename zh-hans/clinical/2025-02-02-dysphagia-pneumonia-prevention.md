@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2025-02-02"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/2025-02-02-dysphagia-pneumonia-prevention.html"
+canonical: "https://softmeal.org/zh-hans/clinical/2025-02-02-dysphagia-pneumonia-prevention.html"
 ---
 
 # 吞咽障碍相关性肺炎：内地院感管理与居家预防完整方案

@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/iddsi-fork-drip-test"
+canonical: "https://softmeal.org/zh-hans/clinical/iddsi-fork-drip-test"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "IDDSI叉滴测试用于验证泥状食物（IDDSI 4级）和切碎食物（5级）是否符合标准。实用的厨房及床边质量控制工具。"
 ---

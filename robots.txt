@@ -56,4 +56,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://dysphagia.cn/sitemap.xml
+Sitemap: https://softmeal.org/sitemap.xml

@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/dysphagia-dementia-staging"
+canonical: "https://softmeal.org/en/clinical/dysphagia-dementia-staging"
 tags: [dementia, dysphagia staging, Alzheimer, cognitive impairment, palliative]
 summary: "Dysphagia in dementia follows a predictable staging pattern correlated with FAST scale progression. Mild dementia: impaired meal management; moderate: oral phase deficits; severe: pharyngeal phase dysfunction; end-stage: complete feeding dependence with aspiration risk."
 ---

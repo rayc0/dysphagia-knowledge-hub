@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["吞嚥復健", "復健運動", "Shaker運動", "語言治療", "復健科"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/swallowing-rehabilitation-exercises-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/swallowing-rehabilitation-exercises-taiwan"
 ---
 
 # 台灣吞嚥障礙患者復健運動指南：Shaker、Mendelsohn、用力吞嚥與EMST

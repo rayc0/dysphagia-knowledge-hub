@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞嚥困難, 營養, 香港, 蛋白質, 老年人]
 description: "針對香港老年吞嚥困難患者的蛋白質攝取指引，涵蓋每日建議攝取量、食物來源及醫院管理局營養師服務。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## 為何蛋白質對老年吞嚥困難患者尤為重要

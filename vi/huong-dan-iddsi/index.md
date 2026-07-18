@@ -2,7 +2,7 @@
 title: "Hướng Dẫn IDDSI Bằng Tiếng Việt — Tiêu Chuẩn Độ Đặc Thức Ăn và Nước Uống"
 description: "Tổng quan các bài hướng dẫn tiêu chuẩn IDDSI bằng tiếng Việt: từ cấp độ 0 (nước encer) đến cấp độ 7 (thức ăn thông thường), với ví dụ thực phẩm Việt Nam và bối cảnh Hồng Kông."
 language: "vi"
-canonical: "https://dysphagia.cn/vi/huong-dan-iddsi/"
+canonical: "https://softmeal.org/vi/huong-dan-iddsi/"
 ---
 
 # Hướng Dẫn IDDSI Bằng Tiếng Việt

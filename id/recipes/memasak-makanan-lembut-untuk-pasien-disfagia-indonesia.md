@@ -6,7 +6,7 @@ language: "id"
 category: "recipes"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/recipes/memasak-makanan-lembut-untuk-pasien-disfagia-indonesia.html"
+canonical: "https://softmeal.org/id/recipes/memasak-makanan-lembut-untuk-pasien-disfagia-indonesia.html"
 ---
 
 # Memasak Makanan Lunak untuk Pasien Disfagia — Tradisi Masakan Indonesia yang Diadaptasi ke Standar IDDSI

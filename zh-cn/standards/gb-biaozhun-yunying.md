@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "standards"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/standards/gb-biaozhun-yunying"
+canonical: "https://softmeal.org/zh-cn/standards/gb-biaozhun-yunying"
 ---
 
 # GB食品安全标准与吞咽障碍特殊食品——增稠剂与特医食品的监管框架

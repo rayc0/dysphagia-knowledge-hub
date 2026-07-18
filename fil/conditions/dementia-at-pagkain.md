@@ -6,7 +6,7 @@ language: "fil"
 category: "conditions"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/fil/conditions/dementia-at-pagkain"
+canonical: "https://softmeal.org/fil/conditions/dementia-at-pagkain"
 ---
 
 # Alzheimer's / Dementia at mga Hamon sa Pagkain

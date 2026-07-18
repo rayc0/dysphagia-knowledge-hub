@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "testing"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/testing/eat10-screening-tool-hk"
+canonical: "https://softmeal.org/zh-hant-hk/testing/eat10-screening-tool-hk"
 ---
 
 # EAT-10吞嚥障礙篩查量表：香港基層醫療使用指南

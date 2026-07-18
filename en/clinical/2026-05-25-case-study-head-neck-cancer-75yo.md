@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/case-study-head-neck-cancer-75yo"
+canonical: "https://softmeal.org/en/clinical/case-study-head-neck-cancer-75yo"
 tags: [case study, head and neck cancer, radiation dysphagia, fibrosis, late effects]
 summary: "A 75-year-old laryngeal cancer survivor presents 3 years post-chemoradiation with progressive dysphagia, odynophagia, and 8 kg weight loss. FEES shows supraglottic stenosis and aspiration. Management: esophageal dilation, IDDSI Level 3/4, rehabilitation, and nutritional support."
 ---

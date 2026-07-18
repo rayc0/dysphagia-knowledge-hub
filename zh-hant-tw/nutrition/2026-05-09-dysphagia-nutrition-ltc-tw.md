@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["長照2.0", "營養師", "居家照護", "機構照護", "吞嚥障礙"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/dysphagia-nutrition-ltc-tw"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/dysphagia-nutrition-ltc-tw"
 ---
 
 # 長照2.0下吞嚥障礙者的營養照護：居家與機構的完整指引

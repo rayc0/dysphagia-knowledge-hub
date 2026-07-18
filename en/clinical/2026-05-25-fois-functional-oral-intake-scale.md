@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/fois-functional-oral-intake-scale"
+canonical: "https://softmeal.org/en/clinical/fois-functional-oral-intake-scale"
 tags: [FOIS, outcome measure, oral intake, dysphagia, rehabilitation]
 summary: "FOIS is a 7-level scale from total tube dependence (Level 1) to total oral diet with no restrictions (Level 7). It measures actual oral intake, not swallowing physiology. Validated in stroke and used widely as a rehabilitation outcome measure."
 ---

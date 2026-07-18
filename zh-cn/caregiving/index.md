@@ -3,7 +3,7 @@ layout: default
 title: "居家照护指南 — 吞咽障碍（简体中文）"
 description: "面向中国大陆家属和照护人员的吞咽障碍居家照护完整指南，涵盖进餐体位、食物质地准备、照顾者心理支持及进食辅具选择。"
 lang: zh-CN
-canonical: "https://dysphagia.cn/zh-cn/caregiving/"
+canonical: "https://softmeal.org/zh-cn/caregiving/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/zh-cn/caregiving/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "简体中文（中国大陆）", "item": "https://dysphagia.cn/zh-cn/"},
-    {"@type": "ListItem", "position": 3, "name": "居家照护", "item": "https://dysphagia.cn/zh-cn/caregiving/"}
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "简体中文（中国大陆）", "item": "https://softmeal.org/zh-cn/"},
+    {"@type": "ListItem", "position": 3, "name": "居家照护", "item": "https://softmeal.org/zh-cn/caregiving/"}
   ]
 }
 </script>

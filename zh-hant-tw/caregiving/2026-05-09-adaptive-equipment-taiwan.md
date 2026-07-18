@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["輔具", "進食輔助", "備餐器具", "長照2.0", "輔具補助"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/adaptive-equipment-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/adaptive-equipment-taiwan"
 ---
 
 # 台灣可購得的輔助進食與備餐器具完整指南

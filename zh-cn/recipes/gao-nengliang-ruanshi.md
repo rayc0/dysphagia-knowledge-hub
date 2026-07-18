@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "recipes"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/recipes/gao-nengliang-ruanshi"
+canonical: "https://softmeal.org/zh-cn/recipes/gao-nengliang-ruanshi"
 ---
 
 # 高能量软食食谱集——吞咽障碍患者营养强化实践

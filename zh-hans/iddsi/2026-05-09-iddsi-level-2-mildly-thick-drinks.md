@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/iddsi/2026-05-09-iddsi-level-2-mildly-thick-drinks.html"
+canonical: "https://softmeal.org/zh-hans/iddsi/2026-05-09-iddsi-level-2-mildly-thick-drinks.html"
 ---
 
 # IDDSI Level 2 中稠液体制备指南：从水到汤的实操方法

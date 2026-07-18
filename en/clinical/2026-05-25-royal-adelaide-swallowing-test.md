@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/royal-adelaide-swallowing-test"
+canonical: "https://softmeal.org/en/clinical/royal-adelaide-swallowing-test"
 tags: [RAPIDS, stroke, prognosis, dysphagia, outcome prediction]
 summary: "RAPIDS is a 5-variable prognostic index for dysphagia at 6 months post-stroke, incorporating age, stroke severity, pre-stroke dysphagia, lesion site, and baseline swallow function. It helps clinicians counsel patients and plan rehabilitation intensity."
 ---

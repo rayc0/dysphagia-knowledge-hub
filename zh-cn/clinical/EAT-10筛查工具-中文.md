@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "clinical"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/clinical/EAT-10筛查工具-中文"
+canonical: "https://softmeal.org/zh-cn/clinical/EAT-10筛查工具-中文"
 ---
 
 # EAT-10吞咽筛查工具中文完整版

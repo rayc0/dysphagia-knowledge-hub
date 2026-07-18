@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/lingkungan-makan-aman-untuk-lansia.html"
+canonical: "https://softmeal.org/id/caregiving/lingkungan-makan-aman-untuk-lansia.html"
 ---
 
 # Menciptakan Lingkungan Makan yang Aman untuk Lansia Disfagia di Rumah

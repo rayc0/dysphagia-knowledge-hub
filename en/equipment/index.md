@@ -3,7 +3,7 @@ layout: default
 title: "Dysphagia Equipment: Complete Guide Collection"
 description: "Equipment guides for dysphagia management — adaptive cutlery and cups, blenders for texture modification, commercial thickeners comparison, IDDSI test kits, and feeding tube equipment."
 lang: en
-canonical: "https://dysphagia.cn/en/equipment/"
+canonical: "https://softmeal.org/en/equipment/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/en/equipment/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://dysphagia.cn/en/"},
-    {"@type": "ListItem", "position": 3, "name": "Equipment", "item": "https://dysphagia.cn/en/equipment/"}
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://softmeal.org/en/"},
+    {"@type": "ListItem", "position": 3, "name": "Equipment", "item": "https://softmeal.org/en/equipment/"}
   ]
 }
 </script>
@@ -24,16 +24,16 @@ canonical: "https://dysphagia.cn/en/equipment/"
   "@type": "CollectionPage",
   "name": "Dysphagia Equipment: Complete Guide Collection",
   "description": "Buying guides and product comparisons for dysphagia equipment — adaptive utensils, texture-modifying blenders, thickening agents, IDDSI test syringes, and enteral feeding equipment.",
-  "url": "https://dysphagia.cn/en/equipment/",
+  "url": "https://softmeal.org/en/equipment/",
   "inLanguage": "en",
   "hasPart": [
-    {"@type": "Article", "name": "Adaptive Cutlery and Drinking Cups for Dysphagia", "url": "https://dysphagia.cn/en/equipment/adaptive-cutlery-and-cups-guide/"},
-    {"@type": "Article", "name": "Blenders for Dysphagia Texture Modification", "url": "https://dysphagia.cn/en/equipment/blenders-for-texture-modification/"},
-    {"@type": "Article", "name": "Choosing a Thickener for Dysphagia", "url": "https://dysphagia.cn/en/equipment/choosing-a-thickener/"},
-    {"@type": "Article", "name": "Commercial Thickeners for Dysphagia", "url": "https://dysphagia.cn/en/equipment/commercial-thickeners-comparison/"},
-    {"@type": "Article", "name": "Feeding Tubes and Enteral Nutrition Equipment", "url": "https://dysphagia.cn/en/equipment/feeding-tubes-and-enteral-nutrition-equipment-guide/"},
-    {"@type": "Article", "name": "IDDSI Test Syringes Buying Guide", "url": "https://dysphagia.cn/en/equipment/iddsi-test-syringes-buying-guide/"},
-    {"@type": "Article", "name": "IDDSI Testing Kit", "url": "https://dysphagia.cn/en/equipment/iddsi-testing-kit/"}
+    {"@type": "Article", "name": "Adaptive Cutlery and Drinking Cups for Dysphagia", "url": "https://softmeal.org/en/equipment/adaptive-cutlery-and-cups-guide/"},
+    {"@type": "Article", "name": "Blenders for Dysphagia Texture Modification", "url": "https://softmeal.org/en/equipment/blenders-for-texture-modification/"},
+    {"@type": "Article", "name": "Choosing a Thickener for Dysphagia", "url": "https://softmeal.org/en/equipment/choosing-a-thickener/"},
+    {"@type": "Article", "name": "Commercial Thickeners for Dysphagia", "url": "https://softmeal.org/en/equipment/commercial-thickeners-comparison/"},
+    {"@type": "Article", "name": "Feeding Tubes and Enteral Nutrition Equipment", "url": "https://softmeal.org/en/equipment/feeding-tubes-and-enteral-nutrition-equipment-guide/"},
+    {"@type": "Article", "name": "IDDSI Test Syringes Buying Guide", "url": "https://softmeal.org/en/equipment/iddsi-test-syringes-buying-guide/"},
+    {"@type": "Article", "name": "IDDSI Testing Kit", "url": "https://softmeal.org/en/equipment/iddsi-testing-kit/"}
   ]
 }
 </script>

@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-02-03"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/infection-control-dysphagia-care"
+canonical: "https://softmeal.org/zh-hans/caregiving/infection-control-dysphagia-care"
 ---
 
 # 吞咽障碍照护中的感染预防：口腔护理、设备消毒与院内感染防控

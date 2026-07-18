@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "standards"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/standards/tsata-094-2025-jiedu"
+canonical: "https://softmeal.org/zh-cn/standards/tsata-094-2025-jiedu"
 ---
 
 # T/SATA 094-2025大湾区吞咽障碍食物质地团体标准完整解读

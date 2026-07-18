@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "nutrition"
 last_updated: "2025-01-22"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/tube-feeding-taiwan-insurance"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/tube-feeding-taiwan-insurance"
 ---
 
 # 台灣鼻胃管與胃造口管飼：健保給付、照護流程及撤管決策

@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/2026-05-13-pekerja-rumah-tangga-disfagia"
+canonical: "https://softmeal.org/id/caregiving/2026-05-13-pekerja-rumah-tangga-disfagia"
 ---
 
 # Pekerja Rumah Tangga (PRT) sebagai Pengasuh Disfagia — Panduan Pelatihan

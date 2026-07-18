@@ -3,7 +3,7 @@ layout: default
 title: "吞咽障碍辅助器材：完整指南合集"
 description: "吞咽困难辅助器材选购指南——适应性餐具、破壁机、料理机、增稠剂产品对比，适合中国大陆家庭及机构使用。"
 lang: zh-hans
-canonical: "https://dysphagia.cn/zh-hans/equipment/"
+canonical: "https://softmeal.org/zh-hans/equipment/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/zh-hans/equipment/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "简体中文", "item": "https://dysphagia.cn/zh-hans/"},
-    {"@type": "ListItem", "position": 3, "name": "辅助器材", "item": "https://dysphagia.cn/zh-hans/equipment/"}
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "简体中文", "item": "https://softmeal.org/zh-hans/"},
+    {"@type": "ListItem", "position": 3, "name": "辅助器材", "item": "https://softmeal.org/zh-hans/equipment/"}
   ]
 }
 </script>
@@ -24,12 +24,12 @@ canonical: "https://dysphagia.cn/zh-hans/equipment/"
   "@type": "CollectionPage",
   "name": "吞咽障碍辅助器材：完整指南合集",
   "description": "吞咽困难辅助器材选购与使用指南，涵盖适应性餐具、厨房设备与商用增稠剂产品。",
-  "url": "https://dysphagia.cn/zh-hans/equipment/",
+  "url": "https://softmeal.org/zh-hans/equipment/",
   "inLanguage": "zh-Hans",
   "hasPart": [
-    {"@type": "Article", "name": "吞咽困难辅助餐具完全指南", "url": "https://dysphagia.cn/zh-hans/equipment/adaptive-cutlery-and-cups-guide/"},
-    {"@type": "Article", "name": "吞咽障碍家庭厨房必备设备选购指南", "url": "https://dysphagia.cn/zh-hans/equipment/blender-and-food-processor-buying-guide-mainland/"},
-    {"@type": "Article", "name": "吞咽障碍商用增稠剂产品对比指南", "url": "https://dysphagia.cn/zh-hans/equipment/commercial-thickener-products-mainland-comparison-guide/"}
+    {"@type": "Article", "name": "吞咽困难辅助餐具完全指南", "url": "https://softmeal.org/zh-hans/equipment/adaptive-cutlery-and-cups-guide/"},
+    {"@type": "Article", "name": "吞咽障碍家庭厨房必备设备选购指南", "url": "https://softmeal.org/zh-hans/equipment/blender-and-food-processor-buying-guide-mainland/"},
+    {"@type": "Article", "name": "吞咽障碍商用增稠剂产品对比指南", "url": "https://softmeal.org/zh-hans/equipment/commercial-thickener-products-mainland-comparison-guide/"}
   ]
 }
 </script>

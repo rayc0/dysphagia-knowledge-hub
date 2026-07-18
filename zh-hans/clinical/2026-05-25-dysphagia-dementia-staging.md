@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/dysphagia-dementia-staging"
+canonical: "https://softmeal.org/zh-hans/clinical/dysphagia-dementia-staging"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "吞咽困难在认知障碍中遵循与FAST量表进展相关的可预测分级模式。轻度：进餐管理受损；中度：口腔期缺陷；重度：咽期功能障碍；末期：完全喂食依赖伴误吸风险。"
 ---

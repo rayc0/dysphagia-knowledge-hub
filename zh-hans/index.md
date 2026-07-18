@@ -2,7 +2,7 @@
 title: "吞咽困难知识库 — 简体中文完整资源"
 description: "吞咽障碍免费知识库（简体中文）——IDDSI标准、软餐食谱、居家照护指南、临床资源、测试方法与相关病症管理，适合患者家属与医护人员参考。"
 lang: zh-hans
-canonical: "https://dysphagia.cn/zh-hans/"
+canonical: "https://softmeal.org/zh-hans/"
 ---
 
 <script type="application/ld+json">
@@ -10,13 +10,13 @@ canonical: "https://dysphagia.cn/zh-hans/"
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "吞咽困难知识库 — 简体中文",
-  "url": "https://dysphagia.cn/zh-hans/",
+  "url": "https://softmeal.org/zh-hans/",
   "inLanguage": "zh-Hans",
   "description": "吞咽障碍免费知识库，涵盖IDDSI标准、软餐食谱、居家照护、临床资源与相关病症管理。",
   "publisher": {
     "@type": "Organization",
-    "name": "dysphagia.cn",
-    "url": "https://dysphagia.cn"
+    "name": "softmeal.org",
+    "url": "https://softmeal.org"
   }
 }
 </script>
@@ -26,8 +26,8 @@ canonical: "https://dysphagia.cn/zh-hans/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "简体中文", "item": "https://dysphagia.cn/zh-hans/"}
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "简体中文", "item": "https://softmeal.org/zh-hans/"}
   ]
 }
 </script>

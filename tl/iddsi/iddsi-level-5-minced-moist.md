@@ -6,7 +6,7 @@ language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/iddsi/iddsi-level-5-minced-moist.html"
+canonical: "https://softmeal.org/tl/iddsi/iddsi-level-5-minced-moist.html"
 ---
 
 # IDDSI Level 5 Minced at Moist — Pagpaplano ng Pagkain para sa mga Pilipinong Caregiver sa Hong Kong

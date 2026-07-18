@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/iddsi/iddsi-家庭实操手册"
+canonical: "https://softmeal.org/zh-cn/iddsi/iddsi-家庭实操手册"
 ---
 
 # IDDSI家庭实操手册：三种标准质地测试方法

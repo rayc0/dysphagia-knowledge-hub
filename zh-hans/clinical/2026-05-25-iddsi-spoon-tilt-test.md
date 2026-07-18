@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/iddsi-spoon-tilt-test"
+canonical: "https://softmeal.org/zh-hans/clinical/iddsi-spoon-tilt-test"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "IDDSI汤匙倾斜测试用于验证4级（泥状）食物和3级（流质化）食物。倾斜汤匙，观察食物如何移动，通过/不通过标准有明确定义。"
 ---

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/caregiver-mental-health-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/caregiver-mental-health-hk"
 ---
 
 # 香港吞嚥困難照顧者的精神健康：識別身心耗竭與尋求支援

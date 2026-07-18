@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/pediatric-dysphagia"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/pediatric-dysphagia"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "兒童吞嚥困難的臨床介紹——其與成人吞嚥困難的不同病因、主要原因（早產、腦性癱瘓、結構性異常）、評估方法、IDDSI在兒童中的應用及多學科餵食團隊的角色。"
 ---

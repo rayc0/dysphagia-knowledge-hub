@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/royal-adelaide-swallowing-test"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/royal-adelaide-swallowing-test"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "RAPIDS是一份預測中風後6個月吞嚥困難的5變量預後指數，包括年齡、中風嚴重程度、既往吞嚥困難、病灶部位和基線吞嚥功能。"
 ---

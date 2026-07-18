@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "testing"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/testing/dysphagia-assessment-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/testing/dysphagia-assessment-taiwan"
 ---
 
 # 台灣吞嚥障礙評估工具與臨床流程：VMSS、FEES、標準化測試完整指南

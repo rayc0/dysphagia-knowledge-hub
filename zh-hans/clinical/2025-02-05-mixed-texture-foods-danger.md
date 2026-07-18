@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2025-02-05"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/2025-02-05-mixed-texture-foods-danger.html"
+canonical: "https://softmeal.org/zh-hans/clinical/2025-02-05-mixed-texture-foods-danger.html"
 ---
 
 # 混合质地食物：为什么「切小块」不够安全，吞咽障碍照护中最常见的误区

@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/iddsi/2026-05-09-cantonese-food-iddsi-mainland.html"
+canonical: "https://softmeal.org/zh-hans/iddsi/2026-05-09-cantonese-food-iddsi-mainland.html"
 ---
 
 # 粤菜质地调整指南：广州、深圳吞咽障碍患者的粤菜食材IDDSI等级对照

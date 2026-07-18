@@ -6,7 +6,7 @@ categories: [standards]
 tags: [T/SATA 094, 吞咽障碍食品, 大湾区, IDDSI, 质地等级, 认证]
 description: "全面解读T/SATA 094-2025《粤港澳大湾区吞咽障碍食品》团体标准：制定背景、七大质地等级、营养密度要求、认证流程及与IDDSI的对照分析。"
 date: 2026-05-13
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## T/SATA 094-2025《粤港澳大湾区吞咽障碍食品》团体标准全文解读

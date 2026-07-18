@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/water-swallow-test"
+canonical: "https://softmeal.org/en/clinical/water-swallow-test"
 tags: [WST, water swallow test, screening, bedside, dysphagia]
 summary: "The Water Swallow Test (WST) screens for dysphagia by observing the patient swallowing standardised volumes of water. Coughing, choking, voice change, or multiple swallows are abnormal signs. Sensitivity for aspiration ~70–80%; combined with EAT-10 increases specificity."
 ---

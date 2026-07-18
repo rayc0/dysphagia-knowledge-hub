@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/iddsi-spoon-tilt-test"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/iddsi-spoon-tilt-test"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "IDDSI湯匙傾斜測試用於驗證4級（糊狀）食物和3級（流質化）食物。傾斜湯匙，觀察食物如何移動，通過/不通過標準有明確定義。"
 ---

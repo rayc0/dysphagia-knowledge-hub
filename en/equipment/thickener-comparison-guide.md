@@ -6,7 +6,7 @@ language: "en"
 category: "equipment"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/equipment/thickener-comparison-guide"
+canonical: "https://softmeal.org/en/equipment/thickener-comparison-guide"
 ---
 
 # Starch vs Xanthan Gum Thickeners: Complete Comparison for Care Homes

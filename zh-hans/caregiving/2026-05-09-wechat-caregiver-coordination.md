@@ -11,7 +11,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/wechat-caregiver-coordination"
+canonical: "https://softmeal.org/zh-hans/caregiving/wechat-caregiver-coordination"
 ---
 
 # 微信在吞咽障碍照护中的应用：家庭协调、进食记录与医护沟通

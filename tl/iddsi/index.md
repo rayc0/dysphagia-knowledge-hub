@@ -2,7 +2,7 @@
 title: "IDDSI — Mga Antas ng Pagkain at Inumin sa Tagalog"
 description: "Gabay sa Tagalog tungkol sa IDDSI framework — ang internasyonal na pamantayan para sa pagkain at inumin ng mga may dysphagia. Para sa mga domestic helper at tagapag-alaga sa Hong Kong. CC BY 4.0."
 lang: tl
-canonical: "https://dysphagia.cn/tl/iddsi/"
+canonical: "https://softmeal.org/tl/iddsi/"
 ---
 
 # IDDSI — Mga Antas ng Pagkain at Inumin sa Tagalog

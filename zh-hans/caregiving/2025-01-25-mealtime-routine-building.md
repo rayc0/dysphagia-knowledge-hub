@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/mealtime-routine-building"
+canonical: "https://softmeal.org/zh-hans/caregiving/mealtime-routine-building"
 ---
 
 # 建立吞咽障碍患者的规律进餐routine：照护者实战指南

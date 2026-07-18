@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-24"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/financial-support-china"
+canonical: "https://softmeal.org/zh-hans/caregiving/financial-support-china"
 ---
 
 # 吞咽障碍照护的经济支持：内地医保与补贴指南

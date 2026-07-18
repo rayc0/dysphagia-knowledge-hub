@@ -6,7 +6,7 @@ language: "id"
 category: "conditions"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/conditions/2026-05-13-stroke-dan-disfagia-indonesia"
+canonical: "https://softmeal.org/id/conditions/2026-05-13-stroke-dan-disfagia-indonesia"
 ---
 
 # Stroke dan Disfagia di Indonesia — Panduan Pemulihan

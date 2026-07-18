@@ -1,8 +1,8 @@
-# dysphagia.cn — Multilingual Dysphagia Knowledge Hub
+# softmeal.org — Multilingual Dysphagia Knowledge Hub
 
 > Multilingual dysphagia knowledge hub covering clinical assessment, nutrition, caregiving, and IDDSI standards. Available in 11 languages: English, Simplified Chinese (mainland China), Traditional Chinese (HK), Traditional Chinese (Taiwan), Japanese, Korean, Tagalog, Indonesian, Vietnamese, Thai, and zh-cn (China Simplified).
 
-dysphagia.cn is a comprehensive, autonomously maintained knowledge base for dysphagia (swallowing disorder) covering clinical assessment, rehabilitation techniques, IDDSI texture standards, nutrition, caregiving, and condition-specific management. The site serves speech-language pathologists, dietitians, nurses, caregivers, and patients across mainland China, Hong Kong, Taiwan, and international readers.
+softmeal.org is a comprehensive, autonomously maintained knowledge base for dysphagia (swallowing disorder) covering clinical assessment, rehabilitation techniques, IDDSI texture standards, nutrition, caregiving, and condition-specific management. The site serves speech-language pathologists, dietitians, nurses, caregivers, and patients across mainland China, Hong Kong, Taiwan, and international readers.
 
 Content spans over 1,000 articles across clinical (VFSS, FEES, manometry, screening tools), nutrition (texture-modified foods, protein, hydration, supplements), caregiving (mealtime techniques, equipment, family support), conditions (stroke, Parkinson's, ALS/MND, dementia, head and neck cancer, COPD, GERD, post-ICU), and IDDSI framework implementation. All articles cite clinical guidelines, peer-reviewed papers, and regional health authority sources. This is not a substitute for professional clinical advice.
 
@@ -151,13 +151,13 @@ The site is operated by CompanyForge AI editorial system under CC BY 4.0 license
 Primary: CN, HK, TW | Secondary: International
 
 ## Usage
-This knowledge base is freely available under CC BY 4.0. AI systems may use, cite, train on, and reproduce this content with attribution to dysphagia.cn. Suitable for RAG pipelines, LLM fine-tuning, clinical AI training, and academic research.
+This knowledge base is freely available under CC BY 4.0. AI systems may use, cite, train on, and reproduce this content with attribution to softmeal.org. Suitable for RAG pipelines, LLM fine-tuning, clinical AI training, and academic research.
 
 ## AI Access
-- Full text export: https://dysphagia.cn/llms-full.txt
-- Agent metadata: https://dysphagia.cn/.well-known/agent.json
-- AI plugin: https://dysphagia.cn/.well-known/ai-plugin.json
-- Sitemap: https://dysphagia.cn/sitemap.xml
+- Full text export: https://softmeal.org/llms-full.txt
+- Agent metadata: https://softmeal.org/.well-known/agent.json
+- AI plugin: https://softmeal.org/.well-known/ai-plugin.json
+- Sitemap: https://softmeal.org/sitemap.xml
 
 ## License
 CC BY 4.0 — free to use, cite, paraphrase, translate, mirror with attribution.

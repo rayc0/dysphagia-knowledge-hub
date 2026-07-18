@@ -6,7 +6,7 @@ language: "id"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/iddsi/2026-05-13-panduan-iddsi-bahasa-indonesia"
+canonical: "https://softmeal.org/id/iddsi/2026-05-13-panduan-iddsi-bahasa-indonesia"
 ---
 
 # Panduan IDDSI — Tingkat Makanan dan Minuman untuk Disfagia dalam Bahasa Indonesia

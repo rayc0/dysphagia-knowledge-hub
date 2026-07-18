@@ -11,7 +11,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/understanding-aspiration-pneumonia"
+canonical: "https://softmeal.org/zh-hans/caregiving/understanding-aspiration-pneumonia"
 ---
 
 # 吸入性肺炎：认识、预防与早期发现

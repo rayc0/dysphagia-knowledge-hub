@@ -6,7 +6,7 @@ language: "zh-CN"
 category: "nutrition"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-cn/nutrition/中华饮食与IDDSI适配"
+canonical: "https://softmeal.org/zh-cn/nutrition/中华饮食与IDDSI适配"
 ---
 
 # 中华传统饮食的IDDSI质地适配指南

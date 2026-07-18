@@ -3,7 +3,7 @@ layout: default
 title: "Hong Kong and GBA Dysphagia Food Standards: Complete Guide Collection"
 description: "Hong Kong and Greater Bay Area care food standards guides — T/SATA 084-2025, T/SATA 094-2025, HKCSS Care Food Directory, and what these standards mean for caregivers and manufacturers."
 lang: en
-canonical: "https://dysphagia.cn/en/hk-standards/"
+canonical: "https://softmeal.org/en/hk-standards/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/en/hk-standards/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://dysphagia.cn/en/"},
-    {"@type": "ListItem", "position": 3, "name": "HK Standards", "item": "https://dysphagia.cn/en/hk-standards/"}
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "English", "item": "https://softmeal.org/en/"},
+    {"@type": "ListItem", "position": 3, "name": "HK Standards", "item": "https://softmeal.org/en/hk-standards/"}
   ]
 }
 </script>
@@ -24,13 +24,13 @@ canonical: "https://dysphagia.cn/en/hk-standards/"
   "@type": "CollectionPage",
   "name": "Hong Kong and GBA Dysphagia Food Standards: Complete Guide Collection",
   "description": "Guides to Hong Kong and Greater Bay Area dysphagia food standards including T/SATA 084-2025, T/SATA 094-2025, and the HKCSS Care Food Directory.",
-  "url": "https://dysphagia.cn/en/hk-standards/",
+  "url": "https://softmeal.org/en/hk-standards/",
   "inLanguage": "en",
   "hasPart": [
-    {"@type": "Article", "name": "GBA Elderly Food Standards T/SATA 084-2025 and 085-2025 — What Manufacturers Need to Know", "url": "https://dysphagia.cn/en/hk-standards/gba-tsata-standards-manufacturers-guide/"},
-    {"@type": "Article", "name": "HKCSS Care Food Directory — How to Use It as a Caregiver", "url": "https://dysphagia.cn/en/hk-standards/hkcss-care-food-directory/"},
-    {"@type": "Article", "name": "Hong Kong Care Food Standards", "url": "https://dysphagia.cn/en/hk-standards/hong-kong-care-food-standards/"},
-    {"@type": "Article", "name": "GBA Dysphagia Food Standard T/SATA 094-2025", "url": "https://dysphagia.cn/en/hk-standards/tsata-094-2025-dysphagia-food/"}
+    {"@type": "Article", "name": "GBA Elderly Food Standards T/SATA 084-2025 and 085-2025 — What Manufacturers Need to Know", "url": "https://softmeal.org/en/hk-standards/gba-tsata-standards-manufacturers-guide/"},
+    {"@type": "Article", "name": "HKCSS Care Food Directory — How to Use It as a Caregiver", "url": "https://softmeal.org/en/hk-standards/hkcss-care-food-directory/"},
+    {"@type": "Article", "name": "Hong Kong Care Food Standards", "url": "https://softmeal.org/en/hk-standards/hong-kong-care-food-standards/"},
+    {"@type": "Article", "name": "GBA Dysphagia Food Standard T/SATA 094-2025", "url": "https://softmeal.org/en/hk-standards/tsata-094-2025-dysphagia-food/"}
   ]
 }
 </script>

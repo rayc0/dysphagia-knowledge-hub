@@ -2,7 +2,7 @@
 title: "Panduan Disfagia — Bahasa Indonesia"
 description: "Disfagia · IDDSI · Makanan Lunak · Perawatan Lansia · Panduan PRT Hong Kong"
 language: "id"
-canonical: "https://dysphagia.cn/id/"
+canonical: "https://softmeal.org/id/"
 ---
 
 # Panduan Disfagia — Bahasa Indonesia

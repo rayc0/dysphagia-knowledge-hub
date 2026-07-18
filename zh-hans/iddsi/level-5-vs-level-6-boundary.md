@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/iddsi/level-5-vs-level-6-boundary.html"
+canonical: "https://softmeal.org/zh-hans/iddsi/level-5-vs-level-6-boundary.html"
 ---
 
 # IDDSI 5级与6级界限：如何判断食物质地

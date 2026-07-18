@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-02-04"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/nutrition/probiotic-gut-health-dysphagia"
+canonical: "https://softmeal.org/zh-hans/nutrition/probiotic-gut-health-dysphagia"
 ---
 
 # 益生菌与肠道健康：吞咽障碍患者抗生素相关腹泻与便秘的营养管理

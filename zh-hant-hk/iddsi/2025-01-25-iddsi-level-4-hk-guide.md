@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/iddsi/iddsi-level-4-hk-guide"
+canonical: "https://softmeal.org/zh-hant-hk/iddsi/iddsi-level-4-hk-guide"
 ---
 
 # IDDSI 4級糊餐：香港照護者製作與質感測試完整指南

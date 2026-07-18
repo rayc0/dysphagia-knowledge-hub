@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者专用杯具与吸管：鸭嘴杯、缺口杯、加厚吸管完整指南"
 description: "全面介绍吞咽障碍患者适用的特殊杯具与吸管——鸭嘴杯、缺口杯、阀门杯的原理与适用人群，吸管的安全使用条件，IDDSI 液体等级与杯具的对应关系，及大陆购买渠道与清洁规范。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: equipment
 last_updated: 2025-01-29

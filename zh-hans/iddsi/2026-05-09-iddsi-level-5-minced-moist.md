@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/iddsi/2026-05-09-iddsi-level-5-minced-moist.html"
+canonical: "https://softmeal.org/zh-hans/iddsi/2026-05-09-iddsi-level-5-minced-moist.html"
 ---
 
 # IDDSI Level 5 细碎湿润食物：从家常菜到达标餐食的制备方法

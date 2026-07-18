@@ -2,7 +2,7 @@
 title: "Hướng Dẫn Chăm Sóc Bệnh Nhân Nuốt Khó — Dành cho Người Giúp Việc Việt Nam tại Hồng Kông"
 description: "Tổng hợp hướng dẫn chăm sóc thực tế cho người giúp việc (ODJT) Việt Nam tại Hồng Kông đang chăm sóc người cao tuổi bị nuốt khó — từ nhận biết dấu hiệu, tư thế ăn, đến nguồn lực cộng đồng."
 language: "vi"
-canonical: "https://dysphagia.cn/vi/huong-dan-chamsoc/"
+canonical: "https://softmeal.org/vi/huong-dan-chamsoc/"
 ---
 
 # Hướng Dẫn Chăm Sóc Bệnh Nhân Nuốt Khó — Dành cho Người Giúp Việc Việt Nam tại Hồng Kông

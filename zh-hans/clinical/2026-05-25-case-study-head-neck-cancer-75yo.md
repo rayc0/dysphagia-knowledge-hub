@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/case-study-head-neck-cancer-75yo"
+canonical: "https://softmeal.org/zh-hans/clinical/case-study-head-neck-cancer-75yo"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "75岁喉癌幸存者，放射治疗后3年，出现进行性吞咽困难、吞咽疼痛及体重下降8kg。FEES显示声门上狭窄及误吸。管理：食道扩张、IDDSI 3/4级及康复治疗。"
 ---

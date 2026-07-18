@@ -6,7 +6,7 @@ language: "zh-Hant-HK"
 category: "recipes"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/recipes/IDDSI-L4-廣東粥品"
+canonical: "https://softmeal.org/zh-hant-hk/recipes/IDDSI-L4-廣東粥品"
 ---
 
 # IDDSI第4級廣東粥品食譜合集

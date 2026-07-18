@@ -6,7 +6,7 @@ language: "en"
 category: "standards"
 last_updated: "2025-01-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/standards/tsata-standards-overview"
+canonical: "https://softmeal.org/en/standards/tsata-standards-overview"
 ---
 
 # T/SATA Care Food Standards: Understanding China's IDDSI-Aligned National Standards

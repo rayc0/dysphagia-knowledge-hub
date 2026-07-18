@@ -4,7 +4,7 @@ description: "将传统腊八粥与八宝粥改良为吞咽障碍友好版本，
 lang: zh-hans
 category: recipes
 date: 2025-02-04
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 tags:
   - 软食食谱
   - IDDSI Level 5

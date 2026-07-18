@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "testing"
 last_updated: "2025-01-17"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/testing/texture-testing-cantonese-food"
+canonical: "https://softmeal.org/zh-hant-hk/testing/texture-testing-cantonese-food"
 ---
 
 # 廣東菜吞嚥困難測試指南：常見港式食物IDDSI等級參考

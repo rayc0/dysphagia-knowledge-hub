@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/case-study-mild-dysphagia-72yo"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/case-study-mild-dysphagia-72yo"
 tags: [臨床, 吞嚥困難, 評估, 篩查]
 summary: "72歲女性因固體食物吞嚥困難6個月及飲薄液偶發咳嗽就診。EAT-10 11分；GUSS 17分（輕度）。管理：IDDSI 6級飲食、增稠液體和康復運動。"
 ---

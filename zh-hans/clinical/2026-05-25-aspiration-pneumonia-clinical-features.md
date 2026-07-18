@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/aspiration-pneumonia-clinical-features"
+canonical: "https://softmeal.org/zh-hans/clinical/aspiration-pneumonia-clinical-features"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "吸入性肺炎影响5–20%的卒中吞咽困难患者，是死亡的主要原因。临床特征包括发热、咳嗽、痰液及依赖性肺段阴影。关键预防措施：口腔卫生、直立体位、适当质地调整。"
 ---

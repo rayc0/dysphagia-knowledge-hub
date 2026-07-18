@@ -1,17 +1,17 @@
 #!/bin/bash
-# Baidu Real-time URL Push for dysphagia.cn
+# Baidu Real-time URL Push for softmeal.org
 # Usage: BAIDU_TOKEN=your_token bash scripts/baidu-url-submit.sh
 # Get token from: https://ziyuan.baidu.com/linksubmit/index
 
-SITE="http://dysphagia.cn"
+SITE="https://softmeal.org"
 TOKEN="${BAIDU_TOKEN:-YOUR_TOKEN_HERE}"
 API="http://data.zz.baidu.com/urls?site=${SITE}&token=${TOKEN}"
 
 # Collect all URLs from sitemap or by listing pages
 URLS=(
-  "http://dysphagia.cn/"
-  "http://dysphagia.cn/zh-hans/"
-  "http://dysphagia.cn/en/"
+  "https://softmeal.org/"
+  "https://softmeal.org/zh-hans/"
+  "https://softmeal.org/en/"
 )
 
 # Submit in batches of 20

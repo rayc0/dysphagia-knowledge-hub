@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/cerebral-palsy-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/cerebral-palsy-dysphagia-hk"
 ---
 
 # 成人腦性麻痺患者的吞嚥困難管理：香港指南

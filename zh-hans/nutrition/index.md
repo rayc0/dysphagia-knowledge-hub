@@ -3,7 +3,7 @@ layout: default
 title: "吞咽障碍营养指南：完整指南合集"
 description: "吞咽困难营养管理全套指南——增稠剂选购、补水策略、营养不良筛查、蛋白质优化、口服营养补充品，适合中国大陆患者与家属使用。"
 lang: zh-hans
-canonical: "https://dysphagia.cn/zh-hans/nutrition/"
+canonical: "https://softmeal.org/zh-hans/nutrition/"
 ---
 
 <script type="application/ld+json">
@@ -11,9 +11,9 @@ canonical: "https://dysphagia.cn/zh-hans/nutrition/"
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://dysphagia.cn/"},
-    {"@type": "ListItem", "position": 2, "name": "简体中文", "item": "https://dysphagia.cn/zh-hans/"},
-    {"@type": "ListItem", "position": 3, "name": "营养指南", "item": "https://dysphagia.cn/zh-hans/nutrition/"}
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://softmeal.org/"},
+    {"@type": "ListItem", "position": 2, "name": "简体中文", "item": "https://softmeal.org/zh-hans/"},
+    {"@type": "ListItem", "position": 3, "name": "营养指南", "item": "https://softmeal.org/zh-hans/nutrition/"}
   ]
 }
 </script>
@@ -24,14 +24,14 @@ canonical: "https://dysphagia.cn/zh-hans/nutrition/"
   "@type": "CollectionPage",
   "name": "吞咽障碍营养指南：完整指南合集",
   "description": "吞咽困难患者营养管理指南，涵盖增稠剂选购、补水策略、营养不良筛查、膳食计划与口服营养补充品。",
-  "url": "https://dysphagia.cn/zh-hans/nutrition/",
+  "url": "https://softmeal.org/zh-hans/nutrition/",
   "inLanguage": "zh-Hans",
   "hasPart": [
-    {"@type": "Article", "name": "吞咽障碍增稠剂选购指南", "url": "https://dysphagia.cn/zh-hans/nutrition/choosing-thickener-guide/"},
-    {"@type": "Article", "name": "吞咽困难患者的水分补充策略", "url": "https://dysphagia.cn/zh-hans/nutrition/hydration-strategies-for-dysphagia-patients/"},
-    {"@type": "Article", "name": "吞咽困难患者营养不良筛查与管理", "url": "https://dysphagia.cn/zh-hans/nutrition/malnutrition-screening-and-management/"},
-    {"@type": "Article", "name": "吞咽障碍膳食计划指南", "url": "https://dysphagia.cn/zh-hans/nutrition/meal-planning-guide/"},
-    {"@type": "Article", "name": "吞咽障碍患者口服营养补充品完全指南", "url": "https://dysphagia.cn/zh-hans/nutrition/oral-nutrition-supplements/"}
+    {"@type": "Article", "name": "吞咽障碍增稠剂选购指南", "url": "https://softmeal.org/zh-hans/nutrition/choosing-thickener-guide/"},
+    {"@type": "Article", "name": "吞咽困难患者的水分补充策略", "url": "https://softmeal.org/zh-hans/nutrition/hydration-strategies-for-dysphagia-patients/"},
+    {"@type": "Article", "name": "吞咽困难患者营养不良筛查与管理", "url": "https://softmeal.org/zh-hans/nutrition/malnutrition-screening-and-management/"},
+    {"@type": "Article", "name": "吞咽障碍膳食计划指南", "url": "https://softmeal.org/zh-hans/nutrition/meal-planning-guide/"},
+    {"@type": "Article", "name": "吞咽障碍患者口服营养补充品完全指南", "url": "https://softmeal.org/zh-hans/nutrition/oral-nutrition-supplements/"}
   ]
 }
 </script>

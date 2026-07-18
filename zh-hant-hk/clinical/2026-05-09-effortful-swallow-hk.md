@@ -1,12 +1,12 @@
 ---
 title: "用力吞嚥技術：原理、訓練方法及香港臨床應用指引"
 description: "詳解用力吞嚥技術的生理基礎、實證研究、操作指引，以及香港言語治療師處方此技術的臨床情境。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/effortful-swallow-hk"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/effortful-swallow-hk"
 ---
 
 # 用力吞嚥技術：原理、訓練方法及香港臨床應用指引

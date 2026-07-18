@@ -11,7 +11,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/internet-hospital-dysphagia-china"
+canonical: "https://softmeal.org/zh-hans/caregiving/internet-hospital-dysphagia-china"
 ---
 
 # 互联网医院与吞咽障碍随访：如何在线上平台获得言语治疗支持

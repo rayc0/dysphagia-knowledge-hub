@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-20"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/caregiver-respite-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/caregiver-respite-hk"
 ---
 
 # 香港照顧者暫託服務指南：喘息空間與長期照顧規劃

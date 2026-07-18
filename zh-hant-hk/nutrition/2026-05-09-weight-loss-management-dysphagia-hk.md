@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞嚥困難, 營養, 香港, 體重管理, 營養不良]
 description: "香港吞嚥困難患者體重管理臨床建議，涵蓋體重監測方法、非自願性體重下降的處理及高熱量飲食策略。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## 吞嚥困難與體重下降的關係

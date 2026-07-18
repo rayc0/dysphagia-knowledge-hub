@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["照顧者耗竭", "喘息服務", "心理健康", "長照2.0", "自我照顧"]
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/caregiver-self-care-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/caregiver-self-care-taiwan"
 ---
 
 # 照顧者身心健康：台灣在地支持資源與喘息服務

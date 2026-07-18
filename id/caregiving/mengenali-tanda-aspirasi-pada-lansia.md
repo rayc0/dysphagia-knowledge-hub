@@ -6,7 +6,7 @@ language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/caregiving/mengenali-tanda-aspirasi-pada-lansia.html"
+canonical: "https://softmeal.org/id/caregiving/mengenali-tanda-aspirasi-pada-lansia.html"
 ---
 
 # Mengenali Tanda-Tanda Aspirasi pada Lansia — Panduan untuk ART Indonesia di Hong Kong

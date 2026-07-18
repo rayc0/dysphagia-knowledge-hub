@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙家庭照顧者資源指南：從申請補助到心理支持"
 description: "為台灣吞嚥障礙患者家庭照顧者整理的完整資源指南，涵蓋長照2.0申請、照顧技巧培訓、心理支持專線、照顧者假期及各縣市在地資源聯絡資訊。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-09
@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["吞嚥障礙", "台灣", "家庭照顧者", "長照2.0", "照顧者支持"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/taiwan-family-caregiver-resources"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/taiwan-family-caregiver-resources"
 ---
 
 # 台灣吞嚥障礙家庭照顧者資源指南：從申請補助到心理支持

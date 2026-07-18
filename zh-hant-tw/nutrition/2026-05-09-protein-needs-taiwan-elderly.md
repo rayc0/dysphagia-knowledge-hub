@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["蛋白質", "長者營養", "TWSPEN", "口服營養品", "軟食", "吞嚥障礙"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/protein-needs-taiwan-elderly"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/protein-needs-taiwan-elderly"
 ---
 
 # 台灣吞嚥障礙長者的蛋白質需求：TWSPEN建議與在地食物來源

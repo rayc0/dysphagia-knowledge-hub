@@ -1,13 +1,13 @@
 ---
 title: "社區護理中的吞嚥護理技巧：香港家居護理人員實用指南"
 description: "為香港社區護理人員及家庭照顧者提供的實用吞嚥護理技巧，涵蓋進食前評估、體位管理、質地準備及緊急情況處理，配合醫管局及HKCSS服務框架。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "caregiving"
 tags: [吞嚥困難, 社區護理, 香港, 家居護理, 照顧技巧]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/hk-community-nursing-swallowing"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/hk-community-nursing-swallowing"
 ---
 
 # 社區護理中的吞嚥護理技巧：香港家居護理人員實用指南

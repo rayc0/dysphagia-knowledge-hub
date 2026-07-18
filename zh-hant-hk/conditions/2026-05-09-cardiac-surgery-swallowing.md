@@ -1,12 +1,12 @@
 ---
 title: "心臟手術後的吞嚥問題：香港臨床指引"
 description: "冠狀動脈搭橋手術、心瓣置換術後常見吞嚥困難的成因、評估及管理，涵蓋香港醫管局心胸外科言語治療服務及本地臨床實踐。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/cardiac-surgery-swallowing"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/cardiac-surgery-swallowing"
 ---
 
 # 心臟手術後的吞嚥問題：香港臨床指引

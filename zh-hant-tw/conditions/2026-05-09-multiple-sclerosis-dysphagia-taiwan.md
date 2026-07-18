@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["多發性硬化症", "MS", "吞嚥障礙", "復健科", "健保"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/multiple-sclerosis-dysphagia-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/multiple-sclerosis-dysphagia-taiwan"
 ---
 
 # 台灣多發性硬化症患者吞嚥障礙：疾病特點、資源與健保給付

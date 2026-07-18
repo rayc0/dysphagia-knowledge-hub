@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-23"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/hk-telephone-helplines"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/hk-telephone-helplines"
 ---
 
 # 香港吞嚥困難相關電話熱線及緊急聯絡資源大全

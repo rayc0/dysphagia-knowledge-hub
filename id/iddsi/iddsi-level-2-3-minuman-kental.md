@@ -6,7 +6,7 @@ language: "id"
 category: "iddsi"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/id/iddsi/iddsi-level-2-3-minuman-kental.html"
+canonical: "https://softmeal.org/id/iddsi/iddsi-level-2-3-minuman-kental.html"
 ---
 
 # IDDSI Level 2 dan 3 — Panduan Minuman Kental untuk ART Indonesia di Hong Kong

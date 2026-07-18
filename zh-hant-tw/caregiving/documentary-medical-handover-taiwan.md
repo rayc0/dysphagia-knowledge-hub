@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["病歷記錄", "醫療交接", "文件管理", "跨院就醫", "台灣健保"]
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/documentary-medical-handover-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/documentary-medical-handover-taiwan"
 ---
 
 # 吞嚥困難病歷記錄與醫療交接：家屬必備清單

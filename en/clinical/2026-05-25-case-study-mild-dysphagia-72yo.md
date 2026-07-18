@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/case-study-mild-dysphagia-72yo"
+canonical: "https://softmeal.org/en/clinical/case-study-mild-dysphagia-72yo"
 tags: [case study, mild dysphagia, elderly, assessment, management]
 summary: "A 72-year-old woman presents with a 6-month history of solids 'sticking' and occasional coughing with thin drinks. EAT-10 score 7; GUSS 17 (mild dysphagia). Management: IDDSI Level 6 diet, thickened fluids, rehabilitation exercises, 3-month follow-up."
 ---

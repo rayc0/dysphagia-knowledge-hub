@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "testing"
 last_updated: "2025-02-04"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/testing/weighing-nutritional-monitoring"
+canonical: "https://softmeal.org/zh-hans/testing/weighing-nutritional-monitoring"
 ---
 
 # 吞咽障碍患者的营养监测：体重、BMI和营养状态定期评估指南

@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/silent-aspiration"
+canonical: "https://softmeal.org/zh-hans/clinical/silent-aspiration"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "隐性误吸——无咳嗽的气道侵入——影响40–70%的卒中误吸患者。床边筛查无法检测。需要FEES或VFSS。关键人群：卒中、帕金森、晚期认知障碍、放疗后。与吸入性肺炎死亡相关。"
 ---

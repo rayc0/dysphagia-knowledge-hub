@@ -6,7 +6,7 @@ categories: [iddsi]
 tags: [IDDSI, 吞咽障碍, 液化食物, Level 3, 中稠液体]
 description: "系统讲解IDDSI 3级液化食物的双重属性（中稠液体与液化食物）、测试方法、中国传统食材的配制技巧及临床评估要点，含T/SATA对应说明。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 ## IDDSI 3级的特殊地位

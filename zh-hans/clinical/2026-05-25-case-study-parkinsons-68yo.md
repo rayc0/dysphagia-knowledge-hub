@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/case-study-parkinsons-68yo"
+canonical: "https://softmeal.org/zh-hans/clinical/case-study-parkinsons-68yo"
 tags: [临床, 吞咽困难, 评估, 筛查]
 summary: "68岁帕金森病女性表现为吞咽启动困难加重、食物袋积及体重下降。VFSS显示吞咽启动延迟及薄液误吸。管理：药物时间调整、IDDSI 5级加2级液体、LSVT言语/吞咽治疗。"
 ---

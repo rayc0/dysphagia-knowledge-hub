@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "testing"
 last_updated: "2025-01-22"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/testing/tongue-pressure-assessment"
+canonical: "https://softmeal.org/zh-hant-tw/testing/tongue-pressure-assessment"
 ---
 
 # 舌壓測量與口腔力量評估：台灣臨床使用的吞嚥功能量化工具

@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2025-02-01"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/2025-02-01-oropharyngeal-vs-esophageal-dysphagia.html"
+canonical: "https://softmeal.org/zh-hans/clinical/2025-02-01-oropharyngeal-vs-esophageal-dysphagia.html"
 ---
 
 # 口咽性吞咽困难与食道性吞咽困难：如何区分，治疗方向有何不同？

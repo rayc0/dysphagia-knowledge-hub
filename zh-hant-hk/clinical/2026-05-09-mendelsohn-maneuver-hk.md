@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/clinical/mendelsohn-maneuver-hk"
+canonical: "https://softmeal.org/zh-hant-hk/clinical/mendelsohn-maneuver-hk"
 ---
 
 # Mendelsohn吞嚥手法：原理、適應症、操作步驟及香港資源

@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/caregiver-training-taiwan"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/caregiver-training-taiwan"
 ---
 
 # 台灣吞嚥障礙照護訓練資源與課程：照顧者、護理師、照服員完整指南

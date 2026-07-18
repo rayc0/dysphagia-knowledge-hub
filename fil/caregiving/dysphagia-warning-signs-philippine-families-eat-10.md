@@ -7,7 +7,7 @@ category: "caregiving"
 date: "2026-05-18"
 last_updated: "2026-05-18"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/fil/caregiving/dysphagia-warning-signs-philippine-families-eat-10"
+canonical: "https://softmeal.org/fil/caregiving/dysphagia-warning-signs-philippine-families-eat-10"
 ---
 
 # Mga Senyales ng Dysphagia para sa Pamilyang Pilipino — EAT-10 Self-Assessment at Kailan Dapat Magpa-ospital

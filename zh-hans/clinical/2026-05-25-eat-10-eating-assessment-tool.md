@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/clinical/eat-10-eating-assessment-tool"
+canonical: "https://softmeal.org/zh-hans/clinical/eat-10-eating-assessment-tool"
 tags: [筛查, EAT-10, 吞咽困难, 评估, 自填问卷]
 summary: "EAT-10是一份10题患者自填吞咽困难评估工具。总分≥3分表示存在吞咽风险，需转介临床评估。本文详述施测、评分、限制及临床整合方法。"
 ---

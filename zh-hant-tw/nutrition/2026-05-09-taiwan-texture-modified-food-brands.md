@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["增稠劑", "質地調整", "購買指南", "台灣", "長照"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/taiwan-texture-modified-food-brands"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/taiwan-texture-modified-food-brands"
 ---
 
 # 台灣市售增稠產品與購買管道完整指南

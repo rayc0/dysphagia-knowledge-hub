@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "testing"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/testing/vfss-videofluoroscopy-hk"
+canonical: "https://softmeal.org/zh-hant-hk/testing/vfss-videofluoroscopy-hk"
 ---
 
 # 香港錄影螢光透視吞嚥研究（VFSS）完全指南

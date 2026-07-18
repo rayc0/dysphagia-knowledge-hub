@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/iddsi-flow-test-liquids"
+canonical: "https://softmeal.org/en/clinical/iddsi-flow-test-liquids"
 tags: [IDDSI, flow test, liquids, thickened drinks, texture testing]
 summary: "The IDDSI Flow Test uses a standard 10 mL syringe to measure liquid thickness. After 10 seconds of free flow, the residual volume in the syringe determines the IDDSI level (0–4). A residual of >8 mL = Level 0 Thin; <1 mL = Level 3 or 4."
 ---

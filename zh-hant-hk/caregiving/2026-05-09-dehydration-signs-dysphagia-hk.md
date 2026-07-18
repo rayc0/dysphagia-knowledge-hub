@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/dehydration-signs-dysphagia-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/dehydration-signs-dysphagia-hk"
 ---
 
 # 長者吞嚥困難期間的脫水風險：識別徵兆、每日水分目標、水分補充策略

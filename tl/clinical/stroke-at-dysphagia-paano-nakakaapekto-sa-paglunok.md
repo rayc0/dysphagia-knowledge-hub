@@ -6,7 +6,7 @@ language: "tl"
 category: "clinical"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/tl/clinical/stroke-at-dysphagia-paano-nakakaapekto-sa-paglunok.html"
+canonical: "https://softmeal.org/tl/clinical/stroke-at-dysphagia-paano-nakakaapekto-sa-paglunok.html"
 ---
 
 # Stroke at Dysphagia — Paano Nakakaapekto ang Stroke sa Paglunok at Paano Makatutulong ang mga DH

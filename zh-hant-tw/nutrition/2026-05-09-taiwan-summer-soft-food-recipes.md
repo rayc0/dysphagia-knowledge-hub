@@ -1,7 +1,7 @@
 ---
 title: "台灣夏季吞嚥障礙軟食食譜推薦：消暑又安全的在地食材選擇"
 description: "專為台灣吞嚥障礙患者設計的夏季軟食食譜，運用絲瓜、冬瓜、豆腐、木瓜等台灣當季食材，符合IDDSI Level 4–6標準，兼顧營養、安全與飲食樂趣。"
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-09
@@ -9,7 +9,7 @@ lang: zh-hant-tw
 tags: ["吞嚥障礙", "台灣", "軟食食譜", "夏季", "IDDSI"]
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/nutrition/taiwan-summer-soft-food-recipes"
+canonical: "https://softmeal.org/zh-hant-tw/nutrition/taiwan-summer-soft-food-recipes"
 ---
 
 # 台灣夏季吞嚥障礙軟食食譜推薦：消暑又安全的在地食材選擇

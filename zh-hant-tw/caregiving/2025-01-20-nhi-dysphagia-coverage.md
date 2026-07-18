@@ -6,7 +6,7 @@ language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2025-01-20"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/caregiving/nhi-dysphagia-coverage"
+canonical: "https://softmeal.org/zh-hant-tw/caregiving/nhi-dysphagia-coverage"
 ---
 
 # 台灣健保與吞嚥障礙照護：醫療資源運用完整指南

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/caregiving/occupational-therapy-mealtime-hk"
+canonical: "https://softmeal.org/zh-hant-hk/caregiving/occupational-therapy-mealtime-hk"
 ---
 
 # 職業治療師在香港吞嚥困難進食管理中的角色：輔助器具、家居評估與轉介

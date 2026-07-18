@@ -6,7 +6,7 @@ categories: [recipes]
 tags: [吞嚥障礙, 台灣, 食譜, 豆腐, IDDSI]
 description: "針對台灣常見豆腐料理進行IDDSI質地分級分析，包括嫩豆腐、板豆腐、豆腐腦等，提供吞嚥障礙患者的安全飲食建議。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 # 台灣豆腐料理的IDDSI適用分析

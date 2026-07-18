@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2025-01-22"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/conditions/cognitive-impairment-eating"
+canonical: "https://softmeal.org/zh-hant-hk/conditions/cognitive-impairment-eating"
 ---
 
 # 認知障礙與進食行為：痴呆症、腦退化症照護者的用餐挑戰解決方案

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-22"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-hk/iddsi/iddsi-care-home-implementation"
+canonical: "https://softmeal.org/zh-hant-hk/iddsi/iddsi-care-home-implementation"
 ---
 
 # 香港院舍推行IDDSI軟餐標準：實踐步驟、員工培訓及廚房改造指引

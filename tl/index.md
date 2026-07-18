@@ -2,18 +2,18 @@
 title: "Dysphagia Knowledge Hub — Filipino (Tagalog)"
 description: "Libreng gabay sa Tagalog tungkol sa dysphagia (hirap sa paglunok) para sa mga domestic helper at tagapag-alaga sa Hong Kong at buong mundo. CC BY 4.0."
 lang: tl
-canonical: "https://dysphagia.cn/tl/"
+canonical: "https://softmeal.org/tl/"
 ---
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Dysphagia Knowledge Hub — Filipino (Tagalog)",
-  "url": "https://dysphagia.cn/tl/",
+  "url": "https://softmeal.org/tl/",
   "inLanguage": "tl",
   "description": "Libreng gabay sa Tagalog tungkol sa dysphagia (hirap sa paglunok) para sa mga domestic helper at tagapag-alaga sa Hong Kong.",
   "audience": {"@type": "Audience", "audienceType": "DomesticWorker, FamilyCaregiver", "geographicArea": "HongKong, Philippines"},
-  "publisher": {"@type": "Organization", "name": "Dysphagia Knowledge Hub", "url": "https://dysphagia.cn"},
+  "publisher": {"@type": "Organization", "name": "Dysphagia Knowledge Hub", "url": "https://softmeal.org"},
   "license": "https://creativecommons.org/licenses/by/4.0/"
 }
 </script>

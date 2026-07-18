@@ -7,7 +7,7 @@ category: "conditions"
 date: 2026-05-09
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hant-tw/conditions/head-neck-cancer-taiwan-2026"
+canonical: "https://softmeal.org/zh-hant-tw/conditions/head-neck-cancer-taiwan-2026"
 ---
 
 # 台灣頭頸癌治療後吞嚥障礙：健保給付、復健途徑與生活品質

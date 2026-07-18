@@ -6,7 +6,7 @@ categories: [caregiving]
 tags: [吞咽障碍, 照护, 进餐环境, 安全, 生活质量]
 description: "进餐环境的布置直接影响吞咽障碍患者的进食安全与体验。本文从空间、座椅、餐具、氛围等维度提供居家照护者的实用布置指南。"
 date: 2026-05-09
-author: dysphagia.cn editorial team
+author: softmeal.org editorial team
 ---
 
 吞咽障碍的照护，往往集中在食物质地和吞咽技巧上，而进餐环境的影响却常被低估。事实上，一个设置合理的进餐环境可以显著减少呛咳风险、提升进食量，并让患者保有进餐的尊严感和愉悦感。

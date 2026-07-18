@@ -1,7 +1,7 @@
 ---
 title: "从管饲过渡到经口进食：脱管标准、训练方案与影响因素"
 description: "系统介绍从鼻胃管或胃造瘘过渡到经口进食的评估标准、阶段性训练方案及影响脱管成功率的关键因素，适用于中国康复临床场景。"
-author: dysphagia.cn 编辑团队
+author: softmeal.org 编辑团队
 language: zh-hans
 category: conditions
 last_updated: 2026-05-09

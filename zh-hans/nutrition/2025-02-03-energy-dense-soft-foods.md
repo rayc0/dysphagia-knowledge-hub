@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-02-03"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/nutrition/energy-dense-soft-foods"
+canonical: "https://softmeal.org/zh-hans/nutrition/energy-dense-soft-foods"
 ---
 
 # 高能量软食的制作技巧：为食量减少的吞咽障碍患者增加热量密度

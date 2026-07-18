@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-21"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/home-kitchen-setup-dysphagia"
+canonical: "https://softmeal.org/zh-hans/caregiving/home-kitchen-setup-dysphagia"
 ---
 
 # 吞咽障碍患者的居家厨房改造指南

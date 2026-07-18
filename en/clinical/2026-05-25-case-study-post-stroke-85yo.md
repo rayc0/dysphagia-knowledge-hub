@@ -6,7 +6,7 @@ language: "en"
 category: "clinical"
 last_updated: "2026-05-25"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/en/clinical/case-study-post-stroke-85yo"
+canonical: "https://softmeal.org/en/clinical/case-study-post-stroke-85yo"
 tags: [case study, stroke, post-stroke dysphagia, aspiration, enteral nutrition]
 summary: "An 85-year-old man presents with acute right MCA stroke, facial droop, and dysphagia. GUSS score 4 (severe). FEES shows aspiration of thin liquids with silent aspiration. Nasogastric feeding initiated; discharge on IDDSI Level 4 diet with modified liquids."
 ---

@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"
 license: "CC BY 4.0"
-canonical: "https://dysphagia.cn/zh-hans/caregiving/mealtime-positioning.html"
+canonical: "https://softmeal.org/zh-hans/caregiving/mealtime-positioning.html"
 ---
 
 # 进餐体位摆放：预防误吸的正确姿势
