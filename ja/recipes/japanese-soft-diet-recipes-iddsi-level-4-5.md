@@ -1,7 +1,7 @@
 ---
 title: "嚥下調整食レシピ7選——家庭で作れる日本食IDDSI Level 4・5（コード3・4）対応"
 description: "嚥下障害のある方のために、お粥・茶碗蒸し・さば味噌煮など日本の定番料理をIDDSI Level 4/5（JSDR コード3/4）に調整する実践的レシピを7つ紹介。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "recipes"
 last_updated: "2026-04-18"

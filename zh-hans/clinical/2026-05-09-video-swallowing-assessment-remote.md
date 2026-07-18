@@ -6,7 +6,7 @@ lang: zh-hans
 categories: [clinical]
 tags: [远程评估, 视频问诊, 吞咽筛查, 言语治疗, 互联网医院, MASA, 远程康复]
 description: "后疫情时代视频吞咽筛查在内地的应用：哪些指标可远程观察、标准化观察工具、何时必须线下评估，以及提供SLT服务的互联网医院平台。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-09"

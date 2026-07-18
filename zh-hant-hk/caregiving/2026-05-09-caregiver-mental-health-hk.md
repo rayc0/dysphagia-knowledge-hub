@@ -1,7 +1,7 @@
 ---
 title: "香港吞嚥困難照顧者的精神健康：識別身心耗竭與尋求支援"
 description: "吞嚥困難照顧者常面對長期壓力、身心耗竭與抑鬱風險。本文介紹如何識別照顧者的心理困境，以及香港可用的精神健康支援資源與自我照顧策略。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"

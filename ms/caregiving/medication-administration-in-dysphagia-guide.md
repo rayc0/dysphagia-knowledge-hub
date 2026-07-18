@@ -1,7 +1,7 @@
 ---
 title: "Pentadbiran Ubat untuk Pesakit Disfagia: Ubat Larangan Dikisar dan Alternatif"
 description: "Panduan klinikal untuk penjaga tentang ubat yang tidak boleh dikisar, teknik pencampuran dalam jeli OD, cara meminta alternatif daripada farmasis, dan senarai semak pentadbiran ubat yang selamat."
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

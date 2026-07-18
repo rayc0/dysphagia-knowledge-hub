@@ -1,7 +1,7 @@
 ---
 title: "Hướng dẫn sử dụng sản phẩm bổ sung dinh dưỡng đường miệng (ONS) cho người bệnh rối loạn nuốt tại Việt Nam"
 description: "Hướng dẫn chọn lựa, sử dụng và giám sát sản phẩm bổ sung dinh dưỡng (ONS) cho bệnh nhân rối loạn nuốt. Phòng ngừa suy dinh dưỡng tại Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "nutrition"
 last_updated: "2026-04-21"

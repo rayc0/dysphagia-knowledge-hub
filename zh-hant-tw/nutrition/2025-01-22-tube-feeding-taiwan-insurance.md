@@ -1,7 +1,7 @@
 ---
 title: "台灣鼻胃管與胃造口管飼：健保給付、照護流程及撤管決策"
 description: "說明台灣鼻胃管與胃造口（PEG）的適應症與決策流程、全民健保居家護理換管給付、醫學中心PEG置放等待時間與自費費用、口腔進食試驗流程、台灣腸胃學會指引，以及安寧緩和醫療條例下的撤管決策。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 last_updated: "2025-01-22"

@@ -1,7 +1,7 @@
 ---
 title: "頭頸癌術後吞嚥困難：台灣患者的飲食重建指南"
 description: "為台灣頭頸癌患者及家屬提供術後與放化療後吞嚥困難的完整飲食重建指南，涵蓋吞嚥困難的成因、急性與慢性期飲食管理、IDDSI等級進展、鼻胃管時機、語言治療資源，以及重大傷病卡經濟支援。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 last_updated: "2025-01-22"

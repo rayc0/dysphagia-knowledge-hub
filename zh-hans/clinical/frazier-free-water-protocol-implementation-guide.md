@@ -4,7 +4,7 @@ description: 全面介绍弗雷泽自由饮水方案（Frazier Free Water Protoc
 lang: zh-hans
 category: clinical
 date: 2026-05-03
-author: SeniorDeli 临床团队
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 # 弗雷泽自由饮水方案（FFWP）在吞咽障碍中的应用——循证依据、入选标准与临床实施指南

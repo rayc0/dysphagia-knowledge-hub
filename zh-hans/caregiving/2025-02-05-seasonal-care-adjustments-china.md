@@ -1,7 +1,7 @@
 ---
 title: "四季照护调整：吞咽障碍患者在内地气候变化中的饮食与安全管理"
 description: "吞咽障碍患者的四季照护调整指南 — 夏季脱水风险与增稠液体频次管理，冬季低温对吞咽反射的影响及温热饮品策略，春节传统食品的IDDSI安全风险（年糕/汤圆/粽子）与节日餐桌安全替代方案，空调对口腔干燥的影响，以及季节性呼吸道感染与误吸性肺炎的风险叠加"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-02-05"

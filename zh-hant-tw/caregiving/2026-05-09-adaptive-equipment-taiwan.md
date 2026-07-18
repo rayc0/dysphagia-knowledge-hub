@@ -1,7 +1,7 @@
 ---
 title: "台灣可購得的輔助進食與備餐器具完整指南"
 description: "介紹台灣可取得的吞嚥障礙輔助進食器具與備餐設備，包含NHI與長照2.0輔具補助申請方式、推薦調理機、增稠杯、矽膠模具，以及台灣本土購買與Taobao比較。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-09

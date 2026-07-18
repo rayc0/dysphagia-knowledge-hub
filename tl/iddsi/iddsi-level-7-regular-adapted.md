@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 7 Regular at Inangkop na Pagkain — Pag-iwas sa Dysphagia para sa Matatanda sa HK"
 description: "Gabay sa IDDSI Level 7 Regular/Easy to Chew sa Tagalog: modified textures para sa pag-iwas sa dysphagia, pagbabago ng pagkain para sa lumalaking populasyon ng matatanda sa Hong Kong, at mga estratehiya ng caregiving."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"

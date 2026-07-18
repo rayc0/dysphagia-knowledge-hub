@@ -1,7 +1,7 @@
 ---
 title: "Viêm phổi do hít sặc — Hướng dẫn phòng ngừa cho người bệnh rối loạn nuốt và người chăm sóc (Việt Nam)"
 description: "Viêm phổi do hít sặc là biến chứng nguy hiểm nhất của rối loạn nuốt. Hướng dẫn phòng ngừa toàn diện dành cho người bệnh đột quỵ, người cao tuổi và gia đình tại Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-04-21"

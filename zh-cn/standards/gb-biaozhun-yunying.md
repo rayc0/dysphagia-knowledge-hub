@@ -1,7 +1,7 @@
 ---
 title: "GB食品安全标准与吞咽障碍特殊食品——增稠剂与特医食品的监管框架"
 description: "解析中国GB食品标准体系中吞咽障碍相关内容：特殊医学用途配方食品GB 29922标准要点、增稠剂GB 2760-2024许可范围、FSMP注册流程、已注册产品现状、海南自贸港政策窗口及蓝帽子认证现实挑战。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "standards"
 last_updated: "2026-05-13"

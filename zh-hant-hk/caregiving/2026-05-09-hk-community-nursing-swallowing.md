@@ -1,7 +1,7 @@
 ---
 title: "社區護理中的吞嚥護理技巧：香港家居護理人員實用指南"
 description: "為香港社區護理人員及家庭照顧者提供的實用吞嚥護理技巧，涵蓋進食前評估、體位管理、質地準備及緊急情況處理，配合醫管局及HKCSS服務框架。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 tags: [吞嚥困難, 社區護理, 香港, 家居護理, 照顧技巧]

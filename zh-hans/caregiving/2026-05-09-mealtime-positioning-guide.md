@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者进食体位指南：低头吞咽、90度直立与侧卧代偿姿势"
 description: "吞咽障碍患者的进食体位详解：90度直立坐姿标准、低头吞咽技巧、头部偏转法、半侧卧体位及轮椅和床上进食的具体操作要点。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

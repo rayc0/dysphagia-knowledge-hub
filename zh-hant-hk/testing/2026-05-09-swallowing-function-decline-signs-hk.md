@@ -1,7 +1,7 @@
 ---
 title: "香港長者吞嚥功能退化的早期警示：照顧者識別指南與行動建議"
 description: "香港長者吞嚥功能退化的早期警示徵兆完整指南，涵蓋進食行為改變、體重下降、聲音變化等指標，以及照顧者的觀察方法與求助行動建議。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "testing"
 last_updated: "2026-05-09"

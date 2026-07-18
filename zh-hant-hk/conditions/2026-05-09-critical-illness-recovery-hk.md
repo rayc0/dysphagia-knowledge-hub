@@ -1,7 +1,7 @@
 ---
 title: "危重症康復期的吞嚥護理：香港重症監護後指南"
 description: "ICU及危重症康復期患者的吞嚥困難評估與管理，涵蓋插管後吞嚥障礙、醫管局重症後康復服務及香港本地相關研究。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2026-05-09"

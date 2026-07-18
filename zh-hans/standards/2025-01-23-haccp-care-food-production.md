@@ -1,7 +1,7 @@
 ---
 title: "HACCP 食品安全体系在照护食生产中的应用"
 description: "HACCP（危害分析关键控制点）体系如何应用于吞咽障碍照护食品的生产。涵盖照护食的特殊危害识别、7 个 HACCP 原则的具体操作、关键控制点设定、与 T/SATA 084-2025 的整合，以及机构厨房的简化版 HACCP 实施指引。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: standards
 last_updated: 2025-01-23

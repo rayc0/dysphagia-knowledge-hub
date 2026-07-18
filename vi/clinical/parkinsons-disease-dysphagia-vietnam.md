@@ -1,7 +1,7 @@
 ---
 title: "Bệnh Parkinson và rối loạn nuốt — Triệu chứng, tiến triển và điều chỉnh chế độ ăn (Việt Nam)"
 description: "Hướng dẫn toàn diện về rối loạn nuốt trong bệnh Parkinson: tỷ lệ mắc, cơ chế sinh bệnh, đánh giá GUSS/FEES, tập EMST/LSVT LOUD và điều chỉnh chế độ ăn IDDSI cho người bệnh Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-04-21"

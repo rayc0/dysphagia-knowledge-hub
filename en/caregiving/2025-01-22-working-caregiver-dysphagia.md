@@ -1,7 +1,7 @@
 ---
 title: "Balancing Work and Dysphagia Caregiving: Practical Strategies for Hong Kong Working Carers"
 description: "The Hong Kong reality for working carers of dysphagia patients — meal prep efficiency, batch cooking and freezing modified meals, domestic worker training for dysphagia, lunch options when the carer is at work, employer communication, and mental health support."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2025-01-22"

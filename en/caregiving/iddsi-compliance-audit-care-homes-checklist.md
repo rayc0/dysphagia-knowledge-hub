@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Compliance Audits for Care Homes: A Practical Self-Audit Checklist"
 description: "A step-by-step IDDSI self-audit checklist for care homes — texture verification, fluid thickness, staff training, documentation, mealtime practice, and corrective action."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-04-18"

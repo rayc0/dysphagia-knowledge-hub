@@ -6,7 +6,7 @@ lang: th
 date: 2026-05-13
 category: recipes
 iddsi_level: "L4"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 license: "CC BY 4.0"
 canonical: "https://softmeal.org/th/recipes/สังขยาฟักทอง-iddsi-L4.html"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "慢性阻塞性肺病（COPD）與吞嚥困難：香港患者的雙重挑戰"
 description: "COPD如何影響吞嚥功能：呼吸與吞嚥協調失調、桶形胸體位影響、餐後疲勞；吸入性肺炎在COPD患者中的高危性；用餐時機與支氣管擴張劑使用；香港醫管局呼吸科及言語治療協作服務（根頓醫院、瑪麗醫院肺康復）。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2025-01-25"

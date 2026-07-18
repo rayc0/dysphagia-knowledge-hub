@@ -1,7 +1,7 @@
 ---
 title: "Suplemen Nutrisi Oral (ONS) untuk Lansia Disfagia: Panduan Memilih dan Menggunakan"
 description: "Panduan lengkap memilih dan menggunakan Oral Nutritional Supplements (ONS) untuk lansia dengan disfagia — jenis produk, cara menyesuaikan dengan level IDDSI, merek yang tersedia di Indonesia dan Hong Kong, serta tanda-tanda malnutrisi yang perlu diwaspadai."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "nutrition"
 last_updated: "2026-05-13"

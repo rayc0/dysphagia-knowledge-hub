@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 5 细碎湿润食物：如何从家常菜制备达标餐食"
 description: "IDDSI 5级细碎湿润食物的质构要求、叉子压力测试标准，以及米饭、肉类、蔬菜等家常食材的具体制备改造方法。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"

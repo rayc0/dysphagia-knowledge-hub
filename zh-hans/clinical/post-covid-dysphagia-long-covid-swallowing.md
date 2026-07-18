@@ -1,7 +1,7 @@
 ---
 title: "新冠后吞咽障碍与长新冠吞咽困难——国内临床综述与康复指南"
 description: "COVID-19导致吞咽障碍的机制、ICU插管时长与预后的关系、长新冠持续症状，以及国内外循证康复方法与IDDSI饮食质地管理。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-19"

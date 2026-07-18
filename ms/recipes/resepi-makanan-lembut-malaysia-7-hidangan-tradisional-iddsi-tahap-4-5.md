@@ -1,7 +1,7 @@
 ---
 title: "Resepi Makanan Lembut Malaysia — 7 Hidangan Tradisional Mesra Disfagia (IDDSI Tahap 4/5)"
 description: "Tujuh resepi hidangan tradisional Malaysia yang diubahsuai teksturnya mengikut IDDSI Tahap 4 dan 5 untuk pesakit disfagia — rendang, kari, labu, ikan masak lemak, dan lain-lain."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "recipes"
 last_updated: "2026-04-18"

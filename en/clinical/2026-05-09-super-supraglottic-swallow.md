@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [dysphagia, rehabilitation, technique, SLT]
 description: "Clinical guide to the super-supraglottic swallow: mechanism, evidence, patient selection criteria, contraindications, and step-by-step instructions for SLTs."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 The super-supraglottic swallow is an advanced variant of the supraglottic swallow designed to achieve broader and more forceful airway closure by incorporating a bearing-down (Valsalva) effort. It is primarily indicated for patients with significant arytenoid tilt reduction or vestibular folding dysfunction, most commonly following supraglottic or partial laryngectomy.

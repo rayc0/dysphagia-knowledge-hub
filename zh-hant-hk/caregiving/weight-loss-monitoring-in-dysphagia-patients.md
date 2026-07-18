@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者體重監測：肌少症惡性循環、危警閾值及食物強化策略"
 description: "吞嚥困難患者體重監測完整指南，包括吞嚥困難與肌少症惡性循環、每月兩次稱重標準、5%/10%危警閾值表、MNA-SF及MUST篩查工具、食物強化建議（橄欖油/芝麻醬/雞蛋/芝士）、口服營養補充品（ONS）選擇，及醫管局營養師轉介標準與社署CSSA資助申請。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-04-19"

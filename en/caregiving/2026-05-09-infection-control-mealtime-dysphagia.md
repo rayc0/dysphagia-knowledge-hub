@@ -5,7 +5,7 @@ description: "Evidence-based infection control at mealtimes for dysphagia patien
 lang: en
 category: caregiving
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - infection control
   - mealtime safety

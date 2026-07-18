@@ -1,7 +1,7 @@
 ---
 title: "Penetration-Aspiration Scale (PAS): Classifying Airway Invasion on VFSS and FEES"
 description: "A comprehensive clinical guide to the Penetration-Aspiration Scale (PAS), the standard 8-level scale for describing airway invasion depth and patient response during VFSS and FEES. Covers level descriptors, clinical significance, reliability, relationship to outcomes, and use in research."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

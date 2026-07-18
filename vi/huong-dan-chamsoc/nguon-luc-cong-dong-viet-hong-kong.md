@@ -1,7 +1,7 @@
 ---
 title: "Nguồn Lực Cộng Đồng Người Việt tại Hồng Kông — Dành cho Người Giúp Việc (ODJT)"
 description: "Danh sách đầy đủ nguồn lực cộng đồng cho người giúp việc Việt Nam tại Hồng Kông: Lãnh sự quán, hội đồng hương, điểm gặp gỡ Chủ nhật, dịch vụ y tế, hỗ trợ pháp lý, và tài nguyên chăm sóc disfagia bằng tiếng Việt."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "caregiving"
 last_updated: "2026-05-13"

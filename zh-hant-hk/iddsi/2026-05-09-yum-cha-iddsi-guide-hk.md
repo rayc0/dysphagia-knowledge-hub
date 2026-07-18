@@ -1,7 +1,7 @@
 ---
 title: "飲茶點心IDDSI等級完全指南：哪些點心安全、哪些危險、如何與家人共享飲茶"
 description: "香港飲茶點心的IDDSI質地等級完整對照，涵蓋常見點心的安全評估、危險食品警示及酒樓點餐策略，讓吞嚥困難患者安心與家人共享飲茶時光。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2026-05-09"

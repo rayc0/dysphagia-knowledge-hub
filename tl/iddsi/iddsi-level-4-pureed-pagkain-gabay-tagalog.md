@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 4 Pureed — Gabay sa Tagalog: Dinerog na Pagkain para sa mga may Dysphagia"
 description: "Detalyadong gabay sa IDDSI Level 4 Pureed sa Tagalog. Kasama ang mga pagsubok, halimbawa ng pagkaing Filipino, paraan ng paghahanda sa bahay, at mga karaniwang pagkakamali ng caregiver."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"

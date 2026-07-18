@@ -1,7 +1,7 @@
 ---
 title: "帕金森氏症吞嚥障礙：台灣患者吞嚥管理與運動復健指引"
 description: "涵蓋帕金森氏症吞嚥生理機轉、Hoehn & Yahr分期飲食進展、台灣LSVT LOUD治療資源、美多巴與信寧錠服藥時機與蛋白質重分配飲食、健保語言治療給付，以及台灣巴金森之友協會支援資源。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 last_updated: "2025-01-24"

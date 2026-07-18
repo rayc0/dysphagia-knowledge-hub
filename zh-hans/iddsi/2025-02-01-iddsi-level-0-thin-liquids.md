@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 0级：稀薄液体的管理——谁能安全饮用？误吸风险评估"
 description: "IDDSI 0级稀薄液体并非人人适用。本文解析谁能安全饮用0级液体、误吸风险的临床评估信号、Frazier自由饮水方案的适用条件，以及照护者的实操指引。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2025-02-01"

@@ -1,7 +1,7 @@
 ---
 title: "연하장애 대응 블렌더 완전 가이드: IDDSI 텍스처 조절용 믹서기 선택법"
 description: "연하장애 대응 텍스처 조절에 최적인 블렌더·믹서기 완전 가이드 — IDDSI 레벨 3~5 대응에 필요한 출력과 기능, 한경희·쿠쿠·필립스 HR·바이타믹스 비교, 요양원 급식 기준과 가정용 vs 업무용 선택 기준, 세척·위생 관리 포인트"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "equipment"
 last_updated: "2026-04-19"

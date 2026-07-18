@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Cấp Độ 4 và 5 Dành cho Người Giúp Việc Việt Nam tại Hồng Kông"
 description: "Hướng dẫn thực hành chuẩn bị thức ăn IDDSI Cấp độ 4 (nghiền nhuyễn) và Cấp độ 5 (băm nhỏ, mềm ẩm) cho người giúp việc Việt Nam tại HK — ví dụ món ăn Việt, cách kiểm tra độ đặc, mẹo nấu ăn."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "甲状腺癌术后吞咽困难：喉返神经损伤、声带麻痹与康复路径"
 description: "甲状腺癌手术是中国大陆最常见的头颈部手术，喉返神经（RLN）损伤所致声带麻痹是术后吞咽障碍的核心原因。本文涵盖RLN解剖风险、气道保护机制、系统康复路径，及国内甲状腺专科SLT转介资源。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-05-13"

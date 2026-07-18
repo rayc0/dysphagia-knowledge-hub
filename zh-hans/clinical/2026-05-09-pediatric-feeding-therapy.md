@@ -1,7 +1,7 @@
 ---
 title: "儿童进食治疗方法：行为与感统干预的循证实践"
 description: "系统介绍儿童吞咽与进食障碍的主要治疗方法，包括SOS分级暴露疗法、感觉统合干预及家庭进食行为管理策略，适合家长和基层医疗人员参考。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia in Dementia: Understanding and Managing Swallowing Difficulties"
 description: "Comprehensive guide to dysphagia in dementia — prevalence (45-93%), how swallowing changes at each stage, behavioural feeding challenges, texture modification strategies, aspiration pneumonia prevention, and end-of-life feeding decisions for dementia patients in care homes."
-author: "SeniorDeli (Carewells) <raymond@seniordeli.com>"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-09"

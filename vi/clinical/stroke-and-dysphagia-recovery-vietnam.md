@@ -1,7 +1,7 @@
 ---
 title: "Đột quỵ và rối loạn nuốt — Phục hồi chức năng nuốt sau đột quỵ: Hướng dẫn hoàn chỉnh cho người bệnh và gia đình (Việt Nam)"
 description: "Tỷ lệ rối loạn nuốt sau đột quỵ tại Việt Nam lên đến 71,6%. Tìm hiểu cách đánh giá, phục hồi chức năng, bài tập nuốt và điều chỉnh kết cấu thức ăn theo IDDSI."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-04-21"

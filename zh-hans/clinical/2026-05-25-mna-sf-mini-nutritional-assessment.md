@@ -1,7 +1,7 @@
 ---
 title: "MNA-SF 简版迷你营养评估：吞咽困难老年人的营养筛查"
 description: "MNA-SF（简版迷你营养评估）的临床指南——6个题目、评分方法、与吞咽困难评估的整合，以及识别吞咽困难老年人营养不良风险的应用。"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

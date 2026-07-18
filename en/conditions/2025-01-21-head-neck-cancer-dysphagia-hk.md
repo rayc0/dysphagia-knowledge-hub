@@ -1,7 +1,7 @@
 ---
 title: "Head and Neck Cancer Dysphagia in Hong Kong: From Treatment to Recovery"
 description: "A comprehensive guide to dysphagia caused by head and neck cancer treatment in Hong Kong — mechanisms of surgery and radiotherapy-induced swallowing impairment, nasopharyngeal carcinoma (NPC) specific complications, rehabilitation exercises, VFSS monitoring, HA oncology SLT services, dietary progression, and cancer support organisations."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2025-01-21"

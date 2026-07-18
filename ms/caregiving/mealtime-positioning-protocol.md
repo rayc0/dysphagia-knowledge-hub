@@ -1,7 +1,7 @@
 ---
 title: "Protokol Posisi Waktu Makan: Panduan Lengkap untuk Mencegah Aspirasi"
 description: "Protokol posisi badan berasaskan bukti semasa makan untuk pesakit disfagia — prinsip 90/90/90, sudut recline, teknik menelan ke sisi, makan di tempat tidur, dan kolaborasi SLP-OT-fisioterapi."
-author: Susan Tam
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

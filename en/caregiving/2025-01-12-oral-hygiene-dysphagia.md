@@ -1,7 +1,7 @@
 ---
 title: "Oral Hygiene for Dysphagia Patients: Reducing Aspiration Pneumonia Risk"
 description: "Why oral hygiene is critical for dysphagia patients, step-by-step oral care routine, products available in HK pharmacies, when to use suction, and common caregiver mistakes to avoid."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-05-09"

@@ -1,7 +1,7 @@
 ---
 title: "T/SATA 094 团标详解：中国 IDDSI 照护食等级标准完整指南"
 description: "T/SATA 094 是将 IDDSI 国际吞咽障碍饮食分级框架本地化为中文的重要团体标准。本文详解标准背景、分级体系、检验方法、与 T/SATA 084-2025 的关系，及对内地照护机构的实际意义。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: standards
 last_updated: 2025-01-20

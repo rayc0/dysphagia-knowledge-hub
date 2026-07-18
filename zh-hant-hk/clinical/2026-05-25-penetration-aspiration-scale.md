@@ -1,7 +1,7 @@
 ---
 title: "穿透-誤吸評分（PAS）：VFSS和FEES中氣道侵入的分類"
 description: "穿透-誤吸評分（PAS）：VFSS和FEES中氣道侵入的分類 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

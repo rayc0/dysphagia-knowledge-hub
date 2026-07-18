@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Test Syringes — Buying Guide for Hong Kong and Global Buyers (2026)"
 description: "Which 10 mL slip-tip syringes pass the IDDSI Flow Test, how to verify barrel length, and where to buy compliant syringes in Hong Kong, Taiwan, Japan, and online."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-17"

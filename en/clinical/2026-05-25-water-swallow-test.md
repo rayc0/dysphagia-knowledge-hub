@@ -1,7 +1,7 @@
 ---
 title: "Water Swallow Test (WST): Bedside Dysphagia Screening Protocol"
 description: "A comprehensive guide to the Water Swallow Test (WST), one of the most common bedside dysphagia screens. Covers the Kubota (50 mL) and Daniels (3 oz) variants, administration, scoring, sensitivity/specificity, clinical indications, and integration with EAT-10 and GUSS."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

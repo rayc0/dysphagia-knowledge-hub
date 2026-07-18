@@ -1,7 +1,7 @@
 ---
 title: "EAT-10吞咽筛查工具中文完整版：10题评分说明与就医标准"
 description: "EAT-10（Eating Assessment Tool-10）吞咽筛查量表中文完整版，含10题评分细则、3分以上须就医的判断标准，以及正式发表来源（Belafsky 2008, PMID: 18931128）。适用于大陆医疗机构及居家自我筛查。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "clinical"
 last_updated: "2026-05-13"

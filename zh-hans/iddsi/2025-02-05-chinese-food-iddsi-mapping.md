@@ -1,7 +1,7 @@
 ---
 title: "中式食物IDDSI等级对照表：从主食到点心的全面分类指南"
 description: "系统整理常见中式食物对应的IDDSI等级，涵盖主食、蔬菜、肉类、豆腐、蛋类、点心等六大类别，并标注高风险食物。适合吞咽障碍患者家属、照护者及临床营养人员参考。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2025-02-05"

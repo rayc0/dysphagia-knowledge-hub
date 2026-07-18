@@ -1,7 +1,7 @@
 ---
 title: "食管性吞咽困难的管理：病因、诊断与内镜治疗"
 description: "系统梳理食管性吞咽困难与口咽性吞咽障碍的鉴别要点，涵盖反流性食管炎、贲门失弛缓症等常见病因及内镜与饮食管理策略。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

@@ -4,7 +4,7 @@ description: "Why protein intake drops with dysphagia, protein-dense soft foods 
 lang: en
 category: nutrition
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - protein
   - texture-modified diet

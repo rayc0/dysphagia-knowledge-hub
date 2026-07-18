@@ -1,7 +1,7 @@
 ---
 title: "肌少症性吞嚥困難——香港照顧者完整指南（成因、診斷與三聯療法）"
 description: "肌少症性吞嚥困難係因全身骨骼肌萎縮導致吞嚥肌群無力的老年吞嚥失能，本文涵蓋診斷演算法、舌壓20 kPa臨界值與香港安老服務脈絡下的復健營養口腔三聯療法。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-18"

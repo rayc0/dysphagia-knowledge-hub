@@ -1,7 +1,7 @@
 ---
 title: "IDDSI ระดับ 6 อาหารนุ่มและขนาดพอคำ — คู่มือฉบับสมบูรณ์สำหรับประเทศไทย"
 description: "คู่มือ IDDSI ระดับ 6 (Soft & Bite-Sized) ฉบับไทย — ขนาดอนุภาค 15 มม. วิธีทดสอบด้วยส้อม เมนูไทยที่เหมาะสม และข้อผิดพลาดที่ผู้ดูแลควรระวัง"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "iddsi"
 last_updated: "2026-04-20"

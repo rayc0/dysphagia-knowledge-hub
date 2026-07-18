@@ -1,7 +1,7 @@
 ---
 title: "How to Test Food Texture for Dysphagia — IDDSI Tests Step by Step"
 description: "Step-by-step guide to the four IDDSI texture tests: the Flow Test, Fork Drip Test, Fork Pressure Test, and Spoon Tilt Test. Equipment, procedures, pass/fail criteria, and common mistakes."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "testing"
 last_updated: "2026-04-11"

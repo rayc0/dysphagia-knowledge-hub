@@ -1,7 +1,7 @@
 ---
 title: "慢性阻塞性肺病与吞咽障碍：呼吸-吞咽协调失调的评估与管理"
 description: "慢性阻塞性肺病（COPD）患者因呼吸-吞咽协调失调导致误吸风险显著升高，本文介绍其机制、评估方法及中国临床实践建议。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: conditions
 last_updated: 2026-05-09

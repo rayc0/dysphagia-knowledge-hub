@@ -1,7 +1,7 @@
 ---
 title: "香港常用食材營養強化技巧：為軟餐增加蛋白質、熱量及微量元素"
 description: "吞嚥困難患者因進食量受限，容易出現熱量及蛋白質不足。本文介紹香港常見的軟餐強化方法，包括使用脫脂奶粉、蛋白粉、MCT油、芝麻醬及花生醬等食材，在不大幅改變食物質感的前提下提升能量密度及微量元素，並說明在百佳及惠康可購得的相關產品。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-22"

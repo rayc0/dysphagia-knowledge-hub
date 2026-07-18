@@ -1,7 +1,7 @@
 ---
 title: "Pengoptimuman Protein untuk Pesakit Disfagia: Keperluan, Sumber dan Strategi IDDSI"
 description: "Panduan keperluan protein untuk warga emas disfagia — sasaran ≥1.2g/kg/hari, sumber protein per paras IDDSI, peranan leucine, pengedaran 30g setiap hidangan, suplemen oral, dan dietitian JKN."
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "nutrition"
 last_updated: "2026-04-19"

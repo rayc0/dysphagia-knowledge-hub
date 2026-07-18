@@ -1,7 +1,7 @@
 ---
 title: "Pag-iwas sa Aspiration Pneumonia — Bakit Ang Posisyon at Texture ng Pagkain ay Nakakapagligtas ng Buhay"
 description: "Evidence-based na gabay sa pag-iwas sa aspiration pneumonia para sa mga tagapag-alaga ng matatandang may dysphagia. Tatlong haligi ng pag-iwas: oral hygiene, posisyon, at IDDSI-compliant na pagkain."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "clinical"
 last_updated: "2026-05-13"

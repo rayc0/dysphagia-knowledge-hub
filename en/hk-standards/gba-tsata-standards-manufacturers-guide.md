@@ -4,7 +4,7 @@ description: "The Greater Bay Area's group standards for elderly care food and e
 lang: en
 category: hk-standards
 date: 2026-04-14
-author: Dr. Eric Hui
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # GBA Elderly Food Standards T/SATA 084-2025 and 085-2025 — What Manufacturers Need to Know

@@ -4,7 +4,7 @@ description: "将湖北名菜莲藕排骨汤彻底搅打成细腻糊状，莲藕
 lang: zh-hans
 category: recipes
 date: 2025-02-03
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 软食食谱
   - IDDSI Level 4

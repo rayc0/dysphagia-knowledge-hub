@@ -1,7 +1,7 @@
 ---
 title: "GBA Care Food Standards: T/SATA 084, 085, 094 Explained for International Buyers"
 description: "Plain-language explanation of the three Greater Bay Area care food group standards — T/SATA 084-2025, T/SATA 085-2025, and T/SATA 094-2025 — covering scope, drafting bodies, IDDSI alignment, procurement implications, and SeniorDeli product compliance for international buyers and institutional procurement officers."
-author: "SeniorDeli (Carewells) <raymond@seniordeli.com>"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "standards"
 last_updated: "2026-05-09"

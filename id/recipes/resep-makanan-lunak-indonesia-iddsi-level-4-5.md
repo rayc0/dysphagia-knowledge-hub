@@ -1,7 +1,7 @@
 ---
 title: "Resep Makanan Lunak Indonesia untuk Penderita Disfagia — 7 Hidangan Tradisional Adaptasi IDDSI Level 4 dan Level 5"
 description: "Tujuh resep hidangan tradisional Indonesia yang dimodifikasi teksturnya sesuai standar IDDSI Level 4 (Puree) dan Level 5 (Cincang Lembab) untuk pasien disfagia — bubur, tempe, tahu, ikan, dan lainnya."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "recipes"
 last_updated: "2026-04-23"

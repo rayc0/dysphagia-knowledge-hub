@@ -1,7 +1,7 @@
 ---
 title: "Disfagia Sarkopenik di Indonesia — Kerangka Wakabayashi, Algoritma 5 Langkah Mori, dan Rehabilitasi Nutrisi untuk Lansia"
 description: "Panduan klinis disfagia sarkopenik untuk tenaga kesehatan dan keluarga di Indonesia: kriteria AWGS 2019, algoritma Mori, tekanan lidah 20 kPa, dan tiga pilar terapi."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "clinical"
 last_updated: "2026-04-23"

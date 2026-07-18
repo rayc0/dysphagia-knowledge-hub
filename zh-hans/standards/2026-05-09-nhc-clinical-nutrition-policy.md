@@ -6,7 +6,7 @@ categories: [standards]
 tags: [国家卫生健康委, 临床营养, 政策, 吞咽障碍, 营养支持]
 description: "解读国家卫生健康委近年发布的临床营养相关政策文件，分析其对吞咽障碍患者营养管理的影响及机构执行要点。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 国家卫生健康委临床营养政策解读

@@ -1,7 +1,7 @@
 ---
 title: "软式内窥镜吞咽功能检查(FEES)在国内"
 description: "FEES与VFSS选择依据、国内开展现状、费用医保报销、误吸渗漏残留判定标准及报告撰写要点的临床参考"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "clinical"
 last_updated: "2026-05-13"

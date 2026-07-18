@@ -1,7 +1,7 @@
 ---
 title: "มาตรฐาน IDDSI นานาชาติสำหรับอาหารผู้มีปัญหาการกลืน — คู่มือฉบับสมบูรณ์"
 description: "คู่มือฉบับสมบูรณ์เกี่ยวกับมาตรฐาน IDDSI ทั้ง 8 ระดับ สำหรับผู้สูงอายุ ผู้ดูแล และบุคลากรสาธารณสุขในประเทศไทย พร้อมวิธีทดสอบและตัวอย่างอาหาร"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "iddsi"
 last_updated: "2026-04-19"

@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [dysphagia, pediatric, children, thickener, infant, feeding, safety]
 description: "Evidence-based guide to thickener safety for infants and children with dysphagia — types, risks, age limits, and guidance for parents and caregivers in HK."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 When a speech-language therapist (SLT) recommends thickened liquids for a child with dysphagia, parents often have immediate practical questions: Which thickener should I use? Is it safe? How do I prepare it correctly? Will it affect my child's nutrition? These are the right questions to ask — because in paediatrics, particularly in infancy, thickener selection and use require more careful consideration than in adult practice.

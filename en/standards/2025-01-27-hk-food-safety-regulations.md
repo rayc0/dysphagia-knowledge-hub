@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Food Safety Regulations for Modified Texture Foods: What Care Homes and Caterers Need to Know"
 description: "A practical guide to Hong Kong food safety regulations as they apply to modified texture food production and supply in residential care homes for the elderly (RCHEs) and catering operations — covering FEHD licensing, Cap. 132X requirements, temperature control, HACCP, SWD inspection criteria, labelling, and penalties for non-compliance."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "standards"
 last_updated: "2025-01-27"

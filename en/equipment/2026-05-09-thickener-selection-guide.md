@@ -5,7 +5,7 @@ description: "A clinical decision guide for SLTs and dietitians selecting thicke
 lang: en
 category: equipment
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - thickener
   - xanthan gum

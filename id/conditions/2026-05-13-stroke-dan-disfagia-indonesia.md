@@ -1,7 +1,7 @@
 ---
 title: "Stroke dan Disfagia di Indonesia — Panduan Pemulihan"
 description: "Prevalensi stroke di Indonesia, skrining menelan pasca stroke, layanan rehabilitasi di RS pemerintah dengan BPJS Kesehatan, dan program JKN untuk rehabilitasi wicara."
-author: Pusat Pengetahuan Disfagia
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "conditions"
 last_updated: "2026-05-13"

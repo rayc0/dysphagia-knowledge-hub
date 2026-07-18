@@ -1,7 +1,7 @@
 ---
 title: "舌壓測量與口腔力量評估：台灣臨床使用的吞嚥功能量化工具"
 description: "介紹最大等長舌壓（MITP）測量作為吞嚥功能預測指標，台灣醫學中心使用的JMS舌壓測量儀、台灣族群正常值、舌壓與IDDSI等級的對應關係、舌部強化運動，以及如何為照顧者解讀測量結果。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "testing"
 last_updated: "2025-01-22"

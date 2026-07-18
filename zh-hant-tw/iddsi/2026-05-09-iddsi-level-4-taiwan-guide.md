@@ -1,7 +1,7 @@
 ---
 title: "IDDSI四級泥狀食物台灣照護指南：食物製備、質地測試與市售增稠產品"
 description: "台灣照護者適用的IDDSI第4級泥狀食物完整指南，涵蓋台灣在地食材製備、叉壓及湯匙傾倒測試方法，以及台灣可購得的市售增稠產品評比。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "iddsi"
 date: 2026-05-09

@@ -1,7 +1,7 @@
 ---
 title: "코로나19 후유증 연하장애——롱코비드 환자를 위한 완전 가이드"
 description: "코로나19가 삼킴 기능에 미치는 영향, 기관삽관 기간과 중증도의 관계, 롱코비드 지속률, 재활 근거, IDDSI 식이 관리까지 체계적으로 정리한 임상 안내서."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"

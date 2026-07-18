@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者的维生素D与钙补充：预防骨质疏松与跌倒"
 description: "介绍行动受限的吞咽障碍患者维生素D和钙缺乏风险、安全补充方式（液态、可压碎制剂）、质地改良中国饮食中的钙来源，以及中国药房可购制剂指南"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-01-26"

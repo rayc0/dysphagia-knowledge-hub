@@ -1,7 +1,7 @@
 ---
 title: "Dấu hiệu cảnh báo rối loạn nuốt — Hướng dẫn cho gia đình và người chăm sóc tại Việt Nam (Kèm bảng EAT-10)"
 description: "10 dấu hiệu cảnh báo rối loạn nuốt mà người chăm sóc cần nhận biết, hướng dẫn tự đánh giá EAT-10, nguy cơ sặc im lặng và khi nào cần đến bệnh viện tại Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "caregiving"
 last_updated: "2026-04-21"

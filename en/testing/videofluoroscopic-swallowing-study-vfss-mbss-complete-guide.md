@@ -1,7 +1,7 @@
 ---
 title: "Videofluoroscopic Swallowing Study (VFSS) — Gold Standard Diagnostic Test for Dysphagia Assessment"
 description: "Complete guide to VFSS/MBSS: how the test works, what results mean, patient preparation, and clinical interpretation for dysphagia diagnosis."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "testing"
 last_updated: "2026-05-21"

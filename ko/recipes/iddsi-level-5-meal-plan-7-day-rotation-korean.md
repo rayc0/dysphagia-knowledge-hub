@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 레벨 5 다진 촉촉한 식단 7일 순환 식단표 — 한국 가정식 기반 완전 가이드"
 description: "연하장애 환자를 위한 한국식 IDDSI 레벨 5(다진 촉촉한 음식) 7일 순환 식단표. 한식 재료 기반 아침·점심·저녁 메뉴와 조리 원칙, 안전 확인 방법을 정리했습니다."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "recipes"
 last_updated: "2026-04-20"

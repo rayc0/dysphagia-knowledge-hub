@@ -1,7 +1,7 @@
 ---
 title: "IDDSI叉滴测试：测试泥状及切碎食物的逐步方案"
 description: "IDDSI叉滴测试：测试泥状及切碎食物的逐步方案 — 吞咽困难临床指南"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

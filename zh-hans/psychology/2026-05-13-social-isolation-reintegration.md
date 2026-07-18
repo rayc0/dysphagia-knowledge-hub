@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者的社会孤立与再融合：策略、训练与社群资源"
 description: "进食的社交属性使吞咽障碍患者极易陷入社会孤立。本文分析社会孤立的影响因素，介绍进餐社交策略、逐步暴露训练，以及国内外可及的线上社群资源。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-13"

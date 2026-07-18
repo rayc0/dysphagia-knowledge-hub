@@ -4,7 +4,7 @@ description: "Practical evidence-based strategies for supporting safe, dignified
 lang: en
 category: conditions
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - cognitive impairment
   - dementia

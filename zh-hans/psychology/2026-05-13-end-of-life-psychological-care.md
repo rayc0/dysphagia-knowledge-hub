@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍终末期心理照护：拒绝进食的意义、家属沟通与安宁疗护支持"
 description: "终末期患者拒绝进食是一个涉及躯体、心理、伦理与文化的复杂议题。本文探讨拒绝进食的心理意义、与家属的进食意愿沟通、安宁疗护心理支持，以及中国文化背景下的死亡观念对照护实践的影响。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-13"

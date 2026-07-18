@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍筛查量表详解：EAT-10、MASA、Gugging量表在临床和居家的应用"
 description: "系统介绍EAT-10（含完整10题中文版及评分解读）、MASA和Gugging吞咽筛查量表的使用方法，不同医疗场景（急诊、病房、社区、居家）的工具选择，以及如何将筛查结果用于饮食调整决策"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "testing"
 last_updated: "2025-01-27"

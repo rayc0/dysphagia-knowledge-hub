@@ -1,7 +1,7 @@
 ---
 title: "โรคหลอดเลือดสมองและภาวะกลืนลำบาก — แนวทางการฟื้นฟูสำหรับผู้ป่วยและผู้ดูแลในประเทศไทย"
 description: "คู่มือครบวงจรเรื่องภาวะกลืนลำบากหลังโรคหลอดเลือดสมอง ครอบคลุมการคัดกรอง การฝึกกลืน การปรับอาหาร และการป้องกันปอดอักเสบจากการสำลัก"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "clinical"
 last_updated: "2026-04-19"

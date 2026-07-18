@@ -1,7 +1,7 @@
 ---
 title: "MNA-SF: Mini Nutritional Assessment Short Form for Elderly Patients with Dysphagia"
 description: "A clinical guide to the MNA-SF (Mini Nutritional Assessment Short Form) — its 6-item structure, scoring, integration with dysphagia assessment, and use in identifying malnutrition risk in older adults with swallowing difficulties."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

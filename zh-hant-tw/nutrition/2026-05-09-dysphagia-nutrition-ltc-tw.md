@@ -1,7 +1,7 @@
 ---
 title: "長照2.0下吞嚥障礙者的營養照護：居家與機構的完整指引"
 description: "說明台灣長照2.0體系下吞嚥障礙患者的營養照護管道，比較居家照護與機構照護的差異，介紹照管專員角色及居家營養師服務申請方式。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-09

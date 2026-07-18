@@ -6,7 +6,7 @@ categories: [recipes]
 tags: [吞嚥困難, 香港, 食譜, IDDSI, 粥品, 廣東飲食]
 description: "針對香港常見粥品的IDDSI級別分析，包括白粥、艇仔粥、皮蛋瘦肉粥，以及如何為吞嚥困難患者作出安全改良。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 粥是香港人最熟悉的家常食物，從早餐到深夜宵夜，粥品貫穿了香港人的日常生活。對於吞嚥困難（吞嚥障礙）患者而言，粥看似理想的軟食選擇，但不同種類的粥在IDDSI（國際吞嚥障礙飲食標準化）框架下的適用級別可能差異甚大。本文將逐一分析香港常見粥品，協助照顧者和患者作出安全的選擇。

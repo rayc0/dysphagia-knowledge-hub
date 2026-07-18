@@ -1,7 +1,7 @@
 ---
 title: "Dụng cụ hỗ trợ ăn uống cho người khó nuốt — Hướng dẫn chọn lựa và sử dụng"
 description: "Hướng dẫn chọn dụng cụ hỗ trợ ăn uống cho người bệnh khó nuốt tại Việt Nam: cốc có mỏ, muỗng lõm, thìa có cán dày, máy xay sinh tố và thiết bị làm đặc — cách chọn và nguồn mua tại Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "equipment"
 last_updated: "2026-05-13"

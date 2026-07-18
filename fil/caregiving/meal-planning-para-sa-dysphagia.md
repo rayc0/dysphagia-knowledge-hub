@@ -1,7 +1,7 @@
 ---
 title: "Lingguhang Meal Plan para sa Matatandang may Dysphagia"
 description: "7-day meal plan para sa mga FDH sa HK — kasama ang modified Filipino dishes, nutritional tips, grocery list, at batch cooking para makatipid ng oras."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"

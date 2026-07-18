@@ -1,7 +1,7 @@
 ---
 title: "치매와 삼킴장애: 조기 발견부터 돌봄 실천까지"
 description: "알츠하이머병, 혈관성 치매, 루이소체 치매 등 치매 유형별 삼킴장애 특성, 평가 방법, IDDSI 대응 식이 조정, 말기 경관영양 판단을 체계적으로 해설"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "conditions"
 last_updated: "2026-04-18"

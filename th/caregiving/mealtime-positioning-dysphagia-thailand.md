@@ -1,7 +1,7 @@
 ---
 title: "ท่านั่งรับประทานอาหารสำหรับผู้ป่วยกลืนลำบาก — คู่มือผู้ดูแลฉบับสมบูรณ์"
 description: "คู่มือท่านั่งรับประทานอาหารสำหรับผู้ป่วยภาวะกลืนลำบาก (dysphagia) ตามหลักฐานทางคลินิก พร้อมแนวทางจากโรงพยาบาลไทยและมาตรฐานสากล"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "caregiving"
 last_updated: "2026-04-19"

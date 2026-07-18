@@ -1,7 +1,7 @@
 ---
 title: "長照2.0吞嚥照護給付項目全解析：哪些服務有補助？"
 description: "完整說明台灣長照2.0體系針對吞嚥障礙患者的給付項目，涵蓋語言治療、居家復能、輔具補助、喘息服務及申請流程，適合家庭照顧者參考。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-09

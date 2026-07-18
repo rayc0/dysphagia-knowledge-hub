@@ -1,7 +1,7 @@
 ---
 title: "Protokol Keselamatan Pemberian Makan Malam untuk Pesakit Disfagia"
 description: "Protokol keselamatan pemberian makan malam melalui tiub untuk pesakit disfagia — keperluan elevasi kepala, kadar infusi, pemantauan SpO₂, penjagaan mulut, dan perkhidmatan jururawat rumah KKM."
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

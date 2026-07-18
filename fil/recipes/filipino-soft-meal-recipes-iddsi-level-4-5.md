@@ -1,7 +1,7 @@
 ---
 title: "Filipino Soft-Meal Recipes for Dysphagia Patients — 7 Traditional Dishes Adapted to IDDSI Levels 4 & 5"
 description: "7 classic Filipino recipes adapted to IDDSI Levels 4 & 5 with ingredient sourcing, cooking methods, and safety tips for Philippine caregivers."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "recipes"
 last_updated: "2026-05-18"

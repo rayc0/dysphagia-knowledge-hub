@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Spoon Tilt Test: Verifying Pureed and Mildly Thick Consistencies"
 description: "A complete guide to the IDDSI Spoon Tilt Test for verifying that pureed foods and mildly thick liquids meet their IDDSI level criteria. Covers method, pass/fail interpretation, clinical applications, and integration with other IDDSI testing methods."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

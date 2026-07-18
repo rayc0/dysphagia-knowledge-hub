@@ -1,7 +1,7 @@
 ---
 title: "香港吞嚥困難照顧者經濟支援：政府資助、補貼及社區資源全攻略"
 description: "香港吞嚥困難患者照顧者的全面財務支援指南：綜援、傷殘津貼、長者生活津貼、院舍照顧服務券、社區照顧基金、馬會慈善信託撥款、保險及醫管局資助產品，以及照顧者支援網絡資源。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-17"

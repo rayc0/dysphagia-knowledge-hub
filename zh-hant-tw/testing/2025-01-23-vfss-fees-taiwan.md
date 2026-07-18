@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥攝影檢查（VFSS）與內視鏡吞嚥評估（FEES）：就醫指引與費用說明"
 description: "詳細介紹台灣吞嚥障礙兩大主要儀器評估——VFSS吞嚥攝影檢查與FEES內視鏡吞嚥評估的就醫流程、健保給付狀況、自費費用參考，以及如何解讀檢查報告與後續飲食調整流程。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "testing"
 last_updated: "2025-01-23"

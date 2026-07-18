@@ -1,7 +1,7 @@
 ---
 title: "台灣家常菜的吞嚥友善版——七道經典料理的質地調整食譜"
 description: "滷肉飯、三杯雞、絲瓜蛤蜊等台灣家常菜的 IDDSI 質地調整做法，讓吞嚥困難長輩也能安心吃到熟悉的味道。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "recipes"
 last_updated: "2026-04-16"

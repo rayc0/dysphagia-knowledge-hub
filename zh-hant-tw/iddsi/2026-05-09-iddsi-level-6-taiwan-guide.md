@@ -1,7 +1,7 @@
 ---
 title: "IDDSI六級軟質食物台灣照護指南：適合食材、刀切測試與烹調方法"
 description: "台灣照護者適用的IDDSI第6級軟質可切碎食物完整指南，涵蓋台灣在地適合食材選擇、刀切測試操作方法，以及各類烹調技巧與料理建議。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "iddsi"
 date: 2026-05-09

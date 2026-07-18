@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [吞咽障碍, 康复治疗, 言语治疗]
 description: "全面介绍用力吞咽（Effortful Swallow）的生理机制、标准操作步骤、训练剂量、适应证与禁忌证，结合国内临床实践与中国吞咽障碍康复管理指南。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 # 用力吞咽技术详解：机制、操作规范与临床应用

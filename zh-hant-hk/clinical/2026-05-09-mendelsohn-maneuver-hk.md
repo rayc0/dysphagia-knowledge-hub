@@ -1,7 +1,7 @@
 ---
 title: "Mendelsohn吞嚥手法：原理、適應症、操作步驟及香港資源"
 description: "詳解Mendelsohn吞嚥手法的生理機制、言語治療師處方適應症、分步操作指引，以及香港表面肌電生物反饋（sEMG）的應用情況。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"

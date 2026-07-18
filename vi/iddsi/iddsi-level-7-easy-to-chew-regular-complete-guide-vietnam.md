@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Cấp độ 7 — Thức ăn Dễ Nhai và Thức ăn Bình Thường: Hướng dẫn Hoàn chỉnh cho Việt Nam"
 description: "Hướng dẫn đầy đủ IDDSI Level 7 cho Việt Nam — phân biệt 7EC (dễ nhai) và 7 (bình thường), tiêu chí nâng cấp từ Level 6, thực phẩm Việt phù hợp và bảng thực đơn mẫu."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-04-22"

@@ -1,7 +1,7 @@
 ---
 title: "Aspiration Pneumonia: Clinical Features, Diagnosis, and Prevention in Dysphagia"
 description: "A comprehensive clinical guide to aspiration pneumonia — its definition, pathophysiology, clinical presentation, risk factors in dysphagia, diagnosis, treatment, and evidence-based prevention strategies including oral hygiene, positioning, and texture modification."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

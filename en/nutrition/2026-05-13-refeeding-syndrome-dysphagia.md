@@ -1,7 +1,7 @@
 ---
 title: "Refeeding Syndrome in Malnourished Dysphagia Patients"
 description: "Clinical guide to refeeding syndrome: hypophosphataemia mechanism, NICE risk criteria, electrolyte monitoring protocol, thiamine replacement, phosphate/potassium targets, and gradual caloric escalation."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2026-05-13"

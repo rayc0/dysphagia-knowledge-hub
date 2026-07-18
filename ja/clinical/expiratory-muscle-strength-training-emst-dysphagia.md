@@ -1,7 +1,7 @@
 ---
 title: "呼吸筋力強化訓練（EMST）——嚥下障害の治療プロトコルと日本臨床応用"
 description: "EMST（呼気筋力強化訓練）の概要、エビデンス、EMST150デバイス選択、日本の嚥下障害患者への臨床応用ガイド。パーキンソン病、脳卒中、頭頸部がん、認知症の患者向け。"
-author: "SeniorDeli Clinical Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-05-06"

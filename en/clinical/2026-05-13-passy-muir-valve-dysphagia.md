@@ -1,7 +1,7 @@
 ---
 title: "Passy Muir Valve for Tracheostomy Patients with Dysphagia"
 description: "Complete clinical guide to PMV use in tracheostomy patients: mechanism, candidacy criteria, swallowing trials, FEES application, and HK availability."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-13"

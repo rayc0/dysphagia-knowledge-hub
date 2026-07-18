@@ -4,7 +4,7 @@ description: "Fourteen tested IDDSI Level 6 (Soft & Bite-Sized) recipes for adul
 lang: en
 category: recipes
 date: 2026-04-15
-author: Susan Tam
+author: "SeniorDeli (Carewells) Editorial Team"
 tags: [IDDSI, level-6, soft-bite-sized, dysphagia-recipes, home-cooking, caregiver-meals]
 ---
 

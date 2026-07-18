@@ -1,7 +1,7 @@
 ---
 title: "Tanda dan Gejala Disfagia yang Perlu Diketahui Penjaga: Panduan Pengesanan Awal"
 description: "Panduan penjaga disfagia dalam Bahasa Melayu — 10 tanda amaran disfagia, red flags yang memerlukan rujukan segera, profil simptom mengikut penyakit (strok, Parkinson, dementia, ALS, kanser kepala-leher), cara rujuk ahli patologi pertuturan-bahasa di hospital kerajaan Malaysia"
-author: Margaret Wong
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

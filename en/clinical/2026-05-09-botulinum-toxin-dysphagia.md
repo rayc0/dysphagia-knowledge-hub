@@ -4,7 +4,7 @@ description: "Botulinum toxin for dysphagia — cricopharyngeal dysfunction trea
 lang: en
 category: clinical
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - botulinum toxin
   - cricopharyngeal dysfunction

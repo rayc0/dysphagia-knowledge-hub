@@ -1,7 +1,7 @@
 ---
 title: "Hydration Strategies for Thickened-Fluid Patients — Preventing Dehydration When Drinking Is Hard"
 description: "Evidence-based guide for caregivers on preventing dehydration in dysphagia patients prescribed thickened fluids, including daily fluid targets, creative intake strategies, monitoring, and when to escalate."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-04-12"

@@ -1,7 +1,7 @@
 ---
 title: "呼气肌力量训练（EMST）：增强咳嗽反射保护与吞咽安全"
 description: "呼气肌力量训练（EMST）是通过抗阻呼气装置增强呼气肌群的系统性训练方法，可改善咳嗽峰值流速、减少误吸风险。本文涵盖Iowa Oral PI原理、75%MEP训练参数、帕金森病循证证据（PMID: 20208970）及临床适应症。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-13"

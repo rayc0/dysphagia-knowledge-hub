@@ -1,7 +1,7 @@
 ---
 title: "食事中の姿勢と嚥下障害——安全な食事のための完全ガイド"
 description: "嚥下障害患者の食事姿勢を徹底解説。30度リクライニング、頸部屈曲、頭部回旋など誤嚥を予防する姿勢調整の根拠とケア実践ガイド。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

@@ -2,7 +2,7 @@
 layout: article
 title: "IDDSI Level 3: Cairan Kental Moderat (Moderately Thick / Liquidised) — Panduan Lengkap untuk Pasien Disfagia di Indonesia"
 description: "Panduan klinis IDDSI Level 3 Cairan Kental Moderat untuk pasien disfagia di Indonesia. Meliputi uji aliran, uji garpu, indikasi klinis, minuman dan makanan cair lokal Indonesia, dan manajemen nutrisi."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-04-29"

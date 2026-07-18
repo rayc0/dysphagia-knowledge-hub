@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [dysphagia, rehabilitation, technique, SLT]
 description: "A clinical guide to the supraglottic swallow technique: mechanism, evidence base, patient selection, contraindications, and step-by-step instructions."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 The supraglottic swallow is a compensatory swallowing technique used in speech-language therapy to reduce aspiration by voluntarily closing the airway before and during the swallow. It is one of the most widely taught behavioural manoeuvres for patients with reduced or delayed laryngeal closure.

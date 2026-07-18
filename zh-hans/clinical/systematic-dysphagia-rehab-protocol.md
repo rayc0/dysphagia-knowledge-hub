@@ -1,7 +1,7 @@
 ---
 title: "系统性吞咽障碍康复方案：从急性期到社区维持的全程管理"
 description: "系统性吞咽障碍康复方案涵盖住院急性期（早期SLT介入、GUSS筛查、质地改良饮食）、亚急性强化训练期和社区居家维持期三个阶段，提供结构化的全程康复路径及关键决策节点。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-13"

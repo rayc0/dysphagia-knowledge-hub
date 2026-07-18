@@ -1,7 +1,7 @@
 ---
 title: "Chiến lược bổ sung nước cho người bệnh rối loạn nuốt — Phòng ngừa mất nước khi dùng nước đặc (Việt Nam)"
 description: "Hướng dẫn thực tế cho người chăm sóc tại Việt Nam về cách bổ sung đủ nước cho người bệnh rối loạn nuốt khi phải dùng nước đặc, trong điều kiện khí hậu nóng ẩm."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "caregiving"
 last_updated: "2026-04-21"

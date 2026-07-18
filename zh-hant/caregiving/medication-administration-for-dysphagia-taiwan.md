@@ -4,7 +4,7 @@ description: "吞嚥障礙患者如何安全服藥？完整介紹藥片磨粉原
 lang: zh-hant
 category: caregiving
 date: 2026-04-15
-author: 吞嚥障礙知識庫
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags: [用藥, 磨粉, 液劑, 增稠劑, 台灣, 長照, 緩釋錠, 腸溶錠]
 ---
 

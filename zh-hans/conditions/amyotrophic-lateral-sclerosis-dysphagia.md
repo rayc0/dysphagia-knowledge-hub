@@ -1,7 +1,7 @@
 ---
 title: "肌萎缩侧索硬化（ALS/MND）：快速进展的吞咽管理与PEG置入时机"
 description: "肌萎缩侧索硬化（ALS/MND）的吞咽障碍随病情快速进展，管理重点是提前规划PEG置入（FVC>50%时）、呼吸支持与进食安全。本文涵盖ALS球部症状进展规律、营养支持策略与国内ALS协会资源。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2026-05-13"

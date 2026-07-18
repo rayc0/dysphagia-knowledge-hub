@@ -1,7 +1,7 @@
 ---
 title: "GUSS：古金吞咽筛查工具——卒中及神经科床边方案"
 description: "GUSS（Gugging Swallowing Screen）是一份经过验证的床边吞咽困难筛查工具，专为急性卒中开发。本文涵盖两部分方案、严重程度分级系统、按严重度的饮食建议、临床实证，以及在卒中病房护理路径中的整合应用。"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

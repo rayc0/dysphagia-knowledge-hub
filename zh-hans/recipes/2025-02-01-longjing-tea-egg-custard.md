@@ -4,7 +4,7 @@ description: "以杭州龙井绿茶浸泡液代替清水蒸制蛋羹，天然达
 lang: zh-hans
 category: recipes
 date: 2025-02-01
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 软食食谱
   - IDDSI Level 4

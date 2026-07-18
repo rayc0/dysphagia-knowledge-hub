@@ -1,7 +1,7 @@
 ---
 title: "IDDSI ระดับ 4 อาหารบด (Pureed) — คู่มือฉบับสมบูรณ์สำหรับผู้ป่วยกลืนลำบากในประเทศไทย"
 description: "คู่มือฉบับสมบูรณ์เกี่ยวกับอาหารบดละเอียด IDDSI ระดับ 4: การทดสอบอย่างเป็นทางการ ข้อบ่งชี้ทางคลินิก การเตรียมที่บ้าน และความเสี่ยงโภชนาการ สำหรับผู้ดูแลและบุคลากรสุขภาพในไทย"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "iddsi"
 last_updated: "2026-04-20"

@@ -1,7 +1,7 @@
 ---
 title: "Parkinson's Disease and Dysphagia — A Philippine Patient & Caregiver Guide"
 description: "Why more than 8 in 10 Parkinson's patients develop swallowing problems, how to spot silent aspiration early, levodopa-and-meal timing, EMST swallow exercises, an H&Y-to-IDDSI texture map, and Filipino dish adjustments — written for Philippine families."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "clinical"
 date: "2026-05-18"

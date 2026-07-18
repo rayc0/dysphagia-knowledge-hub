@@ -1,7 +1,7 @@
 ---
 title: "T/SATA 085-2025 适老食品通则详解——从配方设计到标签规范"
 description: "T/SATA 085-2025 是大湾区适老食品通则标准，规定了营养指标、感官要求和标签规范。本文逐条解读要点。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "standards"
 last_updated: "2026-04-13"

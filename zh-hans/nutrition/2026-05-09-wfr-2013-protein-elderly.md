@@ -1,7 +1,7 @@
 ---
 title: "中国老年人蛋白质摄入推荐量解读：WS/T 556-2017与中国老年学学会标准"
 description: "解读WS/T 556-2017老年人营养不良风险评估及中国老年学学会蛋白质推荐量，指导吞咽障碍老年患者的蛋白质摄入管理。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: nutrition
 last_updated: 2026-05-09

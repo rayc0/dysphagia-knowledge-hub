@@ -1,7 +1,7 @@
 ---
 title: "Menciptakan Lingkungan Makan yang Aman untuk Lansia Disfagia di Rumah"
 description: "Panduan praktis mengatur lingkungan fisik dan sosial waktu makan untuk lansia disfagia — tata letak ruangan, peralatan pendukung, pengaturan cahaya dan kebisingan, serta tips untuk berbagai situasi tempat tinggal."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

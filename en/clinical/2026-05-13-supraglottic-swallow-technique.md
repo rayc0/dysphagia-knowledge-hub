@@ -1,7 +1,7 @@
 ---
 title: "Supraglottic and Super-Supraglottic Swallow: Clinical Guide and Patient Teaching"
 description: "Evidence-based guide to supraglottic and super-supraglottic swallow techniques: mechanism, 5-step procedure, head-neck cancer evidence, FEES/VFSS findings, and patient scripts."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-13"

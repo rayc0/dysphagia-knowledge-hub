@@ -1,7 +1,7 @@
 ---
 title: "COPD and Dysphagia: Managing Breathing-Swallowing Coordination in Hong Kong"
 description: "How COPD disrupts breathing-swallowing coordination, barrel chest positioning challenges, post-exertional fatigue at mealtimes, small frequent meals, eating position around bronchodilator timing, energy-dense soft foods, HA respiratory co-management, and safe oxygen therapy during meals for Hong Kong patients."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2025-01-22"

@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [dysphagia, rehabilitation, technique, SLT]
 description: "Clinical guide to surface EMG biofeedback for dysphagia: mechanism, evidence base, patient selection, equipment setup, and clinical protocols for SLTs."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 Surface electromyography (sEMG) biofeedback is a technology-assisted rehabilitation technique that gives patients real-time visual or auditory feedback about the muscle activity involved in swallowing. It is used to enhance motor learning during swallowing rehabilitation by making an otherwise invisible internal process perceptible and trainable.

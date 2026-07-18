@@ -1,7 +1,7 @@
 ---
 title: "Alzheimer's / Dementia at mga Hamon sa Pagkain"
 description: "Gabay para sa mga FDH sa HK — paano tulungan ang matatandang may dementia na kumain: distraction, routine, finger foods, at kung kailan mag-usap ng tube feeding."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "conditions"
 last_updated: "2026-05-13"

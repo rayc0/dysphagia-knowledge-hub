@@ -1,7 +1,7 @@
 ---
 title: "Tiêu chuẩn IDDSI: Hướng dẫn thực hành cho người chăm sóc Việt Nam"
 description: "Hướng dẫn toàn diện về tiêu chuẩn IDDSI (International Dysphagia Diet Standardisation Initiative) cho người chăm sóc người bệnh khó nuốt tại Việt Nam — 8 cấp độ, cách kiểm tra tại nhà và thực phẩm Việt Nam phù hợp."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 八級護食標準 — 香港照顧者完整指南"
 description: "IDDSI 國際吞嚥障礙飲食標準八級（0–7）完整指南，採用香港照護食標準用語，涵蓋測試方法、廣東菜實例及本地照顧者實用貼士。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "iddsi"
 last_updated: "2026-04-16"

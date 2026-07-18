@@ -4,7 +4,7 @@ description: "Complete guide to IDDSI Level 2 Mildly Thick liquids — syringe f
 lang: en
 category: iddsi
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - Level 2

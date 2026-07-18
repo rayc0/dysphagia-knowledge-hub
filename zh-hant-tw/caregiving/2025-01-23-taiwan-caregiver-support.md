@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙照顧者支持資源：長照、協會、喘息服務全指南"
 description: "為台灣吞嚥障礙患者的家庭照顧者提供完整資源指南，涵蓋1966長照專線服務項目、喘息服務申請、照顧者關懷據點、台灣長照協會、線上支持社群、職場照顧假、1925安心專線，以及中低收入家庭照顧補助。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2025-01-23"

@@ -1,7 +1,7 @@
 ---
 title: "職業治療師在香港吞嚥困難進食管理中的角色：輔助器具、家居評估與轉介"
 description: "詳解香港職業治療師（OT）在吞嚥困難進食管理中的職能，包括輔助餐具處方、家居環境評估及醫管局OT轉介路徑，供患者及照顧者參考。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"

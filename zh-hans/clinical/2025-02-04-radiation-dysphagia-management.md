@@ -1,7 +1,7 @@
 ---
 title: "放射性吞咽障碍：头颈部放疗后的吞咽康复与长期管理"
 description: "头颈部放射治疗后的吞咽障碍是影响生存质量的主要并发症，可在治疗结束后数年出现或加重。本文涵盖急性与迟发性放射毒性机制、预防性吞咽训练的"用进废退"原则、DIGEST评分、口干症管理，以及中国大陆肿瘤医院SLT资源现状。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2025-02-04"

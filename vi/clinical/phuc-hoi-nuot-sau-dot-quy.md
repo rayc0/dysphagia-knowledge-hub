@@ -1,7 +1,7 @@
 ---
 title: "Phục hồi chức năng nuốt sau đột quỵ — Hướng dẫn toàn diện cho bệnh nhân và gia đình"
 description: "Hướng dẫn phục hồi chức năng nuốt sau đột quỵ tại Việt Nam: giai đoạn cấp, bài tập ngôn ngữ trị liệu, điều chỉnh chế độ ăn theo IDDSI, và tiên lượng hồi phục."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-05-13"

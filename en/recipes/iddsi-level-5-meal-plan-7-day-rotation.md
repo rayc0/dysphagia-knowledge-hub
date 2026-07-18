@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 5 Minced & Moist Meal Plan — 7-Day Rotation for Dysphagia"
 description: "A practical 7-day IDDSI Level 5 minced & moist meal plan with protein targets, texture rules, and kitchen tests. Caregiver-ready for home and care homes."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "recipes"
 last_updated: "2026-04-14"

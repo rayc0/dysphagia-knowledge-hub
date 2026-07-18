@@ -1,7 +1,7 @@
 ---
 title: "Mengenali Tanda-Tanda Disfagia pada Lansia: Kapan Harus Memanggil Dokter"
 description: "Panduan praktis untuk pengasuh mengenali gejala disfagia pada lansia — dari tanda-tanda ringan hingga darurat, kapan harus lapor ke dokter, dan alat skrining EAT-10 yang bisa digunakan di rumah."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

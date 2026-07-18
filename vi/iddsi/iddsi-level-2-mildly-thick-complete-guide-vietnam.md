@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Cấp độ 2 — Nước uống Lỏng nhẹ: Hướng dẫn hoàn chỉnh cho Việt Nam"
 description: "Hướng dẫn chi tiết IDDSI Level 2 (Lỏng nhẹ / Mildly Thick) cho bệnh nhân rối loạn nuốt tại Việt Nam — kiểm tra ống tiêm 4–8ml, bằng chứng Robbins 2008, thickener, và thức uống Việt điều chỉnh."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-04-22"

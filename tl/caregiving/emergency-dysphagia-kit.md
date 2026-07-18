@@ -1,7 +1,7 @@
 ---
 title: "Emergency Dysphagia Kit para sa Bahay — Thickener, Suction Device, Emergency Contacts HK, at mga Senyales ng Aspiration Pneumonia"
 description: "Kumpletong gabay sa Tagalog para sa emergency preparedness ng dysphagia sa bahay sa Hong Kong: kung ano ang dapat itago sa bahay, mga senyales ng aspiration pneumonia, kung kailan tumawag ng 999, at emergency contacts sa HK."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"

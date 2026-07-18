@@ -1,7 +1,7 @@
 ---
 title: "臨終吞嚥困難：臨床決策與舒適護理"
 description: "臨終吞嚥困難：臨床決策與舒適護理 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

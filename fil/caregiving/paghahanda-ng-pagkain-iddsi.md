@@ -1,7 +1,7 @@
 ---
 title: "Paano Maghanda ng IDDSI-Compliant na Pagkain sa Bahay"
 description: "Praktikal na gabay para sa mga FDH sa HK — paano gumamit ng blender, thickener, at mga lutuing Pilipino para sa matatandang may dysphagia."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"

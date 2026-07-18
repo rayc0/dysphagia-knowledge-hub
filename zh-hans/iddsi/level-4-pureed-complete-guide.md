@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 4级（糊状）完整指南：标准、检测与居家制作"
 description: "IDDSI第4级糊状饮食（Pureed）深度解析：质地标准定义、勺子倾斜测试与叉子测试方法、糊状食物制作技巧、营养强化策略及大陆居家护理实操建议。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"

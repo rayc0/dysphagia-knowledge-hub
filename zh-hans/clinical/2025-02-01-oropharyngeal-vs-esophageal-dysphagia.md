@@ -1,7 +1,7 @@
 ---
 title: "口咽性吞咽困难与食道性吞咽困难：如何区分，治疗方向有何不同？"
 description: "口咽性与食道性吞咽困难在症状发生时机、卡顿位置、受影响食物类型上均有显著差异，对应不同专科与治疗路径。本文通过实用问诊框架、红旗警示信号与中国大陆转诊指引，帮助照护者与基层医护快速分类。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2025-02-01"

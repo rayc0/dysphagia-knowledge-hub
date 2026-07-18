@@ -1,7 +1,7 @@
 ---
 title: "Mealtime Positioning Protocol for Dysphagia Patients — A Philippine Caregiver Guide"
 description: "Step-by-step seating and head positioning protocol for safe feeding of dysphagia patients, adapted for Filipino homes — 90° chair setup, chin tuck, supervision rules, and post-meal positioning."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-05-18"

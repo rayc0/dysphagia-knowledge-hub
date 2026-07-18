@@ -1,7 +1,7 @@
 ---
 title: "从鼻饲管到经口进食：吞咽康复过渡期照护指南"
 description: "鼻饲管转经口进食全程指南 — 鼻饲管指征与撤管时机、经口进食试验方案、与言语治疗师协作要点、准备就绪信号识别、常见错误规避，以及内地ICU与康复科临床情境下的实用照护建议"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-20"

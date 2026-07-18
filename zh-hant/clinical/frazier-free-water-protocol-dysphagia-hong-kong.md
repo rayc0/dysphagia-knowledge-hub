@@ -1,7 +1,7 @@
 ---
 title: "弗瑞澤自由飲水方案（FFWP）——香港長者照顧完整指南"
 description: "弗瑞澤自由飲水方案讓吞嚥困難患者在嚴格條件下安全飲用清水，改善脫水、提高生活質素，香港醫院管理局及護老院適用指南。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-05-07"

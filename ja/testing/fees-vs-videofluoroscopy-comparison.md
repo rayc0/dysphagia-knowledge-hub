@@ -1,7 +1,7 @@
 ---
 title: "FEES vs VF（嚥下造影）の比較ガイド：嚥下内視鏡検査と嚥下造影の使い分け"
 description: "嚥下機能の2大精密検査、FEES（嚥下内視鏡検査）とVF（嚥下造影/VFS）の完全比較ガイド — 両検査の原理・見えるもの・見えないもの、誤嚥検出精度の比較、適応と禁忌（VF：放射線/造影剤 vs FEES：鼻出血・凝固障害）、検査ができる施設の探し方（日本・香港）、検査結果の読み方と食事形態変更への接続"
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "testing"
 last_updated: "2026-04-19"

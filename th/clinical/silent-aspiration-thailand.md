@@ -1,7 +1,7 @@
 ---
 title: "การสำลักเงียบ (Silent Aspiration) ในผู้สูงอายุ — คู่มือสำหรับครอบครัวและผู้ดูแลในประเทศไทย"
 description: "คู่มือสำลักเงียบ (Silent Aspiration) สำหรับผู้ดูแลผู้สูงอายุไทย ครอบคลุมสาเหตุ สัญญาณเตือน วิธีตรวจคัดกรอง และการป้องกันปอดอักเสบจากการสำลัก"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "clinical"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Cấp độ 5 — Thức ăn Sắt Nhỏ và Ẩm Ướt: Hướng dẫn Hoàn chỉnh cho Việt Nam"
 description: "Hướng dẫn chi tiết IDDSI Level 5 (thức ăn sắt nhỏ và ẩm ướt/細碎及濕軟) cho bệnh nhân rối loạn nuốt, gia đình và người chăm sóc tại Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-04-21"

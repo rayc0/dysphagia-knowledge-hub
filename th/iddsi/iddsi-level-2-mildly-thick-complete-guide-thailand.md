@@ -1,7 +1,7 @@
 ---
 title: "IDDSI ระดับ 2 ของเหลวข้นเล็กน้อย (Mildly Thick) — คู่มือฉบับสมบูรณ์สำหรับประเทศไทย"
 description: "คู่มือ IDDSI ระดับ 2 ของเหลวข้นเล็กน้อย: การทดสอบ Flow Test ข้อบ่งชี้ทางคลินิก การเตรียมที่บ้าน และการป้องกันการขาดน้ำ สำหรับผู้ดูแลและบุคลากรสุขภาพในไทย"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "iddsi"
 last_updated: "2026-04-20"

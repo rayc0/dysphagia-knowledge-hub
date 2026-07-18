@@ -4,7 +4,7 @@ description: "Clinical guide to IDDSI Level 7 Regular diet — prescribing crite
 lang: en
 category: iddsi
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - Level 7

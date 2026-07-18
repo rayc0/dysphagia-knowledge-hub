@@ -1,7 +1,7 @@
 ---
 title: "EAT-10吞嚥障礙篩查量表：香港基層醫療使用指南、評分與轉介標準"
 description: "EAT-10吞嚥困難篩查量表的完整使用指南，包括10條問題的評分方法、香港基層醫療的轉介標準，以及如何配合臨床評估使用，適合家庭醫生及照顧者參考。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "testing"
 last_updated: "2026-05-09"

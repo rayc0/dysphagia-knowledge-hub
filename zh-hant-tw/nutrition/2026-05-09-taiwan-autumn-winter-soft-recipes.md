@@ -8,7 +8,7 @@ tags: [吞嚥障礙, 台灣, 軟食料理, 秋冬飲食, IDDSI, 食譜]
 description: "台灣秋冬季節適合吞嚥障礙患者的軟食料理推薦，涵蓋IDDSI 4-6級食譜、台灣在地食材選用、溫補原則與居家備餐技巧。"
 date: 2026-05-09
 last_updated: "2026-05-09"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 license: "CC BY 4.0"
 canonical: "https://softmeal.org/zh-hant-tw/nutrition/taiwan-autumn-winter-soft-recipes"
 ---

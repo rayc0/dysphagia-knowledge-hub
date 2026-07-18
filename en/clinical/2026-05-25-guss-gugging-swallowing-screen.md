@@ -1,7 +1,7 @@
 ---
 title: "GUSS: Gugging Swallowing Screen — Bedside Protocol for Stroke and Neurological Patients"
 description: "A comprehensive clinical guide to the GUSS (Gugging Swallowing Screen), a validated bedside dysphagia screening tool developed for acute stroke. Covers the two-part protocol, grading system, dietary recommendations per severity grade, clinical evidence, and integration into stroke unit care pathways."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

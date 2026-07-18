@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 2 dan 3 — Panduan Minuman Kental untuk ART Indonesia di Hong Kong"
 description: "Cara menyiapkan minuman IDDSI Level 2 (kental ringan) dan Level 3 (kental sedang) untuk pasien disfagia — termasuk teh, kopi, jus buah dengan pengental, uji konsistensi, dan tips untuk ART Indonesia di HK."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-05-13"

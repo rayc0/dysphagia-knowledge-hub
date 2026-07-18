@@ -5,7 +5,7 @@ description: "Full guide to IDDSI Level 5 Minced and Moist diet: fork test metho
 lang: en
 category: iddsi
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - Level 5

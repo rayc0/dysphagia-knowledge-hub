@@ -1,7 +1,7 @@
 ---
 title: "Penjagaan Mulut untuk Pesakit Disfagia — Mencegah Radang Paru-paru Aspirasi"
 description: "Panduan lengkap penjagaan mulut untuk penjaga pesakit disfagia di Malaysia: protokol gosok gigi dua kali sehari, bukti Yoneyama 2002, kesalahan biasa, dan bila rujuk doktor."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

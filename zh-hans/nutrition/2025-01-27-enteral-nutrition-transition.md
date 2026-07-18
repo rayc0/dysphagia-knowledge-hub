@@ -1,7 +1,7 @@
 ---
 title: "从肠内营养（管饲）到经口进食的营养过渡策略"
 description: "详解吞咽障碍患者从鼻胃管或PEG管饲向经口进食过渡的营养计算、渐进式口腔进食试验、营养摄入记录、常见缺乏及中国三甲医院临床背景，帮助患者和家属安全完成过渡"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-01-27"

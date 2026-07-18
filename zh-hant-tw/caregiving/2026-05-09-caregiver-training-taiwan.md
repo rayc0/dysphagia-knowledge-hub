@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙照護訓練資源與課程：照顧者、護理師、照服員完整指南"
 description: "整理台灣吞嚥障礙照護相關訓練課程與資源，涵蓋長照2.0照服員訓練、語言治療師繼續教育、醫院家屬衛教、線上學習平台及照顧者自學資源，協助提升照護技能與安全。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2026-05-09"

@@ -1,7 +1,7 @@
 ---
 title: "Case Study 5: 75-Year-Old Female Head and Neck Cancer Survivor with Radiation-Induced Dysphagia"
 description: "A case-based learning article following a 75-year-old woman with laryngeal cancer, 3 years post-chemoradiation, presenting with worsening late-onset dysphagia. Covers radiation fibrosis, FEES findings, stricture dilation, IDDSI management, and prophylactic exercise evidence."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

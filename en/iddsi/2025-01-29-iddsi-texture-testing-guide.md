@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Texture Testing at Home: Fork Drip, Spoon Tilt and Fork Pressure Tests Explained"
 description: "A complete step-by-step guide to all IDDSI home texture tests — fork drip test, spoon tilt test, 10 mL syringe flow test with residual volume table, fork pressure test, knife cut test and tongue pressure test. Includes equipment sources in HK, temperature effects on thickeners, troubleshooting, and documentation tips."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "iddsi"
 last_updated: "2025-01-29"

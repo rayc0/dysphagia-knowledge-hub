@@ -1,7 +1,7 @@
 ---
 title: "照护食生产企业合规指南：T/SATA、GB标准与质量管理体系建立"
 description: "面向希望进入老年照护食市场的食品生产企业，系统介绍食品生产许可（SC证）申请、T/SATA 团体标准认证流程、GMP 工厂要求、营养成分表与 IDDSI 等级标注规范、大湾区出口考量及常见审计失误。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: standards
 last_updated: 2025-01-30

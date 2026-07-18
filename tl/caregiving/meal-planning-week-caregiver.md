@@ -1,7 +1,7 @@
 ---
 title: "7-Araw na Meal Plan para sa FDH na Nag-aalaga ng Pasyenteng may Dysphagia (IDDSI L4-L5) — Shopping List at Batch Cooking"
 description: "Kumpletong 7-araw na meal plan sa Tagalog para sa mga FDH sa Hong Kong na nag-aalaga ng pasyenteng may dysphagia sa IDDSI Level 4-5. Kasama ang shopping list, batch cooking tips, at mga sangkap na madaling makuha sa HK wet markets at supermarkets."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"

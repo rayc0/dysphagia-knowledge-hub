@@ -1,7 +1,7 @@
 ---
 title: "Choosing a Thickener for Dysphagia: Starch vs Gum vs Xanthan — A Caregiver's Decision Guide"
 description: "A clinical and practical guide to selecting the right thickening agent for dysphagia management — comparing starch-based, gum-based, and xanthan thickeners across viscosity stability, clarity, cost, amylase interaction, drug interactions, and IDDSI reproducibility. Includes decision tree, mixing guide, and FDA safety warnings."
-author: "Editorial Team Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-11"

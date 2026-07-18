@@ -5,7 +5,7 @@ description: "Clinical comparison of starch-based and xanthan gum-based thickene
 lang: en
 category: equipment
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - thickener
   - starch

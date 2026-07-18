@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 5 碎餐七日輪餐計劃：香港家庭實用食譜"
 description: "IDDSI Level 5（細碎及濕軟）七日輪餐計劃 — 港式家常菜改良版、營養均衡、照顧者煮食貼士。附HKCSS護食產品參考。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "recipes"
 last_updated: "2026-04-17"

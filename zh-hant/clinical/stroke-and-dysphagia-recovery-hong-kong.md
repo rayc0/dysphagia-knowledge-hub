@@ -1,7 +1,7 @@
 ---
 title: "中風後吞嚥困難：復康時程、訓練方法、飲食升級時機"
 description: "中風後吞嚥困難發生率、復康進程、吞嚥訓練方法、IDDSI等級升級標準。香港照顧者與復康專業人員完整指南。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-17"

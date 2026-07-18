@@ -1,7 +1,7 @@
 ---
 title: "食物质地检测方法：护工和家属实用手册"
 description: "吞咽障碍患者食物质地居家检测完整指南：IDDSI测试方法系统说明、常见食材质地判断、居家工具使用技巧、结果记录与SLT沟通建议。适合护工、家属及社区卫生服务中心护理人员使用。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "testing"
 last_updated: "2026-05-09"

@@ -1,7 +1,7 @@
 ---
 title: "中风后吞咽障碍康复：居家护理完整指南"
 description: "脑卒中（中风）后吞咽障碍居家康复全流程：评估筛查、康复训练、质地改良饮食、误吸预防与大陆医疗资源导航。适合家属、护工及社区卫生服务中心医护人员阅读。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-09"

@@ -1,7 +1,7 @@
 ---
 title: "异地照护吞咽障碍老人：跨省、跨城市照护协调实战指南"
 description: "空巢老人与异地子女的照护协调方案 — 本地付费照护者的选用、社区卫生中心与家庭医生签约服务、微信医疗沟通技巧、长护险跨城市使用现状、紧急应急预案，以及老人跌倒或误吸事件的远程响应流程"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-02-02"

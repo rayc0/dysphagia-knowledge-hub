@@ -1,7 +1,7 @@
 ---
 title: "重症肌无力与吞咽障碍：疲劳性吞咽困难的识别与管理"
 description: "重症肌无力（MG）吞咽障碍完整指南（简体中文）— 疲劳性吞咽无力的机制（餐中加重、休息后改善）、球部型与全身型MG的区别、进餐时机优化（疲劳最少时段、清晨、休息后）、少量多餐策略、软食减轻肌肉负担、溴吡斯的明与进餐时机协调、肌无力危象识别（呼吸衰竭急症）、中国大陆MG患者协会资源"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2025-02-04"

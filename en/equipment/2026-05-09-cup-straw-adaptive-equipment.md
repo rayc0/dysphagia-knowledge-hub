@@ -5,7 +5,7 @@ description: "Clinical guide to adaptive cups and straws for dysphagia: spouted,
 lang: en
 category: equipment
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - adaptive cups
   - straws

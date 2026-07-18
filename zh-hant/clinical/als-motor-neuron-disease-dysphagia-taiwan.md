@@ -4,7 +4,7 @@ description: "針對臺灣漸凍人症患者及家屬的吞嚥障礙完整照護
 lang: zh-hant
 category: clinical
 date: 2026-04-15
-author: Dr. Lisa Chen
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags:
   - ALS
   - 漸凍人症

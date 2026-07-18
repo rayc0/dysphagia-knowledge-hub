@@ -1,7 +1,7 @@
 ---
 title: "Tư thế ngồi khi ăn cho người bệnh rối loạn nuốt — Hướng dẫn hoàn chỉnh cho người chăm sóc (Việt Nam)"
 description: "Hướng dẫn tư thế ăn uống đúng cho người rối loạn nuốt: ngồi 90°, cúi cằm, xoay đầu, ngồi sau ăn 30 phút — có căn cứ lâm sàng, phù hợp bối cảnh Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "caregiving"
 last_updated: "2026-04-21"

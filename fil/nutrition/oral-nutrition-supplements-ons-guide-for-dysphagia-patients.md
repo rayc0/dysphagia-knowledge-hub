@@ -1,7 +1,7 @@
 ---
 title: "Oral Nutrition Supplements (ONS) Guide for Filipino Patients with Dysphagia"
 description: "Komprehensibong gabay sa oral nutrition supplements para sa Filipino elderly na may dysphagia—product selection, IDDSI levels, MNA-SF screening, PhilHealth coverage, at dehydration prevention sa tropical climate."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "nutrition"
 last_updated: "2026-05-20"

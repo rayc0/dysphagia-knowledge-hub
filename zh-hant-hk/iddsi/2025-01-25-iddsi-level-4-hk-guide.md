@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 4級糊餐：香港照護者製作與質感測試完整指南"
 description: "本文詳述IDDSI 4級（糊狀餐）的定義、注射器測試方法、適合香港患者的本地食材選擇（蒸水蛋、豆腐花、南瓜泥等）、常見製作錯誤、商業增稠劑使用要點、美觀擺盤技巧，以及儲存與翻熱安全指引，適合照顧中至重度吞嚥困難長者的香港家庭照顧者參閱。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-25"

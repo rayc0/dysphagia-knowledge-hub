@@ -1,7 +1,7 @@
 ---
 title: "End-of-Life Dysphagia: Clinical Decision-Making and Comfort Care"
 description: "A clinical guide to dysphagia management at end of life — including goals-of-care principles, the evidence against tube feeding in terminal illness, comfort feeding approaches, oral hygiene in the dying patient, family communication, and ethical frameworks."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

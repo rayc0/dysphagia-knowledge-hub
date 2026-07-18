@@ -1,7 +1,7 @@
 ---
 title: "家属的心理负担与支持：照顾者抑郁筛查、预期哀伤与喘息服务"
 description: "吞咽障碍患者的家庭照顾者承受巨大心理压力，抑郁、焦虑与预期哀伤发生率高。本文介绍CES-D照顾者筛查、沟通技巧培训、国内喘息服务资源及家属支持小组。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-13"

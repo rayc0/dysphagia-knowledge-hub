@@ -4,7 +4,7 @@ description: "为内地吞咽困难长者准备的高蛋白软食食谱集：每
 lang: zh-hans
 category: recipes
 date: 2026-04-15
-author: 吞咽困难知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 软食
   - 高蛋白

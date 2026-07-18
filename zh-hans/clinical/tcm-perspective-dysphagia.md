@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍的中医视角——古籍记载、辨证论治与现代康复结合"
 description: "从《金匮要略》噎膈到现代中医康复，系统梳理中医对吞咽障碍的认识、治疗方法及与 IDDSI 饮食管理的结合点。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-13"

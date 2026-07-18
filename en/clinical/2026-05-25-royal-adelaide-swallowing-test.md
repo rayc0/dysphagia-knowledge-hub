@@ -1,7 +1,7 @@
 ---
 title: "Royal Adelaide Prognostic Index for Dysphagia Stroke (RAPIDS): Clinical Guide"
 description: "A clinical guide to the Royal Adelaide Prognostic Index for Dysphagia Stroke (RAPIDS), a tool for predicting dysphagia outcomes at 6 months post-stroke. Covers scoring variables, validation, clinical interpretation, and use alongside other dysphagia assessments."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

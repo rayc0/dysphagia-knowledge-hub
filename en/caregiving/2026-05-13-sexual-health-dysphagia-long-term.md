@@ -5,7 +5,7 @@ description: "How chronic dysphagia affects intimate relationships, strategies f
 lang: en
 category: caregiving
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - intimacy
   - relationships

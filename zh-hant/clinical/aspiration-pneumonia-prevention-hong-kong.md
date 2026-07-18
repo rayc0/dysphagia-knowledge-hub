@@ -1,7 +1,7 @@
 ---
 title: "吸入性肺炎：吞嚥困難點解會引起肺炎，質構調整飲食點樣預防"
 description: "深入解析吸入性肺炎嘅病理機制、高危人群、循證預防策略。涵蓋口腔護理、體位管理、質構調整飲食嘅證據基礎。照顧者與護理人員必讀。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-17"

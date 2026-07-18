@@ -1,7 +1,7 @@
 ---
 title: "香港廣東菜IDDSI等級對照表：粵菜與港式食物嘅質感分級指引"
 description: "香港常見廣東菜及港式食物的IDDSI質地等級詳細對照：白粥、艇仔粥、蒸水蛋、豆腐花、腸粉、魚蛋、燒賣、叉燒、走地雞、蠔仔粥、紅豆湯、芋頭糕等的質地分級，以及點心風險評估表。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-23"

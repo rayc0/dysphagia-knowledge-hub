@@ -1,7 +1,7 @@
 ---
 title: "兒童吞嚥困難：病因、評估與管理概覽"
 description: "兒童吞嚥困難：病因、評估與管理概覽 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

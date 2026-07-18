@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Cấp độ 3 — Nước uống Lỏng vừa và Thức ăn Lỏng mịn: Hướng dẫn hoàn chỉnh cho Việt Nam"
 description: "Hướng dẫn chi tiết IDDSI Level 3 (Lỏng vừa / Liquidised) cho bệnh nhân rối loạn nuốt, gia đình và người chăm sóc tại Việt Nam — bao gồm kiểm tra ống tiêm, bằng chứng Robbins 2008, và món ăn Việt điều chỉnh."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-04-22"

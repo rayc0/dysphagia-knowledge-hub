@@ -1,7 +1,7 @@
 ---
 title: "การดูแลช่องปากสำหรับผู้ป่วยกลืนลำบาก — ป้องกันปอดอักเสบจากการสำลัก"
 description: "แนวทางการดูแลช่องปากสำหรับผู้ดูแลผู้ป่วยกลืนลำบาก การแปรงฟันสม่ำเสมอลดความเสี่ยงปอดอักเสบจากการสำลักได้ถึง 40% พร้อมขั้นตอนปฏิบัติและหลักฐานงานวิจัย"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "caregiving"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI在台灣醫院與長照機構的實施現況：從政策推廣到落地執行"
 description: "深入解析IDDSI國際飲食質地分類框架在台灣醫院及長照機構2.0體系的推廣進展、實施挑戰、食材標準化，以及台灣食藥署相關食品標示政策。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "iddsi"
 last_updated: "2026-05-09"

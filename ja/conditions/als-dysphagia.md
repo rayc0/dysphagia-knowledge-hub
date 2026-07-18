@@ -1,7 +1,7 @@
 ---
 title: "ALS/筋萎縮性側索硬化症と嚥下障害：PEG造設のタイミング、呼吸管理との協調、終末期栄養"
 description: "ALS/MND嚥下障害完全ガイド（日本語）— ALS嚥下障害発生率（2年以内80%）、球麻痺型vs肢体型発症の違い、舌萎縮・線維束性収縮・流涎の臨床的意義、PEG最適タイミング（FVC>50%）、BiPAP使用中の食事スケジュール、高カロリー・高脂質食戦略（35-45 kcal/kg/日）、IDDSI段階別テクスチャー管理、終末期における経口摂取の選択"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "conditions"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "FEES（Flexible Endoscopic Evaluation of Swallowing，軟式內視
 lang: zh-hant
 category: testing
 date: 2026-04-15
-author: Raymond
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags:
   - FEES
   - 吞嚥檢查

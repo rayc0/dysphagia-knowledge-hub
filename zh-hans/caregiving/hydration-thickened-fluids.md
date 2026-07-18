@@ -1,7 +1,7 @@
 ---
 title: "增稠液体水分补充策略"
 description: "吞咽障碍患者使用增稠液体时如何有效补充水分：每日液体目标、补液方法、脱水早期识别、高含水量食物替代补液及Frazier自由饮水方案适用性评估。护工与家属实用指南。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

@@ -1,7 +1,7 @@
 ---
 title: "Ung thư đầu cổ và rối loạn nuốt — Hướng dẫn phục hồi chức năng nuốt toàn diện cho bệnh nhân và gia đình (Việt Nam)"
 description: "Rối loạn nuốt sau xạ trị ung thư đầu cổ: nguyên nhân, đánh giá, bài tập phòng ngừa, phục hồi và dinh dưỡng — hướng dẫn lâm sàng dành cho bệnh nhân và người chăm sóc tại Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-04-22"

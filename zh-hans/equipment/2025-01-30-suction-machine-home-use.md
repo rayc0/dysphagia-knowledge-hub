@@ -1,7 +1,7 @@
 ---
 title: "居家吸痰机：吞咽障碍患者照护者使用指南与注意事项"
 description: "面向吞咽障碍患者家庭照护者的吸痰机完整指南，涵盖适应症与禁忌症、大陆二类医疗器械购买要求、正确操作技术、紧急处置规程、设备维护及费用与医保报销参考。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: equipment
 last_updated: 2025-01-30

@@ -1,7 +1,7 @@
 ---
 title: "Stroke at Rebolusyon ng Pagkain: Gabay sa Pagpapabuti ng Pagsisigasig para sa Mga Pasyenteng Pilipino at Pamilya"
 description: "Kung paano ang gutom at pagsisigasig ay nagiging komplikado pagkatapos ng stroke sa Pilipinas—pangunahing gabay na may rekomendasyon mula sa Philippine Academy of Rehabilitation Medicine at Stroke Society of the Philippines."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "clinical"
 last_updated: "2026-05-13"

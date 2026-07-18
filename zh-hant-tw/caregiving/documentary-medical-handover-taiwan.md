@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難病歷記錄與醫療交接：家屬必備清單"
 description: "台灣吞嚥障礙患者家屬的醫療文件管理與交接指南——如何建立完整的吞嚥管理記錄、跨院所就醫時的資訊交接、緊急就醫時的關鍵資訊攜帶清單，以及台灣健保雲端查詢工具的運用。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-13

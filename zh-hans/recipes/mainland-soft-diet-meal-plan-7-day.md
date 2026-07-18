@@ -4,7 +4,7 @@ description: "为内地家庭设计的 7 天吞咽友善软食谱规划。包含
 lang: zh-hans
 category: recipes
 date: 2026-04-15
-author: Dr. Eric Hui
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 软食谱
   - 吞咽障碍

@@ -1,7 +1,7 @@
 ---
 title: "高能量软食食谱集——吞咽障碍患者营养强化实践"
 description: "针对吞咽障碍患者能量不足问题的实用营养强化指南：7种家庭营养强化法、高能量饮品食谱（芝麻糊奶粉版350kcal等）、高能量主食方案，每款含制作步骤、IDDSI等级、热量蛋白质含量及超市可购食材清单。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "recipes"
 last_updated: "2026-05-13"

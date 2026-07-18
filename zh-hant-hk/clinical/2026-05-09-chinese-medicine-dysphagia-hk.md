@@ -1,7 +1,7 @@
 ---
 title: "中醫針灸與中藥在香港吞嚥困難康復中的應用：現有實證與注意事項"
 description: "香港中醫治療吞嚥困難的現有研究實證、常用針灸穴位、中藥輔助方案，以及中西醫協作的注意事項與安全守則，供患者及照顧者參考。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"

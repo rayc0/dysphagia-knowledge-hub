@@ -1,7 +1,7 @@
 ---
 title: "中华传统菜肴的质地改良方法：保留风味的IDDSI分级实践指南"
 description: "将红烧肉、清蒸鱼、炒青菜、饺子等传统中国菜肴按IDDSI标准进行质地改良，在确保进食安全的同时，最大限度保留文化饮食体验。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: nutrition
 last_updated: 2026-05-09

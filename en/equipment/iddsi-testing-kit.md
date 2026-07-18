@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Testing Kit — What to Buy for HK$30 to Test Foods at Home"
 description: "Build a complete IDDSI home testing kit for under HK$30 using items from any Hong Kong pharmacy. Step-by-step guides for all four official tests: syringe flow, fork drip, spoon tilt, and fork pressure."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-12"

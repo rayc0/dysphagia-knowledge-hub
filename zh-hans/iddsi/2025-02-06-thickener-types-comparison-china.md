@@ -1,7 +1,7 @@
 ---
 title: "增稠剂类型全对比：淀粉基 vs 黄原胶，内地市场选购指南"
 description: "淀粉基与黄原胶增稠剂在安全性、稳定性、价格上存在根本差异。本文系统对比两类增稠剂的工作原理、优缺点、内地可购产品，以及如何用注射器流量测试验证效果。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2025-02-06"

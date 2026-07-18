@@ -1,7 +1,7 @@
 ---
 title: "建立吞咽障碍患者的规律进餐routine：照护者实战指南"
 description: "吞咽障碍患者规律进餐日常建立指南 — 规律化进餐对吞咽的认知预备与生理意义，完整的每日进餐时间表示例，进食环境设置（采光、噪音、座椅），餐前口腔感觉刺激方案，进食节奏控制技巧，以及如何让其他家庭成员参与照护分工"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-01-25"

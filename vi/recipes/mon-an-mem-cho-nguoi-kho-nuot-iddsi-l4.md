@@ -1,7 +1,7 @@
 ---
 title: "Món ăn mềm IDDSI cấp 4 cho người khó nuốt — Công thức Việt Nam"
 description: "Công thức nấu ăn thực tế cho người khó nuốt cần thức ăn IDDSI cấp 4 (nghiền mịn): cháo thịt, cháo cá, khoai nghiền, tàu hũ non và các món tráng miệng mềm phù hợp khẩu vị người Việt."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "recipes"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "Omega-3脂肪酸与吞咽障碍：改善脑健康、减少炎症的营养策略"
 description: "系统介绍Omega-3脂肪酸（DHA/EPA）在神经可塑性和卒中后康复中的作用，适合质地改良饮食的Omega-3食物来源与补充剂方案，以及在中国大陆获取鱼油制品的实用建议"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-01-25"

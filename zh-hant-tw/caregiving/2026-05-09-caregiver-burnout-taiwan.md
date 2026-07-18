@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙照護者身心耗竭：識別症狀與尋求支援資源"
 description: "說明台灣吞嚥障礙照護者常見的身心耗竭徵兆，介紹家總1966專線、照顧者關懷專線、線上支持團體及長照2.0喘息服務的申請方法與使用建議。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-09

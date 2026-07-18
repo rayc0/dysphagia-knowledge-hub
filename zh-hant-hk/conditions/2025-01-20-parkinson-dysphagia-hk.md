@@ -1,7 +1,7 @@
 ---
 title: "柏金遜症與吞嚥困難：香港患者及照顧者完整指南"
 description: "柏金遜症吞嚥困難的全面指南：柏金遜症對吞嚥的具體影響、李施文聲音治療（LSVT）、呼氣肌力訓練（EMST）、飲食進程時間表、左旋多巴與餐食的時間配合，以及香港柏金遜症基金會和醫管局老人科外展資源。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "conditions"
 last_updated: "2025-01-20"

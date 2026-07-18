@@ -4,7 +4,7 @@ description: "為台灣巴金森氏症患者家屬準備的吞嚥困難照護指
 lang: zh-hant
 category: clinical
 date: 2026-04-15
-author: 吞嚥困難知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags:
   - 巴金森氏症
   - 吞嚥困難

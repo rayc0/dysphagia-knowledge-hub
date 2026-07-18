@@ -1,7 +1,7 @@
 ---
 title: "病例研究3：68歲女性柏金遜症與進行性吞嚥困難"
 description: "病例研究3：68歲女性柏金遜症與進行性吞嚥困難 — 吞嚥困難臨床指南"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

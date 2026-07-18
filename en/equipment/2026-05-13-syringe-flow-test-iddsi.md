@@ -5,7 +5,7 @@ description: "Step-by-step guide to the IDDSI syringe flow test for classifying 
 lang: en
 category: equipment
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - syringe flow test

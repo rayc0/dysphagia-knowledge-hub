@@ -1,7 +1,7 @@
 ---
 title: "FOIS: Functional Oral Intake Scale — Clinical Guide and Rehabilitation Tracking"
 description: "A clinical guide to the FOIS (Functional Oral Intake Scale), a validated 7-level ordinal scale measuring actual oral intake in dysphagic patients. Covers level descriptors, reliability, sensitivity to change, and use in rehabilitation goal-setting and outcome measurement."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

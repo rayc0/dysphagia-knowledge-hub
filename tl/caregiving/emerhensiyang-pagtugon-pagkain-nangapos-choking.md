@@ -1,7 +1,7 @@
 ---
 title: "Emergency: Ano ang Gagawin Kapag Nangapos ang Inyong Employer (Choking Response para sa mga DH sa HK)"
 description: "Hakbang-hakbang na gabay para sa mga domestic helper sa Hong Kong sa kung paano tumugon kapag nangapos ang matatandang employer. Kasama ang Heimlich manoeuvre, pagtatawag ng 999, at post-emergency documentation."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"

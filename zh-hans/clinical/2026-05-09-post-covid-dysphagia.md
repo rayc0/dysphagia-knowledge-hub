@@ -1,7 +1,7 @@
 ---
 title: "新冠后遗症相关吞咽障碍：发生机制、评估与康复"
 description: "面向中国临床医生和照护者，系统介绍新冠感染后吞咽障碍的发生机制、临床表现、评估方法及循证康复策略。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

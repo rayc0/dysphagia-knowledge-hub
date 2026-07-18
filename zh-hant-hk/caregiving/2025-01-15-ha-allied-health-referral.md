@@ -1,7 +1,7 @@
 ---
 title: "香港醫院管理局吞嚥困難相關服務：轉介流程、等候時間及實用建議"
 description: "詳解香港醫管局吞嚥困難轉介路徑：普通科門診與急症醫院轉介分別、言語治療及營養師服務、各聯網等候時間、私家與資助服務比較、非政府機構替代選擇及如何申請VFSS/FEES評估。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-15"

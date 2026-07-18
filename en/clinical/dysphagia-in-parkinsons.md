@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia in Parkinson's Disease — Symptoms, Progression, Diet Adjustments"
 description: "A clinical overview of swallowing difficulties in Parkinson's disease: how common it is, why it happens, warning signs, and practical diet management strategies."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-13"

@@ -1,7 +1,7 @@
 ---
 title: "中国医院吞咽障碍诊疗规范化路径：从筛查到多学科团队管理"
 description: "系统介绍中国医院吞咽障碍标准化诊疗路径，涵盖筛查工具、评估流程、多学科团队组成及干预规范，适用于三甲医院及康复科临床实践。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

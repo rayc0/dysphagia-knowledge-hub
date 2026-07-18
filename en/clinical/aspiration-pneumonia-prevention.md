@@ -1,7 +1,7 @@
 ---
 title: "Aspiration Pneumonia: Why Dysphagia Causes It and How Texture-Modified Diets Prevent It"
 description: "A clinical deep-dive into aspiration pneumonia — definition, pathophysiology, epidemiology, the Robbins 2008 evidence controversy, oral hygiene, positioning protocols, and how texture modification fits into a multi-pronged prevention strategy."
-author: Dr. Lisa Chen
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-11"

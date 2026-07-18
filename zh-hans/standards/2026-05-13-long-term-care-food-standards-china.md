@@ -6,7 +6,7 @@ categories: [standards]
 tags: [养老机构, 膳食标准, GB/T 35796, 质地改良饮食, 老年照护]
 description: "解读《养老机构服务规范》GB/T 35796及相关政策文件中对特殊膳食和吞咽障碍饮食的要求，分析地方标准差异及执行现状。"
 date: 2026-05-13
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 中国养老机构吞咽障碍膳食标准：政策依据与地方差异

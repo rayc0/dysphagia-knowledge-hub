@@ -1,7 +1,7 @@
 ---
 title: "Các phương pháp đánh giá rối loạn nuốt — Hướng dẫn toàn diện cho bác sĩ, kỹ thuật viên và người chăm sóc tại Việt Nam"
 description: "Tổng quan đầy đủ về các phương pháp đánh giá rối loạn nuốt tại Việt Nam: EAT-10, GUSS, MASA, FEES, VFSS và đánh giá lâm sàng tại giường bệnh."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "testing"
 last_updated: "2026-04-21"

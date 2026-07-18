@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥照護者支持資源大全：專線、協會、縣市資源一次掌握"
 description: "整理台灣吞嚥障礙照護者可使用的完整支持資源，涵蓋1966長照專線、1925安心專線、家庭照顧者關懷總會、各縣市長照管理中心及吞嚥障礙相關協會聯絡方式。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-09

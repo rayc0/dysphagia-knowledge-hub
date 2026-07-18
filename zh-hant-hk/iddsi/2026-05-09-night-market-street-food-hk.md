@@ -1,7 +1,7 @@
 ---
 title: "香港街頭小食與吞嚥困難：哪些可安全享用，哪些要避免"
 description: "香港街頭小食及夜市食品的吞嚥安全評估，涵蓋魚蛋、雞蛋仔、咖喱魷魚、廟街食品的IDDSI分析，以及照顧者帶患者外出時的實用安全策略。"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2026-05-09"

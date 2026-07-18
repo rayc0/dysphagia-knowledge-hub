@@ -1,7 +1,7 @@
 ---
 title: "台灣夏季吞嚥障礙軟食食譜推薦：消暑又安全的在地食材選擇"
 description: "專為台灣吞嚥障礙患者設計的夏季軟食食譜，運用絲瓜、冬瓜、豆腐、木瓜等台灣當季食材，符合IDDSI Level 4–6標準，兼顧營養、安全與飲食樂趣。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "nutrition"
 date: 2026-05-09

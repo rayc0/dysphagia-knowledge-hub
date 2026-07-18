@@ -1,7 +1,7 @@
 ---
 title: "연하장애 환자를 위한 한국식 아침식사 — 죽·미음·계란찜·오트밀 질감 조정 가이드"
 description: "연하장애 환자를 위한 한국식 아침식사 레시피: IDDSI Level 4·5·6에 맞춘 죽, 미음, 계란찜, 오트밀, 두유 수프 변형과 실전 조리법."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "recipes"
 last_updated: "2026-04-19"

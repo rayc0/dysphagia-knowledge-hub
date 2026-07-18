@@ -4,7 +4,7 @@ description: "系统介绍 NMES 与 VitalStim 在吞咽障碍康复中的应用�
 lang: zh-hans
 category: clinical
 date: 2026-05-04
-author: SeniorDeli 临床团队
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 # 神经肌肉电刺激（NMES）与 VitalStim 治疗吞咽障碍——循证依据、参数方案与临床决策

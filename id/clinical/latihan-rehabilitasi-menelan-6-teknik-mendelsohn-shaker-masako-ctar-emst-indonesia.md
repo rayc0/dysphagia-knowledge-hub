@@ -1,7 +1,7 @@
 ---
 title: "Latihan Rehabilitasi Menelan — 6 Teknik Berbasis Bukti untuk Pasien Disfagia di Indonesia"
 description: "Panduan lengkap 6 latihan menelan terstandarisasi (Mendelsohn, Shaker, Masako, CTAR, Effortful Swallow, EMST) dengan bukti klinis, protokol latihan, dan konteks layanan kesehatan Indonesia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "clinical"
 last_updated: "2026-04-23"

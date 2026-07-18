@@ -1,7 +1,7 @@
 ---
 title: "饮水测试（WST）：床边吞咽困难筛查方案"
 description: "饮水测试（WST）：床边吞咽困难筛查方案 — 吞咽困难临床指南"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

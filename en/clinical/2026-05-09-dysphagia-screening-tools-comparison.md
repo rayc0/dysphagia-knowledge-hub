@@ -4,7 +4,7 @@ description: "Evidence-based comparison of four bedside dysphagia screening tool
 lang: en
 category: clinical
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - dysphagia screening
   - EAT-10

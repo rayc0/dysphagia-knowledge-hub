@@ -1,7 +1,7 @@
 ---
 title: "IDDSI汤匙倾斜测试：验证泥状及轻度增稠质地"
 description: "IDDSI汤匙倾斜测试：验证泥状及轻度增稠质地 — 吞咽困难临床指南"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

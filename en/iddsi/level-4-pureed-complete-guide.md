@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 4 (Pureed) — Complete Caregiver & Clinical Guide"
 description: "Everything caregivers and clinicians need to know about IDDSI Level 4 Pureed diet: official tests, who qualifies, nutrition risks, home prep, and clinical hand-off."
-author: Dr. Eric Hui
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "iddsi"
 last_updated: "2026-04-11"

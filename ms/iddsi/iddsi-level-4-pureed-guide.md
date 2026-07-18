@@ -1,7 +1,7 @@
 ---
 title: "Panduan IDDSI Tahap 4 (Makanan Tumbuk Licin): Penyediaan, Ujian dan Penjagaan Pemakanan"
 description: "Panduan lengkap IDDSI Tahap 4 (Pureed, makanan tumbuk licin) dalam Bahasa Melayu — sifat fizikal makanan tumbuk licin, cara ujian sudu dan garpu, makanan tradisi Melayu yang sesuai untuk Tahap 4, cara menumbuk makanan biasa, risiko pencairan berlebihan dan strategi fortifikasi kalori, nasihat ahli patologi pertuturan"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "iddsi"
 canonical: "https://softmeal.org/ms/iddsi/iddsi-level-4-pureed-guide"

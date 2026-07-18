@@ -1,7 +1,7 @@
 ---
 title: "沙克爾運動與下頷抗阻訓練（CTAR）——舌骨上肌群強化在台灣吞嚥復健的應用"
 description: "完整指南：沙克爾運動與CTAR的臨床應用、對比、台灣復健指南整合，及循證治療證據。"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-05-08"

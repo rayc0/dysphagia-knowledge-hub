@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 测试工具包：家庭版自测指南"
 description: "居家自制IDDSI测试工具包完整指南：所需工具清单、叉子倾流测试、勺子倾斜测试、注射器流速测试方法、常见测试错误纠正及测试结果记录表。适合家属、护工及社区护理人员使用。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "equipment"
 last_updated: "2026-05-09"

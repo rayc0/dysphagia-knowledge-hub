@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 5 vs Level 6 — The Most-Confused Boundary, Explained"
 description: "The definitive clinical and kitchen guide to distinguishing IDDSI Level 5 (Minced & Moist) from Level 6 (Soft & Bite-Sized): official test criteria, food-by-food walkthroughs, the five most common kitchen errors, audit checklists, and when clinicians step a patient down from L6 to L5."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "iddsi"
 last_updated: "2026-04-11"

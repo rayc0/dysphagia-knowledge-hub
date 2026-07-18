@@ -1,7 +1,7 @@
 ---
 title: "香港公私立言語治療評估吞嚥功能的流程與注意事項"
 description: "本文詳述香港公立（醫管局）及私立診所進行臨床吞嚥評估（CSE）的流程，言語治療師的觀察項目，與VFSS及FEES的分別，照顧者在預約前應準備的資料，以及如何解讀言語治療師的評估報告。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "testing"
 last_updated: "2025-01-18"

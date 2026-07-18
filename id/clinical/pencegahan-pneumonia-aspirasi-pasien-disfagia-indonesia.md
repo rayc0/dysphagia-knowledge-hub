@@ -1,7 +1,7 @@
 ---
 title: "Pencegahan Pneumonia Aspirasi — Panduan Lengkap untuk Pasien Disfagia dan Keluarga di Indonesia"
 description: "Panduan berbasis bukti tentang pencegahan pneumonia aspirasi pada pasien disfagia di Indonesia: 5 strategi kunci, data lokal, peran BPJS, dan tanda bahaya."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "clinical"
 last_updated: "2026-04-23"

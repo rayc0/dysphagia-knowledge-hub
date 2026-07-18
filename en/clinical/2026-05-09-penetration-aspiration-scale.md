@@ -5,7 +5,7 @@ description: "A plain-language and clinical guide to the 8-point Penetration-Asp
 lang: en
 category: clinical
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - penetration aspiration scale
   - PAS

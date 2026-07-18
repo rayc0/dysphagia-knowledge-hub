@@ -1,7 +1,7 @@
 ---
 title: "Pediatric Dysphagia: An Overview of Causes, Assessment, and Management"
 description: "An introductory clinical guide to pediatric dysphagia — its distinct aetiology from adult dysphagia, key causes (prematurity, cerebral palsy, structural anomalies), assessment approach, IDDSI application in children, and the role of multidisciplinary feeding teams."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

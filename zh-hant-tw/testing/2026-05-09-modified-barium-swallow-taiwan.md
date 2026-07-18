@@ -1,7 +1,7 @@
 ---
 title: "台灣videofluoroscopic吞嚥攝影（VFSS/MBS）：哪裡做、如何準備、健保給付與報告解讀"
 description: "完整說明台灣VFSS吞嚥攝影檢查的執行醫院、預約流程、檢查當天準備事項、全民健保給付條件、自費費用參考及如何理解檢查報告與後續飲食建議。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "testing"
 last_updated: "2026-05-09"

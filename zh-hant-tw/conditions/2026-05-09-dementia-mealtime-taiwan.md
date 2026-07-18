@@ -1,7 +1,7 @@
 ---
 title: "台灣失智症進食困難：以人為中心的用餐策略與長照資源"
 description: "為台灣失智症照護者設計的進食困難指南，涵蓋行為介入策略、以人為中心的進餐照護，以及長照2.0失智症專案資源申請方法。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 date: 2026-05-09

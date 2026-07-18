@@ -4,7 +4,7 @@ description: "Why soft and pureed foods have fewer calories, fortification strat
 lang: en
 category: nutrition
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - energy density
   - fortification

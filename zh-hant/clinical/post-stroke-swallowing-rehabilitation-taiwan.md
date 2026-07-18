@@ -1,7 +1,7 @@
 ---
 title: "中風後吞嚥訓練完整指南 — 復健時程、再評估時機與關鍵訓練動作（台灣臨床版）"
 description: "依 2024 台灣腦中風學會吞嚥障礙照護指引整理：急性期篩檢、VFSS 時機、孟德森手法、Shaker 運動、鼻胃管移除條件與長照 2.0 服務。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-14"

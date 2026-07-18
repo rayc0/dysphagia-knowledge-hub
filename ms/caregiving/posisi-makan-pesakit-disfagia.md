@@ -1,7 +1,7 @@
 ---
 title: "Posisi Badan Semasa Makan untuk Pesakit Disfagia: Panduan Lengkap Penjaga"
 description: "Panduan berasaskan bukti untuk penjaga tentang cara meletakkan pesakit disfagia dengan selamat semasa makan — peraturan 90-90-90, teknik chin tuck, dan protokol 30 minit selepas makan."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

@@ -5,7 +5,7 @@ description: "Institutional documentation standards for dysphagia mealtime care:
 lang: en
 category: standards
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - documentation
   - care homes

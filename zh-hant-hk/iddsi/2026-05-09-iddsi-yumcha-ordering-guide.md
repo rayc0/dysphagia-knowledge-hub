@@ -1,7 +1,7 @@
 ---
 title: "飲茶點心的IDDSI友好點法指南：安全點餐策略與質地替換建議"
 description: "為吞嚥困難患者及照顧者提供香港酒樓飲茶的IDDSI友好點餐指南，包括各類點心的質地評級、危險食品提示及向侍應提出特別要求的技巧。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 tags: [吞嚥困難, 飲茶, 點心, IDDSI, 香港, 外出用膳]

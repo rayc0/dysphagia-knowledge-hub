@@ -1,7 +1,7 @@
 ---
 title: "肌少症性吞嚥障礙——診斷標準、Wakabayashi 框架與復健營養三聯療法（台灣版）"
 description: "肌少症性吞嚥障礙是因全身骨骼肌萎縮導致吞嚥肌群力量下降的老年吞嚥失能，本文涵蓋診斷演算法、舌壓20 kPa切點、台灣臨床資料與復健營養口腔三聯療法。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-18"

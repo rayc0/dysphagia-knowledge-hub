@@ -1,7 +1,7 @@
 ---
 title: "创伤性脑损伤后吞咽障碍：脑外伤康复期的饮食管理"
 description: "创伤性脑损伤（TBI）吞咽障碍完整指南（简体中文）— 损伤部位与吞咽障碍类型的关系、认知-沟通因素对进食的影响（冲动性/自我监控障碍/疲劳/记忆）、Ranchos Los Amigos认知量表分级与对应饮食策略、住院康复期饮食进阶、回归社区过渡、行为性进食挑战管理、家属在TBI康复中的角色、中国大陆TBI康复资源"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "conditions"
 last_updated: "2025-02-03"

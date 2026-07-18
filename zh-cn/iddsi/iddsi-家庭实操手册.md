@@ -1,7 +1,7 @@
 ---
 title: "IDDSI家庭实操手册：叉子压力测试、汤匙倾斜测试、注射器流速测试"
 description: "手把手教你用三种IDDSI标准测试方法在家中判断食物质地和饮料浓稠度级别，无需专业设备，适合居家照护人员和养老机构照护员。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"

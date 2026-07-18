@@ -1,7 +1,7 @@
 ---
 title: "Tracking Hydration for Dysphagia Patients: The 8-Cup Target, Counting Thickened Fluids, and HK Summer Heat Risk"
 description: "A practical caregiver guide to monitoring fluid intake in dysphagia patients: why dehydration is common, how to count thickened fluids correctly, signs of dehydration in elderly, the 8-cup target adjusted for body weight, and the specific Hong Kong summer heat risk from May to September."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2026-05-13"

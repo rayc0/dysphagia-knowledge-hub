@@ -1,7 +1,7 @@
 ---
 title: "Hướng dẫn cho ăn an toàn cho người bệnh khó nuốt — Quy trình toàn diện cho người chăm sóc"
 description: "Hướng dẫn từng bước cho người chăm sóc về cách cho ăn an toàn cho người bệnh khó nuốt (rối loạn nuốt): chuẩn bị bữa ăn, kỹ thuật cho ăn, nhận biết dấu hiệu nguy hiểm và ứng phó khẩn cấp."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "caregiving"
 last_updated: "2026-05-13"

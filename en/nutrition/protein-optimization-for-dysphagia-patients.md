@@ -4,7 +4,7 @@ description: "Comprehensive clinical guide to protein intake for dysphagia patie
 lang: en
 category: nutrition
 date: 2026-04-15
-author: Dr. Eric Hui
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - protein
   - nutrition

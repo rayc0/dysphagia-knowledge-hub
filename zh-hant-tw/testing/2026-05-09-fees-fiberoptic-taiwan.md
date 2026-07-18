@@ -1,7 +1,7 @@
 ---
 title: "台灣軟式鼻咽喉內視鏡吞嚥檢查（FEES）：健保與自費、流程說明、各院可用性"
 description: "詳細介紹台灣FEES軟式鼻咽喉內視鏡吞嚥評估的執行醫院、健保給付條件、自費費用、檢查流程與VFSS比較，協助患者選擇最適合的吞嚥儀器評估方式。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "testing"
 last_updated: "2026-05-09"

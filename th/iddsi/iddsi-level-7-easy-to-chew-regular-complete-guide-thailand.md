@@ -1,7 +1,7 @@
 ---
 title: "IDDSI ระดับ 7 อาหารเคี้ยวง่ายและอาหารปกติ — คู่มือฉบับสมบูรณ์สำหรับประเทศไทย"
 description: "คู่มือ IDDSI ระดับ 7 ฉบับไทย — แยกความต่างระหว่าง 7 Easy to Chew กับ 7 Regular วิธีทดสอบ เมนูไทยที่เหมาะสม และเกณฑ์การปรับขึ้นระดับ"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "iddsi"
 last_updated: "2026-04-20"

@@ -1,7 +1,7 @@
 ---
 title: "国家卫生健康委吞咽障碍康复专家共识解读：2017版与2023更新要点"
 description: "深度解读国家卫健委支持发布的吞咽障碍康复专家共识2017版核心内容及2023年更新要点，涵盖评估工具、康复技术、多学科管理及最新循证依据。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

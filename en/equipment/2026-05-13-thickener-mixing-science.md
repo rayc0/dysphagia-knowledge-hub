@@ -5,7 +5,7 @@ description: "Why starch and xanthan gum thickeners behave differently, how sali
 lang: en
 category: equipment
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - thickener
   - xanthan gum

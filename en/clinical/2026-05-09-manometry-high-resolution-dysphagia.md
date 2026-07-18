@@ -5,7 +5,7 @@ description: "High-resolution manometry (HRM) for dysphagia: what it measures, C
 lang: en
 category: clinical
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - manometry
   - high-resolution manometry

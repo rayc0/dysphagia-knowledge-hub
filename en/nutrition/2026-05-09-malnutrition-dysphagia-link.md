@@ -4,7 +4,7 @@ description: "How dysphagia drives malnutrition and vice versa — screening wit
 lang: en
 category: nutrition
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - malnutrition
   - dysphagia

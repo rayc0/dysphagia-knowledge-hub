@@ -1,7 +1,7 @@
 ---
 title: "Rối loạn nuốt sau COVID-19 và Long COVID — Hướng dẫn lâm sàng và phục hồi chức năng (Việt Nam)"
 description: "Rối loạn nuốt sau COVID-19 ảnh hưởng đến 50–94% bệnh nhân thở máy. Tìm hiểu cơ chế, triệu chứng, đánh giá và phục hồi chức năng trong bối cảnh Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-04-21"

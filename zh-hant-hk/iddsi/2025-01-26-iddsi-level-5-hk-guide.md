@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 5級軟碎餐：香港照護者選食與製作完整指引"
 description: "本文詳述IDDSI 5級（軟碎及濕潤餐）的定義、叉壓測試、4mm顆粒大小判斷方法、適合香港患者的本地食物（蒸魚片、雞蛋豆腐、腸粉等）、醬汁的關鍵重要性、常見錯誤，以及在香港餐廳及街市的實用選食技巧。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-26"

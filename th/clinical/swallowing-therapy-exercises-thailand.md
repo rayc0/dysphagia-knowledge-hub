@@ -1,7 +1,7 @@
 ---
 title: "การฝึกกล้ามเนื้อการกลืน — คู่มือท่าบริหารฟื้นฟูการกลืนสำหรับผู้ป่วยและผู้ดูแลในประเทศไทย"
 description: "คู่มือท่าฝึกกลืนตามหลักฐานเชิงประจักษ์ ครอบคลุม Mendelsohn, Shaker, Masako, Effortful Swallow และ CTAR พร้อมแนวทางปฏิบัติสำหรับผู้ป่วยไทย"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "clinical"
 last_updated: "2026-04-19"

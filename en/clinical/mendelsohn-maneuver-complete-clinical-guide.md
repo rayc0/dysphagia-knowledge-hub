@@ -4,7 +4,7 @@ description: "Step-by-step clinical guide to the Mendelsohn maneuver: physiology
 lang: en
 category: clinical
 date: 2026-05-20
-author: SeniorDeli Clinical Team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Mendelsohn Maneuver — Complete Clinical Guide for SLPs, Patients, and Caregivers

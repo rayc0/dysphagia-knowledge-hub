@@ -1,7 +1,7 @@
 ---
 title: "혀 근력 트레이닝 완전 가이드: 연하장애 예방·재활을 위한 설압 훈련법"
 description: "혀 근력 강화를 통한 연하장애 예방과 재활의 완전 가이드 — 설압 측정(JMS 설압 측정기 정상값·저하 기준), 설압 훈련 기구(IOPI/페코판다/JMS 혀 트레이너) 사용법과 근거, 단계적 훈련 프로그램(주 3회×8주 표준 프로토콜), 혀 부위별 타깃 훈련법(혀 전방/후방/측연), 근감소성 연하장애 예방적 설압 훈련, 노화성 연하(프레스비파지아) 대책"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"

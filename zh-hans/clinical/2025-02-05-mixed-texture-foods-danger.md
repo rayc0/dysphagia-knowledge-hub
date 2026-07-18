@@ -1,7 +1,7 @@
 ---
 title: "混合质地食物：为什么「切小块」不够安全，吞咽障碍照护中最常见的误区"
 description: "混合质地（Mixed Texture）食物是IDDSI分类中最危险的质地组合，液体与固体同时存在要求吞咽系统同时处理两种截然不同的物理特性。「切成小块」是吞咽障碍照护中最普遍的误解之一。本文解释原因、列举具体危险案例，并提供正确的食物改良方法。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2025-02-05"

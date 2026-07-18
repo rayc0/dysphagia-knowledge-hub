@@ -1,7 +1,7 @@
 ---
 title: "香港公立醫院言語治療服務指引：吞嚥困難患者及照顧者須知"
 description: "香港醫管局言語治療服務的轉介流程、服務範圍、各聯網資源及社區延伸服務，協助吞嚥困難患者及照顧者掌握本地公共醫療資源。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-09"

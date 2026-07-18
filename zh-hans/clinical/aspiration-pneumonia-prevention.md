@@ -1,7 +1,7 @@
 ---
 title: "吸入性肺炎预防：吞咽困难患者护理要点"
 description: "吞咽困难（吞咽障碍）患者吸入性肺炎预防完整指南：口腔护理、体位管理、质地改良饮食、误吸风险评估与大陆临床处置规范。护工、家属及社区卫生服务中心医护人员必读。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-09"

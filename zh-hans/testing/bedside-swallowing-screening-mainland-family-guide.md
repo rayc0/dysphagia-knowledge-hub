@@ -4,7 +4,7 @@ description: "面向中国内地家属的吞咽障碍床旁筛查完整指南。
 lang: zh-hans
 category: testing
 date: 2026-04-15
-author: Raymond
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 吞咽筛查
   - 床旁评估

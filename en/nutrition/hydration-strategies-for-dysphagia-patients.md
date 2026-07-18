@@ -4,7 +4,7 @@ description: "Evidence-based guide to hydration in adults with dysphagia: why de
 lang: en
 category: nutrition
 date: 2026-04-15
-author: Dr. Eric Hui
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - dysphagia
   - hydration

@@ -1,7 +1,7 @@
 ---
 title: "用餐意外事故處理及記錄：香港院舍及居家照護者指南"
 description: "本文為香港院舍及居家照護者提供用餐意外事故的完整指南，涵蓋意外類型識別、即時處理步驟（包括何時致電999）、事後觀察要點、院舍的社會福利署呈報要求、居家文件記錄方法，以及單一事故如何影響IDDSI飲食級別的決定。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-22"

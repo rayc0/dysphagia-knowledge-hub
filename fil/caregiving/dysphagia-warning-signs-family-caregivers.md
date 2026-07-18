@@ -1,7 +1,7 @@
 ---
 title: "Dysphagia Warning Signs for Philippine Families — EAT-10 Self-Assessment & When to Go to Hospital"
 description: "10 danger signs of swallowing problems, EAT-10 screening test with scoring, red flags requiring emergency care, and where to seek help in the Philippines."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-18"

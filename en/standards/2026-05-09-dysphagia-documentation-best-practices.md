@@ -5,7 +5,7 @@ description: "Best practices for clinical documentation in dysphagia management:
 lang: en
 category: standards
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - documentation
   - clinical standards

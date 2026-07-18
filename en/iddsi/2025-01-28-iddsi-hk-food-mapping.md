@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Food IDDSI Guide: Classifying Cantonese and Local Dishes by Texture Level"
 description: "A practical IDDSI classification guide for Hong Kong and Cantonese foods — congee varieties, dim sum, soups, common dishes, festive and street food hazards, and tea. Includes a risk table for popular takeaway items and cultural notes for safe festival eating."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "iddsi"
 last_updated: "2025-01-28"

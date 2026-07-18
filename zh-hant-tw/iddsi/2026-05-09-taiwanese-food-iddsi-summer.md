@@ -1,7 +1,7 @@
 ---
 title: "夏季台灣食物IDDSI質地分析：吞嚥障礙患者的清涼飲食指南"
 description: "分析刨冰、冷豆腐、芒果布丁、愛玉凍、冬瓜茶等夏季台灣食物的IDDSI質地等級，提供吞嚥障礙患者安全享用夏日清涼飲食的具體建議。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "iddsi"
 date: 2026-05-09

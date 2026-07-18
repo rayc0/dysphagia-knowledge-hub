@@ -4,7 +4,7 @@ description: "A clinical overview of four major oropharyngeal dysphagia rehabili
 lang: en
 category: clinical
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - dysphagia rehabilitation
   - EMST

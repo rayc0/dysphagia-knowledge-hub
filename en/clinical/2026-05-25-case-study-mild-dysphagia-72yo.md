@@ -1,7 +1,7 @@
 ---
 title: "Case Study 1: 72-Year-Old Female with Mild Dysphagia — Assessment and Management"
 description: "A case-based learning article following a 72-year-old woman referred for difficulty swallowing solids and occasional coughing with thin liquids. Covers assessment pathway, EAT-10 and GUSS findings, IDDSI prescription, and 3-month outcome."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-05-25"

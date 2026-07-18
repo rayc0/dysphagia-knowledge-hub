@@ -1,7 +1,7 @@
 ---
 title: "IDDSI第4級廣東粥品食譜合集"
 description: "艇仔粥、皮蛋瘦肉粥、魚片粥、瑤柱粥的IDDSI第4級改良版食譜，涵蓋質地測試方法、能量及蛋白質含量，以及冷藏翻熱的安全注意事項。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-Hant-HK"
 category: "recipes"
 last_updated: "2026-05-13"

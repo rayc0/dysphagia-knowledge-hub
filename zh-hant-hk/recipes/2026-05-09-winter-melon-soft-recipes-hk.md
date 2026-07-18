@@ -1,7 +1,7 @@
 ---
 title: "冬瓜軟食食譜：香港本地適應版 — 適合吞嚥困難患者的廣東家常做法"
 description: "以香港廣東飲食文化為基礎的冬瓜軟食食譜集，涵蓋冬瓜蓉湯、冬瓜蒸肉餅等，符合IDDSI等級4至6，適合吞嚥困難患者在家製作。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "recipes"
 tags: [吞嚥困難, 軟食食譜, 冬瓜, 香港, IDDSI, 廣東菜]

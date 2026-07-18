@@ -1,7 +1,7 @@
 ---
 title: "T/SATA 084-2025 适老照护食标准详解——大湾区首个照护食品分级标准"
 description: "T/SATA 084-2025 是大湾区首个照护食品团体标准，由香港厂商会与社联联合提出。本文解读标准全文要点及与 IDDSI 的对应关系。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "standards"
 last_updated: "2026-04-13"

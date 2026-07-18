@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 2 中稠液体制备指南：水、茶、牛奶、汤的实操方法"
 description: "IDDSI 2级中稠液体（蜂蜜稠度）的定义、适用人群、及从水、茶、牛奶、汤四类液体实际制备步骤与注意事项。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"

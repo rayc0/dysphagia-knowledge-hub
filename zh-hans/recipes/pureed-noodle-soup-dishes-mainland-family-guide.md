@@ -4,7 +4,7 @@ description: "为吞咽障碍家庭提供将中国家常面条汤品改造为安
 lang: zh-hans
 category: recipes
 date: 2026-04-15
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 吞咽障碍
   - 糊化饮食

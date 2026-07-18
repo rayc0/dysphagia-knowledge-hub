@@ -1,7 +1,7 @@
 ---
 title: "中国脑性瘫痪儿童的喂养障碍：分类、评估工具、IDDSI适用性与康复医疗资源"
 description: "面向脑瘫儿童家庭和康复从业者，系统介绍脑瘫相关喂养障碍的分型、评估量表、IDDSI质地分级应用及中国大陆主要康复资源。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: clinical
 last_updated: 2026-05-09

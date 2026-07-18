@@ -1,7 +1,7 @@
 ---
 title: "粤菜质地调整指南：广州、深圳吞咽障碍患者的粤菜食材IDDSI等级对照"
 description: "按IDDSI框架分析常见粤菜食材的质地等级，涵盖老火汤、白粥、肠粉等，适用于大湾区吞咽障碍患者。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-05-09"

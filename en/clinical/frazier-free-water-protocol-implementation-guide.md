@@ -4,7 +4,7 @@ description: "Comprehensive clinical guide to the Frazier Free Water Protocol (F
 lang: en
 category: clinical
 date: 2026-05-03
-author: SeniorDeli Clinical Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Frazier Free Water Protocol for Dysphagia: Evidence, Candidate Selection, and Implementation Guide

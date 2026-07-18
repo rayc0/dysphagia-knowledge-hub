@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害対応ブレンダー完全ガイド：IDDSI対応のテクスチャー調整用ミキサー選び"
 description: "嚥下障害対応テクスチャー調整に最適なブレンダー・ミキサーの完全ガイド — IDDSIレベル3〜5対応に必要なパワーと機能、バイタミックス・バーミックス・パナソニック・シャープの比較、介護施設向け業務用vs家庭用の選択基準、洗浄・衛生管理のポイント"
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "equipment"
 last_updated: "2026-04-19"

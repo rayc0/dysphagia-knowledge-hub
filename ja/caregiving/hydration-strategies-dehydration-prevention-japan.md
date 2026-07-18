@@ -1,7 +1,7 @@
 ---
 title: "嚥下障害患者の水分補給策——脱水予防の実践ガイド（日本版）"
 description: "嚥下障害を持つ高齢者が脱水に陥りやすい理由を解説し、ゼリー活用・食形態別工夫・IDDSI対応水分補給まで介護現場の実践策を1,800字超で網羅。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

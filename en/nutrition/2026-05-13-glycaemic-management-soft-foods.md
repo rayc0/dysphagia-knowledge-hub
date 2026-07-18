@@ -1,7 +1,7 @@
 ---
 title: "Managing Blood Glucose in Diabetic Patients on Texture-Modified Diets"
 description: "Glycaemic management guide for diabetics on texture-modified diets: high GI of pureed starches, low-GI alternatives, thickener carbohydrate content, IDDSI L3-L5 carb counting, CGM in LTC, and HK dietitian referral."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2026-05-13"

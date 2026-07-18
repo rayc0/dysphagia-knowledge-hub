@@ -1,7 +1,7 @@
 ---
 title: "脑卒中后吞咽困难：康复路径与家庭照护完全指南"
 description: "详解脑卒中（中风）导致吞咽困难的机制、早期筛查、康复训练时间窗、质地改良饮食策略及大陆医疗体系下的康复资源。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-18"

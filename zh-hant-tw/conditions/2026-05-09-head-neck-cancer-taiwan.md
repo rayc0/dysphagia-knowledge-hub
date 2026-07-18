@@ -1,7 +1,7 @@
 ---
 title: "台灣頭頸癌治療後吞嚥障礙：健保給付、復健途徑與生活品質"
 description: "針對台灣頭頸癌存活者的吞嚥障礙指南，涵蓋健保治療給付範圍、VFSS與FEES在腫瘤科的應用，以及存活者生活品質提升策略。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 date: 2026-05-09

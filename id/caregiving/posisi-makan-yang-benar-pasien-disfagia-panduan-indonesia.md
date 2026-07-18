@@ -1,7 +1,7 @@
 ---
 title: "Posisi Makan yang Benar untuk Pasien Disfagia — Panduan Lengkap untuk Pengasuh di Indonesia"
 description: "Panduan berbasis bukti tentang posisi duduk, chin tuck, rotasi kepala, dan posisi setelah makan untuk mencegah aspirasi pada pasien disfagia di Indonesia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-04-23"

@@ -1,7 +1,7 @@
 ---
 title: "Tracheostomy and Dysphagia — Swallowing Management in Tracheostomised Patients"
 description: "How tracheostomy affects swallowing, evidence on cuff inflation, Passy-Muir valves, FEES, blue-dye testing, and decannulation pathways."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-20"

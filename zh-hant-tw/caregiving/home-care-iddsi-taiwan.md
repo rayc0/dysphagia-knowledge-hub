@@ -1,7 +1,7 @@
 ---
 title: "居家照護IDDSI飲食準備：家屬完整操作手冊"
 description: "供台灣家庭照顧者使用的IDDSI居家操作指南——從採購備料、調製稠度、製作各等級食物，到保存與批量備餐的實用技巧，讓家庭照護更有效率且安全。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-13

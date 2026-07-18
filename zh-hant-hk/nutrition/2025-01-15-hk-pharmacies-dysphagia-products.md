@@ -1,7 +1,7 @@
 ---
 title: "香港藥房及醫療用品店吞嚥困難產品採購指南"
 description: "香港吞嚥困難產品購買指南：增稠劑在屈臣氏、萬寧、深水埗及觀塘醫療用品店的購買渠道、HKTVmall網購選擇、品牌比較、費用分析、向藥劑師查詢要點及醫管局出院處方資助產品說明。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-15"

@@ -4,7 +4,7 @@ description: "How to adapt your home environment to support safe mealtimes for s
 lang: en
 category: caregiving
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - home modification
   - mealtime safety

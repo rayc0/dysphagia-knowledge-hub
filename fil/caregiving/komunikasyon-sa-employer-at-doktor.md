@@ -1,7 +1,7 @@
 ---
 title: "Paano Makipag-usap sa Employer at Doktor tungkol sa Dysphagia"
 description: "Praktikal na gabay para sa mga FDH sa HK — mga tanong para sa doktor, English phrases para sa appointment, FDH rights, at social worker referral."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"

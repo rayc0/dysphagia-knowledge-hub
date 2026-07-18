@@ -5,7 +5,7 @@ description: "When suction machines are needed in dysphagia care, comparing port
 lang: en
 category: equipment
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - suction machine
   - home care

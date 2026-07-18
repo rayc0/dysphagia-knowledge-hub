@@ -1,7 +1,7 @@
 ---
 title: "Diabetic-Friendly IDDSI Level 4 Pureed Meals — Managing Dysphagia and Diabetes Together"
 description: "Practical guide to diabetic-friendly IDDSI Level 4 pureed meals: glycemic pitfalls of puréeing, thickener choice, fibre strategies, and a 7-meal plan."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "recipes"
 last_updated: "2026-04-17"

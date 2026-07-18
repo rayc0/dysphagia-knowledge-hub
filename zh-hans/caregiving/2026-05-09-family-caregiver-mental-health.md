@@ -1,7 +1,7 @@
 ---
 title: "家庭照护者心理健康：吞咽障碍患者主要照护者的压力识别与支持"
 description: "系统介绍吞咽障碍患者家庭照护者面临的心理压力、倦怠风险评估及循证支持策略，帮助照护者在照护患者的同时维护自身心理健康。"
-author: softmeal.org 编辑团队
+author: "SeniorDeli (Carewells) 编辑团队"
 language: zh-hans
 category: caregiving
 last_updated: 2026-05-09

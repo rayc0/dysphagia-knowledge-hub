@@ -1,7 +1,7 @@
 ---
 title: "廣東菜吞嚥困難測試指南：常見港式食物IDDSI等級參考"
 description: "常見香港及廣東菜食物的IDDSI等級完整分類：白粥、蛋花湯、蒸水蛋、滑雞飯、腸粉、魚蛋、煎蛋等。附點心避免及改良建議、食物測試方法說明，以及茶類飲品分級參考。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "testing"
 last_updated: "2025-01-17"

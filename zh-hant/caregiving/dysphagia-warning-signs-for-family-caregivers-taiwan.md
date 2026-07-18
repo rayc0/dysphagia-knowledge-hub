@@ -1,7 +1,7 @@
 ---
 title: "家庭照顧者必知的吞嚥障礙警訊 — 十大徵兆、EAT-10 自評與就醫時機（台灣版）"
 description: "從嗆咳、流口水到體重下降，台灣家庭照顧者必知的吞嚥障礙十大警訊。整合國健署、EAT-10、長照2.0 與台灣語言治療師公會臨床建議。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "caregiving"
 last_updated: "2026-04-14"

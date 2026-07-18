@@ -6,7 +6,7 @@ categories: [iddsi]
 tags: [IDDSI, T/SATA, 吞咽障碍, 饮食标准, 标准对照]
 description: "系统对比IDDSI国际框架与中国T/SATA 015—2022标准在液体稠度、食物质地分级、测试方法及临床落地上的异同，为中国医疗机构提供双轨操作指引。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 背景：两套标准并行的现实

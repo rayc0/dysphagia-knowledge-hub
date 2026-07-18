@@ -1,7 +1,7 @@
 ---
 title: "提高患者对质构调整饮食处方依从性的策略：心理与行为干预"
 description: "分析吞咽障碍患者拒绝或不规律遵循质构调整饮食处方的心理原因，并提供循证的心理与行为干预策略，帮助临床人员和家属提升患者依从性。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-09"

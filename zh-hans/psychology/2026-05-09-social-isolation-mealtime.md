@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍患者的进餐社交隔离：重建家庭共餐的策略与社区支持"
 description: "吞咽障碍如何导致患者在进餐时产生社交孤立，以及家庭与社区层面重建共餐体验、减少隔离感的实用策略与资源指引。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-09"

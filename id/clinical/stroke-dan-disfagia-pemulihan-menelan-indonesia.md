@@ -1,7 +1,7 @@
 ---
 title: "Stroke dan Disfagia — Panduan Pemulihan dan Rehabilitasi Menelan untuk Pasien dan Keluarga di Indonesia"
 description: "Stroke menyebabkan disfagia pada ~45% pasien di Indonesia. Panduan lengkap: skrining GUSS, latihan menelan terbuktis, tabel IDDSI, dan timeline pemulihan."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "clinical"
 last_updated: "2026-04-23"

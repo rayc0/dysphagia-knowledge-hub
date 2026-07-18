@@ -1,7 +1,7 @@
 ---
 title: "Nước Uống Sánh Đặc IDDSI Cấp Độ 1, 2 và 3 — Hướng Dẫn Thực Hành cho Người Giúp Việc Việt Nam tại HK"
 description: "Cách pha nước uống sánh đặc đúng chuẩn IDDSI Cấp độ 1–3 cho bệnh nhân nuốt khó: trà, nước trái cây, sữa — cách kiểm tra độ đặc, lưu ý khi sử dụng chất làm đặc tại Hồng Kông."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-05-13"

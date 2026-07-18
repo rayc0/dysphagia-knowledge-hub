@@ -1,7 +1,7 @@
 ---
 title: "香港照顧者暫託服務指南：喘息空間與長期照顧規劃"
 description: "香港吞嚥困難患者照顧者的暫託服務全面指南：社署資助長者日間護理中心、短期住宿照顧服務、CCSV暫託服務、賽馬會護老者計劃、醫院社工轉介途徑，以及安排暫託前的準備清單。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-20"

@@ -1,7 +1,7 @@
 ---
 title: "Rối loạn nuốt do giảm cơ (Sarcopenic Dysphagia) — Chẩn đoán, thuật toán Wakabayashi và phục hồi chức năng dinh dưỡng tại Việt Nam"
 description: "Rối loạn nuốt do giảm cơ là tình trạng khó nuốt do mất khối cơ toàn thân. Bài viết trình bày tiêu chí Wakabayashi, thuật toán 5 bước Mori, ngưỡng áp lực lưỡi 20 kPa và phác đồ điều trị ba trụ cột phù hợp bối cảnh Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-04-21"

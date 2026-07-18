@@ -1,7 +1,7 @@
 ---
 title: "誤嚥性肺炎予防——病態・エビデンスに基づく予防戦略（日本版）"
 description: "日本の超高齢社会における誤嚥性肺炎の病態生理と、口腔ケア・姿勢管理・嚥下調整食・リハビリを軸とした根拠ある予防戦略を2024年ガイドライン準拠で解説。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"

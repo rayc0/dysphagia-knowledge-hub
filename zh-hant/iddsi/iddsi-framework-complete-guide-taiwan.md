@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 國際吞嚥障礙飲食標準 — 八級完整介紹（台灣用語）"
 description: "IDDSI 國際吞嚥障礙飲食標準八級（0–7）完整指南，採用臺大醫院與成大醫院的台灣標準用語，包含測試方法與臨床應用。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "iddsi"
 last_updated: "2026-04-14"

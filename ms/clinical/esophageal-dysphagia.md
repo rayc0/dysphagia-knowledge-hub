@@ -1,7 +1,7 @@
 ---
 title: "Disfagia Esofageal: Sebab, Penilaian Endoskopi, dan Pilihan Rawatan"
 description: "Panduan klinikal disfagia esofageal (Bahasa Melayu) — mekanisme makanan tersekat 2–10 saat selepas menelan, punca struktur dan motiliti, tanda amaran merah untuk skop segera, peranan endoskopi dan manometri bertekanan tinggi, serta pilihan rawatan mengikut diagnosis di Malaysia."
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-19"

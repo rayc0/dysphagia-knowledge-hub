@@ -1,7 +1,7 @@
 ---
 title: "神經肌肉電刺激（NMES）與吞嚥障礙——台灣臨床應用完整指南"
 description: "深入了解神經肌肉電刺激（NMES）與VitalStim在台灣吞嚥復健的臨床應用、證據基礎、電極配置、參數設定與治療決策"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-05-08"

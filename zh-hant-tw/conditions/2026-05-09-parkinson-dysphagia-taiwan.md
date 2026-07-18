@@ -1,7 +1,7 @@
 ---
 title: "台灣巴金森氏症吞嚥障礙：疾病進程、服藥時機與IDDSI質地調整"
 description: "台灣巴金森氏症患者吞嚥障礙完整指南，涵蓋疾病進程分期、多巴胺製劑服藥時機、健保醫院服務，以及IDDSI各級質地調整建議。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 date: 2026-05-09

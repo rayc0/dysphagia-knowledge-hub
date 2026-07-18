@@ -1,7 +1,7 @@
 ---
 title: "EAT-10嚥下スクリーニングツール——10問の使い方・スコア解釈・香港での活用"
 description: "EAT-10（Eating Assessment Tool-10）の実施方法、10問の内容、スコア解釈（3点以上＝要注意）、言語治療師への紹介基準、香港の公立病院・安老院での活用事例を解説。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-05-13"

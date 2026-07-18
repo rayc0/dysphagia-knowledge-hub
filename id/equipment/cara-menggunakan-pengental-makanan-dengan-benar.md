@@ -1,7 +1,7 @@
 ---
 title: "Cara Menggunakan Pengental Makanan dengan Benar: Panduan Praktis untuk Pengasuh"
 description: "Panduan langkah demi langkah penggunaan pengental makanan (food thickener) untuk pasien disfagia — jenis pengental, cara mengukur konsistensi dengan benar, kesalahan umum, dan cara menggunakan di berbagai jenis minuman."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "equipment"
 last_updated: "2026-05-13"

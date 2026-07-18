@@ -1,7 +1,7 @@
 ---
 title: "増粘剤完全ガイド——でんぷん系vsキサンタンガム系、香港で入手できるブランドと正しい使い方"
 description: "嚥下障害ケアに必須の増粘剤を徹底比較。でんぷん系とキサンタンガム系の違い、香港で購入できるEasiThick・Nutilis・Resource ThickenUpなどのブランド、正しい混ぜ方、IDDSIレベル対応表を解説。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-05-13"

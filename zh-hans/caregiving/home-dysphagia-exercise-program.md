@@ -1,7 +1,7 @@
 ---
 title: "居家吞咽障碍训练计划：每日20分钟家属指导方案"
 description: "适合家属和患者在家执行的吞咽障碍训练计划，每日20分钟，包含Shaker运动、舌肌训练与Mendelsohn手法组合，涵盖进展标准、安全注意事项及定期SLT复查安排。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-13"

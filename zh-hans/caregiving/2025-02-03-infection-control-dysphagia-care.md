@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍照护中的感染预防：口腔护理、设备消毒与院内感染防控"
 description: "吞咽障碍患者感染风险管理全指南 — 口腔细菌与误吸性肺炎的关联机制，口腔护理操作规范，搅拌机与辅助餐具的日常及每周消毒方案，鼻饲管护理要点，照护者手卫生与手套使用时机，感染早期信号识别，以及家庭环境中的隔离措施"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2025-02-03"

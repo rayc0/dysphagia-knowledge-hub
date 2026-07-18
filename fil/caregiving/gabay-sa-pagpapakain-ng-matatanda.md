@@ -1,7 +1,7 @@
 ---
 title: "Kumpletong Gabay sa Pagpapakain ng Matatandang may Dysphagia"
 description: "Ang gabay na ito ay para sa mga kasambahay na nag-aalaga ng matatanda na may hirap sa paglunok — palatandaan, posisyon, pagkain, at kailan tatawag ng doktor."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "Parkinson dan Disfagia — Gejala, Perkembangan, dan Strategi Makan untuk Pasien dan Keluarga di Indonesia"
 description: "Panduan lengkap disfagia pada penyakit Parkinson: prevalensi 35–82%, latihan EMST, tabel IDDSI hidangan Indonesia, dan daftar RS rujukan."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "clinical"
 last_updated: "2026-04-23"

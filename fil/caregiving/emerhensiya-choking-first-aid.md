@@ -1,7 +1,7 @@
 ---
 title: "Unang Tulong sa Choking (Pag-tinik) — Step-by-Step"
 description: "Hakbang-hakbang na gabay para sa mga FDH sa HK sa pag-handle ng choking emergency — back blows, Heimlich maneuver, 999, at post-episode documentation."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-13"

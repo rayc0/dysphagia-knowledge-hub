@@ -1,7 +1,7 @@
 ---
 title: "鼻胃管與胃造口管：香港醫院管理局的置管流程、護理及轉介標準"
 description: "香港吞嚥困難患者腸內營養全攻略：醫管局鼻胃管與PEG胃造口管的置管流程、居家護理要點、常見併發症處理，以及社區轉介標準與支援資源。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-05-09"

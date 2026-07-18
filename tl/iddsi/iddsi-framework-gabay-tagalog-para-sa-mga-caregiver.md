@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Framework — Gabay sa Tagalog: Walong Antas ng Pagkain at Inumin para sa mga may Dysphagia"
 description: "Kumpletong gabay sa IDDSI (International Dysphagia Diet Standardisation Initiative) sa Tagalog. Ipinapaliwanag ang lahat ng 8 antas ng pagkain at inumin na may mga halimbawa ng pagkaing Filipino."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "iddsi"
 last_updated: "2026-05-13"

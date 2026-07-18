@@ -1,7 +1,7 @@
 ---
 title: "家族介護者のための嚥下障害ガイド——基礎知識から言語治療士相談まで"
 description: "家族が嚥下障害（えんげしょうがい）と診断されたとき、介護者が知っておくべき基礎知識、食事準備のコツ、言語治療士への相談タイミング、そして介護者自身のメンタルヘルスケアを解説。香港での実践情報も含む。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-05-13"

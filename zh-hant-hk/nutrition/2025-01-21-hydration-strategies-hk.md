@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難長者嘅補水策略：香港氣候下嘅特殊挑戰"
 description: "香港吞嚥困難長者的補水策略詳解：香港夏季熱浪加劇脫水風險、每日補水目標、常見香港飲品的IDDSI級別、達標策略、尿道感染預防，以及Frazier自由飲水協議與照顧者監察技巧。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-21"

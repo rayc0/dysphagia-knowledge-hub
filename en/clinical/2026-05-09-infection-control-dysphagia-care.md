@@ -5,7 +5,7 @@ description: "Infection control protocols for dysphagia care: aspiration pneumon
 lang: en
 category: clinical
 date: 2026-05-09
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - infection control
   - aspiration pneumonia

@@ -1,7 +1,7 @@
 ---
 title: "Tamang Posisyon sa Pagkain para sa mga may Dysphagia — Kumpletong Gabay para sa mga Tagapag-alaga sa Hong Kong"
 description: "Batay sa ebidensyang siyentipiko na gabay sa Tagalog tungkol sa tamang posisyon ng katawan, chin tuck, head rotation, at post-meal positioning para sa mga may dysphagia. Para sa mga domestic helper at tagapag-alaga sa Hong Kong."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"

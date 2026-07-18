@@ -1,7 +1,7 @@
 ---
 title: "Dementia at Dysphagia — Gabay sa Pagpapakain at Comfort Care para sa Pamilyang Pilipino"
 description: "Komprehensibong gabay para sa Filipino families na nag-aalaga ng mga senior citizens na may advanced dementia at swallowing difficulties—feeding strategies, comfort care philosophy, at malnutrition prevention."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "clinical"
 last_updated: "2026-05-20"

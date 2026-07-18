@@ -4,7 +4,7 @@ description: "Evidence-based comparison of the Shaker head-lift exercise and Chi
 lang: en
 category: clinical
 date: 2026-05-04
-author: SeniorDeli Clinical Team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Shaker Exercise vs Chin Tuck Against Resistance (CTAR) for Dysphagia

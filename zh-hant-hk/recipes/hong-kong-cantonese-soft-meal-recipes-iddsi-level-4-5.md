@@ -1,7 +1,7 @@
 ---
 title: "香港家常廣東菜吞嚥友善食譜——IDDSI Level 4 及 Level 5 完整指南"
 description: "七道改良廣東家常菜食譜，符合IDDSI Level 4糊狀及Level 5細碎及濕軟標準，附質地測試方法，適合香港吞嚥困難患者家屬居家烹調。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "recipes"
 last_updated: "2026-04-19"

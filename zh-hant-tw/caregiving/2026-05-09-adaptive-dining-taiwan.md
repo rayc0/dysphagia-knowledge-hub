@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙適應性飲食輔具介紹：選購指南與實用推薦"
 description: "介紹台灣吞嚥障礙患者常用的適應性飲食輔具，包含防傾倒碗盤、彎角湯匙、防嗆水杯及進食輔助器，說明長照2.0輔具補助申請方式及台灣購買管道。"
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-09

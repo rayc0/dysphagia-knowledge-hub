@@ -1,7 +1,7 @@
 ---
 title: "香港吞嚥困難相關電話熱線及緊急聯絡資源大全"
 description: "為香港吞嚥困難患者及照顧者整理的全面熱線目錄，涵蓋醫院管理局預約專線、急症室、社會福利署、護老服務、照顧者支援、精神健康及社區資源，並附上安排HA普通科門診聯合科門診（醫療支援）的方法。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2025-01-23"

@@ -1,7 +1,7 @@
 ---
 title: "Protein Fortification for Dysphagia Diets: Preventing Malnutrition in Texture-Modified Meals"
 description: "Why protein is the number one deficient nutrient in texture-modified diets, protein targets by condition, protein-dense soft foods available in Hong Kong, commercial protein modules, milk powder fortification, and a simple daily intake tracker for caregivers."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2025-01-22"

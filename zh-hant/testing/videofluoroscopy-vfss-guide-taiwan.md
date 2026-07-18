@@ -4,7 +4,7 @@ description: "吞嚥攝影檢查 (Videofluoroscopic Swallowing Study, VFSS) 是�
 lang: zh-hant
 category: testing
 date: 2026-04-15
-author: 吞嚥知識中樞
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags: [吞嚥障礙, VFSS, 吞嚥攝影, 檢查, 診斷, 台灣, 健保]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "吸入性肺炎：吞咽困难中的临床特征、诊断与预防"
 description: "吸入性肺炎：吞咽困难中的临床特征、诊断与预防 — 吞咽困难临床指南"
-author: "编辑团队"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-25"

@@ -1,7 +1,7 @@
 ---
 title: "근감소성 연하장애——진단 알고리즘과 재활 영양 삼중 요법"
 description: "근감소성 연하장애는 전신 근감소증으로 인해 삼킴 근육이 약해져 발생합니다. Mori 5단계 진단법, 설압 20 kPa 기준치, 재활·영양·구강 관리 삼중 요법을 알아봅니다."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-18"

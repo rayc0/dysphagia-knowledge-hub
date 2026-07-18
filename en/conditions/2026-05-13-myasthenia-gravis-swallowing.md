@@ -1,7 +1,7 @@
 ---
 title: "Myasthenia Gravis and Swallowing: Fatigue Patterns, Medication Timing, and Recognising Crisis Signs"
 description: "How myasthenia gravis causes dysphagia through neuromuscular junction dysfunction, the characteristic fatigue pattern that makes early-morning meals safer, the critical role of pyridostigmine timing relative to mealtimes, differentiating myasthenic crisis from cholinergic crisis, and IDDSI management considerations."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-13"

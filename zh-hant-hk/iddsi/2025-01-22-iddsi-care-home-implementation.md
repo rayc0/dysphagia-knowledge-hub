@@ -1,7 +1,7 @@
 ---
 title: "香港院舍推行IDDSI軟餐標準：實踐步驟、員工培訓及廚房改造指引"
 description: "本文為香港安老院及護理安老院的管理人員提供推行IDDSI軟餐標準的完整指引，涵蓋爭取社會福利署支持、員工培訓次序、廚房工作流程改造、設備採購成本估算、十人試行計劃設計、醫管局及SWD審核文件要求，以及常見員工阻力的處理方法。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "iddsi"
 last_updated: "2025-01-22"

@@ -6,7 +6,7 @@ categories: [conditions]
 tags: [吞嚥障礙, 台灣, 肌少症, 老年照護, 疾病管理]
 description: "台灣老年肌少症性吞嚥障礙照護指引，涵蓋健保給付、亞洲肌少症工作小組標準及衛福部長照政策。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 ## 前言

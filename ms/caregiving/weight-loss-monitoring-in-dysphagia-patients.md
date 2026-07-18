@@ -1,7 +1,7 @@
 ---
 title: "Pemantauan Berat Badan dalam Disfagia: Pengesanan Awal Kekurangan Zat Makanan"
 description: "Panduan pemantauan berat badan untuk pesakit disfagia — frekuensi penimbangan, ambang bahaya, saringan MNA/MUST, makanan tinggi kalori, dan perkhidmatan dietitian KKM serta subsidi NHIS."
-author: Susan Tam
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

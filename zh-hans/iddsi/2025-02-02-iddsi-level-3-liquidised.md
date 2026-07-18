@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 3级糊状食物：制作要点、常见问题与中式料理适配"
 description: "IDDSI 3级（Liquidised，稀糊状）适用于中度吞咽障碍、口腔处理能力差的患者。本文讲解3级食物的物理特性、注射器测试方法、常见制作错误，以及适合内地患者的中式3级食谱。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2025-02-02"

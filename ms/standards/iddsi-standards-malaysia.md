@@ -1,7 +1,7 @@
 ---
 title: "Piawaian IDDSI di Malaysia: Panduan Paras 0–7 untuk Kemudahan Penjagaan dan Hospital"
 description: "Panduan lengkap IDDSI Paras 0–7 dalam Bahasa Malaysia — nama rasmi, ujian makmal mudah, status penerimaan di hospital Malaysia, dan senarai semak penjaga untuk pematuhan di rumah."
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "standards"
 last_updated: "2026-04-19"

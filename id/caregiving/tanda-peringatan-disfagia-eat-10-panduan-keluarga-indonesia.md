@@ -1,7 +1,7 @@
 ---
 title: "Tanda-Tanda Peringatan Disfagia — 10 Tanda Bahaya, EAT-10 Mandiri, dan Kapan Harus ke Dokter"
 description: "Kenali 10 tanda bahaya disfagia, isi EAT-10 secara mandiri, dan pelajari kapan harus segera membawa pasien ke dokter. Panduan lengkap untuk keluarga dan pengasuh di Indonesia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-04-23"

@@ -6,7 +6,7 @@ lang: zh-hans
 categories: [caregiving]
 tags: [微信, 照护协调, 进食日记, IDDSI, 家庭群组, 公众号, 照护者支持]
 description: "如何利用微信建立家庭健康群组、记录进食日记、向医护团队分享IDDSI照片，以及关注吞咽障碍相关的公众号获取照护支持。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

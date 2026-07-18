@@ -1,7 +1,7 @@
 ---
 title: "점도증진제 선택 가이드——전분계 vs 검계 완전 비교"
 description: "연하장애 환자의 안전한 수분 섭취를 위한 점도증진제 선택법: 전분계와 잔탄검계의 점도 안정성, 투명도, 맛, 비용, IDDSI 적합성을 임상 근거와 함께 비교합니다."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "caregiving"
 last_updated: "2026-04-19"

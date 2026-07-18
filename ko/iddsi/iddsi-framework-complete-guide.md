@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 프레임워크 완전 가이드 — 한국 연하장애 환자를 위한 국제 식이 기준"
 description: "IDDSI 국제 연하장애 식이 분류 8단계를 한국어로 상세 해설. 한국 병원 연하식 기준과의 대응표 포함. 보호자·영양사 필독 가이드."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "iddsi"
 last_updated: "2026-04-17"

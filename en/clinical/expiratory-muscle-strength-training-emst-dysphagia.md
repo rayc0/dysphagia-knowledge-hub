@@ -4,7 +4,7 @@ description: "Comprehensive clinician and caregiver guide to Expiratory Muscle S
 lang: en
 category: clinical
 date: 2026-05-03
-author: SeniorDeli Clinical Team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Expiratory Muscle Strength Training (EMST) for Dysphagia

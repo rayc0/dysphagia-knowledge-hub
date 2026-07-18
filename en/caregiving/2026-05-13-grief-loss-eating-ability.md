@@ -5,7 +5,7 @@ description: "Anticipatory grief, stages of loss, what to say to someone with dy
 lang: en
 category: caregiving
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - grief
   - loss

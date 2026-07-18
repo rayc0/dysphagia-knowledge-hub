@@ -4,7 +4,7 @@ description: "针对中国大陆头颈癌患者的吞咽障碍康复全流程指
 lang: zh-hans
 category: clinical
 date: 2026-04-15
-author: Editorial Team
+author: "SeniorDeli (Carewells) 编辑团队"
 tags:
   - 头颈癌
   - 吞咽障碍

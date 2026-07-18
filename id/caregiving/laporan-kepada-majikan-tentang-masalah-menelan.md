@@ -1,7 +1,7 @@
 ---
 title: "Cara Melaporkan Masalah Menelan kepada Majikan dan Mengakses Bantuan Medis di Hong Kong"
 description: "Panduan untuk ART Indonesia di Hong Kong: cara melaporkan kekhawatiran menelan kepada majikan secara efektif, kapan harus menghubungi dokter, dan bagaimana mengakses layanan medis untuk lansia disfagia."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

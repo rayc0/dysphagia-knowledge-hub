@@ -1,7 +1,7 @@
 ---
 title: "凝固粉點樣揀：澱粉型 vs 黃原膠型、透明度、穩定性完整比較"
 description: "香港市面凝固粉完整比較 — 澱粉型與黃原膠型分別、透明度、漂移問題、價錢。照顧者選購凝固粉實用指南。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "equipment"
 last_updated: "2026-04-17"

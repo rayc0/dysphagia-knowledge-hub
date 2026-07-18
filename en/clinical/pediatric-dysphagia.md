@@ -4,7 +4,7 @@ description: "A practical guide for parents and clinicians on pediatric swallowi
 lang: en
 category: clinical
 date: 2026-04-14
-author: Dr. Eric Hui
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Pediatric Dysphagia — IDDSI for Children, Particle Size Limits, and Feeding the Medically Complex Child

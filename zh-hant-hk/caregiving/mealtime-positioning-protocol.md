@@ -1,7 +1,7 @@
 ---
 title: "進食體位協議：90/90/90法則、收下巴技巧及臥床患者餵食調整"
 description: "吞嚥困難患者標準化進食體位協議，包括90/90/90髖膝踝法則、防吸入收下巴技巧、30°/45°/60°/90°傾斜角比較表、偏癱患者側傾吞嚥技巧、餐後30分鐘坐直規定及複雜體位的職業治療師轉介標準。"
-author: Margaret Wong
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-04-19"

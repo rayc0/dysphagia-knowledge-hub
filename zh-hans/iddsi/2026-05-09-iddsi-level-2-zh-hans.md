@@ -6,7 +6,7 @@ categories: [iddsi]
 tags: [IDDSI, 吞咽障碍, 低稠液体, Level 2, 增稠剂, 流动测试]
 description: "详解IDDSI 2级低稠液体的注射器测试标准（剩余4–8 mL）、制备方法、中国常见食材应用及与T/SATA标准的对照，适用于临床及家庭照护。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## IDDSI 2级概述

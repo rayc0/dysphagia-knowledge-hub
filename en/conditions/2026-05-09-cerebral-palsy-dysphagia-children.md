@@ -6,7 +6,7 @@ categories: [conditions]
 tags: [dysphagia, pediatric, children, cerebral-palsy, feeding, parents]
 description: "A practical guide for parents of children with cerebral palsy on dysphagia signs, SLT support, safe feeding strategies, and services available in Hong Kong."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 Feeding a child with cerebral palsy (CP) can be one of the most demanding and emotionally complex aspects of daily care. Mealtimes that take over an hour, constant vigilance for coughing, anxiety about nutrition and weight — these are the everyday realities for many families. Yet with the right team, the right information, and practical strategies, mealtimes can become safer, less stressful, and even enjoyable.

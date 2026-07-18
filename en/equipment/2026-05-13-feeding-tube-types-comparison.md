@@ -5,7 +5,7 @@ description: "Comparing nasogastric (NG), percutaneous endoscopic gastrostomy (P
 lang: en
 category: equipment
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - NG tube
   - PEG tube

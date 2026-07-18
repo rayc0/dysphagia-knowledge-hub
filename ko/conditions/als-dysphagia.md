@@ -1,7 +1,7 @@
 ---
 title: "ALS/루게릭병과 연하장애: PEG 삽입 시기, 호흡기 치료와의 협조, 말기 영양 관리"
 description: "ALS/운동신경원 질환 연하장애 완전 가이드(한국어) — ALS 연하장애 발생률(2년 내 80%), 구마비형 vs 사지형 발병 차이, 혀 위축·섬유속성 연축·유연의 임상적 의미, PEG 최적 시기(FVC>50%), BiPAP 식사 스케줄 조정, 고칼로리 고지방 식이 전략(35-45 kcal/kg/일), IDDSI 질감 단계별 관리, 말기 경구 섭취 결정"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "conditions"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "吞咽障碍患者的中式早餐食谱合集：12 道符合 IDDSI
 lang: zh-hans
 category: recipes
 date: 2026-04-15
-author: 吞咽障碍知识库
+author: "SeniorDeli (Carewells) 编辑团队"
 tags: [食谱, 中式早餐, IDDSI, 4级, 糊状, 家庭护理, 粥]
 ---
 

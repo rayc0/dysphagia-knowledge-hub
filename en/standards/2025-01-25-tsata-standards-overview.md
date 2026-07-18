@@ -1,7 +1,7 @@
 ---
 title: "T/SATA Care Food Standards: Understanding China's IDDSI-Aligned National Standards"
 description: "A plain-language guide to China's T/SATA group standards for care food and dysphagia food — covering T/SATA 094, 084, and 085, their legal status versus mandatory GB standards, IDDSI alignment, implications for the Hong Kong and Greater Bay Area market, and how to access the standards text."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "standards"
 last_updated: "2025-01-25"

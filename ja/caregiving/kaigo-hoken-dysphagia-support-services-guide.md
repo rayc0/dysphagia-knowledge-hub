@@ -1,7 +1,7 @@
 ---
 title: "介護保険と嚥下障害支援——利用できるサービス・申請の流れ・STとの連携完全ガイド"
 description: "嚥下障害のある高齢者が介護保険で受けられる訪問リハビリ・通所リハビリ・施設サービス・経口維持加算の仕組みを介護者向けにわかりやすく解説します。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "食事時の体位管理ガイド——90度座位・頸部前屈・食後体位保持の実践"
 description: "嚥下障害患者の食事時体位管理を徹底解説。90度座位の原則、頸部前屈（chin tuck）の根拠、食後30分の体位保持、香港の高齢者施設での実践例をIDDSIフレームワークとともに紹介。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "caregiving"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "食品テクスチャーテスト完全ガイド — IDDSI法とUDF法の違いと実践"
 description: "IDDSI公式テスト4種類と日本UDF基準の比較。在宅・介護施設で使える食品テクスチャー評価法を管理栄養士・介護スタッフ向けに解説。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "testing"
 last_updated: "2026-04-17"

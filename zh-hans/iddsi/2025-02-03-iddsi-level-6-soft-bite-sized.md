@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 6级软质切块食物：最接近正常饮食的改良方案"
 description: "IDDSI 6级（Soft & Bite-Sized）是最接近正常饮食的改良质地，适合轻度吞咽障碍患者。本文介绍6级的判断标准、适用人群、中式常见6级食物，以及需避免的高风险食物。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2025-02-03"

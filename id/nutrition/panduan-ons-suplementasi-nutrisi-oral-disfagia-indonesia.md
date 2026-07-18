@@ -1,7 +1,7 @@
 ---
 title: "Panduan Suplementasi Nutrisi Oral (ONS) untuk Pasien Disfagia di Indonesia — Skrining MNA-SF, Produk Lokal, dan IDDSI"
 description: "Panduan lengkap ONS untuk pasien disfagia di Indonesia: skrining MNA-SF, level IDDSI produk, pilihan produk lokal dan impor, serta akses BPJS."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "nutrition"
 last_updated: "2026-04-23"

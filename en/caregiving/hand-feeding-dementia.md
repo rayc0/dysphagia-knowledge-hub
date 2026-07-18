@@ -1,7 +1,7 @@
 ---
 title: "Hand Feeding Patients with Dementia: Aspiration Prevention, Oral Refusal Management, and Safe Feeding Techniques"
 description: "Complete guide to hand feeding patients with dementia and dysphagia — dementia-stage swallowing changes, aspiration warning sign recognition, oral locking and food refusal management, 90-degree positioning protocol, spoon technique, IDDSI texture adjustment by stage, caregiver checklist, when to refer to speech-language pathology"
-author: Margaret Wong
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-04-18"

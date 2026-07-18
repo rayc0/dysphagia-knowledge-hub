@@ -1,7 +1,7 @@
 ---
 title: "長者吞嚥困難期間的脫水風險：識別徵兆、每日水分目標、水分補充策略"
 description: "吞嚥困難長者的脫水風險識別指南：早期脫水警示徵兆、香港長者每日水分攝取目標、增稠飲品策略、水分來源替代方案，以及何時需要送醫的判斷標準。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"

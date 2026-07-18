@@ -1,7 +1,7 @@
 ---
 title: "Nhận biết dấu hiệu khó nuốt ở người cao tuổi — Hướng dẫn cho gia đình và người chăm sóc"
 description: "Hướng dẫn nhận biết sớm các dấu hiệu khó nuốt (rối loạn nuốt) ở người cao tuổi Việt Nam: triệu chứng rõ ràng, dấu hiệu tinh tế, yếu tố nguy cơ và khi nào cần đi khám ngay."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "caregiving"
 last_updated: "2026-05-13"

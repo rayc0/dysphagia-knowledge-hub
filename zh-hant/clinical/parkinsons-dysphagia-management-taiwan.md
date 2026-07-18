@@ -4,7 +4,7 @@ description: "針對帕金森氏症患者吞嚥障礙的完整台灣照護指南
 lang: zh-hant
 category: clinical
 date: 2026-04-15
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 tags:
   - 帕金森氏症
   - 吞嚥困難

@@ -1,7 +1,7 @@
 ---
 title: "床旁临床吞咽检查（CSE）：言语治疗师的评估流程与照护者配合要点"
 description: "详解床旁临床吞咽检查的评估流程（口腔运动检查、声音质量评估、试验性进食），如何通过CSE结果得出IDDSI建议，照护者准备事项，常见发现的临床意义，以及在中国大陆医院（康复科、耳鼻喉科、神经内科）如何申请评估"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "testing"
 last_updated: "2025-02-01"

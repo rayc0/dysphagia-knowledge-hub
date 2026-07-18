@@ -1,7 +1,7 @@
 ---
 title: "Sàng lọc và quản lý suy dinh dưỡng ở người bệnh rối loạn nuốt — Hướng dẫn lâm sàng toàn diện cho Việt Nam"
 description: "Hướng dẫn sàng lọc suy dinh dưỡng MNA-SF, GLIM, NRS-2002 cho người rối loạn nuốt tại Việt Nam: dữ liệu Bạch Mai, HMU, TPHCM, chiến lược can thiệp IDDSI và dinh dưỡng lâm sàng."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "nutrition"
 last_updated: "2026-04-22"

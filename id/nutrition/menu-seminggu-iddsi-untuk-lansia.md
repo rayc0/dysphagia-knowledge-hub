@@ -1,7 +1,7 @@
 ---
 title: "Contoh Menu Seminggu IDDSI untuk Lansia: Praktis untuk Pembantu Rumah Tangga"
 description: "Contoh menu lengkap selama 7 hari untuk lansia disfagia sesuai standar IDDSI Level 4 dan Level 5 — sarapan, makan siang, makan malam, dan camilan, dengan bahan-bahan yang mudah ditemukan di Indonesia maupun Hong Kong."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "nutrition"
 last_updated: "2026-05-13"

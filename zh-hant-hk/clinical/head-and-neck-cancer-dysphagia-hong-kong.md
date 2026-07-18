@@ -1,7 +1,7 @@
 ---
 title: "頭頸癌治療後吞嚥困難——香港患者及照顧者完整指南"
 description: "頭頸癌手術、放射治療及化療後導致的吞嚥困難：成因、預防性吞嚥訓練、IDDSI質地調整飲食及香港復康資源完整指南。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

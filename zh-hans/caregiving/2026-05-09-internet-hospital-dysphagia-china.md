@@ -6,7 +6,7 @@ lang: zh-hans
 categories: [caregiving]
 tags: [互联网医院, 远程医疗, 言语治疗, 在线问诊, 吞咽障碍随访, 好大夫在线, 京东健康]
 description: "内地吞咽障碍患者如何利用好大夫在线、京东健康、平安好医生等互联网医院平台进行随访、图文问诊与视频复诊。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "caregiving"
 last_updated: "2026-05-09"

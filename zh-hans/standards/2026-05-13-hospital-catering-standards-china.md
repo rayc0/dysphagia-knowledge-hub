@@ -6,7 +6,7 @@ categories: [standards]
 tags: [医院膳食, 营养管理, 吞咽障碍, SLT协作, 卫生标准]
 description: "解读国家卫健委医院营养膳食管理规范对吞咽障碍专科膳食的要求，及营养科与言语治疗师的协作模式。"
 date: 2026-05-13
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 ## 中国医院膳食管理规范：吞咽障碍专科膳食要求与科室协作

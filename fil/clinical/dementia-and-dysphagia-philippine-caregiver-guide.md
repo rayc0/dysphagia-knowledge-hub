@@ -4,7 +4,7 @@ description: "Komprehensibong gabay sa dysphagia sa dementia para sa mga Pilipin
 lang: fil
 category: clinical
 date: 2026-05-19
-author: SeniorDeli Dysphagia Knowledge Hub
+author: "SeniorDeli (Carewells) Editorial Team"
 license: "CC BY 4.0"
 canonical: "https://softmeal.org/fil/clinical/dementia-and-dysphagia-philippine-caregiver-guide"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Cấp độ 0 — Nước uống Lỏng bình thường: Hướng dẫn hoàn chỉnh cho Việt Nam"
 description: "IDDSI Level 0 (Thin / Lỏng bình thường): kiểm tra ống tiêm <1ml, lựa chọn bệnh nhân phù hợp, bằng chứng Robbins 2008, giảm bậc về Level 0, bảng thức uống Việt Nam tương thích."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "iddsi"
 last_updated: "2026-04-22"

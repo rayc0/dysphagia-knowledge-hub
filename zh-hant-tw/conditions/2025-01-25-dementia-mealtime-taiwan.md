@@ -1,7 +1,7 @@
 ---
 title: "失智症患者的吞嚥與進食困難：台灣照護者實戰指南"
 description: "針對台灣失智症照護者的進食困難應對指南，涵蓋失智症特有的吞嚥問題、台灣家庭照護現況、進餐環境設置、晚期手指食物建議，以及台灣失智症協會資源與預立醫療決定（AD）說明。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "conditions"
 last_updated: "2025-01-25"

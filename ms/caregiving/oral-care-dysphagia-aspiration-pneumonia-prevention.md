@@ -1,7 +1,7 @@
 ---
 title: "Penjagaan Mulut untuk Mencegah Pneumonia Aspirasi: Bukti Saintifik dan Amalan"
 description: "Panduan penjagaan mulut berasaskan bukti untuk pesakit disfagia — kajian Yoneyama 2002, teknik memberus gigi, gel pelembap mulut, penjagaan gigi palsu, dan program pergigian KKM untuk warga emas."
-author: Dr. Kevin Lau
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "caregiving"
 last_updated: "2026-04-19"

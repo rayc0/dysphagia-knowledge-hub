@@ -1,7 +1,7 @@
 ---
 title: "Cara Memberi Makan yang Aman pada Lansia Disfagia: Langkah demi Langkah"
 description: "Panduan teknis langkah demi langkah untuk pengasuh yang memberi makan lansia dengan disfagia — persiapan, posisi, teknik suapan, kecepatan makan, dan protokol setelah makan."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "caregiving"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Level 7 Makanan Normal dan Mudah Kunyah — Panduan Lengkap untuk Pasien Disfagia di Indonesia"
 description: "IDDSI Level 7EC vs Level 7 Regular: Pemahaman kapan boleh kembali ke makanan normal, resiko tersedak, hidangan Indonesia aman, dan panduan keluarga."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-05-01"

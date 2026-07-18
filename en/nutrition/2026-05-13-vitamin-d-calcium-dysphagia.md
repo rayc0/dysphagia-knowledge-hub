@@ -1,7 +1,7 @@
 ---
 title: "Vitamin D and Calcium for Dysphagia Patients: Swallowing Muscle Function, Supplement Forms, and HK Context"
 description: "Why vitamin D and calcium matter specifically for dysphagia management, evidence for vitamin D's role in swallowing muscle function, supplement forms suitable for modified-texture diets, HK-available fortified foods, and sun exposure guidance in Hong Kong's context."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2026-05-13"

@@ -1,7 +1,7 @@
 ---
 title: "Traditional Chinese Medicine and Dysphagia: Bridging Eastern and Western Approaches to Swallowing Disorders"
 description: "How TCM conceptualizes and treats swallowing difficulties — qi stagnation, phlegm obstruction, spleen-stomach deficiency frameworks, acupuncture evidence, herbal approaches, and integration with IDDSI-based Western clinical management."
-author: Margaret Wong
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"

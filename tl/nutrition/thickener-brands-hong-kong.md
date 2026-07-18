@@ -1,7 +1,7 @@
 ---
 title: "Mga Brand ng Thickener sa Hong Kong — EasiThick, Nutilis, Thick-It: Presyo, Pagbili, at Tamang Paghahalo"
 description: "Kumpletong gabay sa mga thickener brand na available sa Hong Kong para sa dysphagia: EasiThick, Nutilis Clear, at Thick-It. Kasama ang presyo, kung saan mabibili, tamang mixing ratio, at paano maiwasan ang mga bukol."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "nutrition"
 last_updated: "2026-05-13"

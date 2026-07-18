@@ -1,7 +1,7 @@
 ---
 title: "IDDSI国际吞咽饮食标准化倡议——0至7级体系完全指南"
 description: "全面解读IDDSI吞咽饮食分级体系：8个等级定义、颜色标识与测试方法，与中国传统四分法对照，T/SATA 094-2025对接关系，及国内养老机构推广现状与障碍分析。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "iddsi"
 last_updated: "2026-05-13"

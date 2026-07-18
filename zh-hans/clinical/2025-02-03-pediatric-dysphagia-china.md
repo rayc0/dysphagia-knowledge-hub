@@ -1,7 +1,7 @@
 ---
 title: "儿童吞咽障碍：内地儿科照护者必知的识别、评估与干预指南"
 description: "儿童吞咽障碍与成人截然不同：发育阶段、病因谱系、干预方式均有根本差异。本指南涵盖常见病因（脑瘫、早产、自闭症、结构异常）、婴幼儿至学龄期不同表现、奶嘴改良、IDDSI儿科应用，以及中国大陆儿科言语治疗资源现状。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2025-02-03"

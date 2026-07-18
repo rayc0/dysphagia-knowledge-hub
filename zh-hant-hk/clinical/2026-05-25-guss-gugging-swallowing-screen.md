@@ -1,7 +1,7 @@
 ---
 title: "GUSS：古金吞嚥篩查工具——中風及神經科床邊方案"
 description: "GUSS（Gugging Swallowing Screen）是一份驗證過的床邊吞嚥困難篩查工具，專為急性中風開發。本文涵蓋兩部分方案、嚴重程度分級系統、按嚴重度的飲食建議、臨床實證，以及在中風病房護理路徑中的整合應用。"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Framework — Complete Guide to All 8 Levels"
 description: "Plain-language explanation of the International Dysphagia Diet Standardisation Initiative (IDDSI) framework. Covers all 8 levels (0–7), who each level is for, how foods and drinks are categorized, and how to verify the level using the official IDDSI tests."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "iddsi"
 last_updated: "2026-04-11"

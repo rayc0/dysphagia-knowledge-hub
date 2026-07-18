@@ -1,7 +1,7 @@
 ---
 title: "香港長者營養篩查：MNA-SF、MUST量表及院舍與居家實用指引"
 description: "本文詳述香港常用的兩款營養篩查量表——MNA-SF（迷你營養評估簡表）及MUST（營養不良通用篩查工具），包括中文版評分方法、醫院管理局住院評估實踐、院舍法定要求、社區量度替代方案，以及轉介香港營養師學會（HKDA）的流程。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2025-01-23"

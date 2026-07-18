@@ -1,7 +1,7 @@
 ---
 title: "สูตรอาหารไทยสำหรับผู้ป่วยกลืนลำบาก — 7 เมนูไทยดั้งเดิมปรับตามมาตรฐาน IDDSI ระดับ 4 และ 5"
 description: "คู่มือสูตรอาหารไทยสำหรับผู้มีภาวะกลืนลำบาก ปรับเนื้อสัมผัสตามมาตรฐาน IDDSI ระดับ 4 (อาหารปั่น) และระดับ 5 (อาหารสับละเอียดชุ่มน้ำ) พร้อมเทคนิคครัวจริงและการตรวจเนื้อสัมผัส"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "recipes"
 last_updated: "2026-04-19"

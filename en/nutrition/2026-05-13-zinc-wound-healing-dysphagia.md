@@ -1,7 +1,7 @@
 ---
 title: "Zinc Supplementation for Pressure Ulcers in Dysphagia Patients"
 description: "Evidence guide to zinc and wound healing in dysphagia patients: collagen synthesis mechanism, tube-fed deficiency, 25-50mg supplementation dose, IDDSI zinc-rich foods, copper interaction, and EPUAP guidelines."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2026-05-13"

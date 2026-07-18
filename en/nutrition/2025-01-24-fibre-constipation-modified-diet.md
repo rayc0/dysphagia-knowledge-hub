@@ -1,7 +1,7 @@
 ---
 title: "Managing Constipation in Dysphagia Patients: Fibre, Hydration and Movement Strategies"
 description: "Why texture-modified diets cause constipation, safe high-fibre soft foods for IDDSI Levels 4–6, psyllium husk use in dysphagia, hydration strategies for thickened liquid users, laxative options from HK pharmacies, and when to seek medical advice."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "nutrition"
 last_updated: "2025-01-24"

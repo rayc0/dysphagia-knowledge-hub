@@ -1,7 +1,7 @@
 ---
 title: "Stroke at Dysphagia — Ano ang Dapat Malaman ng Kasambahay"
 description: "Gabay para sa mga FDH sa HK — bakit nagdudulot ng dysphagia ang stroke, timeline ng pagbabago, HKHA rehabilitation services, at pagdadala sa clinic."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "conditions"
 last_updated: "2026-05-13"

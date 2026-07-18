@@ -1,7 +1,7 @@
 ---
 title: "益生菌与肠道健康：吞咽障碍患者抗生素相关腹泻与便秘的营养管理"
 description: "分析吞咽障碍患者频繁使用抗生素的原因及肠道影响，益生菌预防抗生素相关腹泻的证据，适合IDDSI L4-5的益生菌食物与补充剂，益生元食物选择，以及免疫功能低下患者的禁忌"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "nutrition"
 last_updated: "2025-02-04"

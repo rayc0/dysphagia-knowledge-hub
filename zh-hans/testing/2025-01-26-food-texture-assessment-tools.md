@@ -1,7 +1,7 @@
 ---
 title: "照护食质地评估工具大全：从叉子测试到专业测试仪器"
 description: "系统介绍IDDSI全套食物质地测试方法（叉子倾流、勺子倾斜、叉子压力、刀切测试），与专业流变仪测量的对比，居家测试与临床评估的适用边界，以及中国大陆照护现场的操作要点"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "testing"
 last_updated: "2025-01-26"

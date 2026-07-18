@@ -1,7 +1,7 @@
 ---
 title: "Myasthenia Gravis and Dysphagia — Clinical Management Guide for Patients and Caregivers"
 description: "Complete guide to dysphagia in myasthenia gravis: 24.9% prevalence, pathophysiology, diagnostic testing (FTT, VFSS), immunotherapy management, and IDDSI diet progression."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-07-12"

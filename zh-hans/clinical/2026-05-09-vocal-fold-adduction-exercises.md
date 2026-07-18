@@ -6,7 +6,7 @@ categories: [clinical]
 tags: [吞咽障碍, 康复治疗, 言语治疗]
 description: "面向内地SLT的声带内收训练临床指南，涵盖喉保护机制、Lee Silverman语音治疗、推拉法、喉内收抗阻训练及与吞咽安全性改善的整合路径。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 编辑团队"
 ---
 
 # 声带内收训练与吞咽障碍康复：喉保护功能强化指南

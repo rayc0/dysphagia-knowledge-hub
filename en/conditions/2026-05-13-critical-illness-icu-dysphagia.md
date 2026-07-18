@@ -1,7 +1,7 @@
 ---
 title: "Post-ICU and Post-Intubation Dysphagia: Recognition and Recovery"
 description: "Detailed guide to post-intubation dysphagia: arytenoid dislocation, sensory loss mechanisms, FEES in ICU, DIGEST scoring, reintubation risk, early vs. late oral feeding, PICS, and HK ICU rehab pathways."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-13"

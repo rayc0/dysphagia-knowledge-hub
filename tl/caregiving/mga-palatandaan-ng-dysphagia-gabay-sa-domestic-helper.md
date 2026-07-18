@@ -1,7 +1,7 @@
 ---
 title: "Mga Palatandaan ng Dysphagia na Dapat Abangan ng mga Domestic Helper"
 description: "Gabay para sa mga DH sa HK: paano makilala ang mga maagang palatandaan ng dysphagia sa inyong matatandang employer at kailan kailangang tumawag ng doktor."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "caregiving"
 last_updated: "2026-05-13"

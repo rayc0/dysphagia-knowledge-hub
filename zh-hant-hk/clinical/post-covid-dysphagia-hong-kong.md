@@ -1,7 +1,7 @@
 ---
 title: "新冠後吞嚥困難——香港患者及照顧者完整指南"
 description: "解析 COVID-19 後吞嚥困難的成因、盛行率、評估方法與復健策略，結合香港醫管局及 HKCSS 資源，助照顧者及早識別並處理。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant"
 category: "clinical"
 last_updated: "2026-04-19"

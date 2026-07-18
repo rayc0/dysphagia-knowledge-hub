@@ -4,7 +4,7 @@ description: "The frailty-dysphagia overlap, FRAIL scale screening, combined ene
 lang: en
 category: nutrition
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - frailty
   - dysphagia

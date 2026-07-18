@@ -1,7 +1,7 @@
 ---
 title: "香港吞嚥困難患者服藥指南：哪些藥可磨碎、哪些不能、液體替代品及藥劑師諮詢"
 description: "香港吞嚥困難患者實用服藥指南，涵蓋可磨碎藥物判斷原則、醫管局藥房諮詢流程、香港可獲取的液體藥物選擇及患者自我管理技巧。"
-author: Susan Tam
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "caregiving"
 last_updated: "2026-05-09"

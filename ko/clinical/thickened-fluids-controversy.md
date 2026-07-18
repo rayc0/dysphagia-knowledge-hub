@@ -1,7 +1,7 @@
 ---
 title: "점증액(농후유동식) 유효성 논쟁: IDDSI 점증액의 흡인 예방 근거와 탈수 위험 균형"
 description: "연하장애 점증액(농후유동식) 사용의 유효성과 안전성 논쟁 완전 가이드 — IDDSI 점증액 사용 근거(흡인·질식 방지), 대규모 RCT 결과(ACTRN12614000949640), 점증액이 유발하는 탈수·영양 저하 위험, 환자 QOL 영향(음수 거부·복약 곤란), 턱 당기기 대체 전략 비교, '최소 유효 농도' 원칙, 언어재활사 정기 재평가 중요성"
-author: Susan Tam
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ko"
 category: "clinical"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "เมนูอาหารนุ่ม IDDSI L4 สำหรับผู้สูงอายุไทย — สูตรอาหารไทยปรับเนื้อสัมผัส"
 description: "สูตรอาหารไทยปรับเนื้อสัมผัสสำหรับผู้ป่วยภาวะกลืนลำบาก IDDSI ระดับ 4: ข้าวต้มปลา โจ๊กไก่ ซุปฟักทอง เต้าหู้นึ่ง และขนมหวานไทยที่ผ่านมาตรฐาน พร้อมวิธีตรวจสอบเนื้อสัมผัส"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "recipes"
 last_updated: "2026-05-13"

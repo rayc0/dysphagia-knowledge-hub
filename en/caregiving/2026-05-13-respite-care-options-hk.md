@@ -1,7 +1,7 @@
 ---
 title: "Respite Care Options in Hong Kong for Dysphagia Caregivers: DAECC, Short-Stay Residential, and SWD Subsidies"
 description: "A practical guide to respite care in Hong Kong for families caring for dysphagia patients: DAECC day attendance centres, short-term residential care beds, SWD subsidy applications, typical waiting times, and how to plan around the patient's texture modification needs."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-05-13"

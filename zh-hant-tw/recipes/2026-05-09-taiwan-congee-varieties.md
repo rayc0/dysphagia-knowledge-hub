@@ -6,7 +6,7 @@ categories: [recipes]
 tags: [吞嚥障礙, 台灣, 食譜, 粥品, IDDSI]
 description: "介紹台灣各地粥品文化，並依據IDDSI質地分級分析適合吞嚥障礙患者的粥類選擇，涵蓋廣東粥、台式稀飯及客家鹹粥等。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 # 台灣粥品多樣性——吞嚥障礙適合的粥類選擇

@@ -1,7 +1,7 @@
 ---
 title: "โรคพาร์กินสันและภาวะกลืนลำบาก — คู่มือสำหรับผู้ป่วยและผู้ดูแลในประเทศไทย"
 description: "คู่มือครอบคลุมเรื่องภาวะกลืนลำบากในโรคพาร์กินสัน อาการเตือน การประเมิน IDDSI และเทคนิคการดูแลสำหรับผู้ดูแลชาวไทย"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "clinical"
 last_updated: "2026-04-19"

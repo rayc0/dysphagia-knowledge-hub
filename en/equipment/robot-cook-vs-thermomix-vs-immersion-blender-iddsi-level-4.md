@@ -1,7 +1,7 @@
 ---
 title: "Robot Cook vs Thermomix vs Immersion Blender — Choosing Equipment for IDDSI Level 4 Production"
 description: "Head-to-head comparison of Robot Cook, Thermomix, and immersion blenders for producing IDDSI Level 4 purées in hospital, aged-care, and home kitchens."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "equipment"
 last_updated: "2026-04-17"

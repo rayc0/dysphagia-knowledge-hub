@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙患者復健運動指南：Shaker、Mendelsohn、用力吞嚥與EMST的操作與注意事項"
 description: "以實證為基礎，說明台灣復健科常用的四種吞嚥復健運動（Shaker、Mendelsohn、用力吞嚥、EMST），包含操作步驟、健保給付、禁忌症與居家練習重點。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-09

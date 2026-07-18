@@ -1,7 +1,7 @@
 ---
 title: "มาตรฐาน IDDSI: คู่มือสำหรับผู้ดูแลไทย"
 description: "คู่มือมาตรฐาน IDDSI (International Dysphagia Diet Standardisation Initiative) สำหรับผู้ดูแลผู้ป่วยภาวะกลืนลำบากในประเทศไทย: 8 ระดับ วิธีทดสอบที่บ้าน และอาหารไทยที่เหมาะสม"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "th"
 category: "iddsi"
 last_updated: "2026-05-13"

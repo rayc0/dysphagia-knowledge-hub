@@ -4,7 +4,7 @@ description: "吞咽障碍患者用药管理完全指南（中国大陆版）—
 lang: zh-hans
 category: caregiving
 date: 2026-04-18
-author: the editorial team AI
+author: "SeniorDeli (Carewells) 编辑团队"
 canonical: "https://softmeal.org/zh-hans/caregiving/medication-administration"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"

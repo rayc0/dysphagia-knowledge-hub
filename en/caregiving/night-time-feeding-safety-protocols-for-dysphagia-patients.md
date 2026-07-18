@@ -4,7 +4,7 @@ description: "A comprehensive clinical and practical guide to safely managing ni
 lang: en
 category: caregiving
 date: 2026-04-15
-author: Susan Tam
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - dysphagia
   - night-feeding

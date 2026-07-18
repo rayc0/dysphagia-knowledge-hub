@@ -1,7 +1,7 @@
 ---
 title: "台灣吞嚥障礙評估工具與臨床流程：VMSS、FEES、標準化測試完整指南"
 description: "介紹台灣臨床常用的吞嚥障礙評估工具，包括VMSS體積黏度測試、FEES內視鏡評估、標準化吞嚥測試及多學科評估流程，協助患者與照顧者了解評估全貌。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "testing"
 last_updated: "2026-05-09"

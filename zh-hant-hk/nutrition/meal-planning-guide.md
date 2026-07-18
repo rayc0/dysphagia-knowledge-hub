@@ -1,7 +1,7 @@
 ---
 title: "吞嚥困難患者餐飲計劃指南：IDDSI 各級別香港飲食規劃"
 description: "香港吞嚥困難患者餐飲計劃全指南：IDDSI 3–7級均衡飲食規劃、3日香港菜式示範餐單（粥品、豆腐、雞蛋、點心）、食物強化技巧、每日5–6餐策略、批量煮食貼士、香港長者飯盒服務及每餐熱量蛋白質目標。"
-author: Margaret Wong
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "nutrition"
 last_updated: "2026-04-19"

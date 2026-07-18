@@ -1,7 +1,7 @@
 ---
 title: "Preventing Caregiver Burnout When Caring for Dysphagia Patients"
 description: "Signs of caregiver burnout, respite care options in Hong Kong (SWD, care homes, CSSA), practical self-care strategies, and HK support groups for family carers of dysphagia patients."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiver"
 last_updated: "2026-05-09"

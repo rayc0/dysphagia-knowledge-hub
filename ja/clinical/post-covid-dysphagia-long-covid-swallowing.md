@@ -1,7 +1,7 @@
 ---
 title: "新型コロナウイルス感染後の嚥下障害——ロングCOVID患者ケアガイド"
 description: "COVID-19が嚥下機能を障害するメカニズム、挿管期間と重症度の関係、ロングCOVID持続率、リハビリの根拠、IDDSI食形態管理を徹底解説。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ja"
 category: "clinical"
 last_updated: "2026-04-19"

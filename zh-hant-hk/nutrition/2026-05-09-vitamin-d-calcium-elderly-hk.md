@@ -6,7 +6,7 @@ categories: [nutrition]
 tags: [吞嚥困難, 營養, 香港, 維生素D, 鈣質, 老年人]
 description: "香港老年吞嚥困難患者維生素D與鈣質補充實用指引，涵蓋本地飲食來源、日照建議及補充品選擇。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 ## 維生素D與鈣質對老年人的重要性

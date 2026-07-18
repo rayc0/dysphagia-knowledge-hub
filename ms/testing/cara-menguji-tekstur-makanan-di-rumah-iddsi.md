@@ -1,7 +1,7 @@
 ---
 title: "Cara Menguji Tekstur Makanan di Rumah — Kaedah IDDSI Langkah demi Langkah"
 description: "Panduan lengkap menguji tekstur makanan dan cecair untuk pesakit disfagia di rumah menggunakan 4 kaedah IDDSI rasmi: ujian aliran, garpu, sudu, dan tekanan."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "testing"
 last_updated: "2026-04-18"

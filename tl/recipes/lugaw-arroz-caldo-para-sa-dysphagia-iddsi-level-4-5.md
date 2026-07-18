@@ -1,7 +1,7 @@
 ---
 title: "Lugaw at Arroz Caldo para sa mga may Dysphagia — IDDSI Level 4-5 Filipino Recipes"
 description: "Paano ihanda ang tradisyonal na lugaw at arroz caldo para matugunan ang IDDSI Level 4 at Level 5 para sa matatandang may dysphagia. Madaling gawin sa HK kitchen, nutritious, at comforting."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "tl"
 category: "recipes"
 last_updated: "2026-05-13"

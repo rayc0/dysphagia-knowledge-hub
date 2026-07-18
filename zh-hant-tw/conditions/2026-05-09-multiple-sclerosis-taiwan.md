@@ -6,7 +6,7 @@ categories: [conditions]
 tags: [吞嚥障礙, 台灣, 多發性硬化症, 神經疾病, 疾病管理]
 description: "台灣多發性硬化症患者的吞嚥障礙照護指引，涵蓋健保給付、台灣語言治療學會建議及衛福部相關政策。"
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) 編輯團隊"
 ---
 
 ## 前言

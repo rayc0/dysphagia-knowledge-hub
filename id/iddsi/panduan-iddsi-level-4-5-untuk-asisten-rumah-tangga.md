@@ -1,7 +1,7 @@
 ---
 title: "Panduan IDDSI Level 4 dan 5 untuk Asisten Rumah Tangga Indonesia di Hong Kong"
 description: "Panduan praktis IDDSI Level 4 (makanan lunak halus) dan Level 5 (makanan cincang lembap) untuk ART Indonesia yang merawat lansia di Hong Kong — dengan contoh makanan Indonesia, cara uji tekstur, dan tips dapur."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "iddsi"
 last_updated: "2026-05-13"

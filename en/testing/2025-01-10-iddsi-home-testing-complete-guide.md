@@ -1,7 +1,7 @@
 ---
 title: "IDDSI Testing at Home: A Complete Guide for Family Caregivers"
 description: "Step-by-step guide to performing IDDSI fork drip, spoon tilt, and fork pressure tests at home. Equipment needed, troubleshooting tips, and when to seek professional help — written for Hong Kong family caregivers."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "testing"
 last_updated: "2026-05-09"

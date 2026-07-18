@@ -1,7 +1,7 @@
 ---
 title: "Demensia dan Disfagia — Strategi Pemberian Makan dan Penjagaan Keselesaan"
 description: "Panduan lengkap untuk penjaga: bagaimana demensia menyebabkan disfagia, strategi pemberian makan yang selamat, pengubahsuaian tekstur IDDSI, dan penjagaan keselesaan di peringkat akhir."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "clinical"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "Mga Senyales ng Dysphagia para sa Pamilyang Pilipino — EAT-10 Self-Assessment at Kailan Dapat Magpa-ospital"
 description: "Gabay para sa mga pamilyang Pilipino: 10 babala ng dysphagia, paano gamitin ang EAT-10 self-assessment, mga babala ng aspiration pneumonia, at listahan ng mga ospital na puwedeng puntahan (TMC, PGH, UST-VRP)."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 date: "2026-05-18"

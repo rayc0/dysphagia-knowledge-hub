@@ -1,7 +1,7 @@
 ---
 title: "Tạo môi trường ăn uống an toàn cho người khó nuốt — Hướng dẫn thiết lập không gian bữa ăn"
 description: "Hướng dẫn thiết lập môi trường ăn uống an toàn và thoải mái cho người bệnh khó nuốt tại nhà: ánh sáng, âm thanh, bố trí bàn ăn, chuẩn bị khẩn cấp và tôn trọng phẩm giá người bệnh."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "caregiving"
 last_updated: "2026-05-13"

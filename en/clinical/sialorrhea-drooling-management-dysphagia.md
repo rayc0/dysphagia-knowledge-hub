@@ -4,7 +4,7 @@ description: "Evidence-based guide to managing sialorrhea (excessive saliva and 
 lang: en
 category: clinical
 date: 2026-05-20
-author: Susan Tam
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 # Sialorrhea and Drooling in Dysphagia — A Clinical and Caregiver Management Guide

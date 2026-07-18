@@ -1,7 +1,7 @@
 ---
 title: "口腔干燥症与吞咽障碍：协同评估与管理指南"
 description: "口腔干燥症（口干）对吞咽功能的影响及管理 — 唾液分泌减少的原因（药物、放疗、干燥综合征）、对食团形成的影响、人工唾液选择，以及头颈癌放疗患者的特殊管理策略"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-04-18"

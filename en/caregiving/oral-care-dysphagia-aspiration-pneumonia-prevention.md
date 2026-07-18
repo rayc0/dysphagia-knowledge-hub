@@ -1,7 +1,7 @@
 ---
 title: "Oral Care for Dysphagia Patients — How Toothbrushing Cuts Aspiration Pneumonia Risk"
 description: "Evidence-based oral care protocol for dysphagia caregivers. Twice-daily toothbrushing reduces aspiration pneumonia by up to 40%. Step-by-step guide with citations."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "caregiving"
 last_updated: "2026-04-17"

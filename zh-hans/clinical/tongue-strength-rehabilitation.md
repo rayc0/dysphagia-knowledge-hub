@@ -1,7 +1,7 @@
 ---
 title: "舌肌力量康复训练：Iowa Oral PI、正常参考值与肌少症吞咽障碍应用"
 description: "舌压力量是安全吞咽的核心力学指标。本文涵盖Iowa Oral PI测量方法、分年龄段舌压正常参考值、增龄性舌肌萎缩规律、渐进抗阻舌压训练系统方案，及肌少症性吞咽障碍中的特殊应用。"
-author: "the editorial team AI"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "clinical"
 last_updated: "2026-05-13"

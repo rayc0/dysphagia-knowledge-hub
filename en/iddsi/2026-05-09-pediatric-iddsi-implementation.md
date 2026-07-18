@@ -6,7 +6,7 @@ categories: [iddsi]
 tags: [dysphagia, pediatric, children, feeding, iddsi, texture-modified]
 description: "How IDDSI framework application differs in paediatric dysphagia — age-specific level selection, testing methods, and practice in HK paediatric services."
 date: 2026-05-09
-author: softmeal.org editorial team
+author: "SeniorDeli (Carewells) Editorial Team"
 ---
 
 The International Dysphagia Diet Standardisation Initiative (IDDSI) framework was designed to apply across the full lifespan — from premature infants to older adults. Yet implementing IDDSI in paediatric care requires adjustments that go beyond simply scaling down adult practice. Age, developmental stage, neurological maturity, and the physiological differences between an infant's swallow and an adult's all shape how clinicians select levels, test textures, and counsel families.

@@ -1,7 +1,7 @@
 ---
 title: "儿童吞咽障碍家庭心理支持：父母焦虑、学校适应与心理治疗资源"
 description: "儿童吞咽障碍对整个家庭系统产生深远影响。本文介绍父母焦虑与过度保护的识别干预、学校进餐环境适应策略、心理教育内容，以及国内可及的儿童心理治疗资源。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-13"

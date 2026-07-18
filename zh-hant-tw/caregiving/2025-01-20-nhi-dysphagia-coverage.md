@@ -1,7 +1,7 @@
 ---
 title: "台灣健保與吞嚥障礙照護：醫療資源運用完整指南"
 description: "全面說明台灣全民健保對吞嚥障礙照護的給付範圍，包括語言治療、吞嚥復健、長照2.0服務、失能評估流程，以及自費費用估算，協助患者與家屬有效運用醫療資源。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 last_updated: "2025-01-20"

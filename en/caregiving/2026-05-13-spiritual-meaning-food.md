@@ -5,7 +5,7 @@ description: "Food as spiritual and cultural connection in the context of dyspha
 lang: en
 category: caregiving
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - spiritual
   - cultural

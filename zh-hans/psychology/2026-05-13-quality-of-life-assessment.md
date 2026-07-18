@@ -1,7 +1,7 @@
 ---
 title: "吞咽障碍相关生活质量评估：SWAL-QoL量表与临床应用"
 description: "生活质量是吞咽障碍管理中不可缺少的结局指标。本文介绍SWAL-QoL量表的结构与中文版信效度，解析临床应用方法，并综述提升吞咽障碍患者生活质量的循证干预策略。"
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "psychology"
 last_updated: "2026-05-13"

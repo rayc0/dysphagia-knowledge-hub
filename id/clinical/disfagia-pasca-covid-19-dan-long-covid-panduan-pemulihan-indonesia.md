@@ -1,7 +1,7 @@
 ---
 title: "Disfagia Pasca COVID-19 dan Long COVID — Panduan Klinis dan Pemulihan di Indonesia"
 description: "Panduan lengkap tentang kesulitan menelan setelah COVID-19, penyebab, pemulihan, dan strategi rehabilitasi untuk pasien dan keluarga di Indonesia"
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "clinical"
 last_updated: "2026-04-24"

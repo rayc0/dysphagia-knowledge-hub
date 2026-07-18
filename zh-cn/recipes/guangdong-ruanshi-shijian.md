@@ -1,7 +1,7 @@
 ---
 title: "粤式吞咽友好食谱精选——10道适合IDDSI 4-6级的广东软食"
 description: "10道粤式吞咽友好食谱：皮蛋瘦肉粥、瑶柱鱼片粥、蒸水蛋、蒸鱼蓉豆腐、西湖牛肉羹、玉米浓汤、芝麻糊强化版、马蹄糕泥等，含IDDSI等级确认、营养信息及冷藏翻热注意事项。"
-author: 吞咽障碍知识中心
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-CN"
 category: "recipes"
 last_updated: "2026-05-13"

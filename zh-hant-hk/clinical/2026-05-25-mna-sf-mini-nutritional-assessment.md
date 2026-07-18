@@ -1,7 +1,7 @@
 ---
 title: "MNA-SF 簡版迷你營養評估：吞嚥困難長者的營養篩查"
 description: "MNA-SF（簡版迷你營養評估）的臨床指南——6個題目、評分方法、與吞嚥困難評估的整合，以及識別吞嚥困難老年人營養不良風險的應用。"
-author: "編輯團隊"
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-hk"
 category: "clinical"
 last_updated: "2026-05-25"

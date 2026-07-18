@@ -1,7 +1,7 @@
 ---
 title: "IDDSI 国际吞咽障碍饮食标准——八级框架完整介绍"
 description: "IDDSI 框架将食物和饮品分为 0-7 共八个等级，是全球通用的吞咽障碍饮食分类标准。本文用通俗语言逐级解读。"
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) 编辑团队"
 language: "zh-hans"
 category: "iddsi"
 last_updated: "2026-04-13"

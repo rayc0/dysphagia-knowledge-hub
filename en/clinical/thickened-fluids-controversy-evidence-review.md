@@ -1,7 +1,7 @@
 ---
 title: "The Thickened Fluids Controversy — Robbins 2008, Adverse Events, and the 2024–2026 Evidence Shift"
 description: "Evidence review of thickened liquids for dysphagia: what the Robbins 2008 RCT actually found, documented harms, quality-of-life trade-offs, and how shared decision-making is replacing one-size-fits-all prescribing."
-author: "Editorial Team editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "clinical"
 last_updated: "2026-04-17"

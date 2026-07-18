@@ -1,7 +1,7 @@
 ---
 title: "Oral Hygiene for Dysphagia Patients — Philippine Prevention Guide"
 description: "Reduce aspiration pneumonia risk by 40-67% with evidence-based oral care. Yoneyama 2002 RCT, chlorhexidine evidence, 7-step protocol, and SLP access guide for Philippine families."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "fil"
 category: "caregiving"
 last_updated: "2026-05-21"

@@ -1,7 +1,7 @@
 ---
 title: "Multiple Sclerosis and Dysphagia: A Comprehensive Guide"
 description: "Comprehensive guide to MS-related dysphagia: brainstem/cerebellar lesion effects, fatigue impact, relapse vs. progressive MS management, fatigue-adapted exercises, cooling strategies, and HK MS Society resources."
-author: Dysphagia Knowledge Centre
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-13"

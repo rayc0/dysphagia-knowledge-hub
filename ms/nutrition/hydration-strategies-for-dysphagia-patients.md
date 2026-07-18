@@ -1,7 +1,7 @@
 ---
 title: "Strategi Penghidratan untuk Pesakit Disfagia: Keperluan Harian dan Pilihan Cecair"
 description: "Panduan penghidratan berasaskan bukti untuk pesakit disfagia — keperluan cecair harian, paras IDDSI, 5 tanda dehidrasi, strategi jadual minum, cecair elektrolit, dan jeli 100Plus untuk konteks Malaysia."
-author: Susan Tam
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "ms"
 category: "nutrition"
 last_updated: "2026-04-19"

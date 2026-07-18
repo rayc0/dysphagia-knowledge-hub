@@ -1,7 +1,7 @@
 ---
 title: "Memasak Makanan Lunak untuk Pasien Disfagia — Tradisi Masakan Indonesia yang Diadaptasi ke Standar IDDSI"
 description: "Panduan memasak makanan lunak disfagia berbasis tradisi masakan Indonesia: bubur, soto tanpa tulang, opor ayam lunak, dan cara menyesuaikan hidangan favorit ke standar IDDSI Level 4–6 di Hong Kong."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "id"
 category: "recipes"
 last_updated: "2026-05-13"

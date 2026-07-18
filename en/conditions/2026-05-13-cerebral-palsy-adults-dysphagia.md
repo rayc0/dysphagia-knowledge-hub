@@ -1,7 +1,7 @@
 ---
 title: "Cerebral Palsy in Adults and Dysphagia: Lifelong Management and HK Disability Services"
 description: "A clinical guide to dysphagia in adults with cerebral palsy: CP subtypes and their swallowing profiles, the evidence gap in adult CP care, transitioning from paediatric to adult services in Hong Kong, IDDSI management through the adult lifespan, and community resources."
-author: "Editorial Team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "en"
 category: "conditions"
 last_updated: "2026-05-13"

@@ -5,7 +5,7 @@ description: "Evidence for IDDSI diet progression criteria, SLT-guided trial met
 lang: en
 category: iddsi
 date: 2026-05-13
-author: Editorial Team
+author: "SeniorDeli (Carewells) Editorial Team"
 tags:
   - IDDSI
   - transition protocol

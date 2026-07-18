@@ -1,7 +1,7 @@
 ---
 title: "Sặc im lặng (Silent aspiration) — phát hiện, yếu tố nguy cơ và hướng dẫn cho gia đình"
 description: "Sặc im lặng là khi thức ăn hay nước vào đường thở mà bệnh nhân không ho. Hướng dẫn phát hiện, yếu tố nguy cơ, và cách bảo vệ người bệnh rối loạn nuốt tại Việt Nam."
-author: "SeniorDeli (Carewells) editorial team"
+author: "SeniorDeli (Carewells) Editorial Team"
 language: "vi"
 category: "clinical"
 last_updated: "2026-04-21"

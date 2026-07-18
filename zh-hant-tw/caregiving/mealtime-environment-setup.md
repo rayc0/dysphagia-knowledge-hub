@@ -1,7 +1,7 @@
 ---
 title: "安全進食環境設置：防止誤嗆的環境與輔具準備"
 description: "為台灣家庭照顧者提供的進食安全環境完整設置指南——從座椅選擇、桌面配置、照明條件、噪音控制，到適用輔具的選購與使用，讓每一餐都在最安全的環境中進行。"
-author: 吞嚥障礙知識中心
+author: "SeniorDeli (Carewells) 編輯團隊"
 language: "zh-hant-tw"
 category: "caregiving"
 date: 2026-05-13
