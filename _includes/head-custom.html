@@ -4,6 +4,22 @@
 .markdown-body p a,.markdown-body li a,.markdown-body blockquote a{text-decoration:underline}
 </style>
 <script>
+(function(){
+  var loc = (window.location.pathname || '');
+  if (loc === '/' || loc === '/index.html') {
+    var lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
+    if (lang.startsWith('zh-hk') || lang.startsWith('zh-tw') || lang === 'zh-hant-tw' || lang === 'zh-hant-hk') {
+      window.location.href = '/zh-hant-hk/';
+    } else if (lang.startsWith('zh')) {
+      window.location.href = '/zh-hans/';
+    } else if (lang.startsWith('ja')) {
+      window.location.href = '/ja/';
+    } else if (lang.startsWith('ko')) {
+      window.location.href = '/ko/';
+    }
+  }
+})();
+
 document.addEventListener('DOMContentLoaded',function(){
   // ---------- Language switcher bar (single source of truth site-wide) ----------
   var bar=document.createElement('div');
@@ -16,9 +32,6 @@ document.addEventListener('DOMContentLoaded',function(){
     return sep+'<a href="'+pair[0]+'"'+active+'>'+pair[1]+'</a>';
   }).join('');
   document.body.insertBefore(bar,document.body.firstChild);
-  // NOTE: first-visit language auto-redirect lives in the root index.md (it also
-  // covers ja/ko) — not duplicated here to avoid double-redirect races.
-
   // ---------- Homepage topic cards: wrap each h3+ul pair, IDDSI palette cycle ----------
   var body=document.querySelector('.markdown-body');
   if(body){
