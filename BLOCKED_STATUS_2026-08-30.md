@@ -1,0 +1,141 @@
+# SeniorDeli Dysphagia Hub — ESCALATION REQUIRED — 2026-08-30
+
+**Run attempt:** Daily content officer run (scheduled 2026-08-30)  
+**Status:** 🛑 **CRITICAL BLOCKER — RUN #12 FAILED** — 46-day OneDrive deadlock  
+**Severity:** ESCALATION REQUIRED (5+ consecutive runs failed per role spec)  
+
+---
+
+## Incident Summary
+
+| Factor | Status |
+|--------|--------|
+| **Duration** | 46 days (2026-07-15 → 2026-08-30) |
+| **Failed runs** | 11+ documented + this = #12 total |
+| **Last successful publish** | 2026-07-22 (last cascade localizations) |
+| **Hub stability** | ✅ STABLE (1,406+ articles verified as of 2026-08-22 verification run #200) |
+
+---
+
+## Root Cause
+
+**OneDrive Kernel-Level Deadlock (EDEADLK)**
+
+Files on `/Users/tun/Library/CloudStorage/OneDrive-Personal/0ai agents/raymond agent/memory/projects/seniordeli-seo-team/`:
+- `content_queue.md` — **INACCESSIBLE** (EDEADLK)
+- `weekly_digest.md` — **INACCESSIBLE** (EDEADLK)
+
+Both files remain locked despite repeated access attempts across 46 days and 11+ runs.
+
+---
+
+## This Run's Actions
+
+1. ✅ Read role file: `ROLE_AI_CONTENT_OFFICER.md`
+2. ✅ Read reference materials: `reference_care_food_intelligence.md`, `project_seniordeli_dysphagia_seo.md`
+3. ❌ Read content queue: **BLOCKED** — `content_queue.md` EDEADLK
+4. ❌ Read weekly digest: **BLOCKED** — `weekly_digest.md` EDEADLK
+5. ❌ Escalate via email: Previous attempt failed (ETIMEDOUT 74.125.199.108:465)
+
+**Exit reason:** Critical infrastructure blocker; cannot proceed per role spec line 80 ("if blocked, log to weekly digest and exit cleanly"). Cannot write to weekly_digest.md due to same deadlock. Escalating via repo status instead.
+
+---
+
+## Escalation Trigger Checklist (Role File §Escalation)
+
+✅ **Condition #5 met:** 5+ consecutive runs failed  
+→ **This run:** #12 consecutive failure on same blocker  
+→ **Previous runs:** #1–#11 documented in BLOCKED_STATUS_2026-07-15.md through BLOCKED_STATUS_2026-08-11.md
+
+---
+
+## What's Working
+
+- ✅ Git repo: Clean, on `main`, fully operational
+- ✅ GitHub Pages: Hub deployed, stable at 1,406+ articles
+- ✅ Writing capability: Ready to publish (git add/commit/push works)
+- ✅ Research tools: WebSearch, WebFetch available
+- ✅ Article templates: Validated and operational
+
+---
+
+## What's Blocked
+
+- 🛑 **Queue access:** Cannot read `content_queue.md` (EDEADLK) → **cannot determine next topic**
+- 🛑 **Digest write:** Cannot write to `weekly_digest.md` (EDEADLK) → **cannot log publications**
+- 🛑 **Email escalation:** Previous attempt timed out (ETIMEDOUT)
+- 🛑 **Automation:** Daily launchd job repeating same error 11+ times
+
+---
+
+## Impact
+
+| Item | Status |
+|------|--------|
+| Hub growth | ⏸ PAUSED (no new articles since 2026-07-22) |
+| Daily runs | 🛑 DISABLED (blocked 46 days) |
+| Content queue | 📂 UNKNOWN (cannot access to verify status/new items) |
+| Monday digests | 🛑 BLOCKED (cannot write weekly_digest.md) |
+
+---
+
+## Requested Action (Raymond)
+
+**Priority 1:** Resolve OneDrive deadlock  
+- Root cause: Likely `OneDrive.app` stale mount or kernel file handle leak
+- Suggested fix: `umount /Volumes/OneDrive-Personal && remount`; or IT escalation to O365 team
+- Test: Attempt `cat /Users/tun/Library/CloudStorage/OneDrive-Personal/0ai\ agents/raymond\ agent/memory/projects/seniordeli-seo-team/content_queue.md`
+
+**Priority 2 (if OneDrive fix delayed):** Provide alternative queue  
+- Move `content_queue.md` + `weekly_digest.md` to:
+  - GitHub repo `.seniordeli/queue.md` (tracked in git)
+  - Shared Slack channel / Google Doc link
+  - Email with new topics + Raymond approval
+- This unblocks immediate publication once you confirm topic
+
+**Priority 3:** Verify new queue items  
+- Current queue was fully cleared as of 2026-07-15
+- No new topics have been added in 46 days
+- Confirm: Should AI generate new topics autonomously, or await your direction?
+
+---
+
+## Audit Trail
+
+| Date | Run # | Status | Error |
+|------|-------|--------|-------|
+| 2026-07-15 | #1 | BLOCKED | EDEADLK (queue) |
+| 2026-07-18 | #2 | BLOCKED | EDEADLK (queue) |
+| 2026-07-19 | #3 | BLOCKED | EDEADLK (queue) |
+| 2026-07-20 | #4 | BLOCKED | EDEADLK (queue) |
+| 2026-07-27 | #5 | BLOCKED | EDEADLK + ETIMEDOUT (email) |
+| 2026-07-27 | #6–#8 | BLOCKED | EDEADLK (queue) |
+| 2026-08-02 | #9 | BLOCKED | EDEADLK (queue) |
+| 2026-08-03 | #10 | BLOCKED | EDEADLK (queue + email) |
+| 2026-08-11 | #11 | BLOCKED | EDEADLK + ETIMEDOUT (email) |
+| 2026-08-22 | #200 | VERIFY-ONLY | Hub stable, queue still locked |
+| 2026-08-30 | #12 | BLOCKED | EDEADLK (queue + digest) |
+
+---
+
+## Next Steps If Raymond Responds
+
+Once OneDrive is restored OR alternative queue provided:
+1. Read new queue
+2. Pick first 🔴 (or 🟡) topic
+3. Research via WebSearch/WebFetch
+4. Write 1,500–2,500 word article
+5. Commit + push (git works fine)
+6. Update queue + digest (via restored OneDrive OR new location)
+7. Continue daily
+
+---
+
+**Generated by:** SeniorDeli AI Content Officer (Claude Haiku 4.5)  
+**Date:** 2026-08-30 ~09:00 HKT  
+**Run ID:** seniordeli-daily-run-#12  
+**Status:** 🛑 **EXIT — awaiting Raymond escalation response**
+
+---
+
+**@ Raymond:** This is documented in the repo for your visibility. Please advise on OneDrive restore or alternative queue location. Hub is stable and ready to publish once queue is accessible.
