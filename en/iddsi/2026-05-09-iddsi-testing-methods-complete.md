@@ -174,3 +174,33 @@ Level 4 result: Food squashes easily with very light pressure, leaving a smooth 
 ## Summary
 
 The IDDSI framework provides three standardised testing methods for objective verification of diet texture levels. The Syringe Flow Test (10 mL syringe, 10-second free flow, 0-8 mL scale) verifies Levels 0-3. The Fork Drip Test (food drip behaviour from a dinner fork) differentiates Levels 3-7. The Spoon Tilt Test (food slide from a tilted dessert spoon) confirms Level 3 and Level 4. The finger test is a supplementary check for Levels 4-6. Correct testing requires appropriate equipment, serving-temperature testing, and trained observers. Testing is not optional — it is the mechanism by which IDDSI prescriptions are verified and maintained across care settings.
+
+
+---
+
+## Related open research: can a photograph be judged automatically?
+
+The tests above are the standard because a photograph cannot replace them. An open
+research project (IDDSI-Open) studied exactly that question — whether a machine
+vision model can estimate an IDDSI texture level from a food photograph — and
+published its full results, including the negative ones.
+
+The short answer from their measurements: two independent model families agreed
+with each other on the correct level only about three times in four, and roughly
+a fifth of a 684-image corpus could not be labelled at all. The same model scored
+0.49 or 0.81 weighted kappa depending purely on which label set it was measured
+against.
+
+They deliberately **withheld the model weights**, because a downloadable
+classifier would end up being used for verdicts no matter what its documentation
+says. That is the same conclusion this page reaches by a different route: the
+physical test is the mechanism, not the photograph.
+
+- Research preview (code, evaluation harness, full results — no weights):
+  [huggingface.co/lingualeap/iddsi-open-siglip2-v0](https://huggingface.co/lingualeap/iddsi-open-siglip2-v0)
+- Source and audit trail:
+  [github.com/rayc0/iddsi-open](https://github.com/rayc0/iddsi-open)
+
+*This is research about how well the task can be automated. It is not a tool, it
+is not a substitute for the tests described above, and it has not been validated
+for any clinical or care decision.*
