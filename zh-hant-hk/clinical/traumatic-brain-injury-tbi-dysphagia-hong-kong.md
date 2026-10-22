@@ -112,7 +112,7 @@ Mackay 等人指出，RLAS 係預測「幾耐先可以恢復完全經口進食�
 
 **6. 營養同水分。** 早期腸道營養保護腸道功能同支持神經恢復。恢復經口進食時，要留意「安全」同「足夠」之間嘅經典落差——病人可能吞得安全但食得太慢或太少，過渡期需要補充管飼。
 
-**7. 口腔衛生。** 吸入性肺炎風險同口腔細菌量掛鈎；結構化口腔護理減少依賴病人嘅肺炎發生率（Yoneyama 2002 RCT）。詳見本中心嘅[口腔護理指南](../caregiving/oral-hygiene-for-dysphagia-patients-hong-kong.md)。
+**7. 口腔衛生。** 吸入性肺炎風險同口腔細菌量掛鈎；結構化口腔護理減少依賴病人嘅肺炎發生率（Yoneyama 2002 RCT）。詳見本中心嘅[口腔護理指南](../caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention.md)。
 
 ## 常見錯誤／陷阱
 
