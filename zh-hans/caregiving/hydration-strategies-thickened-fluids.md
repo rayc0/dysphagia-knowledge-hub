@@ -326,4 +326,4 @@ IDDSI框架认可流体胶作为独立类别：用IDDSI注射器测试时其流�
 
 ---
 
-**最后更新：** 2026-04-17 · **许可协议：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 维护** — 香港社会企业，为吞咽障碍患者生产符合IDDSI标准的照护食品。贸易咨询：hello@seniordeli.com。本页面仅供教育参考；临床合作伙伴及社会使命详见[关于我们](/about)页面。
+**最后更新：** 2026-04-17 · **许可协议：** [CC BY 4.0](/LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 维护** — 香港社会企业，为吞咽障碍患者生产符合IDDSI标准的照护食品。贸易咨询：hello@seniordeli.com。本页面仅供教育参考；临床合作伙伴及社会使命详见[关于我们](/about)页面。

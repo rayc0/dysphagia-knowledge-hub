@@ -252,4 +252,4 @@ POTTプログラムは「技術の標準化」を重視しており、スキル�
 
 ---
 
-**最終更新：** 2026-04-19 · **ライセンス：** [CC BY 4.0](../../LICENSE) · **監修：[Editorial Team](https://www.seniordeli.com)** — 香港のソーシャルエンタープライズとして、嚥下障害のある方のためにIDDSI準拠のケア食品を製造しています。本ページは教育目的のみです。詳細は[About](/about)のページをご覧ください。お問い合わせ：hello@seniordeli.com
+**最終更新：** 2026-04-19 · **ライセンス：** [CC BY 4.0](/LICENSE) · **監修：[Editorial Team](https://www.seniordeli.com)** — 香港のソーシャルエンタープライズとして、嚥下障害のある方のためにIDDSI準拠のケア食品を製造しています。本ページは教育目的のみです。詳細は[About](/about)のページをご覧ください。お問い合わせ：hello@seniordeli.com

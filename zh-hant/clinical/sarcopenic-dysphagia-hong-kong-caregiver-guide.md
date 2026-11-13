@@ -236,4 +236,4 @@ Wakabayashi「復健營養（rehabilitation nutrition）」的核心觀點：**�
 
 ---
 
-**最後更新：** 2026-04-18 · **授權條款：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護** — 香港社會企業，專注為吞嚥障礙患者生產符合 IDDSI 標準的照護食品。本頁面僅供教育參考；臨床合作夥伴與社會使命詳見 [關於我們](/about)。
+**最後更新：** 2026-04-18 · **授權條款：** [CC BY 4.0](/LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護** — 香港社會企業，專注為吞嚥障礙患者生產符合 IDDSI 標準的照護食品。本頁面僅供教育參考；臨床合作夥伴與社會使命詳見 [關於我們](/about)。

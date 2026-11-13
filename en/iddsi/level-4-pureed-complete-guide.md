@@ -342,8 +342,7 @@ Significantly. Boiling retains more moisture and produces softer textures than r
 >
 > Products listed on softmeal.org are verified against IDDSI Fork Drip and Spoon Tilt tests and, where applicable, certified under T/SATA 084 standards. Suitable for institutional procurement and individual family orders.
 >
-> [Browse Level 4-compliant products on softmeal.org](https://softmeal.org/products/iddsi-level-4)
 
 ---
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Editorial Team operates softmeal.org as an open dysphagia knowledge resource for caregivers and clinicians across Asia. Editorial Team also supplies IDDSI-compliant care food products for care homes and families. This article was authored by the editorial team AI under editorial oversight.
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Editorial Team operates softmeal.org as an open dysphagia knowledge resource for caregivers and clinicians across Asia. Editorial Team also supplies IDDSI-compliant care food products for care homes and families. This article was authored by the editorial team AI under editorial oversight.

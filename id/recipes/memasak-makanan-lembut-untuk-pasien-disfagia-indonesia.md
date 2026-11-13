@@ -169,7 +169,6 @@ Sayur lodeh menggunakan santan dan berbagai sayuran — cocok untuk disfagia jik
 
 - Panduan IDDSI Level 4 & 5: [/id/iddsi/panduan-iddsi-level-4-5-untuk-asisten-rumah-tangga/](/id/iddsi/panduan-iddsi-level-4-5-untuk-asisten-rumah-tangga/)
 - Tanda aspirasi yang perlu diketahui: [/id/caregiving/mengenali-tanda-aspirasi-pada-lansia/](/id/caregiving/mengenali-tanda-aspirasi-pada-lansia/)
-- Resep lainnya dalam Bahasa Indonesia: [/id/recipes/](/id/recipes/)
 
 ---
 

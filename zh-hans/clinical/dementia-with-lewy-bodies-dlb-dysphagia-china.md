@@ -139,4 +139,4 @@ DLB 的误吸常常是**隐性的**——不咳嗽、不清嗓、无痛苦表现
 
 ---
 
-**最后更新：** 2026-10-17 · **许可：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 维护**——一家香港社会企业，为吞咽障碍人士生产符合 IDDSI 标准的照护食品。本页仅为科普教育内容；临床合作机构与社会使命请见 [About](/about)。
+**最后更新：** 2026-10-17 · **许可：** [CC BY 4.0](/LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 维护**——一家香港社会企业，为吞咽障碍人士生产符合 IDDSI 标准的照护食品。本页仅为科普教育内容；临床合作机构与社会使命请见 [About](/about)。

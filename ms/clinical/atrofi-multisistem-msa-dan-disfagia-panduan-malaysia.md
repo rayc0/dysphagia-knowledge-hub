@@ -121,7 +121,7 @@ Oleh kerana tiada ubat memulihkan disfagia MSA, pengurusan bersifat pampasan. Ke
 **Pertimbangan ubat:**
 
 - **Percubaan levodopa** masih disyorkan dalam MSA — sehingga kira-kira 30% pesakit mendapat sedikit manfaat motor, dan ujian FEES-levodopa berstruktur boleh menunjukkan sama ada menelan bertambah baik dengan ubat.
-- Semak senarai ubat penuh dengan pakar neurologi: penenang dan antikolinergik (sering dipreskripsikan untuk gejala pundi kencing dan air liur berlebihan MSA) boleh memperburuk menelan dan mengeringkan mulut — lihat artikel berkaitan kami mengenai [disfagia akibat ubat](disfagia-akibat-ubat-panduan-malaysia.md).
+- Semak senarai ubat penuh dengan pakar neurologi: penenang dan antikolinergik (sering dipreskripsikan untuk gejala pundi kencing dan air liur berlebihan MSA) boleh memperburuk menelan dan mengeringkan mulut — lihat artikel berkaitan kami mengenai [disfagia akibat ubat](/ms/clinical/disfagia-akibat-ubat-panduan-malaysia/).
 
 ## Perbualan Mengenai Suapan Tiub
 
@@ -208,4 +208,4 @@ Artikel ini memparafrasa garis panduan klinikal dan penyelidikan primer yang ter
 
 ---
 
-**Kemas kini terakhir:** 2026-10-10 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk golongan yang menghidap disfagia. Halaman ini bersifat pendidikan sahaja; lihat [Perihal](/about) untuk rakan klinikal dan misi sosial kami.
+**Kemas kini terakhir:** 2026-10-10 · **Lesen:** [CC BY 4.0](/LICENSE) · **Diselenggara oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk golongan yang menghidap disfagia. Halaman ini bersifat pendidikan sahaja; lihat [Perihal](/about) untuk rakan klinikal dan misi sosial kami.

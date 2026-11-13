@@ -103,5 +103,3 @@ At age 18–21, young adults with CP transition out of the school system. The ad
 - **Hospital Authority SLT outpatient clinics**: Referral through specialist clinic or GP for community-based adults. Waiting times vary; private SLT is available at shorter wait in major commercial areas.
 
 ---
-
-*For general IDDSI texture modification principles, see [Understanding the IDDSI Framework: A Guide for Patients and Families](/en/conditions/understanding-iddsi-framework.html). For managing aspiration pneumonia risk, see [Aspiration Pneumonia in Dysphagia: Signs, Prevention, and When to Go to A&E](/en/caregiving/aspiration-pneumonia-signs-prevention.html).*

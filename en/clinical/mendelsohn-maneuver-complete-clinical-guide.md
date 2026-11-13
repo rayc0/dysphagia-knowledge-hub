@@ -128,7 +128,7 @@ Published trials and case series consistently report:
 - **Increased submental sEMG amplitude** during practice swallows, suggesting genuine muscle recruitment changes.
 - **Modest gains in extent of hyoid excursion** in some studies, though the maneuver primarily targets duration rather than amplitude.
 
-What the evidence does **not** strongly support is the use of the Mendelsohn maneuver as a stand-alone treatment. Best outcomes are reported when it is one component of a multimodal program — combined as appropriate with the [Shaker exercise or CTAR](shaker-exercise-vs-ctar-dysphagia-suprahyoid-strengthening), [tongue-hold (Masako) maneuver](2026-05-09-tongue-hold-masako-maneuver), [expiratory muscle strength training](expiratory-muscle-strength-training-emst-dysphagia), and [NMES protocols](neuromuscular-electrical-stimulation-nmes-vitalstim-dysphagia) where indicated.
+What the evidence does **not** strongly support is the use of the Mendelsohn maneuver as a stand-alone treatment. Best outcomes are reported when it is one component of a multimodal program — combined as appropriate with the [Shaker exercise or CTAR](/en/clinical/shaker-exercise-vs-ctar-dysphagia-suprahyoid-strengthening/), [tongue-hold (Masako) maneuver](/en/clinical/2026-05-09-tongue-hold-masako-maneuver/), [expiratory muscle strength training](/en/clinical/expiratory-muscle-strength-training-emst-dysphagia/), and [NMES protocols](/en/clinical/neuromuscular-electrical-stimulation-nmes-vitalstim-dysphagia/) where indicated.
 
 ## Combining the Mendelsohn maneuver with other techniques
 
@@ -151,7 +151,7 @@ When a Mendelsohn maneuver home program is prescribed, caregivers play a critica
 
 ## When to reassess and when to discontinue
 
-Plan a formal reassessment at 4–6 weeks. The reassessment should ideally include repeat instrumental imaging (VFSS or FEES) to compare hyoid kinematics, UES opening duration, and Penetration-Aspiration Scale scores against baseline. Functional measures such as the Functional Oral Intake Scale (FOIS) and patient-reported outcomes via the [EAT-10](eat10-screening-guide) provide additional layers of data.
+Plan a formal reassessment at 4–6 weeks. The reassessment should ideally include repeat instrumental imaging (VFSS or FEES) to compare hyoid kinematics, UES opening duration, and Penetration-Aspiration Scale scores against baseline. Functional measures such as the Functional Oral Intake Scale (FOIS) and patient-reported outcomes via the [EAT-10](/en/clinical/eat10-screening-guide/) provide additional layers of data.
 
 Continue the program if there is measurable physiological or functional improvement and the patient tolerates the regimen. Modify dose if fatigue or accuracy is limiting progress. Discontinue and pivot to alternative or surgical options if there is no measurable change after 8 weeks of well-executed practice, particularly in patients with structural cricopharyngeal pathology that may require dilation, botulinum toxin, or myotomy.
 

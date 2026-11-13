@@ -114,5 +114,3 @@ Key HA institutions involved in SCI rehabilitation:
 For dysphagia specifically: SLT community follow-up after discharge from inpatient rehabilitation is available through HA outpatient SLT clinics or private SLT. Families should request a community SLT referral before inpatient discharge to minimise the gap in management continuity.
 
 ---
-
-*For tracheostomy management at home, see [Tracheostomy and Dysphagia: A Caregiver Guide](/en/caregiving/tracheostomy-dysphagia-caregiver-guide.html). For IDDSI texture testing at home, see [How to Test Food and Drink Consistency at Home Using IDDSI Methods](/en/caregiving/iddsi-home-testing-guide.html).*

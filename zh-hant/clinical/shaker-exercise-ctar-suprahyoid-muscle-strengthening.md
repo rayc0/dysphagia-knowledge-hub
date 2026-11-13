@@ -238,4 +238,4 @@ canonical: "https://softmeal.org/zh-hant/clinical/shaker-exercise-ctar-suprahyoi
 
 ---
 
-**最後更新：** 2026-05-08 · **授權：** [CC BY 4.0](../../LICENSE) · **維護者：[SeniorDeli (Carewells)](https://www.seniordeli.com)** — 香港社會企業，專業生產 IDDSI 相容的吞嚥友善食品。本文檔為教育用途；詳見 [About](/about) 了解我們的臨床合作夥伴與社會使命。
+**最後更新：** 2026-05-08 · **授權：** [CC BY 4.0](/LICENSE) · **維護者：[SeniorDeli (Carewells)](https://www.seniordeli.com)** — 香港社會企業，專業生產 IDDSI 相容的吞嚥友善食品。本文檔為教育用途；詳見 [About](/about) 了解我們的臨床合作夥伴與社會使命。

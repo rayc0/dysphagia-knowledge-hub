@@ -100,7 +100,7 @@ Nếu chưa có chỉ định cụ thể của bác sĩ:
 - **Ưu tiên** thức ăn mềm, nghiền nhuyễn, không vón cục
 - **Dùng chất làm đặc** (thickener) nếu bác sĩ khuyến nghị — có thể làm đặc nước uống đến mức IDDSI 2 (đặc nhẹ) hoặc IDDSI 3 (đặc vừa) để giảm nguy cơ sặc
 
-Xem thêm: [Khung IDDSI — Hướng dẫn hoàn chỉnh 8 cấp độ](../iddsi/iddsi-framework-complete-guide-vietnam.md)
+Xem thêm: [Khung IDDSI — Hướng dẫn hoàn chỉnh 8 cấp độ](/vi/iddsi/iddsi-framework-complete-guide-vietnam/)
 
 ### 3. Vệ sinh răng miệng — bằng chứng mạnh nhất trong phòng ngừa
 
@@ -222,4 +222,4 @@ Bài viết này tổng hợp từ các hướng dẫn lâm sàng, nghiên cứu
 
 ---
 
-**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](../../LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — doanh nghiệp xã hội tại Hồng Kông, sản xuất thực phẩm mềm đạt chuẩn IDDSI dành cho người rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem thêm [Giới thiệu](/about) về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.
+**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](/LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — doanh nghiệp xã hội tại Hồng Kông, sản xuất thực phẩm mềm đạt chuẩn IDDSI dành cho người rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem thêm [Giới thiệu](/about) về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.

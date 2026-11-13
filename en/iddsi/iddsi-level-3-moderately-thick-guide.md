@@ -178,7 +178,7 @@ IDDSI Level 3 (Moderately Thick) is a clinically important consistency for patie
 4. Dehydration is the primary clinical risk — target 1200–1800 mL/day and supplement with jelly, tofu, and steamed egg
 5. Downgrading to Level 2 requires instrumental confirmation and 3–4 weeks of clinical observation, not just patient preference
 
-For further guidance, see the [IDDSI Framework Complete Guide](/en/iddsi/iddsi-framework-complete-guide.md) and [Levels 0–2 Guide](/en/iddsi/levels-0-1-2-thin-to-mildly-thick-guide.md).
+For further guidance, see the [IDDSI Framework Complete Guide](/en/iddsi/iddsi-framework-complete-guide/) and [Levels 0–2 Guide](/en/iddsi/levels-0-1-2-thin-to-mildly-thick-guide/).
 
 ---
 

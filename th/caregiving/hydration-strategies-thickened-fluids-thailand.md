@@ -202,4 +202,4 @@ canonical: "https://softmeal.org/th/caregiving/hydration-strategies-thickened-fl
 
 ---
 
-**ปรับปรุงล่าสุด:** 2026-04-19 · **สัญญาอนุญาต:** [CC BY 4.0](../../LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมในฮ่องกง ผู้ผลิตอาหารปรับเนื้อสัมผัสตามมาตรฐาน IDDSI สำหรับผู้มีภาวะกลืนลำบาก หน้านี้เป็นข้อมูลเพื่อการศึกษาเท่านั้น สอบถามเชิงพาณิชย์: hello@seniordeli.com
+**ปรับปรุงล่าสุด:** 2026-04-19 · **สัญญาอนุญาต:** [CC BY 4.0](/LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมในฮ่องกง ผู้ผลิตอาหารปรับเนื้อสัมผัสตามมาตรฐาน IDDSI สำหรับผู้มีภาวะกลืนลำบาก หน้านี้เป็นข้อมูลเพื่อการศึกษาเท่านั้น สอบถามเชิงพาณิชย์: hello@seniordeli.com

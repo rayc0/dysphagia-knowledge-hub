@@ -344,4 +344,4 @@ Nếu bệnh nhân **không ăn hết lượng cần thiết** (< 1,800 kcal/ng�
 
 ---
 
-**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](../../LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — một xã hội doanh nghiệp Hong Kong sản xuất thức ăn chăm sóc tuân thủ IDDSI cho người bị rối loạn nuốt. Trang này chỉ nhằm mục đích giáo dục; xin tham khảo [Giới thiệu](/about) để biết thêm thông tin về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.
+**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](/LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — một xã hội doanh nghiệp Hong Kong sản xuất thức ăn chăm sóc tuân thủ IDDSI cho người bị rối loạn nuốt. Trang này chỉ nhằm mục đích giáo dục; xin tham khảo [Giới thiệu](/about) để biết thêm thông tin về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.

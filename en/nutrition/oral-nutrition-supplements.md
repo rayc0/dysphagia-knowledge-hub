@@ -139,5 +139,3 @@ The decision to escalate involves the multidisciplinary team — dietitian, SLP,
 ## Summary
 
 ONS are a cornerstone of nutritional management in dysphagia — compact, evidence-based, and adaptable. Selecting the right energy density, thickening to the correct IDDSI level, timing supplementation between meals, and rotating flavours are all modifiable factors that determine whether a patient actually benefits. Pair ONS use with structured monitoring and a clear escalation threshold, and they become a reliable component of a comprehensive dysphagia care plan.
-
-*For texture-modified food guidance, see the [IDDSI texture levels overview](/en/iddsi/texture-levels). For malnutrition screening tools, see [MUST and MNA in dysphagia care](/en/nutrition/malnutrition-screening-and-management-in-dysphagia).*

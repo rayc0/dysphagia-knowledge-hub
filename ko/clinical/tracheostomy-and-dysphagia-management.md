@@ -141,4 +141,4 @@ FEES 결과에 따라 IDDSI 수준을 선택한다.
 
 ---
 
-**Last updated:** 2026-04-20 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 홍콩 사회적기업으로 IDDSI 기준의 연하장애 식품을 생산합니다. 교육 목적 자료이며, 임상 파트너 정보는 [About](/about) 참조. 거래 문의: hello@seniordeli.com.
+**Last updated:** 2026-04-20 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 홍콩 사회적기업으로 IDDSI 기준의 연하장애 식품을 생산합니다. 교육 목적 자료이며, 임상 파트너 정보는 [About](/about) 참조. 거래 문의: hello@seniordeli.com.

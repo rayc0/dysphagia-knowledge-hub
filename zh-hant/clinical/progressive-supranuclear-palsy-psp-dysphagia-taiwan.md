@@ -144,4 +144,4 @@ canonical: "https://softmeal.org/zh-hant/clinical/progressive-supranuclear-palsy
 
 ---
 
-**最後更新：** 2026-10-11 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護** — 一家香港社會企業，為吞嚥障礙者生產符合 IDDSI 標準的照護食品。本頁僅供教育用途；關於我們的臨床合作夥伴與社會使命，請見[關於我們](/about)。
+**最後更新：** 2026-10-11 · **授權：** [CC BY 4.0](/LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護** — 一家香港社會企業，為吞嚥障礙者生產符合 IDDSI 標準的照護食品。本頁僅供教育用途；關於我們的臨床合作夥伴與社會使命，請見[關於我們](/about)。

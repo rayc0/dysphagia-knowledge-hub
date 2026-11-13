@@ -12,13 +12,15 @@ description: "Dysphagia · IDDSI · Soft Meals · Caregiving"
 
 ### Caregiving
 
+- [Storing and Reheating Texture-Modified Meals: A Caregiver Checklist](/en/caregiving/storing-reheating-texture-modified-meals/)
+
 - [Adaptive Eating Equipment for Dysphagia: Provale Cup, Nosey Cup, Weighted Utensils and Selection Guide](/en/caregiving/adaptive-equipment/)
 - [Care Home Dysphagia Protocol — A Practical Operational Guide for Residential Facilities](/en/caregiving/care-home-dysphagia-protocol/)
 - [Hand Feeding Patients with Dementia: Aspiration Prevention, Oral Refusal Management, and Safe Feeding Techniques](/en/caregiving/hand-feeding-dementia/)
 - [Hydration Strategies for Thickened-Fluid Patients — Preventing Dehydration When Drinking Is Hard](/en/caregiving/hydration-strategies-thickened-fluids/)
 - [IDDSI Compliance Audits for Care Homes: A Practical Self-Audit Checklist](/en/caregiving/iddsi-compliance-audit-care-homes-checklist/)
 - [Creating a Safe Mealtime Environment for Dysphagia Patients: Positioning, Distraction and Equipment](/en/caregiving/mealtime-environment/)
-- [Mealtime Positioning for Dysphagia Patients: The Caregiver's Complete Protocol](/en/caregiving/mealtime-positioning-protocol/)
+- [Mealtime Positioning for Dysphagia: A Caregiver Checklist](/en/caregiving/mealtime-positioning-protocol/)
 - [Mealtime Safety Red Flags and Emergency Response for Dysphagia Caregivers](/en/caregiving/mealtime-safety-red-flags-and-emergency-response/)
 - [Medication Administration in Dysphagia: A Complete Caregiver Guide to Safe Pill-Taking](/en/caregiving/medication-administration-in-dysphagia-guide/)
 - [Night-Time Feeding Safety Protocols for Dysphagia Patients: A Complete Caregiver Guide](/en/caregiving/night-time-feeding-safety-protocols-for-dysphagia-patients/)

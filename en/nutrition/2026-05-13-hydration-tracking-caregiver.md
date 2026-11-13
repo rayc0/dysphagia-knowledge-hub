@@ -152,5 +152,3 @@ Contact the GP or A&E if you observe:
 For patients on diuretics, ACE inhibitors, or NSAIDs: these drug classes interact with dehydration to increase acute kidney injury risk. Dehydration is more dangerous in these patients than in the general population. Lower the threshold for medical contact.
 
 ---
-
-*For managing thickener preparation for different IDDSI levels, see [How to Use Thickeners: Preparing IDDSI-Compliant Drinks at Home](/en/nutrition/using-thickeners-iddsi-at-home.html). For daily nutrient tracking, see [Meal Frequency and Portions for Dysphagia Patients](/en/nutrition/meal-frequency-portions-dysphagia.html).*

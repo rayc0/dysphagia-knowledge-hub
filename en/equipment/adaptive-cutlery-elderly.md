@@ -19,7 +19,7 @@ Eating is not one task. It is a chain — load the spoon, lift it without spilli
 
 Adaptive cutlery exists to repair specific links. A **weighted fork** steadies a tremor. An **angled spoon** lets someone with a frozen shoulder reach their mouth. A **nosey cup** lets a stroke patient drink without tilting the head back into a high-aspiration-risk position. A **flow-control dysphagia cup** like the Provale delivers one safe sip at a time for a person who would otherwise gulp.
 
-The important reframing: adaptive cutlery is not a "disability product." For people managing dysphagia, it is safety equipment in the same category as the [IDDSI-compliant diet](/en/iddsi/iddsi-framework-complete-guide.html) itself. Pair it with [correct mealtime positioning](/en/caregiving/mealtime-positioning-protocol.html) and proper texture modification, and you have the three legs of a safe meal.
+The important reframing: adaptive cutlery is not a "disability product." For people managing dysphagia, it is safety equipment in the same category as the [IDDSI-compliant diet](/en/iddsi/iddsi-framework-complete-guide/) itself. Pair it with [correct mealtime positioning](/en/caregiving/mealtime-positioning-protocol/) and proper texture modification, and you have the three legs of a safe meal.
 
 ## The evidence base — what adaptive cutlery can and cannot prove
 
@@ -74,7 +74,7 @@ For people with poor lip closure (post-stroke, facial nerve injury, advanced dem
 - **Soft-tip (silicone-coated) spoons** protect against bite reflexes and reduce the oral aversion that some dementia patients develop with cold metal.
 - **Narrow spoons** (baby-spoon width, adult-length handle) reduce the bolus size — useful when the SLP recommends 5 ml measured sips rather than ad-lib mouthfuls.
 
-A note for Level 4 (pureed) diets: a deep-bowl spoon is much easier to load accurately than a flat one. For [IDDSI Level 4 meals](/en/iddsi/level-4-pureed-complete-guide.html), the difference in bolus-size control at the lips is visible from the first bite.
+A note for Level 4 (pureed) diets: a deep-bowl spoon is much easier to load accurately than a flat one. For [IDDSI Level 4 meals](/en/iddsi/level-4-pureed-complete-guide/), the difference in bolus-size control at the lips is visible from the first bite.
 
 ## Built-up handles and universal cuffs — when grip strength is the bottleneck
 
@@ -109,7 +109,7 @@ Generic equivalents at lower price points exist (Healvaluefit, Ehucon, and other
 | End-stage dementia, bite reflex | Silicone-rimmed cup, spoon-feeding preferred |
 | Thickened fluids (Level 1–4 drinks) | Wide-mouth cup with marked volume lines |
 
-Always confirm the texture level first using the [IDDSI testing methods](/en/testing/food-texture-testing-methods.html). A cup cannot compensate for the wrong fluid viscosity.
+Always confirm the texture level first using the [IDDSI testing methods](/en/testing/food-texture-testing-methods/). A cup cannot compensate for the wrong fluid viscosity.
 
 ## Plates, bowls, and place mats — the supporting cast
 
@@ -176,4 +176,4 @@ This article paraphrases publicly-available clinical guidance and peer-reviewed 
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade enquiries and bulk sourcing questions for residential care homes: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade enquiries and bulk sourcing questions for residential care homes: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.

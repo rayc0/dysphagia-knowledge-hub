@@ -270,4 +270,4 @@ MDADI是頭頸癌吞嚥困難的金標準患者自評工具，共20題，涵蓋�
 
 ---
 
-**最後更新：** 2026-04-19 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護** — 香港社會企業，生產符合 IDDSI 標準的護食產品，服務吞嚥困難人士。本頁為教育性內容；臨床合作夥伴及社會使命詳見 [關於我們](/about)。商業查詢：hello@seniordeli.com
+**最後更新：** 2026-04-19 · **授權：** [CC BY 4.0](/LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護** — 香港社會企業，生產符合 IDDSI 標準的護食產品，服務吞嚥困難人士。本頁為教育性內容；臨床合作夥伴及社會使命詳見 [關於我們](/about)。商業查詢：hello@seniordeli.com

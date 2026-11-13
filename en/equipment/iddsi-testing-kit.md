@@ -325,7 +325,7 @@ This article paraphrases publicly available IDDSI testing documentation. For cli
 
 ---
 
-**Last updated:** 2026-04-12 · **License:** [CC BY 4.0](../../LICENSE)
+**Last updated:** 2026-04-12 · **License:** [CC BY 4.0](/LICENSE)
 
 ---
 

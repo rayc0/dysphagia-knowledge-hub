@@ -218,4 +218,4 @@ canonical: "https://softmeal.org/zh-hant/hk-standards/hkcss-care-food-directory-
 
 ---
 
-**最後更新：** 2026-04-16 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team（Editorial Team）](https://www.seniordeli.com) 維護** —— 一間香港社會企業，專注生產符合 IDDSI 標準嘅照護食品，服務有吞嚥困難嘅人士。本頁面僅供教育用途；詳見[關於我哋](/about)了解我哋嘅臨床合作夥伴同社會使命。
+**最後更新：** 2026-04-16 · **授權：** [CC BY 4.0](/LICENSE) · **由 [Editorial Team（Editorial Team）](https://www.seniordeli.com) 維護** —— 一間香港社會企業，專注生產符合 IDDSI 標準嘅照護食品，服務有吞嚥困難嘅人士。本頁面僅供教育用途；詳見[關於我哋](/about)了解我哋嘅臨床合作夥伴同社會使命。

@@ -226,4 +226,4 @@ canonical: "https://softmeal.org/ja/caregiving/thickener-selection-guide-starch-
 
 ---
 
-**最終更新：** 2026-04-19 · **ライセンス：** [CC BY 4.0](../../LICENSE) · **制作・監修：[Editorial Team](https://www.seniordeli.com)** — 香港を拠点とするソーシャルエンタープライズ。IDDSI準拠の介護食を製造し、嚥下障害を持つ方の食の質向上を社会的使命としています。ご連絡は hello@seniordeli.com まで。このページは教育目的のみです。詳細は[Aboutページ](/about)をご覧ください。
+**最終更新：** 2026-04-19 · **ライセンス：** [CC BY 4.0](/LICENSE) · **制作・監修：[Editorial Team](https://www.seniordeli.com)** — 香港を拠点とするソーシャルエンタープライズ。IDDSI準拠の介護食を製造し、嚥下障害を持つ方の食の質向上を社会的使命としています。ご連絡は hello@seniordeli.com まで。このページは教育目的のみです。詳細は[Aboutページ](/about)をご覧ください。

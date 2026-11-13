@@ -118,5 +118,3 @@ Scleroderma is managed by the rheumatology services at all major HA hospitals. T
 For patients with significant GI involvement, gastroenterology co-management is recommended. Dietitian referral within the rheumatology or gastroenterology follow-up is available — request it specifically if nutritional status is a concern.
 
 ---
-
-*For upright positioning technique, see [Positioning for Safe Swallowing: A Practical Guide](/en/caregiving/positioning-safe-swallowing.html). For managing GERD alongside dysphagia, see [GERD and Dysphagia: When Reflux Complicates Swallowing Management](/en/conditions/gerd-and-dysphagia.html).*

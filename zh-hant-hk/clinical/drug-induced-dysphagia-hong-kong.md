@@ -156,4 +156,4 @@ canonical: "https://softmeal.org/zh-hant-hk/clinical/drug-induced-dysphagia-hong
 
 ---
 
-**最後更新：** 2026-10-03 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護**——一間香港社會企業，為吞嚥困難人士生產符合 IDDSI 標準的照護食品。本頁僅作教育用途；有關我們的臨床夥伴與社會使命，請參閱 [About](/about)。
+**最後更新：** 2026-10-03 · **授權：** [CC BY 4.0](/LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護**——一間香港社會企業，為吞嚥困難人士生產符合 IDDSI 標準的照護食品。本頁僅作教育用途；有關我們的臨床夥伴與社會使命，請參閱 [About](/about)。

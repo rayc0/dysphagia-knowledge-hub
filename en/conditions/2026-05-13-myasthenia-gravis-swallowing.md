@@ -122,5 +122,3 @@ In Hong Kong, patients with MG and suspected myasthenic crisis should be taken t
 Overdose of pyridostigmine causes a cholinergic crisis, which can look superficially similar to myasthenic crisis. Key differentiating features of cholinergic crisis include excessive secretions (increased sweating, tearing, salivation), small pupils (miosis), bradycardia, and abdominal cramping. Management is atropine, not pyridostigmine. This distinction requires clinical assessment — do not attempt to manage a suspected crisis at home; attend A&E.
 
 ---
-
-*For general mealtime pacing strategies, see [Safe Feeding Techniques for Dysphagia at Home](/en/caregiving/safe-feeding-techniques-dysphagia.html). For emergency response during a meal, see [Mealtime Safety Red Flags and Emergency Response](/en/caregiving/mealtime-safety-red-flags-and-emergency-response.html).*

@@ -145,7 +145,6 @@ Di Hong Kong, majikan dapat merujuk ke speech therapist melalui Hospital Authori
 
 - Panduan IDDSI lengkap dalam Bahasa Indonesia tersedia di: [/id/iddsi/iddsi-framework-complete-guide-indonesia/](/id/iddsi/iddsi-framework-complete-guide-indonesia/)
 - Panduan posisi makan yang benar: [/id/caregiving/posisi-makan-yang-benar-pasien-disfagia-panduan-indonesia/](/id/caregiving/posisi-makan-yang-benar-pasien-disfagia-panduan-indonesia/)
-- Memasak makanan lunak dengan bahan Indonesia: [/id/recipes/](/id/recipes/)
 
 ---
 

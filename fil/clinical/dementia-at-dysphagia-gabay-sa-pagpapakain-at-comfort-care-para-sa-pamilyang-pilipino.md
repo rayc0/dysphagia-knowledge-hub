@@ -221,4 +221,4 @@ Even with comfort care, certain signs mean **urgent medical evaluation:**
 
 ---
 
-**Last updated:** 2026-05-20 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; for clinical decisions specific to your family member, consult your doctor or speech-language pathologist. This page is **not** medical advice.
+**Last updated:** 2026-05-20 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; for clinical decisions specific to your family member, consult your doctor or speech-language pathologist. This page is **not** medical advice.

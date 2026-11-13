@@ -120,5 +120,3 @@ When the patient moves between home, day centre, and temporary residential place
 Ask the hospital or community SLT to help prepare or validate this document. Many HA SLT departments have standard dysphagia handover forms that can be adapted for this purpose.
 
 ---
-
-*For carer support groups and emotional wellbeing resources, see [Carer Wellbeing and Burnout Prevention](/en/caregiving/carer-wellbeing-burnout-prevention.html). For understanding the patient's IDDSI prescription, see [Understanding Your IDDSI Prescription: A Caregiver Guide](/en/caregiving/understanding-iddsi-prescription-carer-guide.html).*

@@ -128,4 +128,4 @@ canonical: "https://softmeal.org/zh-hans/nutrition/texture-impact-on-nutrition"
 
 ---
 
-**最后更新：** 2025-02-05 · **许可协议：** [CC BY 4.0](../../LICENSE) · **由 Editorial Team 维护**
+**最后更新：** 2025-02-05 · **许可协议：** [CC BY 4.0](/LICENSE) · **由 Editorial Team 维护**

@@ -286,7 +286,7 @@ IDDSIのテストは以下の特徴を持つよう設計されています。
 
 ---
 
-**最終更新：** 2026-04-17 · **ライセンス：** [CC BY 4.0](../../LICENSE) · **管理：[Editorial Team](https://www.seniordeli.com)** — 香港の嚥下障害対応食品専門企業。IDDSIテストを全出荷バッチに適用しています。[IDDSIに対応した介護食品を見る →](https://www.seniordeli.com)
+**最終更新：** 2026-04-17 · **ライセンス：** [CC BY 4.0](/LICENSE) · **管理：[Editorial Team](https://www.seniordeli.com)** — 香港の嚥下障害対応食品専門企業。IDDSIテストを全出荷バッチに適用しています。[IDDSIに対応した介護食品を見る →](https://www.seniordeli.com)
 
 ---
 

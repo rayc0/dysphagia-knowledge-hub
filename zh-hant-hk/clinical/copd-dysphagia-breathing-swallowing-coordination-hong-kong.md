@@ -159,4 +159,4 @@ EMST 強化用於咳嗽與清除氣道的呼氣肌群。2026 年《臨床醫學�
 
 ---
 
-**最後更新：** 2026-10-04 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護**——一間香港社會企業，為吞嚥困難人士生產符合 IDDSI 標準的照護食。本頁僅作教育用途；臨床合作夥伴及社會使命請參閱 [About](/about)。
+**最後更新：** 2026-10-04 · **授權：** [CC BY 4.0](/LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護**——一間香港社會企業，為吞嚥困難人士生產符合 IDDSI 標準的照護食。本頁僅作教育用途；臨床合作夥伴及社會使命請參閱 [About](/about)。

@@ -316,4 +316,4 @@ HKCSS 護食目錄列出香港市面符合 IDDSI 標準的護食產品，適合�
 
 ---
 
-**最後更新：** 2026-04-19 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護**——香港社會企業，生產符合 IDDSI 標準的照護食品，致力服務吞嚥困難患者及其照顧者。本文僅供教育參考；臨床合作夥伴及社會使命詳見 [關於我們](/about)。貿易查詢：hello@seniordeli.com
+**最後更新：** 2026-04-19 · **授權：** [CC BY 4.0](/LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護**——香港社會企業，生產符合 IDDSI 標準的照護食品，致力服務吞嚥困難患者及其照顧者。本文僅供教育參考；臨床合作夥伴及社會使命詳見 [關於我們](/about)。貿易查詢：hello@seniordeli.com

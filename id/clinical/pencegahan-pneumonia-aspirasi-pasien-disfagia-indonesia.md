@@ -237,4 +237,4 @@ Artikel ini merangkum pedoman publik dan literatur ilmiah yang tersedia secara t
 
 ---
 
-**Terakhir diperbarui:** 2026-04-23 · **Lisensi:** [CC BY 4.0](../../LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — social enterprise Hong Kong yang memproduksi makanan lunak sesuai standar IDDSI untuk penyandang disfagia. Halaman ini bersifat edukatif; lihat [Tentang Kami](/about) untuk informasi mitra klinis dan misi sosial kami. Pertanyaan distribusi: hello@seniordeli.com
+**Terakhir diperbarui:** 2026-04-23 · **Lisensi:** [CC BY 4.0](/LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — social enterprise Hong Kong yang memproduksi makanan lunak sesuai standar IDDSI untuk penyandang disfagia. Halaman ini bersifat edukatif; lihat [Tentang Kami](/about) untuk informasi mitra klinis dan misi sosial kami. Pertanyaan distribusi: hello@seniordeli.com

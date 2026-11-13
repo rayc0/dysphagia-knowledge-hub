@@ -110,4 +110,4 @@ canonical: "https://softmeal.org/zh-hans/nutrition/zinc-wound-healing-dysphagia"
 
 ---
 
-**最后更新：** 2025-02-02 · **许可协议：** [CC BY 4.0](../../LICENSE) · **由 Editorial Team 维护**
+**最后更新：** 2025-02-02 · **许可协议：** [CC BY 4.0](/LICENSE) · **由 Editorial Team 维护**

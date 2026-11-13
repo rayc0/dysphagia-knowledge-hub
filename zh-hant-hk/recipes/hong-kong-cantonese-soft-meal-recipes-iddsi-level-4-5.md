@@ -265,4 +265,4 @@ canonical: "https://softmeal.org/zh-hant-hk/recipes/hong-kong-cantonese-soft-mea
 
 ---
 
-**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. We are co-drafters of GBA care food standards T/SATA 084-2025 and T/SATA 085-2025. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com
+**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. We are co-drafters of GBA care food standards T/SATA 084-2025 and T/SATA 085-2025. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com

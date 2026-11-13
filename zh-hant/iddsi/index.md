@@ -8,38 +8,6 @@ author: "SeniorDeli (Carewells) 編輯團隊"
 last_updated: "2026-09-17"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "首頁", "item": "https://softmeal.org/"},
-    {"@type": "ListItem", "position": 2, "name": "繁體中文", "item": "https://softmeal.org/zh-hant/"},
-    {"@type": "ListItem", "position": 3, "name": "IDDSI 標準", "item": "https://softmeal.org/zh-hant/iddsi/index"}
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "IDDSI 國際吞障礙飲食標準：完整指南總覽",
-  "description": "IDDSI 八級框架各分級詳細解說，含液體稠度（Level 0–3）與質地改良食物（Level 4–7）的測試方法與操作重點。",
-  "url": "https://softmeal.org/zh-hant/iddsi/index",
-  "inLanguage": "zh-Hant",
-  "hasPart": [
-    {"@type": "Article", "name": "IDDSI 國際吞嚥障飲食標準——八級框架完整介紹", "url": "https://softmeal.org/zh-hant/iddsi/iddsi-framework-complete-guide/"},
-    {"@type": "Article", "name": "IDDSI Level 0–1–2 液體稠度指南", "url": "https://softmeal.org/zh-hant/iddsi/levels-0-1-2-thin-to-mildly-thick-guide/"},
-    {"@type": "Article", "name": "IDDSI 三級（中等稠度液體）完整指南", "url": "https://softmeal.org/zh-hant/iddsi/iddsi-level-3-moderately-thick-guide/"},
-    {"@type": "Article", "name": "IDDSI Level 4 糊狀飲食完整指南", "url": "https://softmeal.org/zh-hant/iddsi/level-4-pureed-complete-guide/"},
-    {"@type": "Article", "name": "IDDSI Level 5 細碎濕潤食物完整指南", "url": "https://softmeal.org/zh-hant/iddsi/iddsi-level-5-minced-moist-practical-guide/"},
-    {"@type": "Article", "name": "IDDSI 第 6 級「軟質小塊」中式餐飲完整指南", "url": "https://softmeal.org/zh-hant/iddsi/iddsi-level-6-soft-bite-sized-chinese-cuisine-guide/"},
-    {"@type": "Article", "name": "IDDSI 七級（普通飲食）完整指南", "url": "https://softmeal.org/zh-hant/iddsi/iddsi-level-7-regular-diet-guide/"}
-  ]
-}
-</script>
-
 # IDDSI 國際吞障礙飲食標準指南總覽
 
 IDDSI（International Dysphagia Diet Standardisation Initiative，國際吞障礙飲食標準化計畫）為目前全球廣泛採用的吞嚥困難飲食分級架構，將飲品與食物由稀到稠、由細到粗劃分為 0 至 7 共八個級別。本專區彙整每一級的定義、測試方式與在家庭、機構備餐時的實務重點，協助照顧者、廚房備餐人員與醫療團隊以一致的方式溝通食物質地。
@@ -182,12 +150,7 @@ IDDSI 由跨專業的國際工作小組於 2013 年啟動，目標是為吞嚥�
 ## 全部 IDDSI 指南
 
 - [IDDSI 國際吞嚥障礙飲食標準——八級框架完整介紹](/zh-hant/iddsi/iddsi-framework-complete-guide/)
-- [IDDSI Level 0–1–2 液體稠度指南：稀薄、微稠與略稠飲品](/zh-hant/iddsi/levels-0-1-2-thin-to-mildly-thick-guide/)
-- [IDDSI 三級（中等稠度液體）完整指南：適用對象、增稠方式與嗆咳風險管理](/zh-hant/iddsi/iddsi-level-3-moderately-thick-guide/)
 - [IDDSI Level 4 糊狀飲食完整指南：標準、製作方式與實用食譜](/zh-hant/iddsi/level-4-pureed-complete-guide/)
-- [IDDSI Level 5 細碎濕潤食物完整指南：咀嚼過渡期的家庭備餐方法（2026）](/zh-hant/iddsi/iddsi-level-5-minced-moist-practical-guide/)
-- [IDDSI 第 6 級「軟質小塊」中式餐飲完整指南：家庭與機構實用烹飪手冊](/zh-hant/iddsi/iddsi-level-6-soft-bite-sized-chinese-cuisine-guide/)
-- [IDDSI 七級（普通飲食）完整指南：吞嚥功能回復後恢復普通飲食的注意事項](/zh-hant/iddsi/iddsi-level-7-regular-diet-guide/)
 
 ---
 

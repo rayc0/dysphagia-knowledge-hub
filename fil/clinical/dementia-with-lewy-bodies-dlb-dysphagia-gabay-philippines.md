@@ -142,4 +142,4 @@ Ang artikulong ito ay nagpaparaphrase ng mga pampublikong klinikal na pananaliks
 
 ---
 
-**Huling na-update:** 2026-10-18 · **Lisensya:** [CC BY 4.0](../../LICENSE) · **Pinapanatili ng [SeniorDeli (Carewells)](https://www.seniordeli.com)** — isang Hong Kong social enterprise na gumagawa ng IDDSI-compliant na care food para sa mga taong may dysphagia. Ang pahinang ito ay pang-edukasyon lamang; tingnan ang [About](/about) para sa aming mga clinical partner at social mission.
+**Huling na-update:** 2026-10-18 · **Lisensya:** [CC BY 4.0](/LICENSE) · **Pinapanatili ng [SeniorDeli (Carewells)](https://www.seniordeli.com)** — isang Hong Kong social enterprise na gumagawa ng IDDSI-compliant na care food para sa mga taong may dysphagia. Ang pahinang ito ay pang-edukasyon lamang; tingnan ang [About](/about) para sa aming mga clinical partner at social mission.

@@ -128,7 +128,7 @@ canonical: "https://softmeal.org/th/iddsi/iddsi-level-4-pureed-complete-guide-th
 - เนยจืดหรืออาโวคาโดบด (ต้องเนียนมาก) สำหรับความหนาแน่นพลังงาน
 - พิจารณา **ผลิตภัณฑ์เสริมอาหารทางการแพทย์ (Medical foods / ONS)** — ในไทยมีผลิตภัณฑ์เช่น Ensure, Glucerna, Nestle Resource ให้ข้อมูลแก่ทีมโภชนาการของโรงพยาบาล
 
-ดูบทความของเราเรื่อง [คู่มือผลิตภัณฑ์เสริมโภชนาการทางปาก (ONS) สำหรับผู้ป่วยกลืนลำบากในประเทศไทย](../nutrition/oral-nutrition-supplements-thailand.html) สำหรับรายละเอียดเพิ่มเติม
+ดูบทความของเราเรื่อง [คู่มือผลิตภัณฑ์เสริมโภชนาการทางปาก (ONS) สำหรับผู้ป่วยกลืนลำบากในประเทศไทย](/th/nutrition/oral-nutrition-supplements-thailand/) สำหรับรายละเอียดเพิ่มเติม
 
 ---
 
@@ -148,7 +148,7 @@ canonical: "https://softmeal.org/th/iddsi/iddsi-level-4-pureed-complete-guide-th
 4. **ปั่นนาน 2-3 นาที** ที่ความเร็วสูงสุด พักเครื่องถ้าจำเป็น
 5. **กรองผ่านตะแกรง** เพื่อจับเส้นใยและก้อนที่หลุด (เลือก) — สำหรับผู้ป่วยความเสี่ยงสูง
 6. **ทดสอบ 3 แบบ** ก่อนเสิร์ฟ ทุกครั้ง ทุกชุด
-7. **ปรับความข้นด้วยสารเพิ่มความข้น** (thickener) หากจำเป็น ดูบทความ [คู่มือเลือกสารเพิ่มความข้น — เปรียบเทียบชนิดแป้งกับแซนแทนกัม](../caregiving/thickener-selection-guide-starch-vs-gum-thailand.html)
+7. **ปรับความข้นด้วยสารเพิ่มความข้น** (thickener) หากจำเป็น ดูบทความ [คู่มือเลือกสารเพิ่มความข้น — เปรียบเทียบชนิดแป้งกับแซนแทนกัม](/th/caregiving/thickener-selection-guide-starch-vs-gum-thailand/)
 
 **อาหารไทยที่เหมาะและไม่เหมาะสำหรับระดับ 4**
 
@@ -194,7 +194,7 @@ canonical: "https://softmeal.org/th/iddsi/iddsi-level-4-pureed-complete-guide-th
 - การฝึก swallowing therapy (เช่น Mendelsohn maneuver, Shaker exercise) มีผล
 - VFSS หรือ FEES แสดงการปกป้องทางเดินหายใจที่ดีขึ้น
 
-ไม่ควรเปลี่ยนระดับด้วยตนเอง การประเมินซ้ำโดย SLP หรือทีมสหวิชาชีพเป็นสิ่งจำเป็น ดูบทความของเราเรื่อง [โรคหลอดเลือดสมองและภาวะกลืนลำบาก — แนวทางการฟื้นฟู](../clinical/stroke-and-dysphagia-recovery-thailand.html)
+ไม่ควรเปลี่ยนระดับด้วยตนเอง การประเมินซ้ำโดย SLP หรือทีมสหวิชาชีพเป็นสิ่งจำเป็น ดูบทความของเราเรื่อง [โรคหลอดเลือดสมองและภาวะกลืนลำบาก — แนวทางการฟื้นฟู](/th/clinical/stroke-and-dysphagia-recovery-thailand/)
 
 ---
 
@@ -225,4 +225,4 @@ canonical: "https://softmeal.org/th/iddsi/iddsi-level-4-pureed-complete-guide-th
 
 ---
 
-**อัปเดตล่าสุด:** 2026-04-20 · **สิทธิ์ใช้งาน:** [CC BY 4.0](../../LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — กิจการเพื่อสังคมในฮ่องกงที่ผลิตอาหารผู้ป่วยกลืนลำบากตามมาตรฐาน IDDSI หน้านี้มีไว้เพื่อการศึกษาเท่านั้น ดู [เกี่ยวกับเรา](/about) สำหรับข้อมูลคู่ค้าทางคลินิกและพันธกิจทางสังคมของเรา ติดต่อทางการค้า: hello@seniordeli.com
+**อัปเดตล่าสุด:** 2026-04-20 · **สิทธิ์ใช้งาน:** [CC BY 4.0](/LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — กิจการเพื่อสังคมในฮ่องกงที่ผลิตอาหารผู้ป่วยกลืนลำบากตามมาตรฐาน IDDSI หน้านี้มีไว้เพื่อการศึกษาเท่านั้น ดู [เกี่ยวกับเรา](/about) สำหรับข้อมูลคู่ค้าทางคลินิกและพันธกิจทางสังคมของเรา ติดต่อทางการค้า: hello@seniordeli.com

@@ -225,4 +225,4 @@ Editorial Team 是香港社企，專門為吞嚥困難人士生產符合 IDDSI �
 
 ---
 
-**最後更新：** 2026-04-17 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護** —— 香港社企，為吞嚥困難人士生產符合 IDDSI 標準的護食產品。本頁為教育資訊；有關臨床合作夥伴及社會使命，請瀏覽 [關於我們](/about)。商業查詢：hello@seniordeli.com。
+**最後更新：** 2026-04-17 · **授權：** [CC BY 4.0](/LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護** —— 香港社企，為吞嚥困難人士生產符合 IDDSI 標準的護食產品。本頁為教育資訊；有關臨床合作夥伴及社會使命，請瀏覽 [關於我們](/about)。商業查詢：hello@seniordeli.com。

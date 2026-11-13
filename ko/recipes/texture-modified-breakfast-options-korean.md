@@ -215,4 +215,4 @@ canonical: "https://softmeal.org/ko/recipes/texture-modified-breakfast-options-k
 
 ---
 
-**최종 업데이트:** 2026-04-19 · **라이선스:** [CC BY 4.0](../../LICENSE) · **운영: [SeniorDeli (Carewells)](https://www.seniordeli.com)** — IDDSI 기준 연하장애식을 제조하는 홍콩 사회적기업. 본 페이지는 교육 목적이며, 임상 파트너와 사회적 미션에 대해서는 [About](/about)을 참고하세요. 기업·기관 문의: hello@seniordeli.com
+**최종 업데이트:** 2026-04-19 · **라이선스:** [CC BY 4.0](/LICENSE) · **운영: [SeniorDeli (Carewells)](https://www.seniordeli.com)** — IDDSI 기준 연하장애식을 제조하는 홍콩 사회적기업. 본 페이지는 교육 목적이며, 임상 파트너와 사회적 미션에 대해서는 [About](/about)을 참고하세요. 기업·기관 문의: hello@seniordeli.com

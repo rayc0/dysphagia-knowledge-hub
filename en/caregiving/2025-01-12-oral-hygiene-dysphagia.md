@@ -138,4 +138,4 @@ For patients who refuse all toothbrushing, foam swabs moistened with chlorhexidi
 
 ---
 
-*For aspiration pneumonia signs and emergency response, see [Mealtime Safety Red Flags and Emergency Response](/en/caregiving/mealtime-safety-red-flags-and-emergency-response.html). For the full evidence base on oral care protocols, see [Oral Care for Dysphagia Patients — How Toothbrushing Cuts Aspiration Pneumonia Risk](/en/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention.html).*
+*For aspiration pneumonia signs and emergency response, see [Mealtime Safety Red Flags and Emergency Response](/en/caregiving/mealtime-safety-red-flags-and-emergency-response/). For the full evidence base on oral care protocols, see [Oral Care for Dysphagia Patients — How Toothbrushing Cuts Aspiration Pneumonia Risk](/en/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention/).*

@@ -190,4 +190,4 @@ canonical: "https://softmeal.org/th/clinical/swallowing-therapy-exercises-thaila
 
 ---
 
-**วันที่อัปเดตล่าสุด:** 2026-04-19 · **สัญญาอนุญาต:** [CC BY 4.0](../../LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — กิจการเพื่อสังคมในฮ่องกง ที่ผลิตอาหารดูแลผู้มีภาวะกลืนลำบากตามมาตรฐาน IDDSI สอบถามทางการค้า: hello@seniordeli.com · ดู [About](/about) สำหรับพาร์ทเนอร์ทางคลินิกและพันธกิจเพื่อสังคมของเรา
+**วันที่อัปเดตล่าสุด:** 2026-04-19 · **สัญญาอนุญาต:** [CC BY 4.0](/LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — กิจการเพื่อสังคมในฮ่องกง ที่ผลิตอาหารดูแลผู้มีภาวะกลืนลำบากตามมาตรฐาน IDDSI สอบถามทางการค้า: hello@seniordeli.com · ดู [About](/about) สำหรับพาร์ทเนอร์ทางคลินิกและพันธกิจเพื่อสังคมของเรา
