@@ -101,4 +101,4 @@ canonical: "https://softmeal.org/zh-hans/nutrition/iron-anemia-dysphagia"
 
 ---
 
-**最后更新：** 2025-02-01 · **许可协议：** [CC BY 4.0](../../LICENSE) · **由 Editorial Team 维护**
+**最后更新：** 2025-02-01 · **许可协议：** [CC BY 4.0](/LICENSE) · **由 Editorial Team 维护**

@@ -104,7 +104,7 @@ canonical: "https://softmeal.org/th/caregiving/mealtime-positioning-dysphagia-th
 
 ท่านั่งที่ถูกต้องต้องใช้ร่วมกับอาหารที่มีเนื้อสัมผัสเหมาะสม โครงการ **"46 เมนูอาหารฝึกกลืน"** ของจุฬาลงกรณ์มหาวิทยาลัย เป็นแหล่งอ้างอิงอาหารไทยที่ปรับเนื้อสัมผัสตามหลัก IDDSI (International Dysphagia Diet Standardisation Initiative) — ครอบคลุมเมนูไทยคุ้นเคย เช่น ข้าวต้ม แกงจืด คัสตาร์ด และของหวานต่างๆ
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับมาตรฐานเนื้อสัมผัส โปรดอ่าน [คู่มือ IDDSI ฉบับสมบูรณ์](../iddsi/iddsi-framework-complete-guide.md)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับมาตรฐานเนื้อสัมผัส โปรดอ่าน [คู่มือ IDDSI ฉบับสมบูรณ์](/th/iddsi/iddsi-framework-complete-guide/)
 
 ## ข้อผิดพลาดที่พบบ่อย
 
@@ -140,4 +140,4 @@ canonical: "https://softmeal.org/th/caregiving/mealtime-positioning-dysphagia-th
 
 ---
 
-**ปรับปรุงล่าสุด:** 2026-04-19 · **สัญญาอนุญาต:** [CC BY 4.0](../../LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมในฮ่องกงที่ผลิตอาหารผู้สูงอายุตามมาตรฐาน IDDSI สำหรับผู้ที่มีภาวะกลืนลำบาก หน้านี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้น สอบถามข้อมูลทางการค้า: hello@seniordeli.com
+**ปรับปรุงล่าสุด:** 2026-04-19 · **สัญญาอนุญาต:** [CC BY 4.0](/LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมในฮ่องกงที่ผลิตอาหารผู้สูงอายุตามมาตรฐาน IDDSI สำหรับผู้ที่มีภาวะกลืนลำบาก หน้านี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้น สอบถามข้อมูลทางการค้า: hello@seniordeli.com

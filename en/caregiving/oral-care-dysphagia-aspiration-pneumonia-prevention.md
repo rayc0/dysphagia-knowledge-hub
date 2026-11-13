@@ -26,7 +26,7 @@ Current aspiration pneumonia models describe three interacting risk factors: **d
 
 That is why oral care sits at the top of every evidence-based aspiration-pneumonia prevention bundle alongside dysphagia screening and texture-modified diets ([AHRQ 2023 safety review](https://www.ncbi.nlm.nih.gov/books/NBK619049/)).
 
-For the underlying pathophysiology of aspiration pneumonia, see our companion article [Aspiration pneumonia — what it is, why dysphagia causes it, how texture-modified diets prevent it](/en/clinical/aspiration-pneumonia-prevention.html).
+For the underlying pathophysiology of aspiration pneumonia, see our companion article [Aspiration pneumonia — what it is, why dysphagia causes it, how texture-modified diets prevent it](/en/clinical/aspiration-pneumonia-prevention/).
 
 ## The Yoneyama 2002 landmark — evidence that changed practice
 
@@ -112,7 +112,7 @@ Intensified oral hygiene combined with formal dysphagia screening significantly 
 
 ### Parkinson's, dementia, and end-of-life
 
-People with Parkinson's disease have reduced spontaneous swallow frequency and pooled saliva ([see our Parkinson's article](/en/clinical/dysphagia-in-parkinsons.html)). Dementia patients may resist oral care; approaches like chaining (a calm hand-over-hand demonstration), distraction, and splitting oral care into very short sessions help. In end-of-life care, oral care shifts from "infection prevention" to "comfort" — moistening the mouth and lips is one of the most meaningful dignity measures a caregiver can provide ([see our end-of-life article](/en/clinical/dysphagia-end-of-life-care.html)).
+People with Parkinson's disease have reduced spontaneous swallow frequency and pooled saliva ([see our Parkinson's article](/en/clinical/dysphagia-in-parkinsons/)). Dementia patients may resist oral care; approaches like chaining (a calm hand-over-hand demonstration), distraction, and splitting oral care into very short sessions help. In end-of-life care, oral care shifts from "infection prevention" to "comfort" — moistening the mouth and lips is one of the most meaningful dignity measures a caregiver can provide ([see our end-of-life article](/en/clinical/dysphagia-end-of-life-care/)).
 
 ## Common mistakes and pitfalls
 
@@ -134,7 +134,7 @@ Refer promptly if the caregiver sees:
 - Thick white or yellow coating on the tongue (possible oral candidiasis).
 - Ulcers that do not heal within 2 weeks (rule out oral cancer).
 - Ill-fitting dentures causing sores.
-- Fever, new cough, new breathlessness, or thickened-fluid refusal — possible early aspiration pneumonia. See our [dysphagia warning signs article](/en/clinical/dysphagia-signs-and-symptoms-caregivers.html).
+- Fever, new cough, new breathlessness, or thickened-fluid refusal — possible early aspiration pneumonia. See our [dysphagia warning signs article](/en/clinical/dysphagia-signs-and-symptoms-caregivers/).
 
 ## The bigger picture
 
@@ -164,4 +164,4 @@ This article paraphrases publicly-available peer-reviewed literature and clinica
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

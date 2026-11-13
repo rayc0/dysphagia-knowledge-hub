@@ -293,4 +293,4 @@ EAT-10 本身不是診斷工具，而是**篩檢工具**。它告訴你「該不
 
 ---
 
-**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — 一家總部位於香港的社會企業，專注於生產符合 IDDSI 標準的照護食，服務吞嚥障礙長者與其家庭照顧者。本頁為開放教育資源；如需臨床服務，請聯繫您當地的語言治療師或復健科醫師。商業或採購洽詢：hello@seniordeli.com。
+**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — 一家總部位於香港的社會企業，專注於生產符合 IDDSI 標準的照護食，服務吞嚥障礙長者與其家庭照顧者。本頁為開放教育資源；如需臨床服務，請聯繫您當地的語言治療師或復健科醫師。商業或採購洽詢：hello@seniordeli.com。

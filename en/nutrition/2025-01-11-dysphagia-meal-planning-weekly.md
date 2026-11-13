@@ -263,4 +263,4 @@ If your family member has been prescribed a different IDDSI level, adjust prepar
 
 ---
 
-*For the full IDDSI Level 5 specification, see [IDDSI Level 5: Minced and Moist — Complete Guide](/en/iddsi/iddsi-level-5-minced-and-moist-complete-guide.html). For thickener guidance for drinks, see [Thickener Guide](/en/nutrition/thickener-guide.html).*
+*For the full IDDSI Level 5 specification, see [IDDSI Level 5: Minced and Moist — Complete Guide](/en/iddsi/iddsi-level-5-minced-and-moist-complete-guide/). For thickener guidance for drinks, see [Thickener Guide](/en/nutrition/thickener-guide/).*

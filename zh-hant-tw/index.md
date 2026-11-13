@@ -78,3 +78,7 @@ canonical: "https://softmeal.org/zh-hant-tw/"
 ---
 
 [← 返回首頁](/)
+
+## 餐食保存與加熱
+
+- [妥善保存與加熱質地調整餐食：照顧者檢核清單](/zh-hant-tw/caregiving/storing-reheating-texture-modified-meals/)

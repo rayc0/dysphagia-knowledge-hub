@@ -237,7 +237,7 @@ IDDSI レベル4（ピューレ状）は、咀嚼が困難または不可能な�
 
 ## 関連記事
 
-- [IDDSIフレームワーク完全ガイド — 日本の嚥下調整食分類との対応関係](./iddsi-framework-complete-guide.md)
+- [IDDSIフレームワーク完全ガイド — 日本の嚥下調整食分類との対応関係](/ja/iddsi/iddsi-framework-complete-guide/)
 
 ---
 
@@ -258,7 +258,7 @@ IDDSI レベル4（ピューレ状）は、咀嚼が困難または不可能な�
 
 ---
 
-**最終更新:** 2026-04-18 · **ライセンス:** [CC BY 4.0](../../LICENSE) · **監修・提供: [Editorial Team](https://www.seniordeli.com)** — 嚥下障害食の専門家チーム
+**最終更新:** 2026-04-18 · **ライセンス:** [CC BY 4.0](/LICENSE) · **監修・提供: [Editorial Team](https://www.seniordeli.com)** — 嚥下障害食の専門家チーム
 
 ---
 

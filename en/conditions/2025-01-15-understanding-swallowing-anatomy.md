@@ -105,7 +105,7 @@ It is divided into four phases by clinicians. Understanding each phase helps you
 
 **VFSS (Videofluoroscopic Swallowing Study)**: An X-ray video of swallowing, using barium-coated food and drink as contrast. The "gold standard" for seeing exactly where the swallow breaks down. Also called a modified barium swallow (MBS) or cookie swallow.
 
-**FEES (Fibre-optic Endoscopic Evaluation of Swallowing)**: A flexible camera passed through the nose to the pharynx, allowing direct visualisation of the swallow. Complements VFSS. Can be done bedside. See the [FEES vs MBSS comparison](/en/testing/fees-vs-mbss-comparison.html).
+**FEES (Fibre-optic Endoscopic Evaluation of Swallowing)**: A flexible camera passed through the nose to the pharynx, allowing direct visualisation of the swallow. Complements VFSS. Can be done bedside. See the [FEES vs MBSS comparison](/en/testing/fees-vs-mbss-comparison/).
 
 **Vallecular residue**: Food remaining in the valleculae (two small spaces between the base of the tongue and the epiglottis) after a swallow. This residue can spill into the airway on the next swallow. Common in patients with reduced tongue base retraction.
 
@@ -142,4 +142,4 @@ When you understand that, you also understand why substituting a different textu
 
 ---
 
-*For condition-specific guides, see [Parkinson's Disease and Dysphagia](/en/conditions/parkinsons-dysphagia.html), [Dementia and Dysphagia](/en/conditions/dementia-and-dysphagia.html), and the full [IDDSI Framework Guide](/en/iddsi/iddsi-framework-complete-guide.html).*
+*For condition-specific guides, see [Parkinson's Disease and Dysphagia](/en/conditions/parkinsons-dysphagia/), [Dementia and Dysphagia](/en/conditions/dementia-and-dysphagia/), and the full [IDDSI Framework Guide](/en/iddsi/iddsi-framework-complete-guide/).*

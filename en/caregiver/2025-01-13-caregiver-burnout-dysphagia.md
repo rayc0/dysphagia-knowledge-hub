@@ -152,4 +152,4 @@ Asking for help is not a sign that you are failing as a caregiver. It is a sign 
 
 ---
 
-*For practical help with meal preparation planning, see [7-Day IDDSI Meal Plan for Dysphagia Patients](/en/nutrition/dysphagia-meal-planning-weekly.html). For guidance on professional oral care support, see [Oral Hygiene for Dysphagia Patients](/en/caregiving/oral-hygiene-dysphagia.html).*
+*For practical help with meal preparation planning, see [7-Day IDDSI Meal Plan for Dysphagia Patients](/en/nutrition/2025-01-11-dysphagia-meal-planning-weekly/). For guidance on professional oral care support, see [Oral Hygiene for Dysphagia Patients](/en/caregiving/2025-01-12-oral-hygiene-dysphagia/).*

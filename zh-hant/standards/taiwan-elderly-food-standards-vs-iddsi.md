@@ -165,4 +165,4 @@ Eatender 的策略方向在 2025 年之後轉為「全齡共食」（強調多�
 
 ---
 
-**最後更新：** 2026-04-14 · **授權條款：** [CC BY 4.0](../../LICENSE) · **維護單位：[Editorial Team 康樂齡（Editorial Team）](https://www.seniordeli.com)** — 一家位於香港的社會企業，致力於生產符合 IDDSI 標準的照顧食品，協助吞嚥障礙長者安全進食。本頁僅為教育資訊，詳見 [About](/about) 了解我們的臨床合作夥伴與社會使命。業界合作洽詢：hello@seniordeli.com。
+**最後更新：** 2026-04-14 · **授權條款：** [CC BY 4.0](/LICENSE) · **維護單位：[Editorial Team 康樂齡（Editorial Team）](https://www.seniordeli.com)** — 一家位於香港的社會企業，致力於生產符合 IDDSI 標準的照顧食品，協助吞嚥障礙長者安全進食。本頁僅為教育資訊，詳見 [About](/about) 了解我們的臨床合作夥伴與社會使命。業界合作洽詢：hello@seniordeli.com。

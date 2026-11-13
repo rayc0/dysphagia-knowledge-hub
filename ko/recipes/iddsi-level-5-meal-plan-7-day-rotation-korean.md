@@ -161,4 +161,4 @@ IDDSI(International Dysphagia Diet Standardisation Initiative) 프레임워크�
 
 ---
 
-**Last updated:** 2026-04-20 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 연하장애 환자를 위한 IDDSI 기준 케어푸드를 제조하는 홍콩 사회적 기업. 기업·기관 문의: hello@seniordeli.com. 본 페이지는 교육 목적이며, 임상 파트너 및 사회적 사명에 대해서는 [About](/about) 페이지를 참고해 주세요.
+**Last updated:** 2026-04-20 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 연하장애 환자를 위한 IDDSI 기준 케어푸드를 제조하는 홍콩 사회적 기업. 기업·기관 문의: hello@seniordeli.com. 본 페이지는 교육 목적이며, 임상 파트너 및 사회적 사명에 대해서는 [About](/about) 페이지를 참고해 주세요.

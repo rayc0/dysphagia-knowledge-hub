@@ -180,7 +180,7 @@ A: Explain that persistent dysphagia can lead to aspiration pneumonia (life-thre
 A: PhilHealth's Z Benefits Package covers rehabilitation services for stroke patients, including speech therapy and dysphagia management at accredited hospitals. Confirm coverage details at the hospital.
 
 **Q: What foods are safest for someone with dysphagia?**
-A: See the IDDSI framework (Levels 0–7) in our [IDDSI Framework guide for Filipino patients](./iddsi-framework-complete-guide-philippines.md). Generally: thin purees, soft foods, and appropriately thickened liquids are safest. Avoid hard, crunchy, sticky, or fibrous foods.
+A: See the IDDSI framework (Levels 0–7) in our [IDDSI Framework guide for Filipino patients](/fil/iddsi/iddsi-framework-complete-guide-philippines/). Generally: thin purees, soft foods, and appropriately thickened liquids are safest. Avoid hard, crunchy, sticky, or fibrous foods.
 
 **Q: Can dysphagia cause aspiration pneumonia?**
 A: Yes. Aspiration (when food/liquid enters the lungs) can lead to aspiration pneumonia, a serious infection. This is the most common life-threatening complication of dysphagia.
@@ -203,4 +203,4 @@ This article provides educational information about dysphagia warning signs and 
 
 ---
 
-**Last updated:** 2026-05-18 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. For more information, visit [About softmeal.org](/about).
+**Last updated:** 2026-05-18 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. For more information, visit [About softmeal.org](/about).

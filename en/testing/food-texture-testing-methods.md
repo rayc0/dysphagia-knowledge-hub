@@ -210,7 +210,7 @@ This article paraphrases publicly-available IDDSI testing guidance. For clinical
 
 ---
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists. We use IDDSI tests on every batch we ship in Hong Kong. [See our IDDSI-aligned ready meals →](https://www.seniordeli.com)
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists. We use IDDSI tests on every batch we ship in Hong Kong. [See our IDDSI-aligned ready meals →](https://www.seniordeli.com)
 
 ---
 

@@ -108,5 +108,3 @@ Many elderly dysphagia patients experience appetite loss (anorexia of ageing) co
 **Oral nutritional supplements (ONS)**: Commercial ONS products (Ensure, Fortisip, Osmolite, Resource) are available in HK at major pharmacies and from medical supply chains. They provide a predictable, concentrated calorie and protein load in a small liquid volume. For patients on thickened liquids, pre-thickened ONS products or ONS that can be mixed with thickener are available — confirm IDDSI consistency after thickening.
 
 ---
-
-*For detailed guidance on protein content of texture-modified foods, see [Protein Fortification for Dysphagia Diets](/en/nutrition/protein-fortification-dysphagia.html). For managing weight loss in dysphagia patients, see [Preventing Malnutrition and Weight Loss in Dysphagia](/en/nutrition/preventing-malnutrition-dysphagia.html).*

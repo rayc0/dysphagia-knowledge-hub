@@ -90,7 +90,7 @@ Ventilasi atau trakeostomi kadang merupakan penanda penyakit yang lebih berat, b
 
 Klinisi memilih tingkat **International Dysphagia Diet Standardisation Initiative (IDDSI)** berdasarkan kemampuan aktual. Pada fase awal, pasien mungkin memerlukan Level 5 — cincang halus dan lembap — atau Level 4 — lumat — kemudian naik tingkat ketika fungsi menelan dan kognisi membaik. Kekentalan minuman ditentukan tersendiri; pengental tidak otomatis diberikan kepada semua pasien karena dapat mengurangi asupan cairan dan kualitas hidup bila tidak dibutuhkan [2,13].
 
-Makanan Indonesia dapat disesuaikan, misalnya bubur yang dilumatkan homogen, telur kukus lembut, tahu, labu tumbuk, atau ikan kukus yang dicincang halus dan dicampur saus sesuai tingkat yang direkomendasikan. Kelembutan, kelembapan, ukuran partikel, dan pemisahan cairan harus diuji dengan metode IDDSI; nama “bubur”, “tim”, atau “lumat” saja tidak menentukan tingkatnya. Lihat [panduan kerangka IDDSI](../iddsi/iddsi-framework-complete-guide-indonesia.md) [13].
+Makanan Indonesia dapat disesuaikan, misalnya bubur yang dilumatkan homogen, telur kukus lembut, tahu, labu tumbuk, atau ikan kukus yang dicincang halus dan dicampur saus sesuai tingkat yang direkomendasikan. Kelembutan, kelembapan, ukuran partikel, dan pemisahan cairan harus diuji dengan metode IDDSI; nama “bubur”, “tim”, atau “lumat” saja tidak menentukan tingkatnya. Lihat [panduan kerangka IDDSI](/id/iddsi/iddsi-framework-complete-guide-indonesia/) [13].
 
 ### 2. Atur lingkungan sesuai kemampuan kognitif
 
@@ -153,4 +153,4 @@ Artikel ini memparafrasekan penelitian dan panduan klinis yang tersedia untuk pu
 
 ---
 
-**Terakhir diperbarui:** 2026-10-24 · **Lisensi:** [CC BY 4.0](../../LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial di Hong Kong yang memproduksi makanan perawatan sesuai IDDSI untuk penyandang disfagia. Halaman ini hanya untuk edukasi; lihat [About](/about) untuk mitra klinis dan misi sosial kami.
+**Terakhir diperbarui:** 2026-10-24 · **Lisensi:** [CC BY 4.0](/LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial di Hong Kong yang memproduksi makanan perawatan sesuai IDDSI untuk penyandang disfagia. Halaman ini hanya untuk edukasi; lihat [About](/about) untuk mitra klinis dan misi sosial kami.

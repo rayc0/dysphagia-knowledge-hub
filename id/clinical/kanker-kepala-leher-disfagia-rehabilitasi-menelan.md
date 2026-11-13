@@ -301,4 +301,4 @@ Artikel ini meringkas pedoman publik dari National Institutes of Health (NIH), A
 
 ---
 
-**Terakhir diperbarui:** 2026-04-30 · **Lisensi:** [CC BY 4.0](../../LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang memproduksi makanan perhatian yang sesuai IDDSI untuk orang-orang yang hidup dengan disfagia. Halaman ini hanya untuk tujuan pendidikan; lihat [Tentang](/about) untuk mitra klinis dan misi sosial kami.
+**Terakhir diperbarui:** 2026-04-30 · **Lisensi:** [CC BY 4.0](/LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang memproduksi makanan perhatian yang sesuai IDDSI untuk orang-orang yang hidup dengan disfagia. Halaman ini hanya untuk tujuan pendidikan; lihat [Tentang](/about) untuk mitra klinis dan misi sosial kami.

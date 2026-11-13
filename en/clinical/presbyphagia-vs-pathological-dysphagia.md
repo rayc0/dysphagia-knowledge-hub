@@ -102,7 +102,7 @@ The purpose of screening is not to diagnose dysphagia — it is to decide who ne
 
 **Tier 4 — Instrumental assessment.** VFSS (videofluoroscopic swallow study) or FEES (fiberoptic endoscopic evaluation of swallowing) for anyone who screens positive with a clear clinical concern, ambiguous bedside findings, or suspected silent aspiration.
 
-For a broader overview of each of these tools, see [Dysphagia Testing — The 10+ Clinical Assessment Methods](./dysphagia-testing-clinical-assessment-methods.md) and [Silent Aspiration — Detection Methods and Caregiver Red Flags](./silent-aspiration-detection-and-caregiver-red-flags.md).
+For a broader overview of each of these tools, see [Dysphagia Testing — The 10+ Clinical Assessment Methods](/en/clinical/dysphagia-testing-clinical-assessment-methods/) and [Silent Aspiration — Detection Methods and Caregiver Red Flags](/en/clinical/silent-aspiration-detection-and-caregiver-red-flags/).
 
 ## What to do when presbyphagia is confirmed but dysphagia is not
 
@@ -112,8 +112,8 @@ The evidence supports a **maintenance-rehabilitation** stance:
 
 - **Oral health.** Robust evidence (Yoneyama 2002 RCT and subsequent replications) shows that structured oral care reduces aspiration pneumonia risk in older adults; even in the absence of dysphagia, oral care protects the narrow margin.
 - **Nutrition.** Protein-forward eating, attention to hydration, and correction of specific deficits (B12, vitamin D) support muscle maintenance.
-- **Resistance and swallowing-targeted exercise.** Tongue-strengthening exercises, effortful swallow, chin-tuck against resistance (CTAR), and Mendelsohn manoeuvre have evidence for improving tongue pressure and swallow efficiency in older adults. (See [Swallowing Therapy Exercises](./swallowing-therapy-exercises.md).)
-- **Environment and posture.** Seated upright 90°, minimal distractions, smaller boluses, single-task eating, and appropriate utensils. (See [Mealtime Positioning Protocol](../caregiving/mealtime-positioning-protocol.md).)
+- **Resistance and swallowing-targeted exercise.** Tongue-strengthening exercises, effortful swallow, chin-tuck against resistance (CTAR), and Mendelsohn manoeuvre have evidence for improving tongue pressure and swallow efficiency in older adults. (See [Swallowing Therapy Exercises](/en/clinical/swallowing-therapy-exercises/).)
+- **Environment and posture.** Seated upright 90°, minimal distractions, smaller boluses, single-task eating, and appropriate utensils. (See [Mealtime Positioning Protocol](/en/caregiving/mealtime-positioning-protocol/).)
 - **Medication review.** Sedatives, anticholinergics, and neuroleptics worsen presbyphagia-range swallows disproportionately.
 - **Re-screen on an annual basis and at any acute change.**
 
@@ -158,4 +158,4 @@ This article paraphrases publicly-available clinical guidance from IDDSI, Taiwan
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com.

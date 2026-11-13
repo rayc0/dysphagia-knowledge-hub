@@ -196,4 +196,4 @@ Level 1 以上嘅增稠飲品通常可以用標準吸管飲，但 Level 3、Leve
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — 一間香港社會企業，生產符合 IDDSI 標準嘅護食產品，亦係廣東省—香港—澳門大灣區 T/SATA 084-2025《適老易食食品》標準嘅共同起草機構。本頁純屬教育用途；機構採購或培訓查詢：hello@seniordeli.com。
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — 一間香港社會企業，生產符合 IDDSI 標準嘅護食產品，亦係廣東省—香港—澳門大灣區 T/SATA 084-2025《適老易食食品》標準嘅共同起草機構。本頁純屬教育用途；機構採購或培訓查詢：hello@seniordeli.com。

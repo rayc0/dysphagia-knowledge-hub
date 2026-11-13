@@ -366,4 +366,4 @@ canonical: "https://softmeal.org/zh-hant/recipes/taiwanese-home-cooking-dysphagi
 
 ---
 
-**最後更新：** 2026-04-16 · **授權條款：** [CC BY 4.0](../../LICENSE) · **維護單位：[Editorial Team 康樂齡 (Editorial Team)](https://www.seniordeli.com)** ——一家香港社會企業，專門為吞嚥困難人士生產符合 IDDSI 標準的照護食品。本頁面僅供教育用途；詳見[關於我們](/about)了解我們的臨床合作夥伴與社會使命。
+**最後更新：** 2026-04-16 · **授權條款：** [CC BY 4.0](/LICENSE) · **維護單位：[Editorial Team 康樂齡 (Editorial Team)](https://www.seniordeli.com)** ——一家香港社會企業，專門為吞嚥困難人士生產符合 IDDSI 標準的照護食品。本頁面僅供教育用途；詳見[關於我們](/about)了解我們的臨床合作夥伴與社會使命。

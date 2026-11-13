@@ -417,4 +417,4 @@ Yes, significantly in many cases. Post-stroke dysphagia resolves in 70–80% of 
 
 ---
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Comprehensive clinical education on dysphagia assessment to support the earliest possible identification of swallowing difficulties and accurate IDDSI-level dietary prescription.
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Comprehensive clinical education on dysphagia assessment to support the earliest possible identification of swallowing difficulties and accurate IDDSI-level dietary prescription.

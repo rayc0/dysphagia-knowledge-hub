@@ -93,7 +93,7 @@ Wakabayashi (2024) khẳng định: rối loạn nuốt do giảm cơ không th�
 Các bài tập tác động vào cơ quan nuốt:
 
 - **Bài tập tăng sức mạnh lưỡi** — ép lưỡi lên vòm miệng cứng với lực tối đa, giữ 1–2 giây, 30 lần/ngày (Iowa Oral Performance Instrument hoặc gauge tay).
-- **Bài tập Shaker** — nằm ngửa, nâng đầu đủ nhìn thấy ngón chân trong 1 phút (hoặc 30 lần ngắn), giúp tăng cường cơ trên-móng và mở cơ vòng thực quản trên. Xem hướng dẫn [bài tập phục hồi nuốt](../clinical/swallowing-therapy-exercises-vietnam.md) để biết thêm chi tiết.
+- **Bài tập Shaker** — nằm ngửa, nâng đầu đủ nhìn thấy ngón chân trong 1 phút (hoặc 30 lần ngắn), giúp tăng cường cơ trên-móng và mở cơ vòng thực quản trên. Xem hướng dẫn bài tập phục hồi nuốt để biết thêm chi tiết.
 - **CTAR (chin-tuck against resistance)** — dùng quả bóng nhỏ hoặc tay chắn cằm trong khi gập đầu xuống; thay thế ngồi cho Shaker; cải thiện áp lực lưỡi và phối hợp yết hầu.
 - **Effortful swallow (nuốt mạnh)**, **Mendelsohn maneuver**, **Masako maneuver** — kỹ thuật tập chức năng.
 - **Chế độ ăn điều chỉnh kết cấu** theo IDDSI trong giai đoạn hồi phục, nâng cấp từng bước khi chức năng nuốt cải thiện.
@@ -129,7 +129,7 @@ Sức khỏe khoang miệng là chân thứ ba của tam giác điều trị. M�
 - Quản lý khô miệng / kích thích tiết nước bọt
 - Chuyển khám răng nếu có răng sâu hoặc lung lay trước khi bắt đầu tái tạo dinh dưỡng
 
-Xem hướng dẫn [vệ sinh răng miệng cho người bệnh rối loạn nuốt](../caregiving/oral-hygiene-for-dysphagia-patients-vietnam.md) để biết quy trình 7 bước cụ thể.
+Xem hướng dẫn [vệ sinh răng miệng cho người bệnh rối loạn nuốt](/vi/caregiving/oral-hygiene-for-dysphagia-patients-vietnam/) để biết quy trình 7 bước cụ thể.
 
 ## Tiên lượng và kết quả
 
@@ -147,9 +147,9 @@ Yếu tố tiên lượng xấu: BMI rất thấp, nằm bất động kéo dài
 
 Bác sĩ cần loại trừ, không gộp, các tình trạng sau:
 
-- **Presbyphagia (lão hóa nuốt bình thường)** — thay đổi nuốt theo tuổi mà **không** gây ảnh hưởng chức năng. Xem hướng dẫn [presbyphagia vs rối loạn nuốt bệnh lý](./dysphagia-assessment-methods-vietnam.md).
-- **Rối loạn nuốt sau đột quỵ** — khởi phát cấp, dấu hiệu thần kinh khu trú; xem [đột quỵ và rối loạn nuốt](./stroke-and-dysphagia-recovery-vietnam.md).
-- **Rối loạn nuốt trong bệnh Parkinson** — đặc điểm ngoại tháp, đáp ứng với levodopa; xem [Parkinson và rối loạn nuốt](./parkinsons-disease-dysphagia-vietnam.md).
+- **Presbyphagia (lão hóa nuốt bình thường)** — thay đổi nuốt theo tuổi mà **không** gây ảnh hưởng chức năng. Xem hướng dẫn [presbyphagia vs rối loạn nuốt bệnh lý](/vi/testing/dysphagia-assessment-methods-vietnam/).
+- **Rối loạn nuốt sau đột quỵ** — khởi phát cấp, dấu hiệu thần kinh khu trú; xem [đột quỵ và rối loạn nuốt](/vi/clinical/stroke-and-dysphagia-recovery-vietnam/).
+- **Rối loạn nuốt trong bệnh Parkinson** — đặc điểm ngoại tháp, đáp ứng với levodopa; xem [Parkinson và rối loạn nuốt](/vi/clinical/parkinsons-disease-dysphagia-vietnam/).
 - **Rối loạn nuốt ung thư đầu cổ** — xơ hóa do xạ trị, khuyết hổng phẫu thuật.
 - **ALS / bệnh thần kinh vận động** — dấu hiệu bó tháp và hành tủy tiến triển.
 
@@ -229,4 +229,4 @@ Bài viết này diễn giải lại các nghiên cứu và hướng dẫn công
 
 ---
 
-**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](../../LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — doanh nghiệp xã hội tại Hồng Kông sản xuất thực phẩm chăm sóc tuân thủ tiêu chuẩn IDDSI cho người sống chung với rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [Giới thiệu](/about) về các đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.
+**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](/LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — doanh nghiệp xã hội tại Hồng Kông sản xuất thực phẩm chăm sóc tuân thủ tiêu chuẩn IDDSI cho người sống chung với rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [Giới thiệu](/about) về các đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.

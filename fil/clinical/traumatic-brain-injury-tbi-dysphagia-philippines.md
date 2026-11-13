@@ -90,7 +90,7 @@ Kung minsan, ang ventilation o tracheostomy ay tanda ng mas malubhang kondisyon,
 
 Pinipili ng clinician ang **International Dysphagia Diet Standardisation Initiative (IDDSI)** level ayon sa aktwal na kakayahan. Sa maagang yugto, maaaring kailanganin ang Level 5—minced and moist—o Level 4—puréed—pagkatapos ay itaas ang level habang bumubuti ang swallowing at cognition. Hiwalay na tinutukoy ang lapot ng inumin; hindi awtomatikong binibigyan ng thickener ang lahat dahil maaari nitong bawasan ang fluid intake at quality of life kapag hindi kinakailangan [2,13].
 
-Maaaring iangkop ang pagkaing Pilipino: homogenous na lugaw, steamed egg, malambot na tokwa, dinurog na kalabasa, o pinasingawang isda na dinurog at hinaluan ng sarsa ayon sa inirekomendang level. Kailangang subukan ang softness, moisture, particle size, at liquid separation gamit ang IDDSI methods; ang salitang “lugaw,” “malambot,” o “pinure” lamang ay hindi tumutukoy ng level. Basahin ang [gabay sa IDDSI framework](../iddsi/iddsi-framework-complete-guide-philippines.md) [13].
+Maaaring iangkop ang pagkaing Pilipino: homogenous na lugaw, steamed egg, malambot na tokwa, dinurog na kalabasa, o pinasingawang isda na dinurog at hinaluan ng sarsa ayon sa inirekomendang level. Kailangang subukan ang softness, moisture, particle size, at liquid separation gamit ang IDDSI methods; ang salitang “lugaw,” “malambot,” o “pinure” lamang ay hindi tumutukoy ng level. Basahin ang [gabay sa IDDSI framework](/fil/iddsi/iddsi-framework-complete-guide-philippines/) [13].
 
 ### 2. Ayusin ang paligid ayon sa cognitive ability
 
@@ -154,4 +154,4 @@ Ang artikulong ito ay nagpaparaphrase ng mga pampublikong clinical research at g
 
 ---
 
-**Huling na-update:** 2026-10-25 · **Lisensya:** [CC BY 4.0](../../LICENSE) · **Pinananatili ng [SeniorDeli (Carewells)](https://www.seniordeli.com)** — isang Hong Kong social enterprise na gumagawa ng IDDSI-compliant care food para sa mga taong may dysphagia. Ang pahinang ito ay pang-edukasyon lamang; tingnan ang [About](/about) para sa aming mga clinical partner at social mission.
+**Huling na-update:** 2026-10-25 · **Lisensya:** [CC BY 4.0](/LICENSE) · **Pinananatili ng [SeniorDeli (Carewells)](https://www.seniordeli.com)** — isang Hong Kong social enterprise na gumagawa ng IDDSI-compliant care food para sa mga taong may dysphagia. Ang pahinang ito ay pang-edukasyon lamang; tingnan ang [About](/about) para sa aming mga clinical partner at social mission.

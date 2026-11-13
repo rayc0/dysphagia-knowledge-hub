@@ -101,17 +101,17 @@ TBI患者はしばしば若く代償能力が高いため、食形態調整と�
 
 **1. 早期かつ繰り返しの客観的評価。** 医学的に安定し十分に覚醒したらVFSSまたはFEESを実施；認知がRLASレベルを上がるにつれて繰り返す。FEESはICUや興奮状態の患者でしばしば実用的です。日本では回復期リハビリテーション病棟で嚥下造影検査（VF）と嚥下内視鏡検査（VE）の両方が広く利用可能です。
 
-**2. 診断名ではなく客観的検査所見に食事を合わせる。** IDDSIレベルはVFSS/FEES結果から割り当てます——回復早期には一般的にレベル5（刻み・湿潤食）またはレベル4（ペースト食）、嚥下と認知の改善に伴い段階的にアップグレード。レベル定義とテスト方法はハブの[IDDSIフレームワークガイド](../iddsi/iddsi-framework-complete-guide.md)をご覧ください。日本のJSDR嚥下調整食分類との対応については[JSDR vs IDDSIマッピング](../standards/jsdr-vs-iddsi-mapping.md)も参照できます。
+**2. 診断名ではなく客観的検査所見に食事を合わせる。** IDDSIレベルはVFSS/FEES結果から割り当てます——回復早期には一般的にレベル5（刻み・湿潤食）またはレベル4（ペースト食）、嚥下と認知の改善に伴い段階的にアップグレード。レベル定義とテスト方法はハブの[IDDSIフレームワークガイド](/ja/iddsi/iddsi-framework-complete-guide/)をご覧ください。日本のJSDR嚥下調整食分類との対応については[JSDR vs IDDSIマッピング](/ja/standards/jsdr-vs-iddsi-mapping/)も参照できます。
 
 **3. 食塊だけでなく環境を管理する。** RLAS IV〜Vの患者には：静かな部屋、最小限の刺激、介護者1名、一段階の口頭指示、小さな食器、手の届く範囲から食べられない物を除去、十分な時間の確保。一貫したRLAS VIに達するまで監督は交渉の余地なしです。
 
 **4. 行動上の危険信号に注意する。** 詰め込み、食べ物の取り上げ、早食い、着席拒否、ポケットへの食物貯留は嚥下の問題ではなく認知の問題です——しかし窒息と誤嚥を引き起こします。方略：配膳の制御、ペース配分、安全な場合のみフィンガーフード、高リスク食品を手の届く範囲に置かない。
 
-**5. 気管切開への配慮。** 気管切開チューブは喉頭を固定し声門下感覚を鈍らせます；カフ脱気とスピーキングバルブ試行（例：Passy-Muir）はしばしば嚥下の安全性を改善し、呼吸管理チームと調整すべきです。ハブの[気管切開と嚥下障害ガイド](tracheostomy-and-dysphagia-management.md)をご覧ください。
+**5. 気管切開への配慮。** 気管切開チューブは喉頭を固定し声門下感覚を鈍らせます；カフ脱気とスピーキングバルブ試行（例：Passy-Muir）はしばしば嚥下の安全性を改善し、呼吸管理チームと調整すべきです。ハブの[気管切開と嚥下障害ガイド](/ja/clinical/tracheostomy-and-dysphagia-management/)をご覧ください。
 
 **6. 栄養と水分。** 早期経腸栄養は腸機能を保護し神経回復を支援します。経口摂取が再開したら、「安全」と「十分」の間の古典的なギャップを監視してください——患者は安全に嚥下できても、食べる速度が遅すぎたり量が少なすぎたりして必要量を満たせず、移行期に補助的チューブ栄養が必要になることがあります。
 
-**7. 口腔衛生。** 誤嚥性肺炎リスクは口腔細菌負荷と連動します；構造化された口腔ケアは要介護患者の肺炎発生率を低下させます（Yoneyama 2002 RCT）。日本は口腔ケア研究の発祥のひとつであり、介護現場での口腔ケア実践が確立しています。ハブの[口腔ケアガイド](../caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention.md)をご覧ください。
+**7. 口腔衛生。** 誤嚥性肺炎リスクは口腔細菌負荷と連動します；構造化された口腔ケアは要介護患者の肺炎発生率を低下させます（Yoneyama 2002 RCT）。日本は口腔ケア研究の発祥のひとつであり、介護現場での口腔ケア実践が確立しています。ハブの[口腔ケアガイド](/ja/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention/)をご覧ください。
 
 ---
 
@@ -121,7 +121,7 @@ TBI患者はしばしば若く代償能力が高いため、食形態調整と�
 
 - **急性期**：救急救命センター・脳神経外科で集中治療。気管挿管・気管切開が行われることが多く、早期に言語聴覚士（ST）による間接訓練と口腔ケアが開始されます。日本摂食嚥下リハビリテーション学会（JSDR）のガイドラインに沿った評価が標準です。
 - **回復期**：回復期リハビリテーション病棟（回復期リハ）で集中的な嚥下リハビリ。VF（嚥下造影）・VE（嚥下内視鏡）による定期評価と、摂食嚥下リハビリテーション認定看護師・管理栄養士との多職種連携が行われます。
-- **介護保険**：65歳以上（または特定疾病の40〜64歳）は介護保険の要介護認定を受け、訪問リハビリ・通所リハビリ・施設サービスでST介入を継続できます。詳しくはハブの[介護保険と嚥下障害支援ガイド](../caregiving/kaigo-hoken-dysphagia-support-services-guide.md)をご覧ください。
+- **介護保険**：65歳以上（または特定疾病の40〜64歳）は介護保険の要介護認定を受け、訪問リハビリ・通所リハビリ・施設サービスでST介入を継続できます。詳しくはハブの[介護保険と嚥下障害支援ガイド](/ja/caregiving/kaigo-hoken-dysphagia-support-services-guide/)をご覧ください。
 - **食形態**：日本ではJSDR嚥下調整食分類（コード0〜4）が施設で広く使われていますが、IDDSIとの対応表を使って国際標準に変換できます。ユニバーサルデザインフード（UDF）規格の市販介護食も選択肢です。
 
 ---
@@ -159,4 +159,4 @@ TBI患者はしばしば若く代償能力が高いため、食形態調整と�
 
 ---
 
-**Last updated:** 2026-10-23 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com
+**Last updated:** 2026-10-23 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade enquiries: hello@seniordeli.com

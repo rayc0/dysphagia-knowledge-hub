@@ -312,4 +312,4 @@ Level 6（軟らかくひと口大）は、噛む力がある程度残ってい�
 
 ---
 
-**最終更新日:** 2026-04-18 · **ライセンス:** [CC BY 4.0](../../LICENSE) · **提供:** [Editorial Team](https://www.seniordeli.com) — 香港を拠点とするソーシャルエンタープライズとして、IDDSI準拠の介護食の製造・普及に取り組んでいます。法人・施設向けのお問い合わせは hello@seniordeli.com まで。
+**最終更新日:** 2026-04-18 · **ライセンス:** [CC BY 4.0](/LICENSE) · **提供:** [Editorial Team](https://www.seniordeli.com) — 香港を拠点とするソーシャルエンタープライズとして、IDDSI準拠の介護食の製造・普及に取り組んでいます。法人・施設向けのお問い合わせは hello@seniordeli.com まで。

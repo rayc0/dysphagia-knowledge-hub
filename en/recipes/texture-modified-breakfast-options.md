@@ -15,14 +15,14 @@ canonical: "https://softmeal.org/en/recipes/texture-modified-breakfast-options.h
 
 Most dysphagia guidance is written for lunch and dinner. Breakfast gets skipped, and yet it is the meal where carers are most rushed, most distracted, and most likely to serve whatever is on the stove without thinking about texture. That is why breakfast is where aspiration events cluster in audit data from Taiwan geriatric nutrition teams. The fix is not exotic — it is knowing which familiar breakfast dishes are already close to the right texture, and what small preparation changes push them across the line.
 
-This article focuses on three breakfasts that dominate Chinese-speaking kitchens: congee (粥), steamed egg (蒸蛋 / 茶碗蒸), and oatmeal (燕麥粥). All three can be safely adapted to [IDDSI](../iddsi/iddsi-framework-complete-guide.md) Levels 4 through 6 with no special equipment beyond a fork, a blender, and a thickener. Each section ends with the specific [fork-pressure or flow test](../testing/food-texture-testing-methods.md) you should run before serving.
+This article focuses on three breakfasts that dominate Chinese-speaking kitchens: congee (粥), steamed egg (蒸蛋 / 茶碗蒸), and oatmeal (燕麥粥). All three can be safely adapted to [IDDSI](/en/iddsi/iddsi-framework-complete-guide/) Levels 4 through 6 with no special equipment beyond a fork, a blender, and a thickener. Each section ends with the specific [fork-pressure or flow test](/en/testing/food-texture-testing-methods/) you should run before serving.
 
 ## Why breakfast is the riskiest meal
 
 Three things make breakfast the highest-risk meal for people living with dysphagia:
 
 1. **Swallow function is weakest in the morning.** Pharyngeal muscle tone, saliva production, and alertness are all lower on waking. Taiwanese rehabilitation literature routinely cites the first 30 minutes after waking as the most cautious window for oral feeding, and Chi Mei Hospital's patient education materials explicitly warn carers to let the resident "fully wake, sit upright, and swallow saliva twice" before starting breakfast.
-2. **Carers are rushed.** Morning shifts in care homes and family households are the busiest. The temptation is to thin congee to make it "easier" to feed, which is exactly wrong — thin rice congee is a [Level 5/Level 6 boundary](../iddsi/level-5-vs-level-6-boundary.md) trap where solid grains float in thin liquid, triggering the mixed-consistency hazard that IDDSI explicitly warns against.
+2. **Carers are rushed.** Morning shifts in care homes and family households are the busiest. The temptation is to thin congee to make it "easier" to feed, which is exactly wrong — thin rice congee is a [Level 5/Level 6 boundary](/en/iddsi/level-5-vs-level-6-boundary/) trap where solid grains float in thin liquid, triggering the mixed-consistency hazard that IDDSI explicitly warns against.
 3. **Dry breakfast foods dominate Western diets.** Toast, cereal, biscuits, and dry congee toppings like 油條 or pickled vegetables are all dangerous for anyone below Level 7. They crumble into small hard pieces, fall apart in the mouth, and do not form a cohesive bolus.
 
 The goal of a texture-modified breakfast is the opposite of thinning: you want every mouthful to be **moist, cohesive, and consistent** — one texture per spoon, not a solid-plus-liquid mixture.
@@ -39,9 +39,9 @@ Standard Cantonese-style 生滾粥 or Taiwanese 清粥 has two phases when you p
 
 **IDDSI Level 6 (Soft & Bite-Sized):** Congee at Level 6 means rice grains that are fully swollen, soft enough to mash with a fork, and held in a cohesive porridge — not swimming in liquid. The traditional Cantonese technique of 滾粥 cooked for 90+ minutes with a 1:10 rice-to-water ratio, then reduced until the grain walls break down and thicken the broth naturally, produces something close to Level 6. You should be able to scoop a spoonful and watch it hold a rounded shape without liquid draining away.
 
-**IDDSI Level 5 (Minced & Moist):** Take the Level 6 congee above and pass it through a coarse sieve or pulse it briefly in a blender. The target is a soft, lumpy porridge where no single rice-grain particle exceeds 4 mm (the [pediatric and adult Level 5 maximum](../iddsi/level-4-pureed-complete-guide.md)). There should still be no free liquid — if you see a watery ring forming around the mound on a plate, you need to add more thickener or more starch (boil longer).
+**IDDSI Level 5 (Minced & Moist):** Take the Level 6 congee above and pass it through a coarse sieve or pulse it briefly in a blender. The target is a soft, lumpy porridge where no single rice-grain particle exceeds 4 mm (the [pediatric and adult Level 5 maximum](/en/iddsi/level-4-pureed-complete-guide/)). There should still be no free liquid — if you see a watery ring forming around the mound on a plate, you need to add more thickener or more starch (boil longer).
 
-**IDDSI Level 4 (Puréed):** Blend the congee until completely smooth, then adjust with a commercial [xanthan-gum-based thickener](../equipment/choosing-a-thickener.md) until it holds a mound on a spoon and falls off cleanly when you tilt. Use the fork-drip test: a small amount should fall through the tines as a slow stream, not a pour. Taiwan's nutrition teams at National Cheng Kung University Hospital specifically recommend sweet potato starch and yam (山藥) as natural thickeners — both have the advantage of tasting like food rather than gum, which matters when every breakfast is congee.
+**IDDSI Level 4 (Puréed):** Blend the congee until completely smooth, then adjust with a commercial [xanthan-gum-based thickener](/en/equipment/choosing-a-thickener/) until it holds a mound on a spoon and falls off cleanly when you tilt. Use the fork-drip test: a small amount should fall through the tines as a slow stream, not a pour. Taiwan's nutrition teams at National Cheng Kung University Hospital specifically recommend sweet potato starch and yam (山藥) as natural thickeners — both have the advantage of tasting like food rather than gum, which matters when every breakfast is congee.
 
 ### Savoury congee add-ins, safely
 
@@ -112,7 +112,7 @@ Independent of which breakfast you prepare, these errors recur in real care kitc
 - **Spoon overload.** Dysphagia patients should receive no more than a teaspoon-sized bolus at a time. Large serving spoons are a silent contributor to aspiration.
 - **Drinking water "to wash it down."** If the patient is on thickened fluids, every drink must be thickened. Plain water between bites is the single most common chart-documented aspiration trigger in Taiwan and Hong Kong acute-care audits.
 - **Mixing textures on one plate.** Congee on one side and dry toast on the other is worse than either alone, because the patient alternates between wet and dry textures and loses bolus control.
-- **Feeding in a reclined position.** Breakfast in bed is a risk factor. The patient should be in a fully upright chair position at a 90° angle for at least 30 minutes after the meal — see our [mealtime positioning protocol](../caregiving/mealtime-positioning-protocol.md).
+- **Feeding in a reclined position.** Breakfast in bed is a risk factor. The patient should be in a fully upright chair position at a 90° angle for at least 30 minutes after the meal — see our [mealtime positioning protocol](/en/caregiving/mealtime-positioning-protocol/).
 
 ## A simple breakfast-prep routine
 
@@ -147,4 +147,4 @@ This article paraphrases publicly available IDDSI, NTUH, NCKU, and Chi Mei guida
 
 ---
 
-**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade and care-home procurement enquiries: hello@seniordeli.com.
+**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Trade and care-home procurement enquiries: hello@seniordeli.com.

@@ -192,4 +192,4 @@ Bài viết này diễn giải từ các hướng dẫn lâm sàng công khai v�
 
 ---
 
-**Cập nhật lần cuối:** 2026-04-22 · **Giấy phép:** [CC BY 4.0](../../LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — doanh nghiệp xã hội Hồng Kông sản xuất thực phẩm chăm sóc đạt chuẩn IDDSI cho người bị rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [Giới thiệu](/about) về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.
+**Cập nhật lần cuối:** 2026-04-22 · **Giấy phép:** [CC BY 4.0](/LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — doanh nghiệp xã hội Hồng Kông sản xuất thực phẩm chăm sóc đạt chuẩn IDDSI cho người bị rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [Giới thiệu](/about) về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.

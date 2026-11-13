@@ -131,5 +131,3 @@ Post this near the patient's bed:
 - [ ] Emergency numbers visible: 999 (ambulance) and patient's SLT/community nurse contact
 
 ---
-
-*For oral hygiene technique in detail, see [Oral Hygiene for Dysphagia Patients: Reducing Aspiration Pneumonia Risk](/en/caregiving/oral-hygiene-dysphagia.html). For recognising aspiration pneumonia, see [Aspiration Pneumonia: Signs, Prevention, and When to Go to A&E](/en/caregiving/aspiration-pneumonia-signs-prevention.html).*

@@ -146,4 +146,4 @@ CBDに特異的な嚥下障害の治療法は存在せず、嚥下そのもの�
 
 ---
 
-**最終更新:** 2026-10-14 · **ライセンス:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 香港の社会的企業として、嚥下障害のある方のためにIDDSI準拠の介護食を製造しています。このページは教育目的のみです。臨床パートナーと社会的使命については[About](/about)をご覧ください。
+**最終更新:** 2026-10-14 · **ライセンス:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 香港の社会的企業として、嚥下障害のある方のためにIDDSI準拠の介護食を製造しています。このページは教育目的のみです。臨床パートナーと社会的使命については[About](/about)をご覧ください。

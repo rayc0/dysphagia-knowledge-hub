@@ -22,7 +22,6 @@ Kapag sinabi ng doktor o speech therapist na "Level 4" o "Level 5," ito ang ibig
 - [IDDSI Level 5 — Minced at Moist na Pagkain](/tl/iddsi/iddsi-level-5-minced-at-moist-pagkain-tagalog/)
   Kung paano i-mince ang karne at gulay, gaano kalambot, at kung paano suriin.
 
-- [IDDSI Level 6 — Malambot at Bite-Sized na Pagkain](/tl/iddsi/iddsi-level-6-malambot-pagkain-tagalog/)
   Ang pinaka-flexible na antas — kung anong mga pagkain ang natural na akma at kung paano i-modify ang iba.
 
 - [IDDSI Level 2 — Katamtamang Malapot na Inumin](/tl/iddsi/iddsi-level-2-katamtamang-malapot-inumin-tagalog/)
@@ -30,3 +29,5 @@ Kapag sinabi ng doktor o speech therapist na "Level 4" o "Level 5," ito ang ibig
 
 - [IDDSI Level 3 — Moderately Thick na Inumin](/tl/iddsi/iddsi-level-3-malapot-inumin-tagalog/)
   Moderately thick — para sa mga pasyenteng may mas malubhang problema sa paglunok ng likido.
+
+- [IDDSI Level 6 — Malambot at Bite-Sized na Pagkain](/tl/iddsi/iddsi-level-6-soft-bite-sized/)

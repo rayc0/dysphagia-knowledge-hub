@@ -138,4 +138,4 @@ DLB 的吸入常常是**無症狀的**——不咳嗽、不清喉嚨、沒有痛
 
 ---
 
-**最後更新：** 2026-10-16 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護**——香港社會企業，為吞嚥障礙者生產符合 IDDSI 標準的照護食。本頁僅供教育用途；臨床合作夥伴與社會使命請見 [About](/about)。
+**最後更新：** 2026-10-16 · **授權：** [CC BY 4.0](/LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護**——香港社會企業，為吞嚥障礙者生產符合 IDDSI 標準的照護食。本頁僅供教育用途；臨床合作夥伴與社會使命請見 [About](/about)。

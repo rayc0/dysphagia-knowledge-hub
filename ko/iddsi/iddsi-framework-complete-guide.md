@@ -247,7 +247,7 @@ IDDSI는 모든 테스트를 **주방 도구**로 할 수 있도록 설계했습
 
 ---
 
-**최종 업데이트:** 2026-04-17 · **라이선스:** [CC BY 4.0](../../LICENSE) · **운영:** [Editorial Team](https://www.seniordeli.com)
+**최종 업데이트:** 2026-04-17 · **라이선스:** [CC BY 4.0](/LICENSE) · **운영:** [Editorial Team](https://www.seniordeli.com)
 
 ---
 

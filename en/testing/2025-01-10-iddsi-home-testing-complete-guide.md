@@ -165,4 +165,4 @@ Print and keep in the kitchen:
 
 ---
 
-*For the full IDDSI framework including all 8 levels, see the [IDDSI Framework Complete Guide](/en/iddsi/iddsi-framework-complete-guide.html). For guidance on which food textures and testing methods apply to specific conditions, see the condition-specific guides in the Conditions section.*
+*For the full IDDSI framework including all 8 levels, see the [IDDSI Framework Complete Guide](/en/iddsi/iddsi-framework-complete-guide/). For guidance on which food textures and testing methods apply to specific conditions, see the condition-specific guides in the Conditions section.*

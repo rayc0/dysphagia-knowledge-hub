@@ -120,7 +120,7 @@ International Dysphagia Diet Standardisation Initiative (IDDSI) กำหนด�
    - เหลือ 8–10 mL = Level 3 (Moderately Thick)
    - ไหลไม่ได้ = Level 4 (Extremely Thick) หรือของกึ่งแข็ง
 
-สำหรับรายละเอียดเพิ่มเติม อ่านบทความของเรา [วิธีทดสอบเนื้อสัมผัสอาหารที่บ้านตามมาตรฐาน IDDSI](../testing/iddsi-home-texture-testing-thailand.md)
+สำหรับรายละเอียดเพิ่มเติม อ่านบทความของเรา [วิธีทดสอบเนื้อสัมผัสอาหารที่บ้านตามมาตรฐาน IDDSI](/th/testing/iddsi-home-texture-testing-thailand/)
 
 ---
 
@@ -171,4 +171,4 @@ International Dysphagia Diet Standardisation Initiative (IDDSI) กำหนด�
 
 ---
 
-**อัปเดตล่าสุด:** 2026-04-19 · **สัญญาอนุญาต:** [CC BY 4.0](../../LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมในฮ่องกงที่ผลิตอาหารดูแลตามมาตรฐาน IDDSI สำหรับผู้ป่วยกลืนลำบาก หน้านี้เป็นเพียงเนื้อหาเพื่อการศึกษา ดู [เกี่ยวกับเรา](/about) สำหรับพันธมิตรทางคลินิกและพันธกิจเพื่อสังคมของเรา
+**อัปเดตล่าสุด:** 2026-04-19 · **สัญญาอนุญาต:** [CC BY 4.0](/LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมในฮ่องกงที่ผลิตอาหารดูแลตามมาตรฐาน IDDSI สำหรับผู้ป่วยกลืนลำบาก หน้านี้เป็นเพียงเนื้อหาเพื่อการศึกษา ดู [เกี่ยวกับเรา](/about) สำหรับพันธมิตรทางคลินิกและพันธกิจเพื่อสังคมของเรา
