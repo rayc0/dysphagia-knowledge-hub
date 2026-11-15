@@ -179,4 +179,4 @@ Travel is possible. It requires more planning than it used to. Plan the planning
 
 ---
 
-*For home IDDSI testing of food and drinks before travel, see [IDDSI Testing at Home: A Complete Guide](/en/testing/iddsi-home-testing-complete-guide.html). For daily meal planning at home, see [7-Day IDDSI Meal Plan](/en/nutrition/dysphagia-meal-planning-weekly.html).*
+*For home IDDSI testing of food and drinks before travel, see [IDDSI Testing at Home: A Complete Guide](/en/testing/2025-01-10-iddsi-home-testing-complete-guide/). For daily meal planning at home, see [7-Day IDDSI Meal Plan](/en/nutrition/2025-01-11-dysphagia-meal-planning-weekly/).*

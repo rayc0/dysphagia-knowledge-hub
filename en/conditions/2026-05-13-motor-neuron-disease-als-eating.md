@@ -103,5 +103,3 @@ Hong Kong law permits adults with capacity to make advance directives (AD) decli
 These discussions are most meaningful when initiated early, while the patient has full communicative and decisional capacity. Once ALS progresses to severely impaired speech and limb function, the logistical burden of making and recording these decisions increases enormously.
 
 ---
-
-*For the full clinical trajectory of dysphagia in ALS, see [Dysphagia in ALS/MND: Progressive Management from Early to Late Stage](/en/conditions/als-motor-neurone-disease-dysphagia.html). For advance care planning tools in Hong Kong, see [Advance Care Planning for Dysphagia Patients in HK](/en/conditions/advance-care-planning-hk-dysphagia.html).*

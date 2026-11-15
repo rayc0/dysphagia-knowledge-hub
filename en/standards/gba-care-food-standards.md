@@ -245,11 +245,11 @@ For manufacturers, distributors, and care providers, the standards represent bot
 
 ## Further Reading
 
-- [IDDSI Framework Complete Guide](../iddsi/iddsi-framework-complete-guide.md)
-- [IDDSI Implementation in Care Homes](../clinical/iddsi-implementation-care-homes.md)
-- [Hong Kong Care Food Standards](../hk-standards/hong-kong-care-food-standards.md)
-- [GBA TSATA Standards — Manufacturers Guide](../hk-standards/gba-tsata-standards-manufacturers-guide.md)
-- [T/SATA 094-2025 Detailed Guide](../hk-standards/tsata-094-2025-dysphagia-food.md)
+- [IDDSI Framework Complete Guide](/en/iddsi/iddsi-framework-complete-guide/)
+- [IDDSI Implementation in Care Homes](/en/clinical/iddsi-implementation-care-homes/)
+- [Hong Kong Care Food Standards](/en/hk-standards/hong-kong-care-food-standards/)
+- [GBA TSATA Standards — Manufacturers Guide](/en/hk-standards/gba-tsata-standards-manufacturers-guide/)
+- [T/SATA 094-2025 Detailed Guide](/en/hk-standards/tsata-094-2025-dysphagia-food/)
 
 ---
 

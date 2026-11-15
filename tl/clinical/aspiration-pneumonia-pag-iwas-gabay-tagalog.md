@@ -67,7 +67,7 @@ Kahit na ang pinakamaingat na pagkain ay may panganib ng ilang aspiration — la
 
 Ang isang landmark na systematic review (Sjögren et al., 2008) ay natuklasan na ang structured oral hygiene care sa mga institutionalized na matatanda ay nagpababa ng aspiration pneumonia ng **hanggang 40%**. Ibig sabihin: kung 10 sa 100 pasyente ang nagkakaroon ng aspiration pneumonia nang walang oral care intervention, ang oral hygiene program ay magpapababa nito sa 6 na pasyente — apat na buhay ang naligtas para sa bawat 100 pasyente.
 
-**Para sa detalyadong oral hygiene protocol,** basahin ang aming gabay: [Pag-aalaga ng Bibig para sa mga Pasyenteng may Dysphagia](/tl/caregiving/pag-aalaga-ng-bibig-para-sa-dysphagia-pagkain.html).
+**Para sa detalyadong oral hygiene protocol,** basahin ang aming gabay: [Pag-aalaga ng Bibig para sa mga Pasyenteng may Dysphagia](/tl/caregiving/pag-aalaga-ng-bibig-para-sa-dysphagia-pagkain/).
 
 ### Mabilis na Summary ng Oral Hygiene Protocol
 

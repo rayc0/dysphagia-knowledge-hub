@@ -132,7 +132,7 @@ Dahil walang gamot na nakapagpapabalik ng dysphagia sa MSA, ang pamamahala ay co
 **Mga konsiderasyon sa gamot:**
 
 - Ang **levodopa trial** ay inirerekomenda pa rin sa MSA — hanggang mga 30% ng mga pasyente ang nakakakuha ng ilang benepisyo sa paggalaw, at ang isang structured FEES-levodopa test ay maaaring magpakita kung bumubuti ang paglunok sa gamot.
-- I-review ang buong listahan ng gamot kasama ang neurologist: ang mga sedative at anticholinergic (na madalas ireseta para sa mga sintomas ng pantog at paglalaway ng MSA) ay maaaring magpalala ng paglunok at magpatuyo ng bibig — tingnan ang aming companion article sa [dysphagia dulot ng gamot](dysphagia-dulot-ng-gamot-gabay-philippines.md).
+- I-review ang buong listahan ng gamot kasama ang neurologist: ang mga sedative at anticholinergic (na madalas ireseta para sa mga sintomas ng pantog at paglalaway ng MSA) ay maaaring magpalala ng paglunok at magpatuyo ng bibig — tingnan ang aming companion article sa [dysphagia dulot ng gamot](/fil/clinical/dysphagia-dulot-ng-gamot-gabay-philippines/).
 
 ## Ang Usapan Tungkol sa Tube Feeding
 
@@ -204,4 +204,4 @@ Ang artikulong ito ay nagpa-paraphrase ng mga pampublikong clinical guideline at
 
 ---
 
-**Last updated:** 2026-10-10 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — isang Hong Kong social enterprise na gumagawa ng IDDSI-compliant na care food para sa mga taong may dysphagia. Ang pahinang ito ay pang-edukasyon lamang; tingnan ang [About](/about) para sa aming mga clinical partner at social mission.
+**Last updated:** 2026-10-10 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — isang Hong Kong social enterprise na gumagawa ng IDDSI-compliant na care food para sa mga taong may dysphagia. Ang pahinang ito ay pang-edukasyon lamang; tingnan ang [About](/about) para sa aming mga clinical partner at social mission.

@@ -172,4 +172,4 @@ FTD 透過**兩種獨立機制**造成吞嚥障礙，良好的照護必須同時
 
 ---
 
-**最後更新：** 2026-10-19 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護**——一家香港社會企業，為吞嚥障礙者生產符合 IDDSI 標準的照護食品。本頁僅供教育用途；關於我們的臨床合作夥伴與社會使命，請見 [About](/about)。
+**最後更新：** 2026-10-19 · **授權：** [CC BY 4.0](/LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護**——一家香港社會企業，為吞嚥障礙者生產符合 IDDSI 標準的照護食品。本頁僅供教育用途；關於我們的臨床合作夥伴與社會使命，請見 [About](/about)。

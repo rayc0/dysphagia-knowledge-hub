@@ -205,7 +205,7 @@ When evaluating thickener products for care home procurement, request documentat
 - [ ] Shelf life and storage requirements
 - [ ] Chinese-language preparation instructions for non-English-reading care staff
 
-For GBA procurement tenders, additionally check alignment with **T/SATA 084-2025** and **T/SATA 094-2025** (see [GBA Care Food Standards](../standards/gba-care-food-standards.md)).
+For GBA procurement tenders, additionally check alignment with **T/SATA 084-2025** and **T/SATA 094-2025** (see [GBA Care Food Standards](/en/standards/gba-care-food-standards/)).
 
 ---
 

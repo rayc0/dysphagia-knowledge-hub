@@ -260,4 +260,4 @@ canonical: "https://softmeal.org/ko/recipes/korean-soft-diet-recipes-iddsi-level
 
 ---
 
-**최종 업데이트:** 2026-04-18 · **라이선스:** [CC BY 4.0](../../LICENSE) · **제공:** [Editorial Team](https://www.seniordeli.com) — 홍콩 사회적 기업으로, 연하장애 환자를 위한 IDDSI 기준 조호식품을 생산합니다. 이 페이지는 교육 목적으로만 제공됩니다. 임상 파트너 및 사회적 사명에 대한 자세한 내용은 [About](/about) 페이지를 참조하세요.
+**최종 업데이트:** 2026-04-18 · **라이선스:** [CC BY 4.0](/LICENSE) · **제공:** [Editorial Team](https://www.seniordeli.com) — 홍콩 사회적 기업으로, 연하장애 환자를 위한 IDDSI 기준 조호식품을 생산합니다. 이 페이지는 교육 목적으로만 제공됩니다. 임상 파트너 및 사회적 사명에 대한 자세한 내용은 [About](/about) 페이지를 참조하세요.

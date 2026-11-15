@@ -26,7 +26,7 @@ Model semasa pneumonia aspirasi mengenal pasti tiga faktor risiko yang saling be
 
 Oleh itulah, penjagaan mulut berada di bahagian teratas setiap bundel pencegahan pneumonia aspirasi berasaskan bukti, bersama-sama dengan saringan disfagia dan diet tekstur terubah suai ([AHRQ 2023](https://www.ncbi.nlm.nih.gov/books/NBK619049/)).
 
-Untuk memahami mekanisme fiziologi pneumonia aspirasi, rujuk artikel kami tentang [pencegahan pneumonia aspirasi](/ms/clinical/aspiration-pneumonia-prevention.html).
+Untuk memahami mekanisme fiziologi pneumonia aspirasi, rujuk artikel kami tentang [pencegahan pneumonia aspirasi](/ms/clinical/aspiration-pneumonia-prevention/).
 
 ## Kajian Yoneyama 2002 — bukti yang mengubah amalan klinikal
 
@@ -134,7 +134,7 @@ Rujuk segera jika penjaga melihat:
 - Lapisan putih atau kuning tebal di atas lidah (kemungkinan kandidiasis oral).
 - Ulser yang tidak sembuh dalam masa 2 minggu (perlu tolak keluar kanser mulut).
 - Gigi palsu yang tidak muat dengan baik menyebabkan luka.
-- Demam, batuk baharu, sesak nafas baharu, atau penolakan terhadap cecair pekat — kemungkinan pneumonia aspirasi awal. Rujuk [artikel tanda amaran disfagia kami](/ms/clinical/aspiration-pneumonia-prevention.html).
+- Demam, batuk baharu, sesak nafas baharu, atau penolakan terhadap cecair pekat — kemungkinan pneumonia aspirasi awal. Rujuk [artikel tanda amaran disfagia kami](/ms/clinical/aspiration-pneumonia-prevention/).
 
 ## Gambaran yang lebih besar
 
@@ -159,4 +159,4 @@ Artikel ini meringkaskan literatur saintifik yang tersedia secara awam dan pandu
 
 ---
 
-**Tarikh dikemaskini:** 2026-04-19 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk pesakit disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami.
+**Tarikh dikemaskini:** 2026-04-19 · **Lesen:** [CC BY 4.0](/LICENSE) · **Diselenggara oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk pesakit disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami.

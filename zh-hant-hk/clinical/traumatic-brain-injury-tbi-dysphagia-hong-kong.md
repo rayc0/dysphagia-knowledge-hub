@@ -102,17 +102,17 @@ Mackay 等人指出，RLAS 係預測「幾耐先可以恢復完全經口進食�
 
 **1. 早期同重複做儀器評估。** 病情穩定、清醒程度足夠就做 VFSS 或 FEES；認知隨 RLAS 級別改善時要重複評估。FEES 喺 ICU 同躁動病人身上通常更實際。
 
-**2. 飲食質地要跟儀器結果，唔係跟診斷名。** IDDSI 級別由 VFSS/FEES 結果決定——早期復康常見 Level 5（碎餐）或 Level 4（糊餐），隨吞嚥同認知改善逐步升級。級別定義同測試方法可參考本中心嘅 [IDDSI 八級護食標準香港指南](../iddsi/iddsi-framework-complete-guide-hong-kong.md)。
+**2. 飲食質地要跟儀器結果，唔係跟診斷名。** IDDSI 級別由 VFSS/FEES 結果決定——早期復康常見 Level 5（碎餐）或 Level 4（糊餐），隨吞嚥同認知改善逐步升級。級別定義同測試方法可參考本中心嘅 IDDSI 八級護食標準香港指南。
 
 **3. 管理環境，唔只係管理食糰。** RLAS IV–V 病人：安靜房間、最少干擾、一位照顧者、一步驟口頭指令、細餐具、移走唔食得嘅物品、容許充裕時間。未穩定到 RLAS VI 之前，監督係冇得妥協嘅。
 
 **4. 留意行為紅旗。** 塞滿嘴、搶嘢食、食得太快、唔肯坐好、將食物藏喺口裏面——呢啲係認知問題，唔係吞嚥問題，但一樣會造成哽喉同吸入。策略：控制上碟份量、逐啖節奏、安全先至用手指食物、高風險食物唔好放喺病人拎到嘅範圍。
 
-**5. 氣切嘅考慮。** 氣切管會「拉住」喉部同削弱聲門下感覺；放氣囊同發聲閥（例如 Passy-Muir）試用往往改善吞嚥安全，要同呼吸科團隊協調。詳見本中心嘅[氣切與吞嚥困難香港指南](tracheostomy-and-dysphagia-management-hong-kong.md)。
+**5. 氣切嘅考慮。** 氣切管會「拉住」喉部同削弱聲門下感覺；放氣囊同發聲閥（例如 Passy-Muir）試用往往改善吞嚥安全，要同呼吸科團隊協調。詳見本中心嘅[氣切與吞嚥困難香港指南](/zh-hant-hk/clinical/tracheostomy-and-dysphagia-management-hong-kong/)。
 
 **6. 營養同水分。** 早期腸道營養保護腸道功能同支持神經恢復。恢復經口進食時，要留意「安全」同「足夠」之間嘅經典落差——病人可能吞得安全但食得太慢或太少，過渡期需要補充管飼。
 
-**7. 口腔衛生。** 吸入性肺炎風險同口腔細菌量掛鈎；結構化口腔護理減少依賴病人嘅肺炎發生率（Yoneyama 2002 RCT）。詳見本中心嘅[口腔護理指南](../caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention.md)。
+**7. 口腔衛生。** 吸入性肺炎風險同口腔細菌量掛鈎；結構化口腔護理減少依賴病人嘅肺炎發生率（Yoneyama 2002 RCT）。詳見本中心嘅[口腔護理指南](/zh-hant-hk/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention/)。
 
 ## 常見錯誤／陷阱
 
@@ -145,4 +145,4 @@ Mackay 等人指出，RLAS 係預測「幾耐先可以恢復完全經口進食�
 
 ---
 
-**最後更新：** 2026-10-23 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護** — 一間香港社會企業，為吞嚥困難人士生產符合 IDDSI 標準嘅護食產品。本頁僅作教育用途；臨床合作夥伴同社會使命請參閱 [About](/about)。
+**最後更新：** 2026-10-23 · **授權：** [CC BY 4.0](/LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護** — 一間香港社會企業，為吞嚥困難人士生產符合 IDDSI 標準嘅護食產品。本頁僅作教育用途；臨床合作夥伴同社會使命請參閱 [About](/about)。

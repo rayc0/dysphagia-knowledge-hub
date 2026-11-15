@@ -269,4 +269,4 @@ Bài viết này tóm tắt và diễn giải các tiêu chuẩn và hướng d�
 
 ---
 
-**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](../../LICENSE) · **Được duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — một doanh nghiệp xã hội tại Hong Kong sản xuất thực phẩm chăm sóc tuân thủ IDDSI cho người sống với rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [Giới thiệu](/about) để biết về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi. Liên hệ thương mại: hello@seniordeli.com
+**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](/LICENSE) · **Được duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — một doanh nghiệp xã hội tại Hong Kong sản xuất thực phẩm chăm sóc tuân thủ IDDSI cho người sống với rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [Giới thiệu](/about) để biết về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi. Liên hệ thương mại: hello@seniordeli.com

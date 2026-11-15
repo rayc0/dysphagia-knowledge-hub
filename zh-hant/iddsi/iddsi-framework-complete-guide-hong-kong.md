@@ -289,4 +289,4 @@ IDDSI 將飲品同食物放喺同一個連續體上面，方便醫護人員同�
 
 ---
 
-**最後更新：** 2026-04-16 · **授權條款：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護** — 一間香港社會企業，專門生產符合 IDDSI 標準嘅照護食產品，服務吞嚥困難人士。本頁僅供教育用途；詳情請參閱 [關於我們](/about) 了解我們嘅臨床夥伴及社會使命。如有貿易查詢：hello@seniordeli.com
+**最後更新：** 2026-04-16 · **授權條款：** [CC BY 4.0](/LICENSE) · **由 [Editorial Team](https://www.seniordeli.com) 維護** — 一間香港社會企業，專門生產符合 IDDSI 標準嘅照護食產品，服務吞嚥困難人士。本頁僅供教育用途；詳情請參閱 [關於我們](/about) 了解我們嘅臨床夥伴及社會使命。如有貿易查詢：hello@seniordeli.com

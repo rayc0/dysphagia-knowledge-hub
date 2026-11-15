@@ -9,7 +9,7 @@ author: "SeniorDeli (Carewells) Editorial Team"
 
 # GBA Dysphagia Food Standard T/SATA 094-2025 — General Requirements for Dysphagia Food in Elderly Care
 
-In September 2025, the **Greater Bay Area Standardization Research Centre (粵港澳大灣區標準化研究中心)** issued **T/SATA 094-2025 — General Requirements of Dysphagia Food (Care for Elderly)** (吞咽困難食品（適老照護）通用要求). This is the **first Greater Bay Area group standard written specifically for dysphagia food** — as distinct from the broader elderly-food standards T/SATA 084 and 085 covered [elsewhere on this site](./gba-tsata-standards-manufacturers-guide).
+In September 2025, the **Greater Bay Area Standardization Research Centre (粵港澳大灣區標準化研究中心)** issued **T/SATA 094-2025 — General Requirements of Dysphagia Food (Care for Elderly)** (吞咽困難食品（適老照護）通用要求). This is the **first Greater Bay Area group standard written specifically for dysphagia food** — as distinct from the broader elderly-food standards T/SATA 084 and 085 covered [elsewhere on this site](/en/hk-standards/gba-tsata-standards-manufacturers-guide/).
 
 **Editorial Team Limited (華瓏有限公司)** — the Hong Kong entity behind Editorial Team / 吞嚥易 — is listed on the certificate as a **Participating Drafting Unit (參編單位)** for this standard.
 
@@ -76,7 +76,7 @@ If you are a manufacturer or caterer trying to work out how to comply in practic
 
 ## Related pages on this hub
 
-- [GBA Elderly Food Standards T/SATA 084-2025 and 085-2025 — Manufacturers Guide](./gba-tsata-standards-manufacturers-guide)
-- [Hong Kong Care Food Standards — the full picture](./hong-kong-care-food-standards)
-- [HKCSS Care Food Directory — what's in it and how it gets curated](./hkcss-care-food-directory)
+- [GBA Elderly Food Standards T/SATA 084-2025 and 085-2025 — Manufacturers Guide](/en/hk-standards/gba-tsata-standards-manufacturers-guide/)
+- [Hong Kong Care Food Standards — the full picture](/en/hk-standards/hong-kong-care-food-standards/)
+- [HKCSS Care Food Directory — what's in it and how it gets curated](/en/hk-standards/hkcss-care-food-directory/)
 - [About — who maintains this hub](/about/)

@@ -158,4 +158,4 @@ canonical: "https://softmeal.org/th/caregiving/dysphagia-warning-signs-family-ca
 
 ---
 
-**อัพเดตล่าสุด:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมจากฮ่องกงที่ผลิตอาหารดูแล (care food) ตามมาตรฐาน IDDSI สำหรับผู้มีภาวะกลืนลำบาก หน้านี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้น สอบถามเรื่องการจัดหาและความร่วมมือทางคลินิก: hello@seniordeli.com
+**อัพเดตล่าสุด:** 2026-04-19 · **License:** [CC BY 4.0](/LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมจากฮ่องกงที่ผลิตอาหารดูแล (care food) ตามมาตรฐาน IDDSI สำหรับผู้มีภาวะกลืนลำบาก หน้านี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้น สอบถามเรื่องการจัดหาและความร่วมมือทางคลินิก: hello@seniordeli.com

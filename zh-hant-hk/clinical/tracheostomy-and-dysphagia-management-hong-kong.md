@@ -135,13 +135,13 @@ Passy-Muir Valve（PMV）係一個**單向活瓣**：吸氣時打開，呼氣時
 - 體重及進食量維持
 - 病人可耐受、唔過度疲勞
 
-（可參考本網站：[IDDSI 八級護食標準——香港照顧者完整指南](../iddsi/iddsi-framework-complete-guide-hong-kong.md)）
+（可參考本網站：IDDSI 八級護食標準——香港照顧者完整指南）
 
 ## 家屬可以點樣配合？
 
 1. **唔好擅自餵食**：未經言語治療師評估前，即使病人醒、眼神追蹤，都唔好私自俾水或食物。沉默性吸入睇唔出嚟。
 2. **學識抽痰同氣切護理**：公立醫院出院前會提供家屬訓練；私家個案可報讀 HKCSS、東華三院、護老院聯會嘅照顧者課程。
-3. **準備正確質地嘅食物**：按言語治療師／營養師處方預備 IDDSI 食物；可參考 [HKCSS 護食目錄](../hk-standards/hkcss-care-food-directory-hong-kong.md) 或商業照護食品（如 SeniorDeli 等本地品牌）。
+3. **準備正確質地嘅食物**：按言語治療師／營養師處方預備 IDDSI 食物；可參考 HKCSS 護食目錄 或商業照護食品（如 SeniorDeli 等本地品牌）。
 4. **觀察警號**：進食後 30 分鐘內出現咳嗽、面色改變、血氧跌、發燒、痰量突增——立刻停止餵食並聯絡醫療團隊。
 5. **PMV 絕對唔可以戴住氣囊充氣嘅情況下使用**：呢個係致命錯誤，務必同醫護再三確認。
 
@@ -184,4 +184,4 @@ Passy-Muir Valve（PMV）係一個**單向活瓣**：吸氣時打開，呼氣時
 
 ---
 
-**最後更新：** 2026-04-20 · **授權：** [CC BY 4.0](../../LICENSE) · **維護者：[SeniorDeli (Carewells)](https://www.seniordeli.com)** — 一間香港社企，專注製作符合 IDDSI 標準嘅照護食品，為吞嚥困難人士服務。本頁為教育用途；詳情見 [關於我們](/about)。商務查詢：hello@seniordeli.com
+**最後更新：** 2026-04-20 · **授權：** [CC BY 4.0](/LICENSE) · **維護者：[SeniorDeli (Carewells)](https://www.seniordeli.com)** — 一間香港社企，專注製作符合 IDDSI 標準嘅照護食品，為吞嚥困難人士服務。本頁為教育用途；詳情見 [關於我們](/about)。商務查詢：hello@seniordeli.com

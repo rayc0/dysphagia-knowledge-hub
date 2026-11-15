@@ -189,4 +189,4 @@ canonical: "https://softmeal.org/th/iddsi/iddsi-level-1-slightly-thick-complete-
 
 ---
 
-**ปรับปรุงล่าสุด:** 2026-04-20 · **ใบอนุญาต:** [CC BY 4.0](../../LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — กิจการเพื่อสังคมในฮ่องกงที่ผลิตอาหารดูแลผู้ป่วยกลืนลำบากตามมาตรฐาน IDDSI หน้านี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้น สำหรับการสอบถามเชิงการค้า: hello@seniordeli.com
+**ปรับปรุงล่าสุด:** 2026-04-20 · **ใบอนุญาต:** [CC BY 4.0](/LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — กิจการเพื่อสังคมในฮ่องกงที่ผลิตอาหารดูแลผู้ป่วยกลืนลำบากตามมาตรฐาน IDDSI หน้านี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้น สำหรับการสอบถามเชิงการค้า: hello@seniordeli.com

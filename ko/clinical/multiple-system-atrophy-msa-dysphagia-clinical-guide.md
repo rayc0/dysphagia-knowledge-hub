@@ -121,7 +121,7 @@ MSA 연하장애를 되돌리는 약물이 없으므로 관리는 보상적이�
 **약물 고려사항:**
 
 - **레볼도파 시험**은 MSA에서도 여전히 권장된다——최대 약 30%의 환자가 어느 정도 운동 개선을 얻고, 구조화된 FEES-레볼도파 검사로 약물 복용 시 삼킴이 개선되는지 확인할 수 있다.
-- 신경과와 전체 약물 목록을 검토한다. 진정제와 항콜린제(MSA의 방광 증상과 침흘림에 흔히 처방됨)는 삼킴을 악화시키고 입을 마르게 할 수 있다——동반 기사인 [약물 유발 연하장애](drug-induced-dysphagia-medications-that-impair-swallowing.md)를 참조.
+- 신경과와 전체 약물 목록을 검토한다. 진정제와 항콜린제(MSA의 방광 증상과 침흘림에 흔히 처방됨)는 삼킴을 악화시키고 입을 마르게 할 수 있다——동반 기사인 [약물 유발 연하장애](/ko/clinical/drug-induced-dysphagia-medications-that-impair-swallowing/)를 참조.
 
 ## 경관 영양(튜브 피딩)에 대한 대화
 
@@ -191,4 +191,4 @@ MSA 연하장애를 되돌리는 약물이 없으므로 관리는 보상적이�
 
 ---
 
-**Last updated:** 2026-10-09 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-10-09 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

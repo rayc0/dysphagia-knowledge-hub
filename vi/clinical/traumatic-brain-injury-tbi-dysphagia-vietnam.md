@@ -93,7 +93,7 @@ Thở máy hoặc mở khí quản đôi khi là dấu hiệu của bệnh nặn
 
 Chuyên gia chọn mức **International Dysphagia Diet Standardisation Initiative (IDDSI)** dựa trên khả năng thực tế. Giai đoạn đầu có thể dùng mức 5 — thức ăn xắt nhỏ và ẩm mềm — hoặc mức 4 — thức ăn xay nhuyễn — rồi tăng mức khi nuốt và nhận thức cải thiện. Độ đặc của nước uống cũng phải được chỉ định riêng; không tự động làm đặc cho mọi người vì có thể làm giảm lượng nước uống và chất lượng cuộc sống nếu không cần thiết [2,13].
 
-Món Việt có thể được điều chỉnh gồm cháo xay nhuyễn, trứng hấp mịn, đậu hũ mềm, bí đỏ nghiền, cá hấp xắt nhỏ trộn nước sốt phù hợp, hoặc canh rau đậu thịt băm được xử lý thành một kết cấu đồng nhất. Phải kiểm tra độ mềm, độ ẩm, kích thước và sự tách nước theo phương pháp IDDSI, không phân mức chỉ từ tên món. Xem [hướng dẫn khung IDDSI](../iddsi/iddsi-framework-complete-guide-vietnam.md).
+Món Việt có thể được điều chỉnh gồm cháo xay nhuyễn, trứng hấp mịn, đậu hũ mềm, bí đỏ nghiền, cá hấp xắt nhỏ trộn nước sốt phù hợp, hoặc canh rau đậu thịt băm được xử lý thành một kết cấu đồng nhất. Phải kiểm tra độ mềm, độ ẩm, kích thước và sự tách nước theo phương pháp IDDSI, không phân mức chỉ từ tên món. Xem [hướng dẫn khung IDDSI](/vi/iddsi/iddsi-framework-complete-guide-vietnam/).
 
 ### 2. Điều chỉnh môi trường cho phù hợp nhận thức
 
@@ -111,7 +111,7 @@ Người bệnh có thể đạt tiêu chí ăn bằng miệng nhưng ăn chậm
 
 ### 5. Chăm sóc miệng và tái đánh giá
 
-Vệ sinh răng miệng giúp giảm lượng vi khuẩn có thể đi vào phổi khi hít nhầm. Thử nghiệm ngẫu nhiên của Yoneyama và cộng sự (2002) ở người cao tuổi phụ thuộc chăm sóc cho thấy chăm sóc miệng làm giảm tỷ lệ viêm phổi. Cần đánh răng và vệ sinh miệng theo kế hoạch, kể cả khi chưa ăn bằng miệng; xem thêm [hướng dẫn vệ sinh răng miệng cho người rối loạn nuốt](../caregiving/oral-hygiene-for-dysphagia-patients-vietnam.md) [12].
+Vệ sinh răng miệng giúp giảm lượng vi khuẩn có thể đi vào phổi khi hít nhầm. Thử nghiệm ngẫu nhiên của Yoneyama và cộng sự (2002) ở người cao tuổi phụ thuộc chăm sóc cho thấy chăm sóc miệng làm giảm tỷ lệ viêm phổi. Cần đánh răng và vệ sinh miệng theo kế hoạch, kể cả khi chưa ăn bằng miệng; xem thêm [hướng dẫn vệ sinh răng miệng cho người rối loạn nuốt](/vi/caregiving/oral-hygiene-for-dysphagia-patients-vietnam/) [12].
 
 ## Tiếp cận dịch vụ tại Việt Nam
 
@@ -157,4 +157,4 @@ Bài viết diễn giải các nghiên cứu và hướng dẫn lâm sàng đã 
 
 ---
 
-**Cập nhật lần cuối:** 2026-10-24 · **Giấy phép:** [CC BY 4.0](../../LICENSE) · **Được duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — một doanh nghiệp xã hội tại Hồng Kông sản xuất thực phẩm chăm sóc phù hợp IDDSI cho người rối loạn nuốt. Trang này chỉ nhằm mục đích giáo dục; xem [About](/about) để biết đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.
+**Cập nhật lần cuối:** 2026-10-24 · **Giấy phép:** [CC BY 4.0](/LICENSE) · **Được duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — một doanh nghiệp xã hội tại Hồng Kông sản xuất thực phẩm chăm sóc phù hợp IDDSI cho người rối loạn nuốt. Trang này chỉ nhằm mục đích giáo dục; xem [About](/about) để biết đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.

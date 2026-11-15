@@ -143,4 +143,4 @@ PSPの嚥下障害を意味のある形で改善する薬物はありません�
 
 ---
 
-**Last updated:** 2026-10-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-10-11 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

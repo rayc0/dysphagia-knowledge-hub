@@ -131,7 +131,7 @@ Karena tidak ada obat yang membalikkan disfagia MSA, penanganan bersifat kompens
 **Pertimbangan obat:**
 
 - **Uji coba levodopa** tetap direkomendasikan pada MSA — hingga sekitar 30% pasien mendapat manfaat motorik, dan uji FEES-levodopa terstruktur dapat menunjukkan apakah menelan membaik dengan obat.
-- Tinjau seluruh daftar obat bersama dokter saraf: sedatif dan antikolinergik (sering diresepkan untuk gejala kandung kemih dan air liur berlebih pada MSA) dapat memperburuk menelan dan mengeringkan mulut — lihat artikel pendamping kami tentang [disfagia akibat obat](disfagia-akibat-obat-panduan-indonesia.md).
+- Tinjau seluruh daftar obat bersama dokter saraf: sedatif dan antikolinergik (sering diresepkan untuk gejala kandung kemih dan air liur berlebih pada MSA) dapat memperburuk menelan dan mengeringkan mulut — lihat artikel pendamping kami tentang [disfagia akibat obat](/id/clinical/disfagia-akibat-obat-panduan-indonesia/).
 
 ---
 
@@ -234,4 +234,4 @@ Artikel ini memparafrasekan pedoman klinis dan penelitian primer yang tersedia u
 
 ---
 
-**Terakhir diperbarui:** 2026-10-10 · **Lisensi:** [CC BY 4.0](../../LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang memproduksi makanan perawatan sesuai IDDSI untuk orang yang hidup dengan disfagia. Halaman ini hanya edukatif; lihat [About](/about) untuk mitra klinis dan misi sosial kami.
+**Terakhir diperbarui:** 2026-10-10 · **Lisensi:** [CC BY 4.0](/LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang memproduksi makanan perawatan sesuai IDDSI untuk orang yang hidup dengan disfagia. Halaman ini hanya edukatif; lihat [About](/about) untuk mitra klinis dan misi sosial kami.

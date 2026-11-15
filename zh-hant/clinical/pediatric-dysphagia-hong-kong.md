@@ -197,7 +197,4 @@ canonical: "https://softmeal.org/zh-hant/clinical/pediatric-dysphagia-hong-kong.
 - [IDDSI框架 — 全8個級別完整指南](/zh-hant/iddsi/iddsi-framework-complete-guide)
 - [IDDSI第4級 — 糊狀飲食完整指南](/zh-hant/iddsi/level-4-pureed-complete-guide)
 - [IDDSI第5級與第6級的邊界](/zh-hant/iddsi/level-5-vs-level-6-boundary)
-- [吞嚥困難評估 — 臨床評估方法](/zh-hant/clinical/dysphagia-testing-clinical-assessment-methods)
-- [吸入性肺炎 — 預防指南](/zh-hant/clinical/aspiration-pneumonia-prevention)
-- [增稠劑選擇 — 澱粉、膠質與黃原膠比較](/zh-hant/equipment/choosing-a-thickener)
 - [IDDSI測試套裝 — 港幣30元的居家測試](/zh-hant/equipment/iddsi-testing-kit)

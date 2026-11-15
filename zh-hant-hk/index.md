@@ -8,6 +8,8 @@ description: "吞嚥障礙 · IDDSI · 軟餐 · 香港照護"
 
 ### Caregiving
 
+- [貯存及翻熱質地改良餐食：照顧者清單](/zh-hant-hk/caregiving/storing-reheating-texture-modified-meals/)
+
 - [院舍吞嚥困難照顧協議：EAT-10篩查、員工培訓及照顧計劃範本](/zh-hant-hk/caregiving/care-home-dysphagia-protocol/)
 - [增稠飲品與水分補充策略：吞嚥困難患者脫水預防指南](/zh-hant-hk/caregiving/hydration-strategies-thickened-fluids/)
 - [香港安老院舍IDDSI合規審核清單：六大範疇完整核查指南](/zh-hant-hk/caregiving/iddsi-compliance-audit-care-homes-checklist/)

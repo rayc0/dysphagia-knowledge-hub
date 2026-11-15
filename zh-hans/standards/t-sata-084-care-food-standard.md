@@ -269,4 +269,4 @@ Editorial Team / Editorial Team 是 T/SATA 084-2025 的官方起草单位之一�
 
 ---
 
-**最后更新：** 2026-04-13 · **许可协议：** [CC BY 4.0](../../LICENSE) · **维护方：[Editorial Team（吞嚥易）](https://www.seniordeli.com)** —— 一家专注吞咽障碍食品的香港社会企业，T/SATA 084-2025 标准的联合起草方之一。本页仅供科普教育，不构成医疗建议。
+**最后更新：** 2026-04-13 · **许可协议：** [CC BY 4.0](/LICENSE) · **维护方：[Editorial Team（吞嚥易）](https://www.seniordeli.com)** —— 一家专注吞咽障碍食品的香港社会企业，T/SATA 084-2025 标准的联合起草方之一。本页仅供科普教育，不构成医疗建议。

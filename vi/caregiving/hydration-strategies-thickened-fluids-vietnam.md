@@ -269,4 +269,4 @@ Bài viết này tóm tắt bằng chứng khoa học và hướng dẫn thực 
 
 ---
 
-**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](../../LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — doanh nghiệp xã hội tại Hồng Kông sản xuất thực phẩm chăm sóc theo chuẩn IDDSI dành cho người rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [About](/about) để biết thêm về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.
+**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](/LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — doanh nghiệp xã hội tại Hồng Kông sản xuất thực phẩm chăm sóc theo chuẩn IDDSI dành cho người rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [About](/about) để biết thêm về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.

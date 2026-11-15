@@ -211,4 +211,4 @@ This article paraphrases publicly available clinical guidelines on dysphagia and
 
 ---
 
-**Last updated:** 2026-04-21 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. For questions about IDDSI compliance testing or care food products, contact: hello@seniordeli.com
+**Last updated:** 2026-04-21 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. For questions about IDDSI compliance testing or care food products, contact: hello@seniordeli.com

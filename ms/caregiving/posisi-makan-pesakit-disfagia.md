@@ -359,4 +359,4 @@ Artikel ini meringkaskan maklumat yang tersedia secara umum dari garis panduan k
 
 ---
 
-**Dikemas kini terakhir:** 2026-04-19 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Dikekalkan oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk orang yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang](/about) untuk rakan klinikal dan misi sosial kami.
+**Dikemas kini terakhir:** 2026-04-19 · **Lesen:** [CC BY 4.0](/LICENSE) · **Dikekalkan oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk orang yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang](/about) untuk rakan klinikal dan misi sosial kami.

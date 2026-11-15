@@ -205,4 +205,4 @@ EAT-10 เป็นเครื่องมือคัดกรองภาว�
 
 ---
 
-**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมจากฮ่องกงที่ผลิตอาหารดูแลตามมาตรฐาน IDDSI สำหรับผู้มีภาวะกลืนลำบาก หน้านี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้น ติดต่อเจรจาการค้า: hello@seniordeli.com
+**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมจากฮ่องกงที่ผลิตอาหารดูแลตามมาตรฐาน IDDSI สำหรับผู้มีภาวะกลืนลำบาก หน้านี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้น ติดต่อเจรจาการค้า: hello@seniordeli.com

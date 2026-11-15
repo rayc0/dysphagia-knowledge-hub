@@ -119,7 +119,7 @@ Because no drug reverses MSA dysphagia, management is compensatory. The consensu
 **Medication considerations:**
 
 - A **levodopa trial** is still recommended in MSA — up to about 30% of patients get some motor benefit, and a structured FEES-levodopa test can show whether swallowing improves on medication.
-- Review the full medication list with the neurologist: sedatives and anticholinergics (often prescribed for MSA's bladder symptoms and drooling) can worsen swallowing and dry the mouth — see our companion article on [drug-induced dysphagia](drug-induced-dysphagia-medications-that-impair-swallowing.md).
+- Review the full medication list with the neurologist: sedatives and anticholinergics (often prescribed for MSA's bladder symptoms and drooling) can worsen swallowing and dry the mouth — see our companion article on [drug-induced dysphagia](/en/clinical/drug-induced-dysphagia-medications-that-impair-swallowing/).
 
 ## The Tube-Feeding Conversation
 
@@ -179,4 +179,4 @@ This article paraphrases publicly-available clinical guidelines and primary rese
 
 ---
 
-**Last updated:** 2026-10-08 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-10-08 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

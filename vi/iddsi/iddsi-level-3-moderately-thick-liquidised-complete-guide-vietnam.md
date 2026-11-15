@@ -307,4 +307,4 @@ Bệnh nhân dùng Level 3 thường uống **ít hơn nhu cầu** vì nước �
 
 ---
 
-**Cập nhật lần cuối:** 2026-04-22 · **Giấy phép:** [CC BY 4.0](../../LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — một doanh nghiệp xã hội Hồng Kông sản xuất thức ăn chăm sóc tuân thủ IDDSI cho người bị rối loạn nuốt. Trang này chỉ nhằm mục đích giáo dục; xin tham khảo [Giới thiệu](/about) để biết thêm về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.
+**Cập nhật lần cuối:** 2026-04-22 · **Giấy phép:** [CC BY 4.0](/LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — một doanh nghiệp xã hội Hồng Kông sản xuất thức ăn chăm sóc tuân thủ IDDSI cho người bị rối loạn nuốt. Trang này chỉ nhằm mục đích giáo dục; xin tham khảo [Giới thiệu](/about) để biết thêm về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.

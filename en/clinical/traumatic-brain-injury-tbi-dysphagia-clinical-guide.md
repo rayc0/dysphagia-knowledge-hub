@@ -85,17 +85,17 @@ Note the conflicting evidence: some studies find tracheostomy and ventilation du
 
 **1. Instrumental assessment early and repeatedly.** VFSS or FEES once medically stable and sufficiently alert; repeat as cognition improves through RLAS levels. FEES is often more practical in the ICU and in agitated patients.
 
-**2. Match the diet to the instrumental findings, not the diagnosis.** IDDSI levels are assigned from VFSS/FEES results — commonly Level 5 (minced & moist) or Level 4 (puréed) during early recovery, upgrading as swallowing and cognition improve. See the hub's [IDDSI framework guide](../iddsi/iddsi-framework-complete-guide.md) for level definitions and testing methods.
+**2. Match the diet to the instrumental findings, not the diagnosis.** IDDSI levels are assigned from VFSS/FEES results — commonly Level 5 (minced & moist) or Level 4 (puréed) during early recovery, upgrading as swallowing and cognition improve. See the hub's [IDDSI framework guide](/en/iddsi/iddsi-framework-complete-guide/) for level definitions and testing methods.
 
 **3. Manage the environment, not just the bolus.** For RLAS IV–V patients: quiet room, minimal distractions, one caregiver, one-step verbal cues, small utensils, remove non-food items from reach, allow extra time. Supervision is non-negotiable until consistent RLAS VI.
 
 **4. Watch for behavioural red flags.** Cramming, stealing food, eating too fast, refusing to sit, and pocketing food are cognitive problems, not swallowing problems — but they cause choking and aspiration. Strategies: controlled plate presentation, portion pacing, finger foods only if safe, and never leaving high-risk foods within reach.
 
-**5. Tracheostomy considerations.** A tracheostomy tube tethers the larynx and blunts subglottic sensation; cuff deflation and speaking-valve trials (e.g., Passy-Muir) often improve swallowing safety and should be coordinated with the respiratory team. See the hub's [tracheostomy and dysphagia guide](tracheostomy-and-dysphagia-management.md).
+**5. Tracheostomy considerations.** A tracheostomy tube tethers the larynx and blunts subglottic sensation; cuff deflation and speaking-valve trials (e.g., Passy-Muir) often improve swallowing safety and should be coordinated with the respiratory team. See the hub's [tracheostomy and dysphagia guide](/en/clinical/tracheostomy-and-dysphagia-management/).
 
 **6. Nutrition and hydration.** Early enteral feeding protects gut function and supports neurorecovery. As oral intake resumes, monitor for the classic gap between "safe" and "adequate" — a patient may swallow safely but eat too slowly or too little to meet needs, requiring supplementary tube feeds during the transition.
 
-**7. Oral hygiene.** Aspiration pneumonia risk tracks oral bacterial load; structured oral care reduces pneumonia incidence in dependent patients (Yoneyama 2002 RCT). See the hub's [oral care guide](../caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention.md).
+**7. Oral hygiene.** Aspiration pneumonia risk tracks oral bacterial load; structured oral care reduces pneumonia incidence in dependent patients (Yoneyama 2002 RCT). See the hub's [oral care guide](/en/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention/).
 
 ## Common mistakes / Pitfalls
 
@@ -126,4 +126,4 @@ This article paraphrases publicly-available clinical literature and guidelines. 
 
 ---
 
-**Last updated:** 2026-10-22 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-10-22 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

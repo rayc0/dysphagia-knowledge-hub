@@ -225,4 +225,4 @@ Gilheaney 등(2023년, *Aphasiology*)이 롱코비드 성인을 대상으로 실
 
 ---
 
-**최종 업데이트:** 2026-04-19 · **라이선스:** [CC BY 4.0](../../LICENSE) · **운영: [Editorial Team](https://www.seniordeli.com)** — 연하장애를 가진 분들을 위해 IDDSI 기준의 케어푸드를 생산하는 홍콩 사회적 기업입니다. 이 페이지는 교육 목적이며, 임상 파트너와 사회적 사명에 대해서는 [About](/about)을 참조하십시오.
+**최종 업데이트:** 2026-04-19 · **라이선스:** [CC BY 4.0](/LICENSE) · **운영: [Editorial Team](https://www.seniordeli.com)** — 연하장애를 가진 분들을 위해 IDDSI 기준의 케어푸드를 생산하는 홍콩 사회적 기업입니다. 이 페이지는 교육 목적이며, 임상 파트너와 사회적 사명에 대해서는 [About](/about)을 참조하십시오.

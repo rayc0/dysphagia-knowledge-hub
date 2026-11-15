@@ -230,4 +230,4 @@ Ang artikulo na ito ay naglalarawan ng publicly available na[stroke rehabilitati
 
 ---
 
-**Huling update:** 2026-05-13 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — isang Hong Kong social enterprise na gumagawa ng IDDSI-compliant na pagkain para sa mga taong may gutom na problema. Ang pahina na ito ay pang-edukasyon lamang; tingnan ang [About](/about) para sa aming clinical partners at social mission.
+**Huling update:** 2026-05-13 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — isang Hong Kong social enterprise na gumagawa ng IDDSI-compliant na pagkain para sa mga taong may gutom na problema. Ang pahina na ito ay pang-edukasyon lamang; tingnan ang [About](/about) para sa aming clinical partners at social mission.

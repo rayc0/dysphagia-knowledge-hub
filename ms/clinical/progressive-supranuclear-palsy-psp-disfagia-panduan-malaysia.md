@@ -153,4 +153,4 @@ Artikel ini memparafrasakan penyelidikan klinikal dan garis panduan yang tersedi
 
 ---
 
-**Kemas kini terakhir:** 2026-10-13 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk orang yang hidup dengan disfagia. Halaman ini adalah pendidikan sahaja; lihat [About](/about) untuk rakan kongsi klinikal dan misi sosial kami.
+**Kemas kini terakhir:** 2026-10-13 · **Lesen:** [CC BY 4.0](/LICENSE) · **Diselenggara oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk orang yang hidup dengan disfagia. Halaman ini adalah pendidikan sahaja; lihat [About](/about) untuk rakan kongsi klinikal dan misi sosial kami.

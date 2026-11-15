@@ -225,4 +225,4 @@ canonical: "https://softmeal.org/zh-hans/clinical/post-covid-dysphagia-long-covi
 
 ---
 
-**最后更新：** 2026-04-19 · **许可证：** [CC BY 4.0](../../LICENSE) · **由 [Editorial Team（康乐龄）](https://www.seniordeli.com)** 维护——香港社会企业，专注生产符合IDDSI标准的吞咽障碍照护食品。本页面仅供教育参考，临床合作伙伴及社会使命详见 [关于我们](/about)。贸易查询：hello@seniordeli.com
+**最后更新：** 2026-04-19 · **许可证：** [CC BY 4.0](/LICENSE) · **由 [Editorial Team（康乐龄）](https://www.seniordeli.com)** 维护——香港社会企业，专注生产符合IDDSI标准的吞咽障碍照护食品。本页面仅供教育参考，临床合作伙伴及社会使命详见 [关于我们](/about)。贸易查询：hello@seniordeli.com

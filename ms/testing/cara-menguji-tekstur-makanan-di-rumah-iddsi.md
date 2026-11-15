@@ -269,4 +269,4 @@ Artikel ini memaparkan semula kaedah ujian IDDSI yang tersedia secara awam. Untu
 
 ---
 
-**Dikemas kini terakhir:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan mematuhi IDDSI untuk individu yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami. Pertanyaan perdagangan: hello@seniordeli.com
+**Dikemas kini terakhir:** 2026-04-18 · **Lesen:** [CC BY 4.0](/LICENSE) · **Diselenggara oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan mematuhi IDDSI untuk individu yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami. Pertanyaan perdagangan: hello@seniordeli.com

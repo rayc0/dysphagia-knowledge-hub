@@ -228,7 +228,7 @@ This documentation is essential for identifying trends that warrant SLP reassess
 - Use tactile cueing (gently touching the person's hand or arm) to prompt swallowing
 - Allow more time; do not interpret slow response as refusal
 - Maintain routine — eat at the same time, in the same place, with the same crockery if possible
-- For late-stage dementia: see [Dysphagia in Dementia](../conditions/dysphagia-in-dementia.md)
+- For late-stage dementia: see [Dysphagia in Dementia](/en/conditions/dysphagia-in-dementia/)
 
 ### 8.2 Parkinson's disease
 

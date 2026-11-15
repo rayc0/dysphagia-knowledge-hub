@@ -227,4 +227,4 @@ FOIS 的用途在於**追蹤治療進步**——復健前後的 FOIS 分級變�
 
 ---
 
-**最後更新：** 2026-04-14 · **授權：** [CC BY 4.0](../../LICENSE) · **維護單位：[Editorial Team 康樂齡（Editorial Team）](https://www.seniordeli.com)**——一間位於香港的社會企業，為吞嚥障礙長者生產符合 IDDSI 國際標準的軟餐食品。本頁僅供衛教使用；機構採購、語言治療師合作或社福轉介可來信 hello@seniordeli.com。詳見 [關於我們](/about)。
+**最後更新：** 2026-04-14 · **授權：** [CC BY 4.0](/LICENSE) · **維護單位：[Editorial Team 康樂齡（Editorial Team）](https://www.seniordeli.com)**——一間位於香港的社會企業，為吞嚥障礙長者生產符合 IDDSI 國際標準的軟餐食品。本頁僅供衛教使用；機構採購、語言治療師合作或社福轉介可來信 hello@seniordeli.com。詳見 [關於我們](/about)。

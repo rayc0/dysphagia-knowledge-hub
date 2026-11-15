@@ -139,4 +139,4 @@ Most older adults not supplementing in HK will test in the insufficient range. A
 
 ---
 
-*For protein requirements in texture-modified diets, see [Protein Fortification for Dysphagia Diets](/en/nutrition/protein-fortification-dysphagia.html). For managing calorie intake across modified textures, see [Meal Frequency and Portions for Dysphagia Patients](/en/nutrition/meal-frequency-portions-dysphagia.html).*
+*For protein requirements in texture-modified diets, see [Protein Fortification for Dysphagia Diets](/en/nutrition/2025-01-22-protein-fortification-dysphagia/). For managing calorie intake across modified textures, see [Meal Frequency and Portions for Dysphagia Patients](/en/nutrition/2026-05-13-meal-frequency-portions-dysphagia/).*

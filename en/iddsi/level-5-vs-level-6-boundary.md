@@ -398,7 +398,7 @@ Preference must be balanced against safety risk. This is a clinical and ethical 
 
 This article paraphrases and summarises the IDDSI Framework v2.0 (2019) and published peer-reviewed studies. For clinical practice, always refer to the current official IDDSI documentation at iddsi.org. This page is **not** medical advice. Texture prescriptions must be made by a qualified clinician (speech-language pathologist or dysphagia-trained dietitian) based on individual patient assessment.
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists.
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists.
 
 ---
 

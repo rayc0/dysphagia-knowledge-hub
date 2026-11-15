@@ -274,4 +274,4 @@ Artikel ini meringkaskan maklumat yang tersedia secara terbuka daripada garis pa
 
 ---
 
-**Dikemas kini:** 2026-04-18 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Dikendalikan oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh-IDDSI untuk individu yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami.
+**Dikemas kini:** 2026-04-18 · **Lesen:** [CC BY 4.0](/LICENSE) · **Dikendalikan oleh [Editorial Team](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh-IDDSI untuk individu yang hidup dengan disfagia. Laman ini adalah untuk tujuan pendidikan sahaja; lihat [Tentang Kami](/about) untuk rakan klinikal dan misi sosial kami.

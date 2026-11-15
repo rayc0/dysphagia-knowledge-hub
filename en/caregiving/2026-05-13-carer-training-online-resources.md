@@ -121,5 +121,3 @@ Caregiver knowledge decays over time, particularly for skills that are not used 
 - **Re-do the IDDSI online orientation** when the patient's texture level changes or when a new caregiver joins the household
 
 ---
-
-*For hands-on mealtime technique, see [Safe Feeding Techniques for Dysphagia at Home](/en/caregiving/safe-feeding-techniques-dysphagia.html). For what to do when something goes wrong at mealtime, see [Mealtime Safety Red Flags and Emergency Response](/en/caregiving/mealtime-safety-red-flags-and-emergency-response.html).*

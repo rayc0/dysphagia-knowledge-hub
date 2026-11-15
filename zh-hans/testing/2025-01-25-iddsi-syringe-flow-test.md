@@ -144,4 +144,4 @@ canonical: "https://softmeal.org/zh-hans/testing/iddsi-syringe-flow-test"
 
 ---
 
-**最后更新：** 2025-01-25 · **许可协议：** [CC BY 4.0](../../LICENSE) · **由 Editorial Team 维护**
+**最后更新：** 2025-01-25 · **许可协议：** [CC BY 4.0](/LICENSE) · **由 Editorial Team 维护**

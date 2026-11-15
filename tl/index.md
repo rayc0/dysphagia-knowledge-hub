@@ -39,15 +39,12 @@ Ang hub na ito ay nagbibigay ng libreng gabay sa Tagalog tungkol sa dysphagia (h
 - [IDDSI Framework — Gabay sa Tagalog: Walong Antas ng Pagkain at Inumin](/tl/iddsi/iddsi-framework-gabay-tagalog-para-sa-mga-caregiver/)
 - [IDDSI Level 4 — Pureed na Pagkain: Paano Ihanda sa Bahay](/tl/iddsi/iddsi-level-4-pureed-pagkain-gabay-tagalog/)
 - [IDDSI Level 5 — Minced at Moist na Pagkain](/tl/iddsi/iddsi-level-5-minced-at-moist-pagkain-tagalog/)
-- [IDDSI Level 6 — Malambot at Bite-Sized na Pagkain](/tl/iddsi/iddsi-level-6-malambot-pagkain-tagalog/)
 - [IDDSI Level 2 — Katamtamang Malapot na Inumin](/tl/iddsi/iddsi-level-2-katamtamang-malapot-inumin-tagalog/)
 - [IDDSI Level 3 — Moderately Thick na Inumin](/tl/iddsi/iddsi-level-3-malapot-inumin-tagalog/)
 
 ### Kliniko (Clinical)
 
 - [Stroke at Dysphagia — Paano Nakakaapekto ang Stroke sa Paglunok](/tl/clinical/stroke-at-dysphagia-paano-nakakaapekto-sa-paglunok/)
-- [Demensya at Dysphagia — Ligtas na Pagpapakain sa Matatanda](/tl/clinical/demensya-at-dysphagia-pagpapakain-sa-matatanda/)
-- [Parkinson's Disease at Dysphagia](/tl/clinical/parkinson-at-dysphagia-pag-iingat-sa-pagkain/)
 - [Pag-iwas sa Aspiration Pneumonia](/tl/clinical/aspiration-pneumonia-pag-iwas-gabay-tagalog/)
 
 ### Mga Recipe
@@ -61,3 +58,5 @@ Ang hub na ito ay nagbibigay ng libreng gabay sa Tagalog tungkol sa dysphagia (h
 ### Pagsusuri (Testing)
 
 - [EAT-10 Dysphagia Screening Tool sa Tagalog](/tl/testing/eat-10-screening-tool-tagalog/)
+
+- [IDDSI Level 6 — Malambot at Bite-Sized na Pagkain](/tl/iddsi/iddsi-level-6-soft-bite-sized/)

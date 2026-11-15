@@ -232,7 +232,7 @@ IDDSIの検査はすべて**キッチンにある道具**で実施できるよ�
 
 ---
 
-**最終更新:** 2026-04-17 · **ライセンス:** [CC BY 4.0](../../LICENSE) · **監修・提供: [Editorial Team](https://www.seniordeli.com)** — 嚥下障害食の専門家チーム
+**最終更新:** 2026-04-17 · **ライセンス:** [CC BY 4.0](/LICENSE) · **監修・提供: [Editorial Team](https://www.seniordeli.com)** — 嚥下障害食の専門家チーム
 
 ---
 

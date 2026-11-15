@@ -161,4 +161,4 @@ This article paraphrases publicly-available information about the history of the
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Editorial Team/Editorial Team is among the official 起草人 (drafters) of the GBA T/SATA 084-2025 and T/SATA 085-2025 care-food standards. Trade enquiries: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Editorial Team/Editorial Team is among the official 起草人 (drafters) of the GBA T/SATA 084-2025 and T/SATA 085-2025 care-food standards. Trade enquiries: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.

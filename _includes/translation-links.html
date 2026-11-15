@@ -1,0 +1,16 @@
+{%- if page.translation_key -%}
+  {%- assign translation_group = site.data.translations[page.translation_key] -%}
+  {%- if translation_group -%}
+    {%- assign group_contains_current_page = false -%}
+    {%- for member in translation_group -%}
+      {%- if member.url == page.url -%}
+        {%- assign group_contains_current_page = true -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if group_contains_current_page -%}
+      {%- for member in translation_group -%}
+<link rel="alternate" hreflang="{{ member.lang | escape }}" href="{{ member.url | absolute_url | escape }}">
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}

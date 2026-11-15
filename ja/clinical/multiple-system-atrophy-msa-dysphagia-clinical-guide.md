@@ -119,7 +119,7 @@ MSAの嚥下障害を逆転させる薬はないため、管理は代償的な�
 **薬物に関する考慮:**
 
 - MSAでも**レボドパの試行**は推奨されます——最大約30%の患者に何らかの運動症状の改善があり、構造化されたFEES-レボドパテストで薬物による嚥下の改善の有無を確認できます（日本のガイドライン2018でもMSA初期の30〜70%に有効と記載）。
-- 神経内科医と全処方箋を見直してください：鎮静薬や抗コリン薬（MSAの膀胱症状や流涎に処方されることが多い）は嚥下を悪化させ口を乾燥させる可能性があります——併記記事の[薬剤性嚥下障害](drug-induced-dysphagia-medications-that-impair-swallowing.md)をご参照ください。
+- 神経内科医と全処方箋を見直してください：鎮静薬や抗コリン薬（MSAの膀胱症状や流涎に処方されることが多い）は嚥下を悪化させ口を乾燥させる可能性があります——併記記事の[薬剤性嚥下障害](/ja/clinical/drug-induced-dysphagia-medications-that-impair-swallowing/)をご参照ください。
 
 ## 経管栄養の話し合い
 
@@ -190,4 +190,4 @@ MSAは日本では**指定難病**（線条体黒質変性症として指定難�
 
 ---
 
-**Last updated:** 2026-10-09 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-10-09 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

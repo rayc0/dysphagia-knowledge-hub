@@ -104,4 +104,4 @@ Carer support and respite access are especially important in HD given the long d
 
 ---
 
-*For detailed mealtime safety strategies, see [Mealtime Safety Red Flags and Emergency Response](/en/caregiving/mealtime-safety-red-flags-and-emergency-response.html). For calorie and protein targets on modified textures, see [Meal Frequency and Portions for Dysphagia Patients](/en/nutrition/meal-frequency-portions-dysphagia.html).*
+*For detailed mealtime safety strategies, see [Mealtime Safety Red Flags and Emergency Response](/en/caregiving/mealtime-safety-red-flags-and-emergency-response/). For calorie and protein targets on modified textures, see [Meal Frequency and Portions for Dysphagia Patients](/en/nutrition/2026-05-13-meal-frequency-portions-dysphagia/).*

@@ -14,10 +14,8 @@ Ang seksyong ito ay nagpapaliwanag ng kliniko na kaalaman tungkol sa dysphagia a
 - [Stroke at Dysphagia — Paano Nakakaapekto ang Stroke sa Paglunok](/tl/clinical/stroke-at-dysphagia-paano-nakakaapekto-sa-paglunok/)
   Bakit nagiging sanhi ng dysphagia ang stroke, ang timeline ng paggaling, at kung ano ang inaasahan.
 
-- [Demensya at Dysphagia — Ligtas na Pagpapakain sa Matatanda](/tl/clinical/demensya-at-dysphagia-pagpapakain-sa-matatanda/)
   Mga estratehiya para sa mga may Alzheimer's at iba pang anyo ng demensya — paghawak ng pagtanggi sa pagkain, distractibility, at late-stage na desisyon sa pagpapakain.
 
-- [Parkinson's Disease at Dysphagia](/tl/clinical/parkinson-at-dysphagia-pag-iingat-sa-pagkain/)
   Bakit naapektuhan ang paglunok sa Parkinson's, at mga estratehiya para sa bawat yugto ng sakit.
 
 - [Pag-iwas sa Aspiration Pneumonia](/tl/clinical/aspiration-pneumonia-pag-iwas-gabay-tagalog/)

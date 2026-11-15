@@ -209,4 +209,4 @@ This article paraphrases publicly available clinical guidelines and peer-reviewe
 
 ---
 
-**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-19 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

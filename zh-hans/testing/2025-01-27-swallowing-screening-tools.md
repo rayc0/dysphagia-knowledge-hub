@@ -172,4 +172,4 @@ canonical: "https://softmeal.org/zh-hans/testing/swallowing-screening-tools"
 
 ---
 
-**最后更新：** 2025-01-27 · **许可协议：** [CC BY 4.0](../../LICENSE) · **由 Editorial Team 维护**
+**最后更新：** 2025-01-27 · **许可协议：** [CC BY 4.0](/LICENSE) · **由 Editorial Team 维护**

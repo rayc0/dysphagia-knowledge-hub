@@ -14,7 +14,69 @@ defaults:
       path: ""
     values:
       layout: "default"
+      image: "/assets/img/og-default.png"
+
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+  - scope:
+      path: "zh-hans"
+    values:
+      lang: "zh-Hans"
+  - scope:
+      path: "zh-cn"
+    values:
+      lang: "zh-CN"
+  - scope:
+      path: "zh-hant"
+    values:
+      lang: "zh-Hant"
+  - scope:
+      path: "zh-hant-hk"
+    values:
+      lang: "zh-Hant-HK"
+  - scope:
+      path: "zh-hant-tw"
+    values:
+      lang: "zh-Hant-TW"
+  - scope:
+      path: "ja"
+    values:
+      lang: "ja"
+  - scope:
+      path: "ko"
+    values:
+      lang: "ko"
+  - scope:
+      path: "ms"
+    values:
+      lang: "ms"
+  - scope:
+      path: "id"
+    values:
+      lang: "id"
+  - scope:
+      path: "fil"
+    values:
+      lang: "fil"
+  - scope:
+      path: "tl"
+    values:
+      lang: "tl"
+  - scope:
+      path: "th"
+    values:
+      lang: "th"
+  - scope:
+      path: "vi"
+    values:
+      lang: "vi"
 
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# Cloudflare must receive these explicit legacy redirects.
+include:
+  - _redirects

@@ -25,7 +25,7 @@ If we get something wrong, [open an issue](https://github.com/rayc0/dysphagia-kn
 
 Hong Kong's care food landscape is built on three layers that fit together:
 
-1. **IDDSI** — the international framework that defines the 8 levels (Levels 0–7) and the test methods. Hong Kong has adopted IDDSI directly. See our [complete IDDSI guide](../iddsi/iddsi-framework-complete-guide.md).
+1. **IDDSI** — the international framework that defines the 8 levels (Levels 0–7) and the test methods. Hong Kong has adopted IDDSI directly. See our [complete IDDSI guide](/en/iddsi/iddsi-framework-complete-guide/).
 2. **HKCSS Care Food Directory (carefood.org.hk)** — a Hong Kong public-service directory listing every supplier whose products meet IDDSI-aligned standards, organised into five sections (A–E).
 3. **GBA Standards T/SATA 084-2025 and T/SATA 085-2025** — Greater Bay Area technical standards, jointly proposed by HKMA and HKCSS, that codify product specifications, testing, labelling, and safety requirements for care food and elderly-friendly food manufactured or sold across Hong Kong, Macau, and southern mainland China.
 
@@ -99,7 +99,7 @@ If you are caring for someone in Hong Kong who has been told by a doctor or spee
 2. **Decide: ready-meals, home preparation, or both?**
    - **Ready-meals:** Use HKCSS Section A. Filter by the IDDSI level you need. Prices range from about HK$20 per cup for individual mousses up to HK$200+ for premium frozen Japanese soft meals.
    - **Home preparation:** Use HKCSS Section B for thickeners and softeners. Editorial Team's HK$60 / 125 g 清透凝固粉, Nestlé ThickenUP Clear at HK$62–86, and Fresenius Kabi Thick & Easy Clear at about HK$90 are the three transparent (非渾濁) options most commonly used in Hong Kong households.
-3. **Test what you serve.** Don't trust the label or the recipe blindly. Use the IDDSI fork tests every meal (or at least every recipe-batch). See [How to Test Food Texture](../testing/food-texture-testing-methods.md). It takes 30 seconds and catches mistakes.
+3. **Test what you serve.** Don't trust the label or the recipe blindly. Use the IDDSI fork tests every meal (or at least every recipe-batch). See [How to Test Food Texture](/en/testing/food-texture-testing-methods/). It takes 30 seconds and catches mistakes.
 4. **For training:** Section E lists training providers including Editorial Team, YMCA, CUHK Speech Therapy, Po Leung Kuk, Sweet Stories, and The Project Futurus. Classes range from HK$450 per person up to HK$6,000 for a 3-hour group session.
 5. **For hot meal delivery:** Section D operators (鑽記酒家, ASAP/大快活, iBakery 東華三院, Deli-Care 健營, 保良局回味, The Project Futurus, 食得樂 TASTE JOY) deliver IDDSI-aligned meals to homes and care facilities across Hong Kong.
 
@@ -143,7 +143,7 @@ This article paraphrases publicly-available standards documentation. For clinica
 
 ---
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists, listed in the HKCSS Care Food Directory and co-drafter of GBA standards T/SATA 084-2025 and T/SATA 085-2025. Need IDDSI-aligned ready meals, transparent thickeners, or training? [See our range →](https://www.seniordeli.com)
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists, listed in the HKCSS Care Food Directory and co-drafter of GBA standards T/SATA 084-2025 and T/SATA 085-2025. Need IDDSI-aligned ready meals, transparent thickeners, or training? [See our range →](https://www.seniordeli.com)
 
 ---
 

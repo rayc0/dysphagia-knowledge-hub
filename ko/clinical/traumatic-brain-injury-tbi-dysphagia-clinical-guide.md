@@ -85,17 +85,17 @@ TBI 환자는 종종 젊고 대상 능력이 강하기 때문에, 질감 조정�
 
 **1. 기구 검사를 조기에, 그리고 반복적으로.** 의학적으로 안정되고 충분히 각성하면 VFSS 또는 FEES를 시행하고, RLAS 수준이 올라감에 따라 반복합니다. 중환자실과 초조한 환자에서는 FEES가 더 실용적인 경우가 많습니다. 한국에서는 대학병원 재활의학과·이비인후과에서 두 검사 모두 시행 가능하며, 국립재활원과 권역 재활병원이 회복기 평가의 중심입니다.
 
-**2. 진단명이 아니라 기구 검사 소견에 식사를 맞추세요.** IDDSI 레벨은 VFSS/FEES 결과에서 배정됩니다——회복 초기에는 흔히 레벨 5(다진·촉촉한 식사) 또는 레벨 4(퓌레 식사)이며, 삼킴과 인지가 개선되면서 상향 조정합니다. 레벨 정의와 검사 방법은 허브의 [IDDSI 프레임워크 가이드](../iddsi/iddsi-framework-complete-guide.md)를 참조하세요.
+**2. 진단명이 아니라 기구 검사 소견에 식사를 맞추세요.** IDDSI 레벨은 VFSS/FEES 결과에서 배정됩니다——회복 초기에는 흔히 레벨 5(다진·촉촉한 식사) 또는 레벨 4(퓌레 식사)이며, 삼킴과 인지가 개선되면서 상향 조정합니다. 레벨 정의와 검사 방법은 허브의 [IDDSI 프레임워크 가이드](/ko/iddsi/iddsi-framework-complete-guide/)를 참조하세요.
 
 **3. 볼러스뿐 아니라 환경을 관리하세요.** RLAS IV~V 환자에게는: 조용한 방, 최소한의 자극, 한 명의 돌봄 제공자, 한 단계 구어 지시, 작은 식기, 손 닿는 곳에서 음식 아닌 물건 치우기, 충분한 시간 허용. 일관된 RLAS VI까지 감독은 협상 불가입니다.
 
 **4. 행동상 위험 신호를 주시하세요.** 욱여넣기, 음식 훔치기, 너무 빨리 먹기, 앉기 거부, 음식을 입에 물고 있기는 삼킴 문제가 아니라 인지 문제입니다——하지만 질식과 흡인을 유발합니다. 전략: 통제된 배식 제시, 배식 속도 조절, 안전한 경우에만 핑거푸드, 고위험 음식을 절대 손 닿는 곳에 두지 않기.
 
-**5. 기관절개 고려 사항.** 기관절개 튜브는 후두를 고정하고 성문하 감각을 둔화시킵니다; 커프 공기 빼기와 발성 밸브(예: Passy-Muir) 시험은 종종 삼킴 안전을 개선하며 호흡기 팀과 조율해야 합니다. 허브의 [기관절개와 연하장애 가이드](tracheostomy-and-dysphagia-management.md)를 참조하세요.
+**5. 기관절개 고려 사항.** 기관절개 튜브는 후두를 고정하고 성문하 감각을 둔화시킵니다; 커프 공기 빼기와 발성 밸브(예: Passy-Muir) 시험은 종종 삼킴 안전을 개선하며 호흡기 팀과 조율해야 합니다. 허브의 [기관절개와 연하장애 가이드](/ko/clinical/tracheostomy-and-dysphagia-management/)를 참조하세요.
 
 **6. 영양과 수분.** 조기 장내 영양은 장 기능을 보호하고 신경 회복을 지원합니다. 경구 섭취가 재개되면 "안전"과 "충분" 사이의 고전적 간극을 모니터링하세요——환자가 안전하게 삼키면서도 너무 천천히 또는 너무 적게 먹어 필요량을 충족하지 못할 수 있으며, 전환기 동안 보충 경관 영양이 필요할 수 있습니다.
 
-**7. 구강 위생.** 흡인성 폐렴 위험은 구강 세균 부하와 연동됩니다; 체계적 구강 관리는 타인 의존 환자의 폐렴 발생을 줄입니다(Yoneyama 2002 RCT). 허브의 [구강 관리 가이드](../caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention.md)를 참조하세요.
+**7. 구강 위생.** 흡인성 폐렴 위험은 구강 세균 부하와 연동됩니다; 체계적 구강 관리는 타인 의존 환자의 폐렴 발생을 줄입니다(Yoneyama 2002 RCT). 허브의 [구강 관리 가이드](/ko/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention/)를 참조하세요.
 
 ## 흔한 실수 / 함정
 
@@ -128,4 +128,4 @@ TBI 환자는 종종 젊고 대상 능력이 강하기 때문에, 질감 조정�
 
 ---
 
-**Last updated:** 2026-10-23 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-10-23 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

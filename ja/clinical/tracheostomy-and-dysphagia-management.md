@@ -94,15 +94,15 @@ MDT アプローチ（医師、STS、呼吸療法士、看護師、リハ医）�
 
 ### 経管栄養との併用
 
-気管切開患者の多くは経管栄養（経鼻胃管、胃瘻 PEG）を併用しています。経管栄養中も嚥下リハビリ（間接訓練：頚部アイソメトリック訓練、メンデルソン手技、シャキア訓練）を継続し、抜管と経口摂取再開を目指します（[嚥下リハビリ運動療法ガイド](./swallowing-therapy-exercises.md) 参照）。
+気管切開患者の多くは経管栄養（経鼻胃管、胃瘻 PEG）を併用しています。経管栄養中も嚥下リハビリ（間接訓練：頚部アイソメトリック訓練、メンデルソン手技、シャキア訓練）を継続し、抜管と経口摂取再開を目指します（[嚥下リハビリ運動療法ガイド](/ja/clinical/swallowing-therapy-exercises/) 参照）。
 
 ### IDDSI に基づく経口摂取の段階的進め方
 
-抜管後または PMV 装着下で経口摂取を再開する場合、**IDDSI Level 3（中間のとろみ）→ Level 4（ピューレ）→ Level 5（きざみとろみ）→ Level 6（ソフト食）** の順で段階的に進めます。日本の嚥下調整食分類 2021 では、コード 1j〜4 に対応します（[JSDR vs IDDSI マッピング](../standards/jsdr-vs-iddsi-mapping.md) 参照）。
+抜管後または PMV 装着下で経口摂取を再開する場合、**IDDSI Level 3（中間のとろみ）→ Level 4（ピューレ）→ Level 5（きざみとろみ）→ Level 6（ソフト食）** の順で段階的に進めます。日本の嚥下調整食分類 2021 では、コード 1j〜4 に対応します（[JSDR vs IDDSI マッピング](/ja/standards/jsdr-vs-iddsi-mapping/) 参照）。
 
 ### 口腔ケアの徹底
 
-気管切開患者は口呼吸による口腔乾燥、誤嚥性肺炎のリスクが特に高く、**1 日 3 回以上の徹底した口腔ケア**が誤嚥性肺炎発生率を有意に下げます（Yoneyama 2002 RCT）。具体的な手順は [口腔ケアと誤嚥性肺炎予防](../caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention.md) を参照してください。
+気管切開患者は口呼吸による口腔乾燥、誤嚥性肺炎のリスクが特に高く、**1 日 3 回以上の徹底した口腔ケア**が誤嚥性肺炎発生率を有意に下げます（Yoneyama 2002 RCT）。具体的な手順は [口腔ケアと誤嚥性肺炎予防](/ja/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention/) を参照してください。
 
 ## よくある誤り・落とし穴
 
@@ -129,4 +129,4 @@ MDT アプローチ（医師、STS、呼吸療法士、看護師、リハ医）�
 
 ---
 
-**最終更新日:** 2026-04-20 · **ライセンス:** [CC BY 4.0](../../LICENSE) · **運営: [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 香港の社会的企業として、嚥下障害のある方向けに IDDSI 対応のケアフードを製造しています。本ページは教育目的のみ。法人のお問い合わせは hello@seniordeli.com まで。
+**最終更新日:** 2026-04-20 · **ライセンス:** [CC BY 4.0](/LICENSE) · **運営: [SeniorDeli (Carewells)](https://www.seniordeli.com)** — 香港の社会的企業として、嚥下障害のある方向けに IDDSI 対応のケアフードを製造しています。本ページは教育目的のみ。法人のお問い合わせは hello@seniordeli.com まで。

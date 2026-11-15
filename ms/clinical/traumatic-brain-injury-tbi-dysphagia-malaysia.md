@@ -90,7 +90,7 @@ Ventilasi atau trakeostomi kadang-kadang merupakan penanda penyakit lebih teruk,
 
 Klinisi memilih tahap **International Dysphagia Diet Standardisation Initiative (IDDSI)** berdasarkan keupayaan sebenar. Pada fasa awal, pesakit mungkin memerlukan Tahap 5 — cincang dan lembap — atau Tahap 4 — puré — kemudian meningkat tahap apabila fungsi menelan dan kognitif pulih. Kepekatan minuman ditentukan secara berasingan; pemekat tidak diberikan secara automatik kepada semua pesakit kerana ia boleh mengurangkan pengambilan cecair dan kualiti hidup jika tidak diperlukan [2,13].
 
-Makanan Malaysia boleh disesuaikan, contohnya bubur nasi yang dikisar homogen, telur kukus lembut, tauhu, labu lenyek atau ikan kukus dicincang halus dan dicampur kuah mengikut tahap yang disyorkan. Kelembutan, kelembapan, saiz zarah dan pemisahan cecair perlu diuji menggunakan kaedah IDDSI; nama “bubur”, “lembut” atau “kisar” sahaja tidak menentukan tahapnya. Lihat [panduan rangka kerja IDDSI](../iddsi/iddsi-framework-complete-guide.md) [13].
+Makanan Malaysia boleh disesuaikan, contohnya bubur nasi yang dikisar homogen, telur kukus lembut, tauhu, labu lenyek atau ikan kukus dicincang halus dan dicampur kuah mengikut tahap yang disyorkan. Kelembutan, kelembapan, saiz zarah dan pemisahan cecair perlu diuji menggunakan kaedah IDDSI; nama “bubur”, “lembut” atau “kisar” sahaja tidak menentukan tahapnya. Lihat [panduan rangka kerja IDDSI](/ms/iddsi/iddsi-framework-complete-guide/) [13].
 
 ### 2. Urus persekitaran mengikut keupayaan kognitif
 
@@ -108,7 +108,7 @@ Pesakit mungkin dibenarkan makan secara oral tetapi makan terlalu perlahan, cepa
 
 ### 5. Jaga mulut dan buat penilaian semula
 
-Kebersihan gigi dan mulut mengurangkan beban bakteria yang boleh terbawa ke paru-paru apabila aspirasi berlaku. Percubaan rawak Yoneyama dan rakan penyelidik (2002) pada warga emas yang bergantung pada penjagaan menunjukkan penjagaan mulut mengurangkan kejadian pneumonia. Gosok gigi dan bersihkan mulut mengikut pelan, termasuk apabila pesakit belum makan secara oral [12]. Rujuk [panduan penjagaan mulut untuk pesakit disfagia](../caregiving/penjagaan-mulut-pesakit-disfagia.md).
+Kebersihan gigi dan mulut mengurangkan beban bakteria yang boleh terbawa ke paru-paru apabila aspirasi berlaku. Percubaan rawak Yoneyama dan rakan penyelidik (2002) pada warga emas yang bergantung pada penjagaan menunjukkan penjagaan mulut mengurangkan kejadian pneumonia. Gosok gigi dan bersihkan mulut mengikut pelan, termasuk apabila pesakit belum makan secara oral [12]. Rujuk [panduan penjagaan mulut untuk pesakit disfagia](/ms/caregiving/penjagaan-mulut-pesakit-disfagia/).
 
 ## Mendapatkan penjagaan di Malaysia
 
@@ -153,4 +153,4 @@ Artikel ini memparafrasakan penyelidikan dan panduan klinikal yang tersedia seca
 
 ---
 
-**Kemas kini terakhir:** 2026-10-25 · **Lesen:** [CC BY 4.0](../../LICENSE) · **Diselenggara oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk orang yang hidup dengan disfagia. Halaman ini adalah pendidikan sahaja; lihat [About](/about) untuk rakan kongsi klinikal dan misi sosial kami.
+**Kemas kini terakhir:** 2026-10-25 · **Lesen:** [CC BY 4.0](/LICENSE) · **Diselenggara oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah perusahaan sosial Hong Kong yang menghasilkan makanan penjagaan patuh IDDSI untuk orang yang hidup dengan disfagia. Halaman ini adalah pendidikan sahaja; lihat [About](/about) untuk rakan kongsi klinikal dan misi sosial kami.

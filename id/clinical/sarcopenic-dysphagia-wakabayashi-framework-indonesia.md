@@ -289,4 +289,4 @@ Artikel ini merangkum bukti ilmiah yang tersedia secara publik mengenai disfagia
 
 ---
 
-**Terakhir diperbarui:** 2026-04-23 · **Lisensi:** [CC BY 4.0](../../LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah social enterprise Hong Kong yang memproduksi makanan berstandar IDDSI untuk penderita disfagia. Halaman ini bersifat edukatif; lihat [About](/about) untuk mitra klinis dan misi sosial kami.
+**Terakhir diperbarui:** 2026-04-23 · **Lisensi:** [CC BY 4.0](/LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah social enterprise Hong Kong yang memproduksi makanan berstandar IDDSI untuk penderita disfagia. Halaman ini bersifat edukatif; lihat [About](/about) untuk mitra klinis dan misi sosial kami.

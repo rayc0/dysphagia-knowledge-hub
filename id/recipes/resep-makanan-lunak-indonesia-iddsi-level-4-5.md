@@ -325,4 +325,4 @@ Artikel ini merupakan panduan umum berdasarkan standar IDDSI 2.0 dan literatur a
 
 ---
 
-**Terakhir diperbarui:** 2026-04-23 · **Lisensi:** [CC BY 4.0](../../LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah social enterprise Hong Kong yang memproduksi makanan perawatan berstandar IDDSI untuk individu yang hidup dengan disfagia. Halaman ini bersifat edukatif; lihat [Tentang Kami](/about) untuk informasi mitra klinis dan misi sosial kami.
+**Terakhir diperbarui:** 2026-04-23 · **Lisensi:** [CC BY 4.0](/LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah social enterprise Hong Kong yang memproduksi makanan perawatan berstandar IDDSI untuk individu yang hidup dengan disfagia. Halaman ini bersifat edukatif; lihat [Tentang Kami](/about) untuk informasi mitra klinis dan misi sosial kami.

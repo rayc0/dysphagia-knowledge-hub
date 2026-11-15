@@ -86,7 +86,7 @@ canonical: "https://softmeal.org/th/clinical/parkinsons-disease-and-dysphagia-th
 3. **Spoon Tilt Test** — อาหาร Level 5 ต้องเคลื่อนจากช้อนเป็นก้อน ไม่ติดช้อน
 4. **Flow Test** — ของเหลว Level 1–3 ใช้ syringe 10 มล. วัดปริมาณที่ไหลออกใน 10 วินาที
 
-ดูรายละเอียดใน [คู่มือทดสอบเนื้อสัมผัสอาหารที่บ้าน](./iddsi-home-texture-testing-thailand.md) ของเรา
+ดูรายละเอียดใน [คู่มือทดสอบเนื้อสัมผัสอาหารที่บ้าน](/th/testing/iddsi-home-texture-testing-thailand/) ของเรา
 
 ## กลยุทธ์ในการกินอาหารอย่างปลอดภัย
 
@@ -176,4 +176,4 @@ canonical: "https://softmeal.org/th/clinical/parkinsons-disease-and-dysphagia-th
 
 ---
 
-**ปรับปรุงล่าสุด:** 2026-04-19 · **สัญญาอนุญาต:** [CC BY 4.0](../../LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมในฮ่องกงที่ผลิตอาหารสำหรับผู้ป่วยกลืนลำบากตามมาตรฐาน IDDSI ติดต่อธุรกิจ: hello@seniordeli.com บทความนี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้น
+**ปรับปรุงล่าสุด:** 2026-04-19 · **สัญญาอนุญาต:** [CC BY 4.0](/LICENSE) · **ดูแลโดย [SeniorDeli (Carewells)](https://www.seniordeli.com)** — วิสาหกิจเพื่อสังคมในฮ่องกงที่ผลิตอาหารสำหรับผู้ป่วยกลืนลำบากตามมาตรฐาน IDDSI ติดต่อธุรกิจ: hello@seniordeli.com บทความนี้มีวัตถุประสงค์เพื่อการศึกษาเท่านั้น

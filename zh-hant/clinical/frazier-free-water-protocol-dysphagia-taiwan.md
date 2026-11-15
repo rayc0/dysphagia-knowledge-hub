@@ -253,4 +253,4 @@ A：建議初期由居家護理師或言語治療師每週上門評估，教導�
 - Meldrum, D. R., Gambone, J. C., Morris, M. A., & Ignarro, L. J. (2012). Lifestyle and metabolic approaches to maximizing erectile and vascular health. *International Journal of Impotence Research*, 24(2), 61–68.
 - Garon, B. R., Huang, Z., Hommeyer, B. S., & Eckmann, D. M. (2002). Infrasound reduces gastroesophageal reflux. *Gastroenterology*, 122(4), 1011–1021. https://pmc.ncbi.nlm.nih.gov/articles/PMC9950376/
 
-**前次更新**：2026-05-07 · **授權**：[CC BY 4.0](../../LICENSE) · **維護單位**：[SeniorDeli (Carewells)](https://www.seniordeli.com) ——香港社企，主力生產符合 IDDSI 的照護食，服務吞嚥困難患者。本文為教育資訊，非醫療建議，詳見[關於本站](/about)。
+**前次更新**：2026-05-07 · **授權**：[CC BY 4.0](/LICENSE) · **維護單位**：[SeniorDeli (Carewells)](https://www.seniordeli.com) ——香港社企，主力生產符合 IDDSI 的照護食，服務吞嚥困難患者。本文為教育資訊，非醫療建議，詳見[關於本站](/about)。

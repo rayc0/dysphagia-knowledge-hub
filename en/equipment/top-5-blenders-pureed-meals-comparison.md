@@ -13,7 +13,7 @@ canonical: "https://softmeal.org/en/equipment/top-5-blenders-pureed-meals-compar
 
 > **TL;DR:** A Vitamix A3500 or Blendtec 725 will produce IDDSI Level 4 purées in 60–90 seconds with no sieving needed. A Thermomix TM6 wins on workflow because you cook and blend in one bowl. A Philips ProBlend is the best value for single-patient home kitchens. A Ninja Professional Plus can work if you pre-cook thoroughly and sieve — but only that. This article scores all five side-by-side against the clinical requirements of texture-modified diets.
 
-This is a narrower, scoring-based companion to our broader [Blenders for Dysphagia Texture Modification buyer's guide](./blenders-for-texture-modification.md). Here we pick five specific models across the 2026 market, put them through the same clinical filter, and rank them by the metrics that actually matter for a household or care home producing puréed meals every day.
+This is a narrower, scoring-based companion to our broader [Blenders for Dysphagia Texture Modification buyer's guide](/en/equipment/blenders-for-texture-modification/). Here we pick five specific models across the 2026 market, put them through the same clinical filter, and rank them by the metrics that actually matter for a household or care home producing puréed meals every day.
 
 ## Why "top 5" — and why these five
 
@@ -33,7 +33,7 @@ The five:
 
 We use a five-dimension scorecard, scored 1–5 on each axis.
 
-- **Smoothness (S)** — can it produce an IDDSI Level 4 purée from cooked chicken breast + broccoli + rice in 90 seconds or less, passing both fork-drip and spoon-tilt tests as described in the [IDDSI Framework 2.0](../iddsi/iddsi-framework-complete-guide.md)?
+- **Smoothness (S)** — can it produce an IDDSI Level 4 purée from cooked chicken breast + broccoli + rice in 90 seconds or less, passing both fork-drip and spoon-tilt tests as described in the [IDDSI Framework 2.0](/en/iddsi/iddsi-framework-complete-guide/)?
 - **Torque under load (T)** — does it maintain blade speed when blending a dense load (≥500 ml of cooked protein + starch), or does rpm visibly drop?
 - **Workflow (W)** — how many steps between "cooked food in pot" and "plated purée"? Lower is better.
 - **Noise (N)** — measured at operator position, running at full speed. Below 80 dB = 5, above 95 dB = 1.
@@ -121,12 +121,12 @@ Purchase price is only part of the picture. A motor that burns out at 18 months 
 
 **Family already owning a Ninja, newly diagnosed dysphagia:** Bridge with the Ninja while cooking proteins 50% longer and sieving; plan to upgrade within 12 months.
 
-**Tube-feeding family preparing [blended diets](./feeding-tubes-and-enteral-nutrition-equipment-guide.md):** Vitamix A3500 — smooth enough to pass through a 14 Fr tube without clogging.
+**Tube-feeding family preparing [blended diets](/en/equipment/feeding-tubes-and-enteral-nutrition-equipment-guide/):** Vitamix A3500 — smooth enough to pass through a 14 Fr tube without clogging.
 
 ## Common mistakes
 
 1. **Buying on peak wattage.** "1,500 W peak" from a supermarket brand often means 400 W rated under load. Look up rated wattage, not peak.
-2. **Assuming any blender can do IDDSI Level 3.** Level 3 (Liquidised) requires a precise flow-rate match — many machines overshoot to a Level 2 consistency. You will still need a [commercial thickener](./choosing-a-thickener.md) to dial back to Level 3.
+2. **Assuming any blender can do IDDSI Level 3.** Level 3 (Liquidised) requires a precise flow-rate match — many machines overshoot to a Level 2 consistency. You will still need a [commercial thickener](/en/equipment/choosing-a-thickener/) to dial back to Level 3.
 3. **Skipping the sieve on a mid-range blender.** Philips, Braun, Panasonic mid-range units produce *almost* smooth purées. The residual 2% of fibre is the exact portion that causes aspiration events. Always sieve.
 4. **Using a food processor where a blender is needed.** Food processors chop; blenders liquefy. A Cuisinart DLC-10S is the right tool for Level 5 and Level 6, but not for Level 4.
 5. **Not budgeting replacement cycles.** Consumer-grade blenders last 2–3 years in daily dysphagia use. Factor replacement cost into the purchase decision.
@@ -147,4 +147,4 @@ This article paraphrases publicly-available specifications and the IDDSI Framewo
 
 ---
 
-**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Institutional trade enquiries: hello@seniordeli.com.
+**Last updated:** 2026-04-17 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission. Institutional trade enquiries: hello@seniordeli.com.

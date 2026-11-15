@@ -151,11 +151,11 @@ IDDSI ออกแบบการทดสอบที่ใช้อุปก�
 
 ## ทรัพยากรเพิ่มเติม
 
-- [คู่มือ IDDSI ฉบับไทย — มาตรฐาน 8 ระดับ](../iddsi/iddsi-framework-complete-guide.md)
-- [คู่มือ IDDSI ระดับ 4 — อาหารบด](../iddsi/iddsi-level-4-pureed-complete-guide-thailand.md)
-- [คู่มือ IDDSI ระดับ 5 — อาหารสับละเอียดและชุ่มชื้น](../iddsi/iddsi-level-5-minced-moist-complete-guide-thailand.md)
-- [วิธีทดสอบเนื้อสัมผัสอาหารที่บ้านตามมาตรฐาน IDDSI](../testing/iddsi-home-texture-testing-thailand.md)
-- [สัญญาณเตือนภาวะกลืนลำบาก — คู่มือฉบับครอบครัวและผู้ดูแล](../caregiving/dysphagia-warning-signs-family-caregivers-thailand.md)
+- [คู่มือ IDDSI ฉบับไทย — มาตรฐาน 8 ระดับ](/th/iddsi/iddsi-framework-complete-guide/)
+- [คู่มือ IDDSI ระดับ 4 — อาหารบด](/th/iddsi/iddsi-level-4-pureed-complete-guide-thailand/)
+- [คู่มือ IDDSI ระดับ 5 — อาหารสับละเอียดและชุ่มชื้น](/th/iddsi/iddsi-level-5-minced-moist-complete-guide-thailand/)
+- [วิธีทดสอบเนื้อสัมผัสอาหารที่บ้านตามมาตรฐาน IDDSI](/th/testing/iddsi-home-texture-testing-thailand/)
+- [สัญญาณเตือนภาวะกลืนลำบาก — คู่มือฉบับครอบครัวและผู้ดูแล](/th/caregiving/dysphagia-warning-signs-family-caregivers-thailand/)
 
 ## Citations and sources
 
@@ -172,4 +172,4 @@ This article paraphrases publicly-available IDDSI 2.0 framework documentation. F
 
 ---
 
-**Last updated:** 2026-04-20 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade enquiries: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-20 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade enquiries: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.

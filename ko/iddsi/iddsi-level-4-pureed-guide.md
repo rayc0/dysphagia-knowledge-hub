@@ -287,7 +287,7 @@ IDDSI 레벨 4(퓨레상)는 국제 기준에서 가장 엄밀하게 정의된 �
 
 ## 관련 문서
 
-- [IDDSI 프레임워크 완전 가이드 — 한국 연하장애 환자를 위한 국제 식이 기준](./iddsi-framework-complete-guide.md)
+- [IDDSI 프레임워크 완전 가이드 — 한국 연하장애 환자를 위한 국제 식이 기준](/ko/iddsi/iddsi-framework-complete-guide/)
 
 ---
 
@@ -307,8 +307,7 @@ IDDSI 레벨 4(퓨레상)는 국제 기준에서 가장 엄밀하게 정의된 �
 >
 > 가정에서 매일 퓨레 식이를 준비하는 것은 시간과 기술이 필요합니다. **softmeal.org**에서는 IDDSI 레벨 4 기준을 충족하는 제품을 엄선하여 소개합니다. 홍콩·대만의 인증 제조사 제품을 포함하며, 포크 드립 테스트 및 스푼 틸트 테스트를 통해 검증합니다.
 >
-> [softmeal.org에서 레벨 4 제품 보기](https://softmeal.org/products/iddsi-level-4)
 
 ---
 
-**최종 업데이트:** 2026-04-18 · **라이선스:** [CC BY 4.0](../../LICENSE) · **제공: [Editorial Team](https://www.seniordeli.com)** — the editorial team AI가 편집 감수 아래 작성한 콘텐츠입니다.
+**최종 업데이트:** 2026-04-18 · **라이선스:** [CC BY 4.0](/LICENSE) · **제공: [Editorial Team](https://www.seniordeli.com)** — the editorial team AI가 편집 감수 아래 작성한 콘텐츠입니다.

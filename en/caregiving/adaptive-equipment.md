@@ -145,4 +145,4 @@ One-way valve straws (also called "check valve straws") have a small valve at th
 4. **Weighted cutlery helps tremor** but requires a proper grip; trial before purchasing a full set.
 5. **Suction bases and Dycem mats** are low-cost, high-impact interventions for one-handed patients.
 
-For IDDSI food texture levels and texture preparation guidance, see the [IDDSI Compliance Audit Checklist](./iddsi-compliance-audit-care-homes-checklist.md) and [Mealtime Positioning Protocol](./mealtime-positioning-protocol.md) in this resource hub.
+For IDDSI food texture levels and texture preparation guidance, see the [IDDSI Compliance Audit Checklist](/en/caregiving/iddsi-compliance-audit-care-homes-checklist/) and [Mealtime Positioning Protocol](/en/caregiving/mealtime-positioning-protocol/) in this resource hub.

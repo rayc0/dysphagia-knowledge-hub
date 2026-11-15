@@ -217,4 +217,4 @@ Ang dysphagia + mainit na klima = **very high dehydration risk**. Bakit?
 
 ---
 
-**Last updated:** 2026-05-20 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; consult your speech-language pathologist or registered dietitian for personalized nutrition advice specific to your condition. This is **not** medical advice.
+**Last updated:** 2026-05-20 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [SeniorDeli (Carewells)](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; consult your speech-language pathologist or registered dietitian for personalized nutrition advice specific to your condition. This is **not** medical advice.

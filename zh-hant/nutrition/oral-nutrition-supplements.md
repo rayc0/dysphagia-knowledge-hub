@@ -132,7 +132,7 @@ ONS作為加餐（between-meal supplement）效果優於隨正餐服用——加
 
 對吞嚥障礙患者而言，ONS是預防及治療營養不良的重要工具，但**選擇正確產品並確保適當黏度**是安全使用的前提。建議由言語治療師確認吞嚥安全等級、營養師評估熱量及蛋白質需求後，共同制定個人化ONS計劃。
 
-> **相關資源：** [增稠劑完全指南](./thickener-guide.md) | [蛋白質攝取優化](./protein-optimization.md) | [水分管理](./hydration-management.md)
+> **相關資源：** [增稠劑完全指南](/zh-hant/nutrition/thickener-guide/) | [蛋白質攝取優化](/zh-hant/nutrition/protein-optimization/) | [水分管理](/zh-hant/nutrition/hydration-management/)
 
 ---
 
@@ -149,4 +149,4 @@ ONS作為加餐（between-meal supplement）效果優於隨正餐服用——加
 
 ---
 
-**最後更新：** 2026-04-18 · **授權：** [CC BY 4.0](../../LICENSE) · **維護單位：[Editorial Team](https://www.seniordeli.com)** — 香港社會企業，生產符合IDDSI標準的適老食品，致力改善吞嚥障礙患者的飲食安全與生活質量。本頁面為教育性內容；詳見 [About](/about) 了解我們的臨床合作夥伴與社會使命。
+**最後更新：** 2026-04-18 · **授權：** [CC BY 4.0](/LICENSE) · **維護單位：[Editorial Team](https://www.seniordeli.com)** — 香港社會企業，生產符合IDDSI標準的適老食品，致力改善吞嚥障礙患者的飲食安全與生活質量。本頁面為教育性內容；詳見 [About](/about) 了解我們的臨床合作夥伴與社會使命。

@@ -297,4 +297,4 @@ Vệ sinh răng miệng không phải là "phần trang điểm" — đây là b
 
 ---
 
-**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](../../LICENSE) · **Biên soạn bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — doanh nghiệp xã hội Hồng Kông sản xuất thực phẩm tuân thủ chuẩn IDDSI cho người rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [Giới thiệu](/about) để biết thêm về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi. Liên hệ hợp tác: hello@seniordeli.com
+**Cập nhật lần cuối:** 2026-04-21 · **Giấy phép:** [CC BY 4.0](/LICENSE) · **Biên soạn bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — doanh nghiệp xã hội Hồng Kông sản xuất thực phẩm tuân thủ chuẩn IDDSI cho người rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [Giới thiệu](/about) để biết thêm về đối tác lâm sàng và sứ mệnh xã hội của chúng tôi. Liên hệ hợp tác: hello@seniordeli.com

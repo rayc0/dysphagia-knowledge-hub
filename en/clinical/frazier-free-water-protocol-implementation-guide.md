@@ -36,7 +36,7 @@ Subsequent studies have added nuance:
 
 The honest summary: the evidence is **low-to-moderate quality but consistent**. Across studies that follow a protocolised approach, aspiration pneumonia rates do not rise. Most reported failures trace back not to the act of drinking water, but to **breakdowns in oral care, candidate selection, or timing rules**.
 
-For a deeper discussion of why thickened fluids alone often fall short — and the broader controversy that frames this protocol — see our companion article on the [thickened fluids controversy and evidence review](/en/clinical/thickened-fluids-controversy-evidence-review.html).
+For a deeper discussion of why thickened fluids alone often fall short — and the broader controversy that frames this protocol — see our companion article on the [thickened fluids controversy and evidence review](/en/clinical/thickened-fluids-controversy-evidence-review/).
 
 ## Who Is a Candidate? Inclusion Criteria
 
@@ -66,7 +66,7 @@ The exclusion list matters more than the inclusion list. Most documented adverse
 - **Inability to sit upright** to at least 60–90° during and for ≥ 30 minutes after drinking.
 - **Strong, exhausting cough response to small water trials** during assessment, suggesting laryngeal vulnerability.
 
-In practice, this means many patients with stroke or post-surgical dysphagia in the rehabilitation phase qualify; many patients in late-stage dementia, advanced ALS, or active ICU illness do not. Decisions in head and neck cancer survivorship are nuanced and should be individualised — see our [head and neck cancer dysphagia rehabilitation guide](/en/clinical/head-and-neck-cancer-dysphagia-rehabilitation.html) for context.
+In practice, this means many patients with stroke or post-surgical dysphagia in the rehabilitation phase qualify; many patients in late-stage dementia, advanced ALS, or active ICU illness do not. Decisions in head and neck cancer survivorship are nuanced and should be individualised — see our [head and neck cancer dysphagia rehabilitation guide](/en/clinical/head-and-neck-cancer-dysphagia-rehabilitation/) for context.
 
 ## The Four Pillars of Safe Implementation
 
@@ -85,7 +85,7 @@ A typical oral care regimen for FFWP patients:
 - **Suction-toothbrush systems** for patients with poor secretion management or reduced cooperation.
 - **Oral care completed *before* the first water intake of the day** and after meals.
 
-For caregivers, our [oral care for dysphagia and aspiration pneumonia prevention guide](/en/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention.html) covers technique in depth.
+For caregivers, our [oral care for dysphagia and aspiration pneumonia prevention guide](/en/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention/) covers technique in depth.
 
 ### Pillar 2 — Strict Timing Rules
 
@@ -95,11 +95,11 @@ The classic Frazier rule: **water is allowed *between* meals, never *during* mea
 - Aspirated water in that environment is no longer "clean water" — it carries bacteria into the lungs.
 - A 30-minute post-meal pause allows clearance of food residue and saliva.
 
-Medications are usually given with thickened fluids or food, *not* with free water, unless specifically permitted by the SLP and physician. See our [medication administration in dysphagia guide](/en/caregiving/medication-administration-in-dysphagia-guide.html) for safe approaches.
+Medications are usually given with thickened fluids or food, *not* with free water, unless specifically permitted by the SLP and physician. See our [medication administration in dysphagia guide](/en/caregiving/medication-administration-in-dysphagia-guide/) for safe approaches.
 
 ### Pillar 3 — Upright Positioning
 
-All free water intake occurs with the patient seated at **90° upright**, head in midline, chin in a neutral or slightly tucked position as recommended by the SLP. Patients should remain upright for **at least 30 minutes** after drinking. This is identical to the positioning rules for safer mealtimes — covered in detail in our [mealtime positioning protocol](/en/caregiving/mealtime-positioning-protocol.html).
+All free water intake occurs with the patient seated at **90° upright**, head in midline, chin in a neutral or slightly tucked position as recommended by the SLP. Patients should remain upright for **at least 30 minutes** after drinking. This is identical to the positioning rules for safer mealtimes — covered in detail in our [mealtime positioning protocol](/en/caregiving/mealtime-positioning-protocol/).
 
 ### Pillar 4 — Plain Water Only
 
@@ -151,9 +151,9 @@ A patient who develops a new fever, productive cough, hypoxia, or infiltrate sho
 
 **Acute stroke unit.** Implementation here is most controversial. The 2025 systematic review highlighted that staff in many UK and European acute stroke units remain reluctant due to the unpredictable course of acute stroke, fluctuating cognition, and high turnover of medical decision-makers. Where used, it is typically introduced *after* the first 48–72 hours of stabilisation, in patients who have demonstrated reactive cough on water trials and stable consciousness.
 
-**Inpatient rehabilitation.** This is the original setting and the strongest evidence base. Patients are medically stable, motivated, and cognitively engaged in goal-directed therapy. FFWP integrates well with the broader [swallowing therapy exercise programme](/en/clinical/swallowing-therapy-exercises.html) — water trials become both rehydration and graded swallow exposure.
+**Inpatient rehabilitation.** This is the original setting and the strongest evidence base. Patients are medically stable, motivated, and cognitively engaged in goal-directed therapy. FFWP integrates well with the broader [swallowing therapy exercise programme](/en/clinical/swallowing-therapy-exercises/) — water trials become both rehydration and graded swallow exposure.
 
-**Long-term care (care homes).** Implementation here is rewarding but operationally hard. Staffing ratios, dementia prevalence, and oral-care compliance are all challenges. Facilities that succeed typically appoint an SLP or dysphagia nurse champion, provide structured oral-care competency training, and audit adherence quarterly. Our [IDDSI compliance audit checklist for care homes](/en/caregiving/iddsi-compliance-audit-care-homes-checklist.html) can be adapted to include FFWP audit items.
+**Long-term care (care homes).** Implementation here is rewarding but operationally hard. Staffing ratios, dementia prevalence, and oral-care compliance are all challenges. Facilities that succeed typically appoint an SLP or dysphagia nurse champion, provide structured oral-care competency training, and audit adherence quarterly. Our [IDDSI compliance audit checklist for care homes](/en/caregiving/iddsi-compliance-audit-care-homes-checklist/) can be adapted to include FFWP audit items.
 
 **Home and family caregiving.** The protocol can be implemented at home for the right patient, but it requires the family caregiver to internalise all four pillars and to communicate clearly with the SLP. Caregivers should never start FFWP unilaterally — it should be a written, shared plan with the clinical team.
 
@@ -190,11 +190,11 @@ If you are considering whether the FFWP is right for you or someone you care for
 
 **Related reading:**
 
-- [Thickened Fluids Controversy: Evidence Review](/en/clinical/thickened-fluids-controversy-evidence-review.html)
-- [Hydration Strategies for Dysphagia Patients](/en/nutrition/hydration-strategies-for-dysphagia-patients.html)
-- [Oral Care for Dysphagia and Aspiration Pneumonia Prevention](/en/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention.html)
-- [Mealtime Positioning Protocol](/en/caregiving/mealtime-positioning-protocol.html)
-- [Aspiration Pneumonia Prevention](/en/clinical/aspiration-pneumonia-prevention.html)
-- [Swallowing Therapy Exercises](/en/clinical/swallowing-therapy-exercises.html)
+- [Thickened Fluids Controversy: Evidence Review](/en/clinical/thickened-fluids-controversy-evidence-review/)
+- [Hydration Strategies for Dysphagia Patients](/en/nutrition/hydration-strategies-for-dysphagia-patients/)
+- [Oral Care for Dysphagia and Aspiration Pneumonia Prevention](/en/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention/)
+- [Mealtime Positioning Protocol](/en/caregiving/mealtime-positioning-protocol/)
+- [Aspiration Pneumonia Prevention](/en/clinical/aspiration-pneumonia-prevention/)
+- [Swallowing Therapy Exercises](/en/clinical/swallowing-therapy-exercises/)
 
 **Disclaimer:** This article is educational and does not replace individualised clinical assessment. The Frazier Free Water Protocol must be initiated and supervised by a qualified speech-language pathologist working with the patient's medical team.

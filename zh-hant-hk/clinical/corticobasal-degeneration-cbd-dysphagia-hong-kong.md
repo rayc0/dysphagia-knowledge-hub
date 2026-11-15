@@ -154,4 +154,4 @@ CBS／CBD 在 VFSS 的特徵與 PSP 有細微分別：
 
 ---
 
-**最後更新：** 2026-10-14 · **授權：** [CC BY 4.0](../../LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護** — 香港社會企業，為吞嚥困難人士生產符合 IDDSI 標準的護理食品。本頁僅作教育用途；臨床合作夥伴及社會使命請參閱 [About](/about)。
+**最後更新：** 2026-10-14 · **授權：** [CC BY 4.0](/LICENSE) · **由 [SeniorDeli (Carewells)](https://www.seniordeli.com) 維護** — 香港社會企業，為吞嚥困難人士生產符合 IDDSI 標準的護理食品。本頁僅作教育用途；臨床合作夥伴及社會使命請參閱 [About](/about)。

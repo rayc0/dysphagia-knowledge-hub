@@ -286,4 +286,4 @@ IDDSI Level 7 adalah dua tahap terakhir rehabilitasi menelan:
 
 ---
 
-**Terakhir diperbarui:** 2026-05-01 · **Lisensi:** [CC BY 4.0](../../LICENSE) · **Dirawat oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah social enterprise Hong Kong yang memproduksi makanan perawatan sesuai standar IDDSI untuk pasien disfagia. Halaman ini bersifat edukatif saja; lihat [Tentang Kami](/about) untuk mitra klinis dan misi sosial kami.
+**Terakhir diperbarui:** 2026-05-01 · **Lisensi:** [CC BY 4.0](/LICENSE) · **Dirawat oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah social enterprise Hong Kong yang memproduksi makanan perawatan sesuai standar IDDSI untuk pasien disfagia. Halaman ini bersifat edukatif saja; lihat [Tentang Kami](/about) untuk mitra klinis dan misi sosial kami.

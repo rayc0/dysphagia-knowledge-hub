@@ -131,7 +131,7 @@ Passy-Muir Valve（PMV）是一种**单向阀门**：吸气时开放，呼气时
 - 体重及进食量维持
 - 患者可接受，疲劳程度可控
 
-（参阅本站：[IDDSI 国际吞咽障碍饮食标准——完整介绍](../iddsi/iddsi-framework-complete-guide.md)）
+（参阅本站：[IDDSI 国际吞咽障碍饮食标准——完整介绍](/zh-hans/iddsi/iddsi-framework-complete-guide/)）
 
 ## 国内气切照护的在地语境
 
@@ -192,4 +192,4 @@ Passy-Muir Valve（PMV）是一种**单向阀门**：吸气时开放，呼气时
 
 ---
 
-**最后更新：** 2026-04-20 · **授权：** [CC BY 4.0](../../LICENSE) · **维护者：[SeniorDeli (Carewells)](https://www.seniordeli.com)** — 一家位于香港的社会企业，专注于制作符合 IDDSI 标准的照护食品，服务吞咽困难人群。本页为教育用途；详见 [关于我们](/about) 了解我们的临床合作伙伴与社会使命。商务咨询：hello@seniordeli.com
+**最后更新：** 2026-04-20 · **授权：** [CC BY 4.0](/LICENSE) · **维护者：[SeniorDeli (Carewells)](https://www.seniordeli.com)** — 一家位于香港的社会企业，专注于制作符合 IDDSI 标准的照护食品，服务吞咽困难人群。本页为教育用途；详见 [关于我们](/about) 了解我们的临床合作伙伴与社会使命。商务咨询：hello@seniordeli.com

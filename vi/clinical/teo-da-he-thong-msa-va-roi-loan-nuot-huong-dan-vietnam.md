@@ -119,7 +119,7 @@ Vì không có thuốc đảo ngược rối loạn nuốt do MSA, quản lý ma
 **Cân nhắc thuốc:**
 
 - **Thử levodopa** vẫn được khuyến nghị ở MSA — tới khoảng 30% bệnh nhân có lợi ích vận động nào đó, và nghiệm pháp FEES–levodopa có cấu trúc có thể cho thấy nuốt có cải thiện khi dùng thuốc hay không.
-- Rà soát toàn bộ danh sách thuốc với bác sĩ thần kinh: thuốc an thần và kháng cholinergic (thường kê cho triệu chứng bàng quang và chảy nước bọt của MSA) có thể làm nuốt nặng hơn và gây khô miệng — xem bài đồng hành về [rối loạn nuốt do thuốc](roi-loan-nuot-do-thuoc-huong-dan-vietnam.md).
+- Rà soát toàn bộ danh sách thuốc với bác sĩ thần kinh: thuốc an thần và kháng cholinergic (thường kê cho triệu chứng bàng quang và chảy nước bọt của MSA) có thể làm nuốt nặng hơn và gây khô miệng — xem bài đồng hành về [rối loạn nuốt do thuốc](/vi/clinical/roi-loan-nuot-do-thuoc-huong-dan-vietnam/).
 
 ## Cuộc trò chuyện về nuôi ăn qua ống
 
@@ -190,4 +190,4 @@ Bài viết này diễn giải các hướng dẫn lâm sàng và nghiên cứu 
 
 ---
 
-**Cập nhật lần cuối:** 2026-10-09 · **Giấy phép:** [CC BY 4.0](../../LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — một doanh nghiệp xã hội Hồng Kông sản xuất thực phẩm chăm sóc đạt chuẩn IDDSI cho người sống chung với rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [About](/about) để biết đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.
+**Cập nhật lần cuối:** 2026-10-09 · **Giấy phép:** [CC BY 4.0](/LICENSE) · **Duy trì bởi [SeniorDeli (Carewells)](https://www.seniordeli.com)** — một doanh nghiệp xã hội Hồng Kông sản xuất thực phẩm chăm sóc đạt chuẩn IDDSI cho người sống chung với rối loạn nuốt. Trang này chỉ mang tính giáo dục; xem [About](/about) để biết đối tác lâm sàng và sứ mệnh xã hội của chúng tôi.

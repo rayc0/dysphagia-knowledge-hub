@@ -142,7 +142,7 @@ canonical: "https://softmeal.org/zh-hant/clinical/dementia-feeding-strategies-ta
 
 **台北市失智症服務網特別提醒**：對於液體嗆咳的長輩，可以使用**市售食用增稠劑（含黃原膠或玉米澱粉類）**調整飲品濃度，或用果凍、布丁等本身就帶凝固形態的食物取代。
 
-（欲深入了解 IDDSI 各級的測試方法與台灣用語對照，可參考本站〈[IDDSI 國際吞嚥障礙飲食標準——八級完整介紹（台灣用語）](../iddsi/iddsi-framework-complete-guide-taiwan.md)〉）
+（欲深入了解 IDDSI 各級的測試方法與台灣用語對照，可參考本站〈[IDDSI 國際吞嚥障礙飲食標準——八級完整介紹（台灣用語）](/zh-hant/iddsi/iddsi-framework-complete-guide-taiwan/)〉）
 
 ---
 
@@ -251,4 +251,4 @@ canonical: "https://softmeal.org/zh-hant/clinical/dementia-feeding-strategies-ta
 
 ---
 
-**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — 一家致力於生產 IDDSI 合規照護食的香港社會企業，為吞嚥障礙長者提供安全美味的飲食選擇。本頁面僅供教育用途，臨床決策請諮詢專業醫療團隊。合作洽詢：hello@seniordeli.com
+**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — 一家致力於生產 IDDSI 合規照護食的香港社會企業，為吞嚥障礙長者提供安全美味的飲食選擇。本頁面僅供教育用途，臨床決策請諮詢專業醫療團隊。合作洽詢：hello@seniordeli.com

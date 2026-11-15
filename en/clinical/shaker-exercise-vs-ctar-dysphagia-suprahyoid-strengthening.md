@@ -100,8 +100,8 @@ CTAR and Shaker do **not** work in isolation. Best practice in 2026 is to layer 
 - **Effortful swallow** every meal — a free, unequipped exercise that increases tongue base retraction.
 - **Mendelsohn maneuver** for patients who can volitionally hold laryngeal elevation, which directly trains UES opening duration.
 - **Tongue-strengthening** with the Iowa Oral Performance Instrument (IOPI) or tongue depressor isometrics — addresses the oral-stage component that CTAR/Shaker do not.
-- **Expiratory Muscle Strength Training (EMST)** — addresses cough strength and submental contribution from a respiratory angle. See our companion guide on [EMST for dysphagia](./expiratory-muscle-strength-training-emst-dysphagia).
-- **NMES (VitalStim)** in selected cases — when used, it should *supplement* active exercise, not replace it. See our [NMES evidence review](./neuromuscular-electrical-stimulation-nmes-vitalstim-dysphagia).
+- **Expiratory Muscle Strength Training (EMST)** — addresses cough strength and submental contribution from a respiratory angle. See our companion guide on [EMST for dysphagia](/en/clinical/expiratory-muscle-strength-training-emst-dysphagia/).
+- **NMES (VitalStim)** in selected cases — when used, it should *supplement* active exercise, not replace it. See our [NMES evidence review](/en/clinical/neuromuscular-electrical-stimulation-nmes-vitalstim-dysphagia/).
 
 Suprahyoid strengthening is the structural foundation; the other components address timing, coordination, and airway protection.
 

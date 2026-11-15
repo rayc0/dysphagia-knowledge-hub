@@ -125,7 +125,7 @@ IDDSI deliberately designed all the tests to use **kitchen equipment**, not labo
 3. **Fork Pressure Test** (Levels 4–6 foods): press food with the side (the back) of a fork — does it squash, hold its shape, or resist?
 4. **Spoon Tilt Test** (Level 4 foods): scoop a heaped spoon, tilt sideways — should slide off in one dollop, not run, not stick.
 
-For full step-by-step instructions on each test, including photos of pass/fail examples, see [How to Test Food Texture for Dysphagia](../testing/food-texture-testing-methods.md).
+For full step-by-step instructions on each test, including photos of pass/fail examples, see [How to Test Food Texture for Dysphagia](/en/testing/food-texture-testing-methods/).
 
 ---
 
@@ -148,7 +148,7 @@ For full step-by-step instructions on each test, including photos of pass/fail e
 | UK "Texture C / Thick Purée" (pre-2018) | Level 4 |
 | UK "Texture E / Fork Mashable" | Level 5 |
 | Japan JSDR / 嚥下調整食 Code 0–4 | Roughly maps to Levels 0–4 (drinks) and Levels 3–6 (foods); Code 4 ≈ Level 5 |
-| Hong Kong 護食 (Editorial Team / 軟餐) | Aligned to IDDSI Levels 4–7; see [Hong Kong 護食標準 guide](../hk-standards/hong-kong-care-food-standards.md) |
+| Hong Kong 護食 (Editorial Team / 軟餐) | Aligned to IDDSI Levels 4–7; see [Hong Kong 護食標準 guide](/en/hk-standards/hong-kong-care-food-standards/) |
 
 These mappings are approximate. Always verify against the IDDSI test, not the label.
 
@@ -176,7 +176,7 @@ This article paraphrases and summarises the IDDSI framework. For clinical practi
 
 ---
 
-**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists. Need IDDSI-aligned ready meals delivered in Hong Kong? [See our Editorial Team range →](https://www.seniordeli.com)
+**Last updated:** 2026-04-11 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — Hong Kong's dysphagia food specialists. Need IDDSI-aligned ready meals delivered in Hong Kong? [See our Editorial Team range →](https://www.seniordeli.com)
 
 ---
 

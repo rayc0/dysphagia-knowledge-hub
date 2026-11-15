@@ -63,7 +63,7 @@ Oropharyngeal dysphagia is a **transfer disorder** — the failure to move a foo
 - Zenker's diverticulum, cricopharyngeal dysfunction
 - Post-intubation or post-surgical pharyngeal injury
 
-See our separate guides on [stroke and dysphagia](/en/clinical/stroke-and-dysphagia-recovery.html), [Parkinson's](/en/clinical/dysphagia-in-parkinsons.html), and [presbyphagia vs pathological dysphagia](/en/clinical/presbyphagia-vs-pathological-dysphagia.html) for disease-specific detail.
+See our separate guides on [stroke and dysphagia](/en/clinical/stroke-and-dysphagia-recovery/), [Parkinson's](/en/clinical/dysphagia-in-parkinsons/), and [presbyphagia vs pathological dysphagia](/en/clinical/presbyphagia-vs-pathological-dysphagia/) for disease-specific detail.
 
 ---
 
@@ -135,7 +135,7 @@ Here is the simplified triage logic used in most clinical guidelines [UEG/ESNM 2
 | **Ambulatory pH / impedance** | Acid and non-acid reflux exposure | Suspected reflux-driven dysphagia |
 | **Clinical swallow screens (EAT-10, GUSS, V-VST, 3-oz water test)** | Screening for aspiration risk | Oropharyngeal — screening only, never diagnosis |
 
-See our guide on [dysphagia testing methods](/en/clinical/dysphagia-testing-clinical-assessment-methods.html) for how each instrumental study is performed.
+See our guide on [dysphagia testing methods](/en/clinical/dysphagia-testing-clinical-assessment-methods/) for how each instrumental study is performed.
 
 ---
 
@@ -220,4 +220,4 @@ This article paraphrases publicly-available clinical guidelines and peer-reviewe
 
 ---
 
-**Last updated:** 2026-04-18 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade enquiries: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-18 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. Trade enquiries: hello@seniordeli.com. This page is educational only; see [About](/about) for our clinical partners and social mission.

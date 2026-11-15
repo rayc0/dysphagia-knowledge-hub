@@ -84,7 +84,7 @@ Active exercises targeting the swallow apparatus:
 - **Effortful swallow**, **Masako manoeuvre**, **Mendelsohn manoeuvre** — technique-based therapy
 - **Texture-modified diets** per IDDSI framework during recovery, with stepwise upgrading as the swallow improves
 
-Taiwan's NTUH trials have reported measurable tongue-pressure gains after four weeks of 10-minute daily CTAR/Shaker programmes in sarcopenic older adults. (See our [swallowing therapy exercises](./swallowing-therapy-exercises.md) and [tongue strengthening exercises](./tongue-strengthening-exercises.md) guides for protocols.)
+Taiwan's NTUH trials have reported measurable tongue-pressure gains after four weeks of 10-minute daily CTAR/Shaker programmes in sarcopenic older adults. (See our [swallowing therapy exercises](/en/clinical/swallowing-therapy-exercises/) and [tongue strengthening exercises](/en/clinical/tongue-strengthening-exercises/) guides for protocols.)
 
 ### 2. Aggressive ("offensive") nutrition
 
@@ -107,7 +107,7 @@ Oral-cavity health is the third leg of the triad. Biofilm, caries, untreated den
 - Saliva stimulation / xerostomia management
 - Dentistry referral for decayed or loose teeth before nutrition rebuilding can take effect
 
-See our guides on [oral care for dysphagia patients](../caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention.md) and [xerostomia and dysphagia](./xerostomia-and-dysphagia.md) for operational detail.
+See our guides on [oral care for dysphagia patients](/en/caregiving/oral-care-dysphagia-aspiration-pneumonia-prevention/) and [xerostomia and dysphagia](/en/clinical/xerostomia-and-dysphagia/) for operational detail.
 
 ## Prognosis and outcomes
 
@@ -125,11 +125,11 @@ Predictors of worse prognosis mirror the general sarcopenia literature: very low
 
 Clinicians should rule out, not merge with, these categories:
 
-- **Presbyphagia** — normal, physiological age-related swallowing changes with **no functional compromise**. See our [presbyphagia vs pathological dysphagia](./presbyphagia-vs-pathological-dysphagia.md) guide.
-- **Stroke-related dysphagia** — acute onset, focal neurological signs; see [stroke and dysphagia recovery](./stroke-and-dysphagia-recovery.md).
+- **Presbyphagia** — normal, physiological age-related swallowing changes with **no functional compromise**. See our [presbyphagia vs pathological dysphagia](/en/clinical/presbyphagia-vs-pathological-dysphagia/) guide.
+- **Stroke-related dysphagia** — acute onset, focal neurological signs; see [stroke and dysphagia recovery](/en/clinical/stroke-and-dysphagia-recovery/).
 - **Parkinson's-related dysphagia** — extrapyramidal features, response to L-dopa trial.
-- **Head and neck cancer dysphagia** — radiation fibrosis, surgical defect; see [head and neck cancer dysphagia rehabilitation](./head-and-neck-cancer-dysphagia-rehabilitation.md).
-- **ALS / MND** — progressive bulbar signs; see [ALS and dysphagia clinical management](./als-and-dysphagia-clinical-management.md).
+- **Head and neck cancer dysphagia** — radiation fibrosis, surgical defect; see [head and neck cancer dysphagia rehabilitation](/en/clinical/head-and-neck-cancer-dysphagia-rehabilitation/).
+- **ALS / MND** — progressive bulbar signs; see [ALS and dysphagia clinical management](/en/clinical/als-and-dysphagia-clinical-management/).
 
 Two or more of these can coexist with sarcopenic dysphagia. A post-stroke patient who is also underweight and bedbound for six weeks has **both** stroke dysphagia **and** sarcopenic dysphagia, and benefits from the triad alongside stroke-specific rehab.
 
@@ -170,4 +170,4 @@ This article paraphrases publicly-available research and position papers on sarc
 
 ---
 
-**Last updated:** 2026-04-18 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.
+**Last updated:** 2026-04-18 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — a Hong Kong social enterprise producing IDDSI-compliant care food for people living with dysphagia. This page is educational only; see [About](/about) for our clinical partners and social mission.

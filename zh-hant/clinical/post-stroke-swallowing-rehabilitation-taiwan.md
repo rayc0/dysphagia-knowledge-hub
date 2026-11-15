@@ -160,4 +160,4 @@ canonical: "https://softmeal.org/zh-hant/clinical/post-stroke-swallowing-rehabil
 
 ---
 
-**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](../../LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — 香港社會企業，專注生產符合 IDDSI 標準的吞嚥障礙照護食品。本頁僅供教育用途；商業或機構合作請見 [About](/about)。
+**Last updated:** 2026-04-14 · **License:** [CC BY 4.0](/LICENSE) · **Maintained by [Editorial Team](https://www.seniordeli.com)** — 香港社會企業，專注生產符合 IDDSI 標準的吞嚥障礙照護食品。本頁僅供教育用途；商業或機構合作請見 [About](/about)。

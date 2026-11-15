@@ -60,7 +60,7 @@ Care home managers and nursing staff must not independently assign IDDSI texture
 
 ### 2.2 Bedside screening tools
 
-The most practical screening tool for care home nursing staff is the **EAT-10** (see [EAT-10 Screening Guide](./eat10-screening-guide.md)). A score of 3 or above triggers SLP referral.
+The most practical screening tool for care home nursing staff is the **EAT-10** (see [EAT-10 Screening Guide](/en/clinical/eat10-screening-guide/)). A score of 3 or above triggers SLP referral.
 
 For new admissions, a structured three-stage bedside water swallow test — such as the **Sydney Swallowing Questionnaire** or a facility-adapted protocol — is recommended within 48 hours of admission for residents with neurological conditions, recent hospitalisation for pneumonia, weight loss >5% in 3 months, or known stroke history.
 
@@ -161,7 +161,7 @@ Every portion served to a resident with a texture prescription must be labelled 
 ### 4.4 Equipment investment
 
 A basic IDDSI kitchen implementation requires:
-- **Blender** (commercial grade, minimum 1 HP motor — see [Blender Comparison Guide](../equipment/blenders-for-texture-modification.md))
+- **Blender** (commercial grade, minimum 1 HP motor — see [Blender Comparison Guide](/en/equipment/blenders-for-texture-modification/))
 - **10 mL catheter-tip syringes** (box of 100, ~HK$80, reusable for testing)
 - **Food mould set** — for Level 4 pureed food that is moulded to look recognisable (e.g., fish-shaped puree)
 - **Kitchen scale** (0.1 g precision, for thickener portioning)
@@ -187,7 +187,7 @@ Foods prepared to IDDSI Level 5 (minced) may degrade to Level 4 (puree) after 30
 
 Starch-based thickeners thin out significantly at temperatures above 60°C. Hot soups thickened with starch may be under-level when tested hot and over-level when cooled.
 
-**Fix:** Switch to xanthan gum-based thickeners for hot fluids, or test all hot drinks at serving temperature. See [Thickener Comparison Guide](../equipment/thickener-comparison-guide.md).
+**Fix:** Switch to xanthan gum-based thickeners for hot fluids, or test all hot drinks at serving temperature. See [Thickener Comparison Guide](/en/equipment/thickener-comparison-guide/).
 
 ### 5.4 One-size-fits-all prescription
 
@@ -199,7 +199,7 @@ Prescribing the same IDDSI level to every resident with a dysphagia diagnosis ig
 
 Whole tablets or capsules are regularly given to residents prescribed thickened fluids or texture-modified food, with no adaptation. This is a separate and serious aspiration risk.
 
-**Fix:** Involve the pharmacist in IDDSI implementation. Create a medication modification chart specifying which medications can be crushed, dispersed in thickened fluids, or require liquid alternatives. See [Medication Administration in Dysphagia](../caregiving/medication-administration-in-dysphagia-guide.md).
+**Fix:** Involve the pharmacist in IDDSI implementation. Create a medication modification chart specifying which medications can be crushed, dispersed in thickened fluids, or require liquid alternatives. See [Medication Administration in Dysphagia](/en/caregiving/medication-administration-in-dysphagia-guide/).
 
 ---
 

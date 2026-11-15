@@ -288,4 +288,4 @@ Untuk rujukan rumah sakit atau konsultasi SLP di Indonesia, hubungi:
 
 ---
 
-**Terakhir diperbarui:** 2026-04-23 · **Lisensi:** [CC BY 4.0](../../LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah social enterprise Hong Kong yang memproduksi makanan perawatan berstandar IDDSI untuk penderita disfagia. Halaman ini bersifat edukatif; lihat [Tentang Kami](/about) untuk mitra klinis dan misi sosial kami. Pertanyaan pengadaan: hello@seniordeli.com
+**Terakhir diperbarui:** 2026-04-23 · **Lisensi:** [CC BY 4.0](/LICENSE) · **Dikelola oleh [SeniorDeli (Carewells)](https://www.seniordeli.com)** — sebuah social enterprise Hong Kong yang memproduksi makanan perawatan berstandar IDDSI untuk penderita disfagia. Halaman ini bersifat edukatif; lihat [Tentang Kami](/about) untuk mitra klinis dan misi sosial kami. Pertanyaan pengadaan: hello@seniordeli.com
